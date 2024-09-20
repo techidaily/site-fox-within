@@ -1,7 +1,7 @@
 ---
 title: "1. Master the Game with Aliez: Expert Guide on Live-Streaming Strategies & Techniques"
-date: 2024-09-19 18:57:37
-updated: 2024-09-20 12:49:28
+date: 2024-09-14T21:34:17.426Z
+updated: 2024-09-19T17:50:13.916Z
 tags:
   - product
 categories:
@@ -70,6 +70,13 @@ Action Tutorials
 
 ![Mirillis Action! - Aliez broadcast details](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_aliez_details.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Copy FMS/RTMP URL to Action! **Server/URL** field and Stream/Stream name to   
  Action! **Streamkey** field.
 
@@ -79,15 +86,36 @@ Action Tutorials
 
 ![Mirillis Action! - Streaming settings](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_video_settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Recommended video size for live streaming to Aliez is **480p**.
 
  Please remember that you must adjust your settings to your internet connection upload speed. If you experience any performance problems please reduce video size and/or framerate/bitrate and try again. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set Games and Application recording mode
 
  Switch Action! recording mode to "Games and Applications". 
 
 ![Mirillis Action! - Games&Applications recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_games_applications_recording_mode.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start LIVE Streaming to Aliez with Action!
 
@@ -110,8 +138,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

@@ -1,7 +1,7 @@
 ---
 title: Extract High Definition Audio and Video From YouTube Watch History for PCs and Macs in MP4 or MP3 Format
-date: 2024-09-18 18:36:25
-updated: 2024-09-20 12:53:58
+date: 2024-09-15T17:58:57.745Z
+updated: 2024-09-19T17:53:12.482Z
 tags:
   - product
 categories:
@@ -35,13 +35,46 @@ Free download the professional YouTube Watch History Downloader - Allavsoft ([fo
 
 [![](https://www.allavsoft.com/how-to/../images/how-to/free-download-win.jpg)](https://tools.techidaily.com/allavsoft/products/) [![](https://www.allavsoft.com/how-to/../images/how-to/free-download-mac.jpg)](https://tools.techidaily.com/allavsoft/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![YouTube Watch History Downloader](https://www.allavsoft.com/how-to/../images/allavsoft/screen-shot-600.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1 Import YouTube watch history URL
 
 Go to YouTube website and log in to your watch history. And copy and paste your watch history URL to Allavsoft URL box. And then choose whether the first video or all the videos that you want to download in the pop up window. And if you want to download some videos in your watch history first choose to download all videos in the watch history and then uncheck the ones that you do not want to download.
 
 ![How to Download YouTube Watch History Videos to MP4?](https://www.allavsoft.com/how-to/../images/how-to/download-rtmp-video/download-rtmp-video.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2 Set final output format (Optional)
 
@@ -60,8 +93,6 @@ YouTube is calculated as the most searched and liked video website and of course
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: How to Upload Your Screen Captures on YouTube"
-date: 2024-09-19 10:45:52
-updated: 2024-09-20 12:49:30
+date: 2024-09-12T16:31:25.980Z
+updated: 2024-09-19T22:25:50.899Z
 tags:
   - product
 categories:
@@ -57,11 +57,31 @@ Action Tutorials
 
 ![Mirillis Action! - exporting video recordings to YouTube - export button](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_screen_recording_button.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Select output profile
 
  In Export window **"YouTube"** output profile should be automatically selected. If you export video recording in AVI file format you can adjust exporting settings. Exporting settings are not available for MP4 file format recordings which Action! directly uploads to YouTube without converting.
 
 ![Mirillis Action! - exporting video recordings to YouTube - select profile](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_selecting_youtube_hd_profile.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Login to your YouTube account. 
 
@@ -69,11 +89,25 @@ Action Tutorials
 
 ![](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_login_with_google.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Accounts Manager
 
  Use Accounts Manager to login to your YouTube/Google account, then select your YouTube account/channel (if you have multiple YouTube accounts) and accept Action! to access your YouTube account. 
 
 ![Mirillis Action! - Accounts Manager](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_account_manager_youtube.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Uploading to YouTube settings
 
@@ -93,6 +127,13 @@ Action Tutorials
 
 ![Mirillis Action! - exporting video recordings to YouTube - uploading](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_youtube_uploading.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Upload completed
 
  When upload is completed you can easily check your video recording online by clicking **"Open in browser"** button. Please note that your video recordings may not be available instantly after the upload. YouTube requires some time to process uploaded videos, but usually it is done very fast. 
@@ -104,8 +145,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
