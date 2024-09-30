@@ -1,7 +1,7 @@
 ---
 title: PRO Version Horizon AI Boilerplate with NextJS & Figma Integration – Advanced Payment Setups with Stripe and Supabase, Complete OAuth Support by Creative Tim
-date: 2024-09-20T19:07:54.224Z
-updated: 2024-09-25T22:23:58.803Z
+date: 2024-09-26T16:00:51.759Z
+updated: 2024-09-30T04:40:47.110Z
 tags:
   - product
 categories:
@@ -20,19 +20,25 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,22 +60,20 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-accessing-your-curated-music-lists-on-youtube/"><u>[New] In 2024, Accessing Your Curated Music Lists on Youtube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-8-must-have-methods-for-crafting-memorable-gifs/"><u>[Updated] 8 Must-Have Methods for Crafting Memorable GIFs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies/"><u>[Updated] In 2024, How To Make Your Videos a YouTube Hit Top Tips and Strategies</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-free-iversity-learning-materials-procure-mooc-and-expert-video-lectures/"><u>1. Free Iversity Learning Materials: Procure MOOC and Expert Video Lectures</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlock-insightful-revelations-instagram-snapshot-audiences/"><u>2024 Approved Unlock Insightful Revelations Instagram Snapshot Audiences</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/dive-deep-into-video-a-compreenas-guide-to-sharing-pictures-online/"><u>Dive Deep Into Video A Compreenas Guide to Sharing Pictures Online</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-x-fold-2-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo X Fold 2 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/iphone-13-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone 13 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/smooth-responsive-windows-11-update/"><u>Smooth, Responsive Windows 11 Update</u></a></li>
-<li><a href="https://fox-within.techidaily.com/speedy-turn-pages-enhance-your-book-navigation-using-flipbuilder-tools/"><u>Speedy Turn Pages: Enhance Your Book Navigation Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-to-displaying-custom-flipbook-creations-on-your-facebook-page-using-flipbuilder/"><u>Step-by-Step Guide to Displaying Custom FlipBook Creations on Your Facebook Page Using FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-switching-up-flipbook-templates-with-ease/"><u>Step-by-Step Guide: Switching Up FlipBook Templates with Ease</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-on-adjusting-brightness-for-any-image-using-flipbuilder-tools/"><u>Step-by-Step Tutorial on Adjusting Brightness for Any Image Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-within.techidaily.com/transform-your-written-content-with-zero-cost-the-top-free-ebook-creator-for-instant-text-to-pdf-conversion/"><u>Transform Your Written Content with Zero Cost - The Top Free eBook Creator for Instant Text-to-PDF Conversion!</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Nubia Red Magic 8S Pro+.</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-image-upload-prerequisites-on-flipbuilder-a-comprehensive-guide/"><u>Understanding Image Upload Prerequisites on FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/unveiling-content-versatility-what-range-of-output-formats-can-you-choose-from-on-flipbuildercom/"><u>Unveiling Content Versatility: What Range of Output Formats Can You Choose From on FlipBuilder.com?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos/"><u>[Updated] From Ideas to Action How to Transform Photos Into Engaging Mobile Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-recorder-applications-for-educators/"><u>[Updated] In 2024, Essential Recorder Applications for Educators</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-overview-of-final-cut-pro-techniques-for-2024/"><u>Comprehensive Overview of Final Cut Pro Techniques for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/creative-tims-reactive-ui-suite-with-bootstrap-4-and-react-get-the-free-paper-kit-bundle-now/"><u>Creative Tim's Reactive UI Suite with Bootstrap 4 and React - Get the Free Paper Kit Bundle Now</u></a></li>
+<li><a href="https://fox-within.techidaily.com/enhance-laravel-projects-at-no-cost-get-the-nowui-framework-and-templates-from-creativetim/"><u>Enhance Laravel Projects at No Cost: Get the NowUI Framework and Templates From @CreativeTim</u></a></li>
+<li><a href="https://fox-within.techidaily.com/explore-extensive-vuetifyjs-theme-selections-by-creative-tim-more-than-just-3-gorgeous-examples/"><u>Explore Extensive Vuetify.js Theme Selections by Creative Tim - More than Just 3 Gorgeous Examples!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/free-access-to-nucleus-design-suite-tailwind-css-with-angular-for-frontend-development-created-by-creative-tim-studio/"><u>Free Access to Nucleus Design Suite: Tailwind CSS with Angular for Frontend Development - Created by Creative Tim Studio</u></a></li>
+<li><a href="https://fox-within.techidaily.com/free-react-paper-design-toolkit-powered-by-bootstrap-and-reactstrap-from-creative-tim/"><u>Free React Paper Design Toolkit Powered by Bootstrap & Reactstrap From Creative Tim</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-poco-f5-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Poco F5 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/material-ui-react-dashboard-template-downloadable-and-free-version-from-creative-tim/"><u>Material-UI React Dashboard Template - Downloadable & Free Version From Creative Tim</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/pause-in-windows-11s-memory-restoration-capability-understanding-the-delay/"><u>Pause in Windows 11'S Memory Restoration Capability: Understanding the Delay</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/professional-portrait-maker-for-passports-desktop-and-online-access-only-for-2024/"><u>Professional Portrait Maker for Passports – Desktop & Online Access Only for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722958748339-quick-download-microsoft-wireless-mouse-5000-compatible-drivers-get-set-up-fast/"><u>Quick Download: Microsoft Wireless Mouse 5000 Compatible Drivers - Get Set Up Fast</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-top-tier-svelte-templates-from-creative-tim/"><u>Ultimate Guide to Top-Tier Svelte Templates From Creative Tim</u></a></li>
 </ul></div>
 

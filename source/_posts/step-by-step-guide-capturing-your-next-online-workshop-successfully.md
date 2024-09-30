@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing Your Next Online Workshop Successfully"
-date: 2024-09-20T22:30:33.808Z
-updated: 2024-09-25T18:15:42.478Z
+date: 2024-09-24T21:09:52.588Z
+updated: 2024-09-29T23:27:03.605Z
 tags:
   - product
 categories:
@@ -47,10 +47,10 @@ Action Tutorials
  Share this tutorial:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Recording/capturing webinars to your PC 
@@ -60,10 +60,10 @@ Action Tutorials
 ![Mirillis Action! - Select Active desktop region recording mode](https://mirillis.com/res/old/gfx/tutorials/howto/dv2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To record a webinar open your favourite webinar. Launch Action! Application and select the active desktop region recording tool. Place the Action! active desktop region above the webinar area that you want to record.
@@ -71,10 +71,10 @@ Action Tutorials
 ![Mirillis Action! - Select video area to record](https://mirillis.com/res/old/gfx/tutorials/howto/webinar.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you are ready, start webinar and start the video recording using red button or F9 hotkey. When your webinar is completed, press the stop recording button or F9 hotkey again.
@@ -96,19 +96,24 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-thumbnails-fantasy-elements-added/"><u>[New] 2024 Approved Elevate Thumbnails Fantasy Elements Added</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-everything-about-facebook/"><u>[New] 2024 Approved Everything About Facebook</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-innovative-puzzles-await-in-leading-room-escape-experiences/"><u>[Updated] Innovative Puzzles Await in Leading Room Escape Experiences</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-guide-how-to-catch-every-thrilling-moment-in-cricket/"><u>[Updated] Step-by-Step Guide How to Catch Every Thrilling Moment in Cricket</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-a2-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Redmi A2</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-vue-material-pro-dashboard-for-experts-crafted-by-creative-tim/"><u>Advanced Vue Material Pro Dashboard for Experts - Crafted by Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-horizon-ai-integrating-nextjs-and-figma-for-innovative-uiux/"><u>Creative Tim's Horizon AI: Integrating NextJS and Figma for Innovative UI/UX</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-premium-horizon-ai-pro-enhanced-developer-experience-using-nextjs-and-figma-featuring-secure-stripe-and-supabase-integration-plus-comprehensiv1/"><u>Creative Tim's Premium Horizon AI PRO: Enhanced Developer Experience Using NextJS & Figma - Featuring Secure Stripe and Supabase Integration + Comprehensive OAuth Boilerplate</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-reactive-ui-suite-with-bootstrap-4-and-react-get-the-free-paper-kit-bundle-now/"><u>Creative Tim's Reactive UI Suite with Bootstrap 4 and React - Get the Free Paper Kit Bundle Now</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enhance-laravel-projects-at-no-cost-get-the-nowui-framework-and-templates-from-creativetim/"><u>Enhance Laravel Projects at No Cost: Get the NowUI Framework and Templates From @CreativeTim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/explore-extensive-vuetifyjs-theme-selections-by-creative-tim-more-than-just-3-gorgeous-examples/"><u>Explore Extensive Vuetify.js Theme Selections by Creative Tim - More than Just 3 Gorgeous Examples!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-imagination-vrs-present-future-prospects/"><u>In 2024, Beyond Imagination VR's Present, Future Prospects</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-se-2022-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone SE (2022) in the Best Ways</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-methods-for-ietestdll-file-issues/"><u>Troubleshooting Methods for ietest.dll File Issues</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-excellent-10-tech-choices-for-livestream-monitoring/"><u>[New] In 2024, Excellent 10 Tech Choices for Livestream Monitoring</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-secret-story-spotters-top-5-app-recommendations/"><u>[New] Secret Story Spotters Top 5 App Recommendations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-ultimate-toolkit-for-elevating-your-podcast-through-seo/"><u>[New] The Ultimate Toolkit for Elevating Your Podcast Through SEO</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-reels-borrow-tips-and-tricks-from-tiktok-to-go-viral/"><u>[Updated] 2024 Approved Instagram Reels Borrow Tips & Tricks From TikTok to Go Viral</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-imaging-from-basic-to-cutting-edge-hdr-techniques/"><u>Digital Imaging From Basic to Cutting-Edge HDR Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-find-n3-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo Find N3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-do-i-fix-corrupted-mp4-video-files-from-android/"><u>How Do I Fix Corrupted MP4 Video Files From Android</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/polarrs-full-spectrum-tools-your-go-to-guide-to-editing-excellence/"><u>Polarr's Full Spectrum Tools - Your Go-To Guide to Editing Excellence</u></a></li>
+<li><a href="https://fox-within.techidaily.com/running-flipbuilder-software-offline-via-external-hard-drive-or-pen-drive-for-easy-accessibility/"><u>Running FlipBuilder Software Offline via External Hard Drive or Pen Drive for Easy Accessibility</u></a></li>
+<li><a href="https://fox-within.techidaily.com/set-your-favorite-websites-as-the-first-page-on-launch-with-flipbuilder/"><u>Set Your Favorite Websites as the First Page on Launch with FlipBuilder</u></a></li>
+<li><a href="https://fox-within.techidaily.com/simple-page-turning-enjoy-digital-reading-anywhere-with-flipbook-creator-by-flipbuilder/"><u>Simple Page Turning: Enjoy Digital Reading Anywhere with FlipBook Creator by FlipBuilder</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-and-hassle-free-downloads-getting-your-elgato-drivers-installed-now/"><u>Speedy and Hassle-Free Downloads: Getting Your Elgato Drivers Installed Now!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/speedy-turn-pages-enhance-your-book-navigation-using-flipbuilder-tools/"><u>Speedy Turn Pages: Enhance Your Book Navigation Using FlipBuilder Tools</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-to-displaying-custom-flipbook-creations-on-your-facebook-page-using-flipbuilder/"><u>Step-by-Step Guide to Displaying Custom FlipBook Creations on Your Facebook Page Using FlipBuilder</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-switching-up-flipbook-templates-with-ease/"><u>Step-by-Step Guide: Switching Up FlipBook Templates with Ease</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-on-adjusting-brightness-for-any-image-using-flipbuilder-tools/"><u>Step-by-Step Tutorial on Adjusting Brightness for Any Image Using FlipBuilder Tools</u></a></li>
+<li><a href="https://fox-within.techidaily.com/transform-your-written-content-with-zero-cost-the-top-free-ebook-creator-for-instant-text-to-pdf-conversion/"><u>Transform Your Written Content with Zero Cost - The Top Free eBook Creator for Instant Text-to-PDF Conversion!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-image-upload-prerequisites-on-flipbuilder-a-comprehensive-guide/"><u>Understanding Image Upload Prerequisites on FlipBuilder: A Comprehensive Guide</u></a></li>
 </ul></div>
 
