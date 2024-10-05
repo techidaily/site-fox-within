@@ -1,7 +1,7 @@
 ---
 title: Custom Actions with Property Files in SharePoint - Best Practices
-date: 2024-09-29T06:15:34.992Z
-updated: 2024-09-29T21:55:34.936Z
+date: 2024-10-02T19:35:36.095Z
+updated: 2024-10-05T18:33:53.169Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IScriptFileFromPropertyCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,16 +137,10 @@ Table of Contents
 IScriptFileFromPropertyCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -154,10 +148,10 @@ IScriptFileFromPropertyCustomAction: ICustomAction
 This interface facilitates editing custom action that allows the launching script file into execution using a property to specify the script file path.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -171,10 +165,10 @@ This interface facilitates editing custom action that allows the launching scrip
 **String ActionData** \- .Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -216,24 +210,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-a-step-by-step-guide-to-the-top-20-strategies-for-successful-fb-videos/"><u>[New] 2024 Approved A Step-by-Step Guide to the Top 20 Strategies for Successful FB Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-easy-sound-transformation-ios-tools-to-convert-youtube-songs-to-mp3-files-for-2024/"><u>[Updated] Easy Sound Transformation IOS Tools to Convert YouTube Songs to MP3 Files for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/best-techniques-for-downloading-myvideo-content-from-pc-or-mac/"><u>Best Techniques for Downloading MyVideo Content From PC or Mac</u></a></li>
-<li><a href="https://fox-within.techidaily.com/convert-and-download-your-favorite-tracks-from-yandex-music-as-high-quality-audio-files-on-pc-or-mac/"><u>Convert and Download Your Favorite Tracks From Yandex Music as High-Quality Audio Files on PC or MAC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/deciphering-the-auto-cut-functionality-in-imovie/"><u>Deciphering the Auto-Cut Functionality in iMovie</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/diving-deep-into-samsung-photo-enhancers-guide/"><u>Diving Deep Into Samsung Photo Enhancers Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/download-videos-from-videomega-in-multiple-formats-like-mp4-wmv-avi-and-flv-using-videomega-downloader/"><u>Download Videos From VideoMega in Multiple Formats Like MP4, WMV, AVI & FLV Using VideoMega Downloader</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oneplus-ace-2-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On OnePlus Ace 2 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-vn-video-editor-pro-review-does-it-live-up-to-the-hype/"><u>New VN Video Editor Pro Review Does It Live Up to the Hype?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/stream-and-save-secure-video-downloads-with-the-quickplay-tool-from-playedto/"><u>Stream & Save: Secure Video Downloads with the Quickplay Tool From Played.to</u></a></li>
-<li><a href="https://fox-within.techidaily.com/stream-and-save-on-demand-top-tool-for-tagesschau-content-videocaptures-to-audio-extraction-made-simple/"><u>Stream and Save on Demand: Top Tool for Tagesschau Content – Videocaptures to Audio Extraction Made Simple</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-a-guide-to-latest-hardware/"><u>Tom's Tech Review: A Guide to Latest Hardware</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-7-windows-cryptography-tools-under-156-chars/"><u>Top 7 Windows Cryptography Tools (Under 156 Chars)</u></a></li>
-<li><a href="https://fox-within.techidaily.com/transfer-live365-streams-to-high-quality-audio-formats-like-mp3-wav-and-aac-with-our-handy-downloader/"><u>Transfer Live365 Streams to High-Quality Audio Formats Like MP3, WAV, and AAC with Our Handy Downloader</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-conver2mp3-errors-and-enhancing-functionality/"><u>Troubleshooting Conver2MP3 Errors and Enhancing Functionality</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-premium-free-cinema-securing-your-favorite-movies-for-offline-viewing/"><u>Ultimate Guide to Premium-Free Cinema: Securing Your Favorite Movies for Offline Viewing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-gpt-4-complimentary-access-opened-up-yet-6-compelling-arguments-for-continuing-with-chatgpt-plus/"><u>Unlocking GPT-4: Complimentary Access Opened Up - Yet, 6 Compelling Arguments for Continuing with ChatGPT Plus</u></a></li>
-<li><a href="https://fox-within.techidaily.com/unlocking-learning-potential-seamless-guide-to-download-training-vids-from-video2brain-platform/"><u>Unlocking Learning Potential: Seamless Guide to Download Training Vids From Video2Brain Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-channel-identity-essential-youtube-naming-strategies-for-2024/"><u>[Updated] Elevate Your Channel Identity Essential YouTube Naming Strategies for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-gopro-for-action-compare-max-and-hero-11/"><u>[Updated] The Best GoPro for Action Compare Max and Hero 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-in-class-fitness-tracking-technology-2024s-elite-picks/"><u>Best-in-Class Fitness Tracking Technology: 2024'S Elite Picks</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exclusive-features-unveiled-discover-how-advanced-functions-can-transform-your-world/"><u>Exclusive Features Unveiled: Discover How Advanced Functions Can Transform Your World</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elevate-your-video-editing-skills-with-kinemaster-and-10-leading-alternatives/"><u>In 2024, Elevate Your Video Editing Skills with KineMaster & 10 Leading Alternatives</u></a></li>
+<li><a href="https://fox-within.techidaily.com/malwarefox-insights-expert-tips-and-advice-on-cybersecurity/"><u>MalwareFox Insights: Expert Tips and Advice on Cybersecurity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/nikon-d-500-4k-dslr-camera-review/"><u>Nikon D 500 4K DSLR Camera Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/novices-path-to-professional-gopro-video-editing/"><u>Novice's Path to Professional GoPro Video Editing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/revise-language-conversation-interface-a-comprehensive-guide/"><u>Revise Language Conversation Interface: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-inserting-numbered-pages-into-your-pdf-documents/"><u>Step-by-Step Tutorial: Inserting Numbered Pages Into Your PDF Documents</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/synthesizing-scenery-da-vincis-cutting-edge-imagery-prompts/"><u>Synthesizing Scenery: Da Vinci's Cutting-Edge Imagery Prompts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-source-for-pc-hardware-at-toms-hardware/"><u>The Definitive Source for PC Hardware at Tom's Hardware</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-ranking-artificial-intelligence-tts-software-solutions/"><u>Top-Ranking Artificial Intelligence TTS Software Solutions</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-rated-face-morphing-applications-and-websites-achieve-flawless-altered-selfies/"><u>Top-Rated Face Morphing Applications & Websites: Achieve Flawless Altered Selfies</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-the-essential-criteria-in-the-requirements-tab/"><u>Understanding the Essential Criteria in the Requirements Tab</u></a></li>
 </ul></div>
 

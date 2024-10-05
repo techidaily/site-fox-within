@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Symbol Files Section: A Guide to Debugging and Code Analysis"
-date: 2024-09-26T21:42:18.485Z
-updated: 2024-09-29T22:22:36.382Z
+date: 2024-10-04T16:27:18.671Z
+updated: 2024-10-05T19:43:17.302Z
 tags:
   - user-guide
 categories:
@@ -86,10 +86,10 @@ Table of Contents
 In this tab, you can add your.pdb files (program database files), that store debugging and project state information.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Portable Executable
@@ -97,10 +97,10 @@ In this tab, you can add your.pdb files (program database files), that store deb
 It describes the name of the added files such as DLLs and executables.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Architecture
@@ -108,10 +108,10 @@ It describes the name of the added files such as DLLs and executables.
 It defines the target architecture of the package.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pdb path
@@ -151,18 +151,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-innovative-strategies-for-sport-streams-on-the-fly/"><u>[Updated] Innovative Strategies for Sport Streams on the Fly</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-top-beauty-brands-with-powerful-youtubers/"><u>2024 Approved The Top Beauty Brands with Powerful YouTubers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-tecno-spark-10-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Tecno Spark 10 4G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-oneplus-ace-3-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for OnePlus Ace 3 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/d-shorts-missing-on-youtube-screen-for-2024/"><u>Ceased Shorts Missing on YouTube Screen for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721964614254-experience-ai-like-never-before-dive-into-openais-freshly-launched-gpt-custom-store-today/"><u>Experience AI Like Never Before - Dive Into OpenAI's Freshly Launched GPT Custom Store Today</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-to-horizontal-text-orientation-on-flipbuilder-learn-rightleft-placement-easily/"><u>Guide to Horizontal Text Orientation on FlipBuilder - Learn Right/Left Placement Easily</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-add-a-watermark-to-your-photos-using-the-flipimage-pro-tool-learn-at-flipbuildercom/"><u>How to Add a Watermark to Your Photos Using the FlipImage Pro Tool [Learn at flipbuilder.com]</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-create-various-flipbook-formats-using-flippdf-on-a-mac-a-comprehensive-guide/"><u>How to Create Various Flipbook Formats Using FlipPDF on a Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-share-your-custom-made-flipbooks-on-facebook-using-flipbuilder/"><u>How to Share Your Custom-Made Flipbooks on Facebook Using FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-tailor-help-button-features-on-flipbuildercom/"><u>How to Tailor Help Button Features on FlipBuilder.com</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-profiting-off-reddit-13-ways-here/"><u>In 2024, The Ultimate Guide to Profiting Off Reddit - 13 Ways Here</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/unveiling-the-most-effective-methods-for-your-hp-laptop-recordings/"><u>Unveiling the Most Effective Methods for Your HP Laptop Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-photography-breakthroughs-with-lifelike-motion/"><u>[New] IPhone Photography Breakthroughs with Lifelike Motion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-craft-your-story-leading-drawers-in-ipados/"><u>[Updated] Craft Your Story Leading Drawers in iPadOS</u></a></li>
+<li><a href="https://fox-within.techidaily.com/best-mp3-downloader-tools-for-android-iphone-and-windows-mobile-users/"><u>Best MP3 Downloader Tools for Android, iPhone & Windows Mobile Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compressive-strength-is-vital-for-dental-restorative-materials-to-resist-forces-of-mastication/"><u>Compressive Strength Is Vital for Dental Restorative Materials to Resist Forces of Mastication</u></a></li>
+<li><a href="https://fox-within.techidaily.com/enhance-search-efficiency-with-advanced-prerequisite-configuration-options/"><u>Enhance Search Efficiency with Advanced Prerequisite Configuration Options</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-oneplus-nord-ce-3-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a OnePlus Nord CE 3 5G Easily?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-creative-stories-zoom-techniques-on-snapchat/"><u>In 2024, Unleashing Creative Stories Zoom Techniques on Snapchat</u></a></li>
+<li><a href="https://fox-within.techidaily.com/key-characteristics-and-capabilities-in-language-translation-software/"><u>Key Characteristics and Capabilities in Language Translation Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-making-quick-clips-with-your-computer-and-iphone/"><u>Step-by-Step Guide: Making Quick Clips with Your Computer & iPhone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/transforming-tech-talks-the-ezvide-screen-recording-guide/"><u>Transforming Tech Talks The Ezvide Screen Recording Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-file-deletion-tool-effortless-cleanup-with-iremovefiles/"><u>Ultimate File Deletion Tool: Effortless Cleanup with IRemoveFiles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/what-drives-open-source-talent-unveiling-the-essential-non-monetary-wants-in-their-job-quest-zdnet/"><u>What Drives Open-Source Talent? Unveiling the Essential Non-Monetary Wants in Their Job Quest | ZDNET</u></a></li>
 </ul></div>
 

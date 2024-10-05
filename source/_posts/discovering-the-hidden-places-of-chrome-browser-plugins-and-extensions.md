@@ -1,7 +1,7 @@
 ---
 title: Discovering the Hidden Places of Chrome Browser Plugins and Extensions
-date: 2024-09-23T09:22:35.405Z
-updated: 2024-09-29T21:28:51.901Z
+date: 2024-10-02T20:59:20.175Z
+updated: 2024-10-05T16:23:44.416Z
 tags:
   - product
   - antivirus
@@ -34,22 +34,22 @@ gbchcmhmhahfdphkhkmpfmihenigjmpp
 
 This ID refers to Chrome Remote Desktop extension. To find the ID, click on three vertical dots on Chrome browser located in the top right. Click on **More Tools** to access the **Extensions**.[![Chrome Extension Details](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-Details.png)](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-Details.png)On the Extensions page, click on **Details** button and you should see the ID in the **URL bar**.[![Chrome Extension ID](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-ID.png)](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-ID.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Chrome Extension Storage Folder
 
 The ID of extension should be the name of the folder. It is the characters displayed after **id=** in the URL bar. You can now copy that ID and visit Extensions folder to find the subfolder.[![Chrome Extension Storage Folder](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-Storage-Folder.png)](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-Storage-Folder.png)Inside the folder, you should be able to find the contents extracted by the specific extension. Most common files inside the chrome extension folder are JS, CSS, HTML and JSON. You can open these files in any Text editor like Notepad or maybe [some sophisticated text editors](https://www.windowschimp.com/best-text-editors/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## View Source Code of Chrome Extension
@@ -57,13 +57,20 @@ The ID of extension should be the name of the folder. It is the characters displ
 If you would like to view the source code of an extension before you install it, then there is a great extension that allows you to do so. The [Chrome extension source viewer](https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin) is an extension that allows you to view the source code of any extension that is available from the Chrome Web Store. Once installed, just right click on the extension page and you should see a new context menu called “**View Extension Source**“. Clicking on it will open the contents of the zip (CRX) file.[![Chrome Extension Source-Code](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-Source-Code.jpg)](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-Source-Code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![TotalAv Logo](https://www.malwarefox.com/wp-content/uploads/2024/02/totalav-svg.webp "totalav-svg")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Stay malware-free with reliable antivirus**
 
@@ -78,19 +85,6 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 ✔️ 30 Day Money-Back
 
 [](https://tools.techidaily.com/malwarefox/products/) Get TotalAV > 
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -117,24 +111,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-block-automated-youtube-content-triggers/"><u>[New] 2024 Approved Block Automated YouTube Content Triggers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-boost-interaction-with-crafted-ig-story-queries/"><u>[New] 2024 Approved Boost Interaction with Crafted IG Story Queries</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-most-acclaimed-3ip-voice-recorders-on-tablets/"><u>[New] 2024 Approved Most Acclaimed 3iP Voice Recorders on Tablets</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unpacking-the-sequencing-of-a-20mb-file/"><u>[New] 2024 Approved Unpacking the Sequencing of a 20MB File</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/xplore-8-leading-youtube-growth-strategies/"><u>[New] Explore 8 Leading Youtube Growth Strategies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-becoming-a-billionaire-on-the-blockchain-non-ad-profits-on-youtube/"><u>[Updated] In 2024, Becoming a Billionaire on the Blockchain Non-Ad Profits on YouTube</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-exploring-javascript-integration-is-it-permissible-in-e-book-formats-on-flipbuilder/"><u>1. Exploring JavaScript Integration: Is It Permissible in E-Book Formats on FlipBuilder?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722966637496-broadcom-network-adapter-driver-update-for-windows-11-now-fixed/"><u>Broadcom Network Adapter Driver Update for Windows 11 - Now Fixed</u></a></li>
-<li><a href="https://fox-within.techidaily.com/can-you-embed-videos-using-flipbuilder-on-your-website/"><u>Can You Embed Videos Using FlipBuilder on Your Website?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/explore-extensive-vuetifyjs-theme-selections-by-creative-tim-more-than-just-3-gorgeous-examples/"><u>Explore Extensive Vuetify.js Theme Selections by Creative Tim - More than Just 3 Gorgeous Examples!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/free-access-to-nucleus-design-suite-tailwind-css-with-angular-for-frontend-development-created-by-creative-tim-studio/"><u>Free Access to Nucleus Design Suite: Tailwind CSS with Angular for Frontend Development - Created by Creative Tim Studio</u></a></li>
-<li><a href="https://fox-within.techidaily.com/free-react-paper-design-toolkit-powered-by-bootstrap-and-reactstrap-from-creative-tim/"><u>Free React Paper Design Toolkit Powered by Bootstrap & Reactstrap From Creative Tim</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp/"><u>In 2024, Unleash Social Potential Transitioning From Twitter Videos to WhatsApp</u></a></li>
-<li><a href="https://fox-within.techidaily.com/material-ui-react-dashboard-template-downloadable-and-free-version-from-creative-tim/"><u>Material-UI React Dashboard Template - Downloadable & Free Version From Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/pro-version-horizon-ai-boilerplate-with-nextjs-and-figma-integration-advanced-payment-setups-with-stripe-and-supabase-complete-oauth-support-by-creative-tim13/"><u>PRO Version Horizon AI Boilerplate with NextJS & Figma Integration – Advanced Payment Setups with Stripe and Supabase, Complete OAuth Support by Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-top-tier-svelte-templates-from-creative-tim/"><u>Ultimate Guide to Top-Tier Svelte Templates From Creative Tim</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/when-diluting-or-concentrating-solutions-adjust-amounts-proportionally-to-keep-the-same-concentration/"><u>When Diluting or Concentrating Solutions, Adjust Amounts Proportionally to Keep the Same Concentration.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726222855910-m4am4b/"><u>오독 동영상을 M4A/M4B로 자유성 전환: 웹사이트 가장고의 방법</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-elite-choices-in-total-sweep-cinematography/"><u>[Updated] Elite Choices in Total Sweep Cinematography</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-essential-documentation-understanding-the-prerequisite-files-section/"><u>1. Essential Documentation: Understanding the Prerequisite Files Section</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-secrets-to-profitability-earning-with-youtube-shorts-explored/"><u>2024 Approved Secrets to Profitability Earning with YouTube Shorts Explored</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-ultimate-size-solution-to-boost-your-videos-online-performance/"><u>2024 Approved The Ultimate Size Solution to Boost Your Video's Online Performance</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/1725284078500-winxdvd/"><u>人気WinXDVDを完全マスターするための使い方・テクニック解説!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/advanced-organizing-with-ifolder-mastering-seamless-file-handling-operations/"><u>Advanced Organizing with iFolder: Mastering Seamless File Handling Operations</u></a></li>
+<li><a href="https://fox-within.techidaily.com/essential-steps-setting-up-the-prerequisite-installation-panel/"><u>Essential Steps: Setting Up the Prerequisite Installation Panel</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-v30-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo V30 Pro Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-motorola-edge-40-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Motorola Edge 40 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y28-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y28 5G</u></a></li>
+<li><a href="https://fox-within.techidaily.com/master-the-technique-of-changing-full-color-pdfs-to-grayscale-images/"><u>Master the Technique of Changing Full-Color PDFs to Grayscale Images</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sea-of-thieves-now-runs-smoothly-crashing-problems-addressed/"><u>Sea of Thieves Now Runs Smoothly: Crashing Problems Addressed</u></a></li>
+<li><a href="https://fox-within.techidaily.com/the-essential-top-10-windows-10-applications-every-user-should-install/"><u>The Essential Top 10 Windows 10 Applications Every User Should Install</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-iphones-overcoming-device-recovery-failures-easily/"><u>Troubleshooting iPhones: Overcoming Device Recovery Failures Easily</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Search Efficiency with Advanced Prerequisite Configuration Options
-date: 2024-09-28T08:05:31.977Z
-updated: 2024-09-29T20:56:43.018Z
+date: 2024-10-01T16:28:45.390Z
+updated: 2024-10-05T19:32:18.778Z
 tags:
   - user-guide
 categories:
@@ -86,6 +86,13 @@ Table of Contents
 
 ## Search Type
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Criteria
 
  When searching for the installed prerequisite on the target computer, multiple criteria can be used. You have the following options:
@@ -116,22 +123,15 @@ In case of a file search the [Edit Search String Dialog](https://tools.techidail
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When searching for a file, if no path is specified, the search will be performed on all drives.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Search Depth
 
  Specified how deep to search for a file in the subdirectories of the folder.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Required Versions
 
@@ -143,17 +143,17 @@ In case of a file search the [Edit Search String Dialog](https://tools.techidail
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you are using as a criteria the version from a file or a registry value you can leave both fields blank. In this case Advanced Installer will check only the presence of that file or registry value to check if the prerequisite is already installed. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -196,16 +196,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-exploring-fb-video-aspect-proportions-for-2024/"><u>[New] Exploring FB Video Aspect Proportions for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discovering-the-prime-6-headgear-choices-for-capturing-life-with-gopro/"><u>Discovering the Prime 6 Headgear Choices for Capturing Life with GoPro</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/efficient-methods-for-recording-minecraft-sessions/"><u>Efficient Methods for Recording Minecraft Sessions</u></a></li>
-<li><a href="https://fox-within.techidaily.com/extract-high-definition-audio-and-video-from-youtube-watch-history-for-pcs-and-macs-in-mp4-or-mp3-format/"><u>Extract High Definition Audio and Video From YouTube Watch History for PCs and Macs in MP4 or MP3 Format</u></a></li>
-<li><a href="https://fox-within.techidaily.com/get-premium-quality-youporn-content-for-offline-viewing-convert-and-download-as-mp4-avi-wmv-files-easily/"><u>Get Premium Quality YouPorn Content for Offline Viewing – Convert and Download as MP4, AVI, WMV Files Easily!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/get-premium-raaga-tunes-in-mp3-wav-or-aac-format-with-easy-downloading-options/"><u>Get Premium Raaga Tunes in MP3, WAV or AAC Format with Easy Downloading Options</u></a></li>
-<li><a href="https://fox-within.techidaily.com/get-your-favorite-mls-soccer-media-with-one-click-download-clips-songs-and-more/"><u>Get Your Favorite MLS Soccer Media with One-Click Download: Clips, Songs, and More!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-lava-blaze-2-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Lava Blaze 2 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-7-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 7</u></a></li>
-<li><a href="https://fox-within.techidaily.com/playfm-music-conversion-guide-download-mp3-aac-wav-files-now/"><u>Play.FM Music Conversion Guide - Download MP3, AAC, WAV Files Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-restoring-functionality-in-your-unresponsive-samsung-soundbar/"><u>Troubleshooting Steps: Restoring Functionality in Your Unresponsive Samsung Soundbar</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-youtube-sharing-with-google-credentials/"><u>[New] In 2024, Navigating YouTube Sharing with Google Credentials</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exposing-the-pinnacle-5-digital-title-artists/"><u>[Updated] Exposing the Pinnacle 5 Digital Title Artists</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-10-web-based-subtitle-editor-tools/"><u>[Updated] Top 10 Web-Based Subtitle Editor Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tricks-for-making-fb-ads-pop-up-on-screen/"><u>[Updated] Tricks for Making FB Ads Pop Up on Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-redmi-note-12-pro-4g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi Redmi Note 12 Pro 4G Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/adaptable-techniques-for-disabling-your-laptop-display/"><u>Adaptable Techniques for Disabling Your Laptop Display</u></a></li>
+<li><a href="https://fox-within.techidaily.com/expert-level-media-control-panel/"><u>Expert-Level Media Control Panel</u></a></li>
+<li><a href="https://facebook.techidaily.com/forgot-your-facebook-password-heres-how-to-reset-it/"><u>Forgot Your Facebook Password? Here's How to Reset It</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-navigate-tiktok-on-your-computer-or-laptop-complete-walkthrough/"><u>How to Navigate TikTok on Your Computer or Laptop - Complete Walkthrough</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus Passcode Screen?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-vr-movies-for-immersive-viewing/"><u>In 2024, Premier VR Movies for Immersive Viewing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unearthing-your-favorites-facebook-watch-list-access/"><u>In 2024, Unearthing Your Favorites Facebook Watch List Access</u></a></li>
+<li><a href="https://fox-within.techidaily.com/installer-toolkit-overview-understanding-your-applications-registry-settings/"><u>Installer Toolkit Overview: Understanding Your Application's Registry Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-gmail-cleanup-the-complete-method-to-remove-all-correspondence/"><u>Mastering Gmail Cleanup: The Complete Method to Remove All Correspondence</u></a></li>
+<li><a href="https://fox-within.techidaily.com/mastering-telegram-streaming-the-ultimate-how-to-for-tv-users/"><u>Mastering Telegram Streaming: The Ultimate How-To for TV Users</u></a></li>
+<li><a href="https://fox-within.techidaily.com/mastering-the-core-elements-of-effective-organization-components/"><u>Mastering the Core Elements of Effective Organization Components</u></a></li>
+<li><a href="https://fox-within.techidaily.com/revolutionize-your-photo-game-the-best-background-editors-for-stunning-selfies/"><u>Revolutionize Your Photo Game: The Best Background Editors for Stunning Selfies</u></a></li>
+<li><a href="https://fox-within.techidaily.com/seamless-conversion-of-wav-files-into-optimal-m4a-format/"><u>Seamless Conversion of WAV Files Into Optimal M4A Format</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-idriverscomponent-a-comprehensive-guide/"><u>Understanding IDriversComponent: A Comprehensive Guide</u></a></li>
 </ul></div>
 

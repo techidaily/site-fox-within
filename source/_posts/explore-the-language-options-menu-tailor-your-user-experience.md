@@ -1,7 +1,7 @@
 ---
 title: Explore the Language Options Menu – Tailor Your User Experience
-date: 2024-09-24T18:48:54.575Z
-updated: 2024-09-30T08:56:06.615Z
+date: 2024-10-02T18:15:01.443Z
+updated: 2024-10-05T16:41:00.681Z
 tags:
   - user-guide
 categories:
@@ -88,15 +88,29 @@ Advanced Installer has the ability to build MSI packages in various languages.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The languages must be specified independently for each build. You can select the desired build in the toolbar builds combo. This option is enabled only if several build are defined.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The language in which the project was created in the [Start Page](https://tools.techidaily.com/advancedinstaller/products/) is set as default. This language must be used by at least one build. Any build must have at least one language. The languages are grouped by their relation.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Each language increases the package size with about 40 - 50 Kilobytes (depending on the strings it contains).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating a single multi-language package
@@ -104,13 +118,6 @@ Advanced Installer has the ability to build MSI packages in various languages.
 You can choose to create a package that contains all the build languages by selecting the “Create separate packages and a multi-language package” option. This package will be created in the "\\all" sub-folder of the folder where the project is build. If you need only the multi-language package you can speed up the build process by selecting the “Create only a multi-language package” option.
 
 When the package is installed the language will be selected according to the regional settings on the target computer. The interface language of the tools that Advanced Installer uses (Setup, Java Launcher and Updater) is selected according to the Windows operating system's language.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Filtering visible build languages
 
@@ -123,10 +130,16 @@ When the package is installed the language will be selected according to the reg
 This section allows you to set the language selection method used by multilingual packages. To set this option you need to have an EXE as output package.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Automatically use previous version's language if installed.
@@ -142,16 +155,10 @@ Use target system language during the installation.
 Use current user language during the installation. 
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display language selection dialog (for multi-language packages)
@@ -159,13 +166,6 @@ Use current user language during the installation.
  If this option is enabled the user is prompted to select the language that will be used during the installation. The prompt dialog can be customized from the [Pre-install UI](https://tools.techidaily.com/advancedinstaller/products/) section in the [Dialogs Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) As of version 8.1 of Advanced Installer, when an automatic upgrade occurs, the already installed package's language will be automatically used instead of displaying the language selection dialog. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -205,24 +205,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-unleash-the-potential-customizing-your-youtube-channel-url/"><u>[New] In 2024, Unleash the Potential Customizing Your YouTube Channel Url</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-picsart-app-deep-dive-full-review-analysis-and-instructions-for-the-new-year/"><u>[New] PicsArt App Deep Dive Full Review, Analysis & Instructions for the New Year</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-optimizing-discord-stream-quality-with-these-key-steps/"><u>[Updated] 2024 Approved Optimizing Discord Stream Quality with These Key Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-the-loop-of-0xf0831-error-in-win11-os/"><u>Breaking the Loop of 0XF0831 Error in Win11 OS</u></a></li>
-<li><a href="https://fox-within.techidaily.com/download-videos-from-videomega-in-multiple-formats-like-mp4-wmv-avi-and-flv-using-videomega-downloader/"><u>Download Videos From VideoMega in Multiple Formats Like MP4, WMV, AVI & FLV Using VideoMega Downloader</u></a></li>
-<li><a href="https://fox-within.techidaily.com/download-your-tunes-with-cd-baby-converter-get-songs-in-mp3-wav-and-flac-formats/"><u>Download Your Tunes with CD Baby Converter: Get Songs in MP3, WAV, and FLAC Formats</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easily-download-premium-dotnet-course-series-in-high-quality-mp4-format-for-pc-and-mac-users/"><u>Easily Download Premium DotNet Course Series in High-Quality MP4 Format for PC and Mac Users</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-myspace-content-grabber-how-to-save-your-favorites-to-desktop-or-laptop-windowsmac/"><u>Easy MySpace Content Grabber: How to Save Your Favorites to Desktop or Laptop (Windows/Mac)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expanding-your-nes-classic-experience-a-guide-to-adding-new-games/"><u>Expanding Your NES Classic Experience: A Guide to Adding New Games</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/filming-made-simple-steps-for-pcs-iphones-and-macbooks-for-2024/"><u>Filming Made Simple Steps for PCs, iPhones & MacBooks for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/find-and-convert-audio-files-on-mp3skull-comprehensive-guide-to-downloading-music-and-podcasts-in-mp3-or-flac-formats/"><u>Find and Convert Audio Files on Mp3Skull: Comprehensive Guide to Downloading Music & Podcasts in MP3 or FLAC Formats</u></a></li>
-<li><a href="https://fox-within.techidaily.com/fix-catch-video-issues-top-solutions-for-non-working-catch-video-on-pcs-and-macs/"><u>Fix Catch Video Issues: Top Solutions for Non-Working Catch Video on PCs & MACs</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-to-saving-tastytrade-lessons-from-desktop-pcs-running-windows-or-macos/"><u>Guide to Saving TastyTrade Lessons From Desktop PCs Running Windows or macOS</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-converting-and-downloading-oreilly-video-lessons-for-offline-viewing-in-mp4-format/"><u>Guide: Converting and Downloading O'Reilly Video Lessons for Offline Viewing in MP4 Format</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g34-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inventory-of-videography-items-for-exploration-for-2024/"><u>Inventory of Videography Items for Exploration for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/mafia-definitive-ultimate-release-postponed-now-resolved/"><u>Mafia: Definitive Ultimate Release Postponed – Now Resolved</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-legally-downloading-high-quality-drake-tracks-as-mp4-aac-or-wma/"><u>Step-by-Step Tutorial: Legally Downloading High-Quality Drake Tracks as MP4, AAC, or WMA</u></a></li>
-<li><a href="https://fox-within.techidaily.com/tutorial-for-downloading-crooks-and-liars-episodes-onto-your-pc-or-mac-device/"><u>Tutorial for Downloading Crooks and Liars Episodes Onto Your PC or Mac Device</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-social-media-wiz-how-to-create-captivating-slideshow-stories-for-facebook/"><u>[New] 2024 Approved Social Media Wiz How to Create Captivating Slideshow Stories for Facebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leveraging-edit-tools-for-youtube-videos-post-publishment/"><u>[New] Leveraging Edit Tools for YouTube Videos Post-Publishment</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-analyzing-user-interface-and-features-in-youtube-mobile-app/"><u>[Updated] Analyzing User Interface and Features in YouTube Mobile App</u></a></li>
+<li><a href="https://fox-within.techidaily.com/bridging-the-gap-between-mobile-and-home-entertainment-a-comprehensive-tutorial-for-playing-android-games-on-your-tv-setup/"><u>Bridging the Gap Between Mobile and Home Entertainment: A Comprehensive Tutorial for Playing Android Games on Your TV Setup</u></a></li>
+<li><a href="https://fox-within.techidaily.com/configuring-app-v-5-essential-guide-to-managing-folder-settings/"><u>Configuring App-V 5: Essential Guide to Managing Folder Settings</u></a></li>
+<li><a href="https://fox-within.techidaily.com/finalize-operations-query-box-streamlining-the-user-experience/"><u>Finalize Operations Query Box: Streamlining the User Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/navigating-requirements-configuring-your-pre-install-setup-interface/"><u>Navigating Requirements: Configuring Your Pre-Install Setup Interface</u></a></li>
+<li><a href="https://fox-within.techidaily.com/overview-section-understanding-the-basics/"><u>Overview Section: Understanding the Basics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/perfect-pitches-and-polished-pictures-music-mixing-for-youtube-for-2024/"><u>Perfect Pitches and Polished Pictures Music Mixing for YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-disregard-must-have-components-issue-in-win10win11/"><u>Quick Guide to Disregard Must-Have Components Issue in Win10/Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revamping-your-home-decor-innovative-uses-for-aged-television-sets/"><u>Revamping Your Home Decor: Innovative Uses for Aged Television Sets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-7-secure-video-conferencing-systems-for-smbs/"><u>Ultimate 7 Secure Video Conferencing Systems for SMBs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-360-degree-and-virtual-reality-cinematography/"><u>Understanding 360-Degree and Virtual Reality Cinematography</u></a></li>
+<li><a href="https://fox-within.techidaily.com/universal-characteristics-across-various-media-volumes/"><u>Universal Characteristics Across Various Media Volumes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/unlock-insights-with-effective-dialogue-techniques-in-archival-retrieval/"><u>Unlock Insights with Effective Dialogue Techniques in Archival Retrieval</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Improve User Experience: Next-Level Tab Functionality Features"
-date: 2024-09-23T07:30:27.795Z
-updated: 2024-09-30T05:33:36.080Z
+date: 2024-09-29T18:34:02.332Z
+updated: 2024-10-05T16:11:45.703Z
 tags:
   - user-guide
 categories:
@@ -78,18 +78,18 @@ This page allows you to specify actions for your upgrade package.
 
 ![Upgrade Action](https://cdn.advancedinstaller.com/img/dialog/upgrade-action.png "Upgrade Action")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Upgrade Action
 
 ### Find and remove products
 
 All the products that will be detected will be automatically removed. Note that their uninstallation is performed silently.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Detect only, placing the results in a property
 
@@ -102,29 +102,36 @@ The products will only be detected, but not removed. The detected products will 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If you are using an EXE bootstrapper which contains the installation files and you only want to remove some features, you need to use the "Do not delete extracted MSI and CAB files" option in the[Builds](https://tools.techidaily.com/advancedinstaller/products/) page's [Configuration Settings Tab](https://tools.techidaily.com/advancedinstaller/products/) tab. Also, you should add the**ProductVersion** property to the "Extraction Location" field on the same tab.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can also use the \[... \] button to select a feature from your project.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Result Property
 
 In this field, you can specify the property that will contain the Product Codes of the packages found on the system. Windows Installer will find only the installed packages which use the Upgrade Code specified in the "Product Info" tab.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Options
@@ -134,13 +141,6 @@ In this field, you can specify the property that will contain the Product Codes 
 The Migrate Feature action is used during upgrading and when installing a new application overwriting a related application. Migrate Feature reads the feature states in the existing application and then sets these feature states in the pending installation. The method is only useful when the new feature tree has not greatly changed from the original. 
 
 This option also applies to the features that are specified in the "Upgrade Features" field.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Continue installation upon failure to remove a product
 
@@ -179,20 +179,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tailoring-your-content-for-split-screen-audiences-via-facebook-lives/"><u>[New] In 2024, Tailoring Your Content for Split Screen Audiences via Facebook Lives</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-refining-audio-in-obs-high-quality-mode/"><u>[New] Refining Audio in OBS High-Quality Mode</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-art-of-iphone-podcast-listening/"><u>[New] The Art of iPhone Podcast Listening</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-obs-studio-key-editing-tactics-unveiled/"><u>[Updated] 2024 Approved Mastering OBS Studio Key Editing Tactics Unveiled</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-free-iversity-learning-materials-procure-mooc-and-expert-video-lectures/"><u>1. Free Iversity Learning Materials: Procure MOOC and Expert Video Lectures</u></a></li>
-<li><a href="https://fox-within.techidaily.com/2-catch-every-play-live-ultimate-guide-to-saving-nfl-games-on-your-pc-or-mac-with-our-downloader/"><u>2) Catch Every Play Live: Ultimate Guide to Saving NFL Games On Your PC or Mac with Our Downloader!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-clearer-photos-unveiling-the-top-10-web-edits/"><u>2024 Approved Master Clearer Photos Unveiling the Top 10 Web Edits</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-asus-rog-phone-8-pro-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://fox-within.techidaily.com/best-twitter-video-grabber-2023-convert-tweets-into-hd-videos-in-multiple-formats/"><u>Best Twitter Video Grabber 2023 - Convert Tweets Into HD Videos in Multiple Formats!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/capture-and-convert-your-favorites-effortlessly-switching-vids-on-myspass-to-mp4movavi-using-myspass-downloader/"><u>Capture and Convert Your Favorites: Effortlessly Switching Vids on Myspass to MP4/MOV/AVI Using Myspass Downloader</u></a></li>
-<li><a href="https://fox-within.techidaily.com/capture-the-moment-simple-way-to-download-and-keep-glide-content-for-offline-viewing/"><u>Capture the Moment: Simple Way to Download and Keep Glide Content for Offline Viewing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/convert-your-favorite-jango-tracks-to-mp3wavaacm4a-with-jango-downloader-for-easy-audio-saving/"><u>Convert Your Favorite Jango Tracks to MP3/WAV/AAC/M4A with Jango Downloader for Easy Audio Saving</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-deescalating-high-cpu-use-in-modern-hosts/"><u>Decoding and Deescalating High CPU Use in Modern Hosts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-utilization-of-final-cut-pro-an-in-depth-guide-for-2024/"><u>Full Utilization of Final Cut Pro An In-Depth Guide for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-elite-selections-top-rated-mac-video-recording-apps/"><u>[New] In 2024, Elite Selections Top-Rated Mac Video Recording Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unraveling-tiktoks-symbolic-use-of-pfp/"><u>[Updated] Unraveling TikTok's Symbolic Use of 'PFP'</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-transform-your-images-with-these-incredible-tools-edit-and-alter-png-colors-seamlessly/"><u>1. Transform Your Images with These Incredible Tools: Edit & Alter PNG Colors Seamlessly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-strength-in-the-omotein-t1-tablet-mount-our-comprehensive-review/"><u>Affordable Strength in the Omotein T1 Tablet Mount - Our Comprehensive Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/building-a-secure-seamless-user-journey-innovative-approaches-for-fraud-prevention-in-governmental-aid-programs/"><u>Building a Secure, Seamless User Journey: Innovative Approaches for Fraud Prevention in Governmental Aid Programs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-upgrade-how-reaching-500-viewers-propelts-monetization-for-2024/"><u>Channel Upgrade How Reaching 500 Viewers Propelts Monetization for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/configuring-app-v-5-essential-guide-to-managing-folder-settings/"><u>Configuring App-V 5: Essential Guide to Managing Folder Settings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargue-y-conviertan-sus-imagenes-webp-de-forma-gratuita-usando-la-linea-avanzada-de-convertidor-webp-movavi/"><u>Descargue Y Conviértan Sus Imágenes Webp De Forma Gratuita Usando La Línea Avanzada De Convertidor Webp - Movavi</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easy-ways-to-move-your-tunes-to-an-iphone-without-using-itunes/"><u>Easy Ways to Move Your Tunes to an iPhone Without Using iTunes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-iphone-14-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On iPhone 14</u></a></li>
+<li><a href="https://fox-within.techidaily.com/finalize-operations-query-box-streamlining-the-user-experience/"><u>Finalize Operations Query Box: Streamlining the User Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-direct-video-tweeting-hacks-smartphones/"><u>In 2024, Direct Video Tweeting Hacks Smartphones</u></a></li>
+<li><a href="https://fox-within.techidaily.com/overview-section-understanding-the-basics/"><u>Overview Section: Understanding the Basics</u></a></li>
+<li><a href="https://fox-within.techidaily.com/proven-strategies-to-extract-the-foreground-isolating-your-brands-emblem/"><u>Proven Strategies to Extract the Foreground: Isolating Your Brand's Emblem</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-raspberry-pi-hat-selection-of-2e-the-ultimate-guide-to-picking-the-right-add-on-board/"><u>Top Raspberry Pi HAT Selection of 2E - The Ultimate Guide to Picking the Right Add-On Board</u></a></li>
+<li><a href="https://fox-within.techidaily.com/universal-characteristics-across-various-media-volumes/"><u>Universal Characteristics Across Various Media Volumes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/unlock-insights-with-effective-dialogue-techniques-in-archival-retrieval/"><u>Unlock Insights with Effective Dialogue Techniques in Archival Retrieval</u></a></li>
 </ul></div>
 

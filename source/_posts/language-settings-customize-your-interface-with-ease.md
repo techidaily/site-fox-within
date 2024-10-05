@@ -1,7 +1,7 @@
 ---
 title: "Language Settings: Customize Your Interface with Ease"
-date: 2024-09-27T01:11:25.188Z
-updated: 2024-09-30T00:21:55.223Z
+date: 2024-09-30T19:53:28.202Z
+updated: 2024-10-05T16:03:24.349Z
 tags:
   - user-guide
 categories:
@@ -80,6 +80,13 @@ Advanced Installer has the ability to build MSI packages in various languages.
 
 ![Languages tab](https://cdn.advancedinstaller.com/img/ui/languages-tab.png "Languages tab")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Selecting additional build languages
 
  Check the check-box button next to the desired language in the tree. For each language a separate MSI package will be built with the code page set to the default ANSI code page of that language. 
@@ -88,35 +95,15 @@ Advanced Installer has the ability to build MSI packages in various languages.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The languages must be specified independently for each build. You can select the desired build in the toolbar builds combo. This option is enabled only if several build are defined.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The language in which the project was created in the [Start Page](https://tools.techidaily.com/advancedinstaller/products/) is set as default. This language must be used by at least one build. Any build must have at least one language. The languages are grouped by their relation.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Each language increases the package size with about 40 - 50 Kilobytes (depending on the strings it contains).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating a single multi-language package
@@ -125,6 +112,13 @@ You can choose to create a package that contains all the build languages by sele
 
 When the package is installed the language will be selected according to the regional settings on the target computer. The interface language of the tools that Advanced Installer uses (Setup, Java Launcher and Updater) is selected according to the Windows operating system's language.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Filtering visible build languages
 
  By default, only selected languages and languages with translations are showed. You can choose to only see the selected languages or all the possible languages (that is the ones without translation as well). 
@@ -132,10 +126,16 @@ When the package is installed the language will be selected according to the reg
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If you select a language without translations build in, Advanced Installer will try to get the translation strings from the closest related language. This may be or may not be what you want. The Neutral language (ASCII US English) is used as the parent of all languages and generic fall back.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## UI Language
@@ -145,6 +145,13 @@ This section allows you to set the language selection method used by multilingua
 ### Automatically use previous version's language if installed.
 
  The installer will try to use the previous version's language, if it is found on the system. Otherwise, it will proceed with using the language specified in the radio group below. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Automatically use system language for installation
 
@@ -159,13 +166,6 @@ Use current user language during the installation.
  If this option is enabled the user is prompted to select the language that will be used during the installation. The prompt dialog can be customized from the [Pre-install UI](https://tools.techidaily.com/advancedinstaller/products/) section in the [Dialogs Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) As of version 8.1 of Advanced Installer, when an automatic upgrade occurs, the already installed package's language will be automatically used instead of displaying the language selection dialog. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -205,20 +205,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-making-online-gaming-more-intimate-via-xbox-zoom/"><u>[New] 2024 Approved Making Online Gaming More Intimate via Xbox Zoom</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-elevate-video-views-twitter-to-facebook-transition/"><u>[Updated] 2024 Approved Elevate Video Views Twitter to Facebook Transition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/aoc-monitor-support-software-free-downloads-and-step-by-step-setup-on-windows-win-11108/"><u>AOC Monitor Support Software: Free Downloads & Step-by-Step Setup on Windows (Win 11/10/8)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-optimize-and-accelerate-your-sluggish-windows-10-pc-comprehensive-guide/"><u>How to Optimize and Accelerate Your Sluggish Windows 10 PC - Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-phone-without-google-account-by-drfone-android/"><u>How to Unlock ZTE Phone without Google Account?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-computing-with-toms-guides/"><u>Navigating the World of Computing with Tom's Guides</u></a></li>
-<li><a href="https://fox-within.techidaily.com/running-flipbuilder-software-offline-via-external-hard-drive-or-pen-drive-for-easy-accessibility/"><u>Running FlipBuilder Software Offline via External Hard Drive or Pen Drive for Easy Accessibility</u></a></li>
-<li><a href="https://fox-within.techidaily.com/set-your-favorite-websites-as-the-first-page-on-launch-with-flipbuilder/"><u>Set Your Favorite Websites as the First Page on Launch with FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/simple-page-turning-enjoy-digital-reading-anywhere-with-flipbook-creator-by-flipbuilder/"><u>Simple Page Turning: Enjoy Digital Reading Anywhere with FlipBook Creator by FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/speedy-turn-pages-enhance-your-book-navigation-using-flipbuilder-tools/"><u>Speedy Turn Pages: Enhance Your Book Navigation Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-to-displaying-custom-flipbook-creations-on-your-facebook-page-using-flipbuilder/"><u>Step-by-Step Guide to Displaying Custom FlipBook Creations on Your Facebook Page Using FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-switching-up-flipbook-templates-with-ease/"><u>Step-by-Step Guide: Switching Up FlipBook Templates with Ease</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-on-adjusting-brightness-for-any-image-using-flipbuilder-tools/"><u>Step-by-Step Tutorial on Adjusting Brightness for Any Image Using FlipBuilder Tools</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-ranked-netgear-router-models/"><u>Top-Ranked Netgear Router Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-benefits-and-uses-of-the-chatgpt-copilot-web-tool-add-on/"><u>Unveiling the Benefits and Uses of the ChatGPT Copilot Web Tool Add-On</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-abrupt-pauses-in-your-photobooth-experience/"><u>[Updated] Analyzing Abrupt Pauses in Your Photobooth Experience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-intro-creation-made-simple-free-templates/"><u>[Updated] In 2024, Intro Creation Made Simple - Free Templates</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-premier-10-creative-filters-elevating-your-social-media-game/"><u>[Updated] In 2024, Premier 10 Creative Filters Elevating Your Social Media Game</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-secret-to-stability-overcoming-handheld-videography-challenges-for-2024/"><u>[Updated] The Secret to Stability Overcoming Handheld Videography Challenges for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-essential-documentation-understanding-the-prerequisite-files-section/"><u>1. Essential Documentation: Understanding the Prerequisite Files Section</u></a></li>
+<li><a href="https://fox-within.techidaily.com/advanced-organizing-with-ifolder-mastering-seamless-file-handling-operations/"><u>Advanced Organizing with iFolder: Mastering Seamless File Handling Operations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/direct-connection-navigating-desktop-display-integration-on-facebook-for-2024/"><u>Direct Connection Navigating Desktop Display Integration on Facebook for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/how-to-detect-and-prevent-malware-in-your-downloaded-files/"><u>How to Detect and Prevent Malware in Your Downloaded Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-detailed-insight-the-gecata-live-game-tracker/"><u>In 2024, Detailed Insight The Gecata Live Game Tracker</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-the-art-of-zoom-filters-for-premium-sessions/"><u>In 2024, Mastering the Art of Zoom Filters for Premium Sessions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inside-the-innovative-world-of-intova-x-for-2024/"><u>Inside the Innovative World of Intova X for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/master-the-technique-of-changing-full-color-pdfs-to-grayscale-images/"><u>Master the Technique of Changing Full-Color PDFs to Grayscale Images</u></a></li>
+<li><a href="https://fox-within.techidaily.com/revive-your-deleted-pics-expert-image-recovery-for-memory-card-users/"><u>Revive Your Deleted Pics: Expert Image Recovery for Memory Card Users</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-removing-watermarks-from-your-pdf-documents/"><u>Step-by-Step Guide: Removing Watermarks From Your PDF Documents</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-strategies-for-optimizing-audio-visual-conference-recording/"><u>Top Strategies for Optimizing Audio-Visual Conference Recording</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-iphones-overcoming-device-recovery-failures-easily/"><u>Troubleshooting iPhones: Overcoming Device Recovery Failures Easily</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-riskware-a-simple-guide-and-visuals/"><u>Understanding Riskware: A Simple Guide and Visuals</u></a></li>
 </ul></div>
 

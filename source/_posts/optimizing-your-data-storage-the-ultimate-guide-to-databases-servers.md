@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Data Storage: The Ultimate Guide to Databases Servers"
-date: 2024-09-24T07:56:00.209Z
-updated: 2024-09-29T18:23:32.629Z
+date: 2024-10-03T21:03:22.880Z
+updated: 2024-10-05T19:06:11.897Z
 tags:
   - user-guide
 categories:
@@ -81,6 +81,13 @@ Table of Contents
 
 This section allows you to configure SQL scripts and queries that will be executed during installation.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Test SQL Connections and Queries
 
 ![Test SQL Connection or Query](https://cdn.advancedinstaller.com/img/toolbar/test_sql_query.png "Test SQL Connection or Query")Use the \[Test \] toolbar button or the “Test” context menu item while the connection/query you want to test is selected.
@@ -91,20 +98,40 @@ The test is started by default using the connection details specified in the pro
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Only predefined and custom connections can be tested.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add a New Predefined SQL Connection
 
 ![Add Connection](https://cdn.advancedinstaller.com/img/toolbar/sql-connection-predefined.png "Add Connection")Use the \[New Predefined SQL Connection \] toolbar button, the “New Predefined SQL Connection” context menu item or press the Insert key while the “Database server” item is focused.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Add a New Custom SQL Connection
 
 ![Add Custom Connection](https://cdn.advancedinstaller.com/img/toolbar/sql-connection-custom.png "Add Custom Connection")Use the \[New Custom SQL Connection \] toolbar button, the “New Custom SQL Connection” context menu item.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Add a New SQLite 3 Connection
 
@@ -115,10 +142,10 @@ The test is started by default using the connection details specified in the pro
 ![Add Query](https://cdn.advancedinstaller.com/img/toolbar/sql-query.png "Add Query")Use the \[New SQL Query \] toolbar button or the “New SQL Query” context menu item while the “Database server” item is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add a New SQL Script
@@ -126,10 +153,10 @@ The test is started by default using the connection details specified in the pro
 ![Add Script](https://cdn.advancedinstaller.com/img/toolbar/sql-script.png "Add Script")Use the \[New SQL Script \] toolbar button, the “New SQL Script” context menu item or press the + key while the “Database server” item is focused. You can add an existent script file from your hard drive or a new inline script.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Only the following formats are supported:
@@ -142,33 +169,19 @@ Only the following formats are supported:
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can select multiple files to be added in a single operation, avoiding repetitive and time consuming steps, for projects that contain a large number of scripts.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### SQL Transactions
 
 ![New Transaction](https://cdn.advancedinstaller.com/img/toolbar/sql-new-transaction.png "New Transaction")To create a new transaction use the \[Transaction \] toolbar button or the “New Transaction” context menu item.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _By default_ an ODBC driver is in**auto-commit mode**; that means each statement is committed immediately after it is executed. Advanced Installer allows you to configure**transaction isolation units**. You can group one or several SQL script files in a single _transaction unit_, hence ensuring the query changes will be atomically committed. At the beginning of each transaction unit, the ODBC driver is put in_manual commit mode_, and at the end of the unit the changes are committed (if everything went OK), otherwise all changes from the isolation unit are rolled back. After exiting a transaction unit, the ODBC driver is put back in _auto-commit mode_, so that your following, non-isolated, batch files will execute/commit automatically.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For details about SQL transactions and Advanced Installer implementation behaviour, please see this [article](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Folders
@@ -192,10 +205,10 @@ Use the “Rename” context menu item or press theF2 key while an SQL connectio
 ![Delete](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Delete")Use the \[Delete \] toolbar button, the “Delete” context menu item or press theDelete key while a SQL connection, script or query is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Impersonate installing user
@@ -203,13 +216,6 @@ Use the “Rename” context menu item or press theF2 key while an SQL connectio
 Use the “Impersonate installing user” context menu option. You can check this option if you want to run all SQL scripts and queries as the user installing the application, not under the Local System account (this option is useful when using Trusted SQL Connections with Windows integrated authentication).
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can set the order of execution for SQL connections. scripts and queries by **drag & drop** in the tree.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -259,24 +265,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-eloquent-enhancements-bringing-text-to-life-on-insta-stories/"><u>[New] 2024 Approved Eloquent Enhancements Bringing Text to Life on Insta Stories</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-youtube-earnings-a-monetization-checklist/"><u>[New] 2024 Approved Mastering YouTube Earnings A Monetization Checklist</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-list-of-ios-solutions-to-play-your-favorite-psp-games/"><u>[Updated] 2024 Approved The Ultimate List of iOS Solutions to Play Your Favorite PSP Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-ai-hearing-and-handling-software/"><u>[Updated] Free AI Hearing and Handling Software</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-free-iversity-learning-materials-procure-mooc-and-expert-video-lectures/"><u>1. Free Iversity Learning Materials: Procure MOOC and Expert Video Lectures</u></a></li>
-<li><a href="https://fox-within.techidaily.com/2-catch-every-play-live-ultimate-guide-to-saving-nfl-games-on-your-pc-or-mac-with-our-downloader/"><u>2) Catch Every Play Live: Ultimate Guide to Saving NFL Games On Your PC or Mac with Our Downloader!</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-procleanse-top-tier-background-removal-tool/"><u>2024 Approved ProCleanse Top-Tier Background Removal Tool</u></a></li>
-<li><a href="https://fox-within.techidaily.com/best-twitter-video-grabber-2023-convert-tweets-into-hd-videos-in-multiple-formats/"><u>Best Twitter Video Grabber 2023 - Convert Tweets Into HD Videos in Multiple Formats!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/capture-and-convert-your-favorites-effortlessly-switching-vids-on-myspass-to-mp4movavi-using-myspass-downloader/"><u>Capture and Convert Your Favorites: Effortlessly Switching Vids on Myspass to MP4/MOV/AVI Using Myspass Downloader</u></a></li>
-<li><a href="https://fox-within.techidaily.com/capture-the-moment-simple-way-to-download-and-keep-glide-content-for-offline-viewing/"><u>Capture the Moment: Simple Way to Download and Keep Glide Content for Offline Viewing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/convert-your-favorite-jango-tracks-to-mp3wavaacm4a-with-jango-downloader-for-easy-audio-saving/"><u>Convert Your Favorite Jango Tracks to MP3/WAV/AAC/M4A with Jango Downloader for Easy Audio Saving</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-twist-and-tell-the-art-of-angling-your-videos-for-instagram-audiences/"><u>In 2024, Twist & Tell The Art of Angling Your Videos for Instagram Audiences</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-byb-e430-a-closer-look-at-elite-swing-arm-led-lighting-solutions-detailed-review/"><u>The BYB E430: A Closer Look at Elite Swing Arm LED Lighting Solutions - Detailed Review</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-quartet-of-online-interaction-facebook-twitter-insta-grams-and-youtubes-explained/"><u>The Powerhouse Quartet of Online Interaction: Facebook, Twitter, Insta-Grams & Youtubes Explained</u></a></li>
-<li><a href="https://fox-within.techidaily.com/transform-your-written-content-with-zero-cost-the-top-free-ebook-creator-for-instant-text-to-pdf-conversion/"><u>Transform Your Written Content with Zero Cost - The Top Free eBook Creator for Instant Text-to-PDF Conversion!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transformacion-de-archivos-como-cambiar-formato-de-webm-a-mp4-sin-perdida-de-calidad-en-windows-y-macos/"><u>Transformación De Archivos: Cómo Cambiar Formato De WebM a MP4 Sin Pérdida De Calidad en Windows Y macOS</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-image-upload-prerequisites-on-flipbuilder-a-comprehensive-guide/"><u>Understanding Image Upload Prerequisites on FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-find-x6-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo Find X6 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://fox-within.techidaily.com/unveiling-content-versatility-what-range-of-output-formats-can-you-choose-from-on-flipbuildercom/"><u>Unveiling Content Versatility: What Range of Output Formats Can You Choose From on FlipBuilder.com?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-sharing-guide-for-tiktok-content/"><u>[Updated] Twitter Sharing Guide for TikTok Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-typefaces-for-effects-select-10-titles/"><u>2024 Approved Mastering Typefaces for Effects Select 10 Titles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-peering-through-the-lens-an-in-depth-review-of-polaroid-cubeplus/"><u>2024 Approved Peering Through the Lens An In-Depth Review of Polaroid Cube+</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/convert-your-protected-dvds-with-macx-imkvmaker-create-encrypted-mkv-formats-seamlessly/"><u>Convert Your Protected DVDs with MacX iMKVmaker - Create Encrypted MKV Formats Seamlessly</u></a></li>
+<li><a href="https://fox-within.techidaily.com/creating-effective-youtube-cover-art-with-your-iphone-a-step-by-step-guide/"><u>Creating Effective YouTube Cover Art with Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-v30-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo V30 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-honor-90-lite-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Honor 90 Lite to Gmail | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/incorporating-personalized-vbscript-triggers-into-user-interfaces-a-step-by-step-guide/"><u>Incorporating Personalized VBScript Triggers Into User Interfaces: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/live-streaming-with-a-new-blue-backdrop-guide-for-smartphones/"><u>Live Streaming with a New Blue Backdrop - Guide for Smartphones</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-13c-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi 13C Device</u></a></li>
+<li><a href="https://fox-within.techidaily.com/simple-tutorial-attaching-captured-images-to-your-monitor-effortlessly/"><u>Simple Tutorial: Attaching Captured Images To Your Monitor Effortlessly</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-the-inner-workings-of-antivirus-programs-the-science-behind-virus-detection-and-defense-tactics/"><u>Understanding the Inner Workings of Antivirus Programs: The Science Behind Virus Detection and Defense Tactics</u></a></li>
 </ul></div>
 

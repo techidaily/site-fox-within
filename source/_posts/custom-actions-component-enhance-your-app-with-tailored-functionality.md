@@ -1,7 +1,7 @@
 ---
 title: "Custom Actions Component: Enhance Your App with Tailored Functionality"
-date: 2024-09-26T19:01:35.094Z
-updated: 2024-09-30T10:49:36.247Z
+date: 2024-09-29T19:10:59.118Z
+updated: 2024-10-05T16:24:51.751Z
 tags:
   - user-guide
 categories:
@@ -125,50 +125,31 @@ Table of Contents
 
 ## ICustomActionsComponent
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 ICustomActionsComponent : IDispatch
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Overview
 
 This component is meant to create and manage existing predefined custom actions.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
 
 **Array<ICustomActions> CustomActions** \- Gets existing custom actions.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -223,10 +204,10 @@ RemoveCustomAction(ICustomActions aCustomAction)
 \-Removes an existing custom action .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -237,6 +218,13 @@ $appFile = $project.FilesComponent.AddFileS("appdir", "D:\MyApp.exe")
 $project.CustomActionsComponent.NewLaunchAttachedScriptFile("d:\my_script.vbs")
 
 Copy
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -314,21 +302,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-tips-for-recording-fan-favorite-sports-games/"><u>[New] In 2024, Expert Tips for Recording Fan-Favorite Sports Games</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-top-10-youtube-to-webm-converter-apps-reviewed-and-ranked/"><u>[New] In 2024, Top 10 YouTube to WebM Converter Apps Reviewed & Ranked</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-boosting-views-essential-hashtags-for-trending-shorts-for-2024/"><u>[Updated] Boosting Views Essential Hashtags for Trending Shorts for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-secrets-of-iphone-hdr/"><u>[Updated] Unraveling the Secrets of iPhone HDR</u></a></li>
-<li><a href="https://fox-within.techidaily.com/convert-your-free-pdfs-into-interactive-flash-magazines-effortless-no-cost/"><u>Convert Your Free PDFs Into Interactive Flash Magazines - Effortless, No Cost!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/convert-your-presentations-in-no-time-free-software-turns-powerpoint-into-flash-files-swf/"><u>Convert Your Presentations in No Time - Free Software Turns PowerPoint Into Flash Files (.swf)</u></a></li>
-<li><a href="https://fox-within.techidaily.com/create-engaging-paperbooks-seamlessly-converting-and-adding-multimedia-to-your-ms-office-files-with-flipbook-professional-discover-the-power-of-flipbuilder-18/"><u>Create Engaging Paperbooks: Seamlessly Converting and Adding Multimedia to Your MS Office Files with FlipBook Professional [Discover the Power of FlipBuilder at FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creating-protected-pdfs-with-watermarks-in-flipbook-a-step-by-step-guide/"><u>Creating Protected PDFs with Watermarks in FlipBook - A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/decline-the-update-and-you-keep-full-access-to-your-whatsapp/"><u>Decline the Update, and You Keep Full Access to Your WhatsApp</u></a></li>
-<li><a href="https://fox-within.techidaily.com/discover-the-popularity-of-magazine-flipping-pages-explore-how-often-readers-engage-with-e-magazines-at-flipbuilder/"><u>Discover the Popularity of Magazine Flipping Pages: Explore How Often Readers Engage with E-Magazines at FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-guide-to-adding-hyperlinks-to-your-ebook-pages-skip-the-acrobat-professional-hassle-try-flipbuilder-today/"><u>Easy Guide to Adding Hyperlinks to Your eBook Pages - Skip the Acrobat Professional Hassle, Try FlipBuilder Today!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-way-to-enable-interactive-flash-windows-in-your-ebooks-with-flipbuilder-try-now/"><u>Easy Way to Enable Interactive Flash Windows in Your eBooks with FlipBuilder - Try Now!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/parity-bits-checksums-and-crc-are-common-edc-methods-for-detecting-errors/"><u>Parity Bits, Checksums, and CRC Are Common EDC Methods for Detecting Errors.</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-best-no-cost-editing-software-for-social-media/"><u>The 8 Best No-Cost Editing Software for Social Media</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eciphering-the-superior-video-sharing-platform-tiktok-or-youtube-shorts/"><u>[New] Deciphering the Superior Video-Sharing Platform TikTok or YouTube Shorts?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comprehensive-list-of-8-prime-youtube-to-avi-tools/"><u>[Updated] 2024 Approved Comprehensive List of 8 Prime YouTube-to-AVI Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-windows-10-top-new-apps-and-games-for-your-pc-for-2024/"><u>[Updated] Windows 10 Top New Apps & Games for Your PC for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-originality-understanding-its-research-methodology/"><u>ChatGPT and Originality: Understanding Its Research Methodology</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exclusive-features-unveiled-discover-how-advanced-functions-can-transform-your-world/"><u>Exclusive Features Unveiled: Discover How Advanced Functions Can Transform Your World</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-k70-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-seamlessly-backup-your-camera-roll-exporting-to-snapchat-made-easy/"><u>In 2024, Seamlessly Backup Your Camera Roll Exporting to Snapchat Made Easy</u></a></li>
+<li><a href="https://fox-within.techidaily.com/malwarefox-insights-expert-tips-and-advice-on-cybersecurity/"><u>MalwareFox Insights: Expert Tips and Advice on Cybersecurity</u></a></li>
+<li><a href="https://fox-within.techidaily.com/revise-language-conversation-interface-a-comprehensive-guide/"><u>Revise Language Conversation Interface: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-inserting-numbered-pages-into-your-pdf-documents/"><u>Step-by-Step Tutorial: Inserting Numbered Pages Into Your PDF Documents</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-the-essential-criteria-in-the-requirements-tab/"><u>Understanding the Essential Criteria in the Requirements Tab</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-reverse-video-online-top-picks-for-this-year/"><u>Updated 2024 Approved Reverse Video Online Top Picks for This Year</u></a></li>
 </ul></div>
 

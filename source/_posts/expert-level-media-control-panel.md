@@ -1,7 +1,7 @@
 ---
 title: Expert-Level Media Control Panel
-date: 2024-09-24T22:18:20.175Z
-updated: 2024-09-30T09:33:26.418Z
+date: 2024-09-28T18:24:05.574Z
+updated: 2024-10-05T20:37:51.109Z
 tags:
   - user-guide
 categories:
@@ -95,10 +95,10 @@ You can specify them in the [Media Volumes Common Properties](https://tools.tech
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The modifications performed will be applied to all media volumes.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Individual volume settings
@@ -106,13 +106,20 @@ You can specify them in the [Media Volumes Common Properties](https://tools.tech
 You can specify them in the [Volume Properties](https://tools.techidaily.com/advancedinstaller/products/) page. This page is displayed when a media volume item![Media Volume](https://cdn.advancedinstaller.com/img/toolbar/media-volume.png "Media Volume") is selected in the tree.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can rename a media volume by using the “Rename” context menu item or by pressing the F2 key.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## CAB settings
 
@@ -123,22 +130,21 @@ You can choose to hide this page by using the “View->CAB Properties” context
 You can rename a CAB by using the “Rename” context menu item or by pressing the F2 key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Moving CABs
 
 You can move the selected CAB to a new or existing media volume by using the “Move To->Existing Volume...” or “Move To->New Volume” context menu items.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Moving resource files
 
@@ -186,22 +192,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-path-to-flawless-streams-a-guide-to-recording-on-steam/"><u>[New] In 2024, The Path to Flawless Streams A Guide to Recording on Steam</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-comparing-magix-music-maker-and-studio-max/"><u>[Updated] Comparing Magix Music Maker and Studio Max</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-master-the-game-with-aliez-expert-guide-on-live-streaming-strategies-and-techniques/"><u>1. Master the Game with Aliez: Expert Guide on Live-Streaming Strategies & Techniques</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-argon-pro-dashboard-with-material-ui-integration-a-high-end-react-application-suite-by-creative-tim/"><u>Advanced Argon Pro Dashboard with Material-UI Integration: A High-End React Application Suite by Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-proui-dashboard-creator-with-bootstrap-4-and-react-complete-reactive-admin-panel-by-creative-tim/"><u>Advanced ProUI Dashboard Creator with Bootstrap 4 & React: Complete Reactive Admin Panel by Creative Tim</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-oppo-f23-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo F23 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/capture-clips-like-a-pro-essential-techniques-for-recording-any-movie-or-video-on-pc-action/"><u>Capture Clips Like a Pro: Essential Techniques for Recording Any Movie or Video on PC - Action!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-worldwide-on-major-social-media-facebook-to-youtube-journey/"><u>Connecting Worldwide on Major Social Media: Facebook to YouTube Journey</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-exclusive-premium-nextjs-admin-dashboard-powered-by-material-components/"><u>Creative Tim's Exclusive Premium NextJS Admin Dashboard Powered by Material Components</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/focused-file-exploring-unleash-windowed-space-potential/"><u>Focused File Exploring: Unleash Windowed Space Potential</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-clearing-up-distorted-web-media-playback/"><u>In 2024, Clearing Up Distorted Web Media Playback</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-capturing-your-next-online-workshop-successfully/"><u>Step-by-Step Guide: Capturing Your Next Online Workshop Successfully</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-how-to-upload-your-screen-captures-on-youtube/"><u>Step-by-Step Guide: How to Upload Your Screen Captures on YouTube</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/steps-to-access-free-dawn-weaver-dog-agility-lessons-video-guide/"><u>Steps to Access Free Dawn Weaver Dog Agility Lessons: Video Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-xiaomi-redmi-12-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Xiaomi Redmi 12 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://fox-within.techidaily.com/tutorial-for-downloading-crooks-and-liars-episodes-onto-your-pc-or-mac-device/"><u>Tutorial for Downloading Crooks and Liars Episodes Onto Your PC or Mac Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-device-manager-steinberg-drivers/"><u>USB Device Manager: Steinberg Drivers</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/how-can-i-get-rid-of-bluetooth-noise-in-windows47-chars/"><u>“How Can I Get Rid of Bluetooth Noise in Windows?”(47 Chars)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-step-by-step-guide-to-seeing-whos-watching/"><u>[Updated] A Step-by-Step Guide to Seeing Who's Watching</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pixelpop-complete-examination-and-manual-24/"><u>2024 Approved PixelPop Complete Examination & Manual '24</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/advanced-bootstrapped-admin-interface-for-laravel-apps-get-your-project-started-with-creativetims-no-cost-starter-kit/"><u>Advanced Bootstrapped Admin Interface for Laravel Apps: Get Your Project Started with @CreativeTim's No-Cost Starter Kit</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-troubleshoot-and-solve-windows-camera-failure-code-0xa00f4292/"><u>Comprehensive Guide to Troubleshoot and Solve Windows Camera Failure (Code 0xA00F4292)</u></a></li>
+<li><a href="https://fox-within.techidaily.com/creating-effective-youtube-cover-art-with-your-iphone-a-step-by-step-guide/"><u>Creating Effective YouTube Cover Art with Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/discover-the-ultimate-free-downloads-a-list-of-top-10-software-sources-online/"><u>Discover the Ultimate Free Downloads: A List of Top 10 Software Sources Online</u></a></li>
+<li><a href="https://fox-within.techidaily.com/essential-features-of-a-text-document-unveiling-its-attributes/"><u>Essential Features of a Text Document: Unveiling Its Attributes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/expert-advice-for-monitoring-and-engaging-with-fbs-video-on-apple-tv-for-2024/"><u>Expert Advice for Monitoring and Engaging With FB's Video on Apple TV for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/explore-the-language-options-menu-tailor-your-user-experience/"><u>Explore the Language Options Menu – Tailor Your User Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-12-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 12</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Oppo F23 5G | Dr.fone</u></a></li>
 </ul></div>
 

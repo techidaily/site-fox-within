@@ -1,7 +1,7 @@
 ---
 title: "Ultimate File Deletion Tool: Effortless Cleanup with IRemoveFiles"
-date: 2024-09-26T02:19:25.685Z
-updated: 2024-09-30T02:55:28.112Z
+date: 2024-10-04T20:40:40.337Z
+updated: 2024-10-05T17:40:47.515Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 This interface is meant to access existing file removal operations or create new ones.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +122,10 @@ This interface is meant to access existing file removal operations or create new
 IRemoveFilesComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -133,10 +133,10 @@ IRemoveFilesComponent : IDispatch
 **Array<IUpdate> RemoveFiles** \- Gets the collection of file removal operations in the project .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -145,10 +145,10 @@ IRemoveFilesComponent : IDispatch
  Creates a new file removal operation in the specified folder .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -188,20 +188,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-generate-funny-image-jokes-at-flipfotohub/"><u>[Updated] 2024 Approved Generate Funny Image Jokes at FlipFotoHub</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-freedom-from-popups-discover-the-top-7-android-adblock-apps-for-2024/"><u>[Updated] Freedom From Popups? Discover the Top 7 Android AdBlock Apps for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-motorola-defy-2-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Motorola Defy 2 Phone When You Forget the Password</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-apple-devices-enthusiasts-guide-to-top-voice-recorders/"><u>In 2024, Apple Devices Enthusiast's Guide to Top Voice Recorders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-convenient-techniques-for-documenting-virtual-gatherings/"><u>In 2024, Convenient Techniques for Documenting Virtual Gatherings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f04-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F04 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://fox-within.techidaily.com/integrating-interactive-flipbooks-on-your-website-with-ease-a-step-by-step-guide-using-flipbuilder/"><u>Integrating Interactive Flipbooks on Your Website with Ease - A Step-by-Step Guide Using FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ipad-ebook-creator-transform-your-pdfs-into-interactive-books-using-flippdfs-html5-technology/"><u>IPad eBook Creator: Transform Your PDFs Into Interactive Books Using FlipPDF's HTML5 Technology</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-video-editing-with-flipbuilder-how-to-seamlessly-integrate-music-tracks/"><u>Mastering Video Editing with FlipBuilder: How to Seamlessly Integrate Music Tracks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimized-note-recording-on-mematic-app-for-2024/"><u>Optimized Note Recording on Mematic App for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/protecting-your-digital-content-on-flipbook-prevent-unauthorized-access/"><u>Protecting Your Digital Content on FlipBook - Prevent Unauthorized Access</u></a></li>
-<li><a href="https://fox-within.techidaily.com/running-flipbuilder-software-offline-via-external-hard-drive-or-pen-drive-for-easy-accessibility/"><u>Running FlipBuilder Software Offline via External Hard Drive or Pen Drive for Easy Accessibility</u></a></li>
-<li><a href="https://fox-within.techidaily.com/set-your-favorite-websites-as-the-first-page-on-launch-with-flipbuilder/"><u>Set Your Favorite Websites as the First Page on Launch with FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/simple-page-turning-enjoy-digital-reading-anywhere-with-flipbook-creator-by-flipbuilder/"><u>Simple Page Turning: Enjoy Digital Reading Anywhere with FlipBook Creator by FlipBuilder</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-into-a-world-with-windows-and-steamos-coexistence/"><u>Step Into a World with Windows & SteamOS Coexistence</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-secure-free-footage-streaming-through-key-youtube-channels/"><u>[New] 2024 Approved Secure Free Footage Streaming Through Key YouTube Channels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-shoot-the-worlds-hustle-and-bustle-iphone-tips-for-shutter-speed-blurs/"><u>[New] 2024 Approved Shoot the World's Hustle and Bustle IPhone Tips for Shutter Speed Blurs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-uncomplicated-guide-for-crafting-and-editing-multiple-snaps-in-snapchat/"><u>[New] 2024 Approved Uncomplicated Guide for Crafting and Editing Multiple Snaps in Snapchat</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-seamless-sync-incorporating-songs-into-videos-using-your-iphone-for-2024/"><u>[New] Seamless Sync Incorporating Songs Into Videos Using Your iPhone for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpt-with-your-secrets-investigating-privacy-safeguards/"><u>Can You Trust ChatGPT with Your Secrets? Investigating Privacy Safeguards</u></a></li>
+<li><a href="https://fox-within.techidaily.com/creating-viral-tiktok-content-a-step-by-step-guide/"><u>Creating Viral TikTok Content: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/eliminate-intrusive-advertisements-effectively-using-our-proven-anti-adware-solution-from-malwarefox/"><u>Eliminate Intrusive Advertisements Effectively Using Our Proven Anti-Adware Solution From MalwareFox!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-livestreams-using-manycams-advanced-virtual-webcam-technology-and-editing-suite/"><u>Enhance Your Livestreams Using ManyCam's Advanced Virtual Webcam Technology and Editing Suite</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/essential-techniques-for-musical-tiktok-creation/"><u>Essential Techniques for Musical TikTok Creation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pros-and-cons-making-the-right-choice-about-buying-a-blu-ray-player/"><u>Pros and Cons: Making the Right Choice About Buying a Blu-Ray Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-roleplay-6-gpt-strategies-for-flawless-dandd-guidance/"><u>Revolutionizing Roleplay: 6 GPT Strategies for Flawless D&D Guidance</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-projecting-your-huawei-p30-screen-onto-the-television/"><u>Step-by-Step Guide: Projecting Your Huawei P30 Screen Onto the Television</u></a></li>
+<li><a href="https://fox-within.techidaily.com/superior-capture-app-professional-screen-record-tool-for-your-ipad/"><u>Superior Capture App: Professional Screen Record Tool for Your iPad</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-ios-8-mobile-applications-a-compreh/"><u>Top iOS 8 Mobile Applications: A Compreh</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-guide-resolving-issues-with-non-responsive-samsung-smart-switch/"><u>Troubleshooting Guide: Resolving Issues with Non-Responsive Samsung Smart Switch</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-guide-how-to-seamlessly-change-tiff-files-into-high-quality-pdf-format/"><u>Ultimate Guide: How to Seamlessly Change TIFF Files Into High-Quality PDF Format</u></a></li>
+<li><a href="https://fox-within.techidaily.com/watch-the-global-hit-your-guide-to-streaming-the-permission-to-dance-performance-by-bts-on-television/"><u>Watch the Global Hit: Your Guide to Streaming the 'Permission to Dance' Performance by BTS On Television</u></a></li>
 </ul></div>
 

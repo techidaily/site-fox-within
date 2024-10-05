@@ -1,7 +1,7 @@
 ---
 title: Unlocking File Management Secrets with the Windows Explorer Properties Panel
-date: 2024-09-23T18:19:50.313Z
-updated: 2024-09-29T18:42:43.381Z
+date: 2024-10-04T17:02:04.154Z
+updated: 2024-10-05T16:16:39.618Z
 tags:
   - user-guide
 categories:
@@ -104,25 +104,18 @@ The property through which the folder can be identified or referenced by.
 
  This filed contains the name under which the folder will be installed. The target name will override the name of the folder on your disk, allowing you to specify a custom name for the folder.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Source Name
 
 When placing the installation files next to the MSI, Advanced Installer will create a folder structure which will contain the files. The name of a folder in this structure can be set in the "Source Name" field. This allows you to add to the project a folder with a custom name and set a more user-friendly name for it in the installation package.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Component
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Create folder on target machine
 
@@ -135,6 +128,13 @@ This checkbox gives you the possibility to create or delete the component associ
 
 The Folder Name is [localizable](https://tools.techidaily.com/advancedinstaller/products/) and [pseudoformatted](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Install folder content into the parent folder
 
 If this option is enabled, the folder content will be installed into its parent folder.
@@ -146,19 +146,19 @@ At build time, the content of the folder that is not needed can be excluded from
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When this option is being used and resources with the same name can be found in the parent folder or in other sibling folders that uses this option, some conditions must be specified in order to decide what resources will be used. Component conditions and feature exclusion from build are the mechanisms to do that.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## File Options
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ensure that all files in this folder overwrite any installed target files
@@ -198,22 +198,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-tutorial-for-sharing-photos-from-phone-memory/"><u>[New] 2024 Approved The Ultimate Tutorial for Sharing Photos From Phone Memory</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-smooth-sound-transformation-essential-ios-apps-to-convert-youtube-mp3-wise/"><u>[New] In 2024, Smooth Sound Transformation Essential iOS Apps to Convert YouTube MP3-Wise</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-essential-8-choices-of-tripods-for-4k-cinematography/"><u>[Updated] In 2024, Essential 8 Choices of Tripods for 4K Cinematography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-step-by-step-approach-for-using-zoom-in-email-apps-like-gmail/"><u>2024 Approved A Step-by-Step Approach for Using Zoom in Email Apps Like Gmail</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-amplifying-your-social-media-reach-with-zoom-plus-fb-live/"><u>2024 Approved Amplifying Your Social Media Reach with ZOOM + FB Live</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-130-music-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-way-to-enable-interactive-flash-windows-in-your-ebooks-with-flipbuilder-try-now/"><u>Easy Way to Enable Interactive Flash Windows in Your eBooks with FlipBuilder - Try Now!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/elevate-your-digital-memories-effortless-mac-compatible-album-creation-using-image-mac-converter-by-flipbuildercom/"><u>Elevate Your Digital Memories: Effortless Mac Compatible Album Creation Using Image Mac Converter by FlipBuilder.com</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enable-sharing-your-digital-brochures-promote-content-across-facebook-twitter-and-googleplus/"><u>Enable Sharing Your Digital Brochures: Promote Content Across Facebook, Twitter & Google+</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enhance-your-ebook-appeal-turn-dull-text-and-images-into-vibrant-flash-books-using-flipbuilder/"><u>Enhance Your eBook Appeal: Turn Dull Text & Images Into Vibrant Flash Books Using FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/explore-individual-profiles-with-ease-enabling-search-functionality-within-flipbook-publications-on-flipbuildercom/"><u>Explore Individual Profiles with Ease: Enabling Search Functionality Within FlipBook Publications on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-to-horizontal-text-orientation-on-flipbuilder-learn-rightleft-placement-easily/"><u>Guide to Horizontal Text Orientation on FlipBuilder - Learn Right/Left Placement Easily</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-add-a-watermark-to-your-photos-using-the-flipimage-pro-tool-learn-at-flipbuildercom/"><u>How to Add a Watermark to Your Photos Using the FlipImage Pro Tool [Learn at flipbuilder.com]</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-create-various-flipbook-formats-using-flippdf-on-a-mac-a-comprehensive-guide/"><u>How to Create Various Flipbook Formats Using FlipPDF on a Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/introducing-the-imac-with-apples-innovative-m1-chip-comprehensive-performance-analysis/"><u>Introducing the iMac with Apple's Innovative M1 Chip – Comprehensive Performance Analysis</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-backwards-videos-on-instagram/"><u>Mastering the Art of Backwards Videos on Instagram</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-experts-resource-advanced-screen-capture-techniques-by-zd-for-2024/"><u>The Expert's Resource Advanced Screen Capture Techniques by ZD for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-easily-capturing-iphone-screens-on-the-go/"><u>[New] 2024 Approved Easily Capturing iPhone Screens on the Go</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-understanding-youtube-shorts-earnings-for-maker-income/"><u>[New] In 2024, Understanding YouTube Shorts Earnings for Maker Income</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-palettes-power-in-film-editing-techniques/"><u>[New] The Palette's Power in Film Editing Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-chucklecanvas-draw-hilarious-social-media-art/"><u>[Updated] ChuckleCanvas Draw Hilarious Social Media Art</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-quick-screen-cut-and-paste-in-winoses/"><u>[Updated] In 2024, Quick Screen Cut & Paste in WinOSes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-privacy-downloading-facebook-status-videos/"><u>2024 Approved Navigating Privacy Downloading Facebook Status Videos</u></a></li>
+<li><a href="https://fox-within.techidaily.com/3-proven-techniques-for-efficiently-recovering-deleted-images/"><u>3 Proven Techniques for Efficiently Recovering Deleted Images</u></a></li>
+<li><a href="https://fox-within.techidaily.com/automatic-app-closure-feature-update/"><u>Automatic App Closure Feature Update</u></a></li>
+<li><a href="https://fox-within.techidaily.com/effective-strategies-to-eliminate-the-windows-security-alert-phishing-scheme/"><u>Effective Strategies to Eliminate the Windows Security Alert Phishing Scheme</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-group-policies-in-windows-via-tripartite-lens/"><u>Exploring Group Policies in Windows via Tripartite Lens</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exploring-the-world-of-cloud-antivirus-why-its-superior-to-conventional-antivirus-programs/"><u>Exploring the World of Cloud Antivirus - Why It's Superior to Conventional Antivirus Programs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-x7b-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor X7b Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://fox-within.techidaily.com/leading-no-cost-video-editor-apps-seamless-file-conversions-anytime-anywhere/"><u>Leading No-Cost Video Editor Apps: Seamless File Conversions Anytime, Anywhere</u></a></li>
+<li><a href="https://fox-within.techidaily.com/navigating-system-modification-insights-into-the-page-group-category/"><u>Navigating System Modification: Insights Into the Page Group Category</u></a></li>
+<li><a href="https://fox-within.techidaily.com/quick-and-effective-techniques-for-modifying-pdf-text-content-with-adobes-tools/"><u>Quick and Effective Techniques for Modifying PDF Text Content with Adobe's Tools</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-on-installing-and-configuring-your-license-server/"><u>Step-by-Step Tutorial on Installing and Configuring Your License Server</u></a></li>
 </ul></div>
 

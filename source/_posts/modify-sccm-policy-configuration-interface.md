@@ -1,7 +1,7 @@
 ---
 title: Modify SCCM Policy Configuration Interface
-date: 2024-09-25T22:52:09.289Z
-updated: 2024-09-29T20:54:56.630Z
+date: 2024-10-01T17:45:10.967Z
+updated: 2024-10-05T17:32:01.714Z
 tags:
   - user-guide
 categories:
@@ -77,16 +77,10 @@ Table of Contents
 In this dialog you can edit the SCCM program settings like general information, requirements, run options and dependencies.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -133,19 +127,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/1716069582272-new-in-2024-xbox-game-memories-save-them-with-screenshots/"><u>[New] In 2024, Xbox Game Memories, Save Them with Screenshots!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-playstation-vrs-coming-stars-predicted-top-5-titles-to-track/"><u>[Updated] PlayStation VR's Coming Stars Predicted Top 5 Titles to Track</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-free-full-stack-web-application-using-vue-laravel-and-jsonapi-a-comprehensive-guide-with-vue-white-dashboard/"><u>1. Free Full-Stack Web Application Using Vue, Laravel, and JSON:API - A Comprehensive Guide with Vue White Dashboard</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-nikon-d500-revolutionizing-4k-dslr-photography/"><u>2024 Approved Nikon D500 Revolutionizing 4K DSLR Photography</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-vue-material-pro-dashboard-for-experts-crafted-by-creative-tim/"><u>Advanced Vue Material Pro Dashboard for Experts - Crafted by Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-horizon-ai-integrating-nextjs-and-figma-for-innovative-uiux/"><u>Creative Tim's Horizon AI: Integrating NextJS and Figma for Innovative UI/UX</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-premium-horizon-ai-pro-enhanced-developer-experience-using-nextjs-and-figma-featuring-secure-stripe-and-supabase-integration-plus-comprehensiv1/"><u>Creative Tim's Premium Horizon AI PRO: Enhanced Developer Experience Using NextJS & Figma - Featuring Secure Stripe and Supabase Integration + Comprehensive OAuth Boilerplate</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-reactive-ui-suite-with-bootstrap-4-and-react-get-the-free-paper-kit-bundle-now/"><u>Creative Tim's Reactive UI Suite with Bootstrap 4 and React - Get the Free Paper Kit Bundle Now</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-preferred-programs-3d-animated-scene-design/"><u>In 2024, Preferred Programs 3D Animated Scene Design</u></a></li>
-<li><a href="https://facebook.techidaily.com/interactive-communal-territories-now-on-facebook/"><u>Interactive Communal Territories Now on Facebook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/synthesizing-new-reality-launch-of-advanced-gpt-4/"><u>Synthesizing New Reality: Launch of Advanced GPT-4</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-the-best-iphone-apps-top-picks-and-insights/"><u>The Ultimate Guide to the Best iPhone Apps Top Picks and Insights</u></a></li>
-<li><a href="https://fox-within.techidaily.com/unleash-your-creativity-with-free-bootstrap-based-user-interface-kit-from-creative-tim/"><u>Unleash Your Creativity with Free Bootstrap-Based User Interface Kit From Creative Tim!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-maximizing-marketing-the-best-highlight-techniques-for-brands/"><u>[New] In 2024, Maximizing Marketing The Best Highlight Techniques for Brands</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-luts-premiere-pro-essentials/"><u>[New] Mastering LUTs Premiere Pro Essentials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swiftly-enhanced-facebook-videos-best-extensions-hacks-and-apps/"><u>[New] Swiftly Enhanced Facebook Videos Best Extensions, Hacks, and Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hotspots-for-revolutionary-vr-cinema/"><u>[Updated] Hotspots for Revolutionary VR Cinema</u></a></li>
+<li><a href="https://fox-within.techidaily.com/bridging-the-gap-between-mobile-and-home-entertainment-a-comprehensive-tutorial-for-playing-android-games-on-your-tv-setup/"><u>Bridging the Gap Between Mobile and Home Entertainment: A Comprehensive Tutorial for Playing Android Games on Your TV Setup</u></a></li>
+<li><a href="https://fox-within.techidaily.com/custom-actions-with-property-files-in-sharepoint-best-practices/"><u>Custom Actions with Property Files in SharePoint - Best Practices</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effective-techniques-to-slash-your-videos-size-by-up-to-90-preserving-quality/"><u>Effective Techniques to Slash Your Video's Size by Up to 90%, Preserving Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-bootmgr-not-found-error-step-by-step-guide-includes-screenshots/"><u>Effortless Fix for Bootmgr Not Found Error - Step-by-Step Guide Includes Screenshots</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exploring-the-features-of-internet-information-services-iis-properties-window/"><u>Exploring the Features of Internet Information Services (IIS) Properties Window</u></a></li>
+<li><a href="https://fox-within.techidaily.com/get-instant-updates-alerts-stay-informed-with-latest-notifications/"><u>Get Instant Updates Alerts - Stay Informed with Latest Notifications</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-visual-vault-verifier/"><u>In 2024, Visual Vault Verifier</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructingdarkmodeonwindowsnotepad/"><u>InstructingDarkModeOnWindowsNotepad</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/motorola-one-review-a-stylish-contender-against-apples-iconic-iphone-at-a-bargain-price/"><u>Motorola One Review: A Stylish Contender Against Apple's Iconic iPhone at a Bargain Price</u></a></li>
+<li><a href="https://fox-within.techidaily.com/navigating-requirements-configuring-your-pre-install-setup-interface/"><u>Navigating Requirements: Configuring Your Pre-Install Setup Interface</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-get-noticed-by-recruiters-the-best-video-resume-creation-tools-free-templates-for-2024/"><u>New Get Noticed by Recruiters The Best Video Resume Creation Tools Free Templates for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/simple-methods-to-download-sound-clips-from-facebook-for-free/"><u>Simple Methods to Download Sound Clips From Facebook for Free!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-capturing-crystal-clear-hulu-programs-for-personal-viewing/"><u>Step-by-Step Tutorial: Capturing Crystal Clear Hulu Programs for Personal Viewing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/tailored-functionality-attributes/"><u>Tailored Functionality Attributes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-isoiec-19770-22009-the-standard-guide-for-software-asset-tags/"><u>Understanding ISO/IEC 19770-2:2009 - The Standard Guide for Software Asset Tags</u></a></li>
 </ul></div>
 

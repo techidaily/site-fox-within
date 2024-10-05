@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Management: Essential Techniques on the Files & Folders Interface Within a VSIX Development Environment"
-date: 2024-09-24T09:10:27.905Z
-updated: 2024-09-29T18:13:24.110Z
+date: 2024-09-30T16:03:44.378Z
+updated: 2024-10-05T18:41:05.643Z
 tags:
   - user-guide
 categories:
@@ -88,18 +88,24 @@ Table of Contents
 
 ## Folder Operations in the Files and Folders Page - VSIX Project
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating new folders
 
 ![New Folder](https://cdn.advancedinstaller.com/img/toolbar/folder-new.png "New Folder") Use the \[New Folder \] toolbar button, the “New Folder” tree/list context menu item or press the Insert key while the tree control is focused. The folder names must have valid filename specific ASCII characters only. 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can create two types of folders: regular and property based. Property based folders will be resolved at install time to the values from the respective property. This property can be one of the Windows Installer [Folders](https://tools.techidaily.com/advancedinstaller/products/), the result of a[Search](https://tools.techidaily.com/advancedinstaller/products/) operation or a custom property set in the [Properties](https://tools.techidaily.com/advancedinstaller/products/) page.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In order to create a property-based folder which uses a custom property you can follow these steps:
 
@@ -122,13 +128,6 @@ In order to create a property-based folder which uses a custom property you can 
 
 ![Add Folder](https://cdn.advancedinstaller.com/img/toolbar/temp-folder-add.png "Add Folder")To add a folder with all its files as **[temporary](https://tools.techidaily.com/advancedinstaller/products/)**, expand the \[Temporary Files \] toolbar dropdown and select\[Temporary Folder \] item or set focus on the “Folders” pane and use the “Add Temporary Folder...” context menu item.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Setting folder properties
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button or the “Properties...” tree context menu item.  
@@ -147,13 +146,6 @@ Use the “Convert Paths...” context menu item. A wizard will be launched enab
 * Temporary files source paths.
 * Synchronized folders source paths.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Uninstall Cleanup
 
 Launches a wizard that will allow you to specify what files and folders created by your application will be removed upon uninstall. In order to run this wizard select the parent folder, the directory from where you want to delete files and folder, and from the context menu select _“Uninstall Cleanup...”_. After the wizard launches, simply follow to on-screen instructions to choose the files you want to delete.
@@ -162,9 +154,23 @@ Launches a wizard that will allow you to specify what files and folders created 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Using this feature for folders containing a very large amount of data will increase the installation time accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Renaming folders
 
 Use the “Rename” context menu item or press theF2 key. The folder name is of [PseudoFormatted](https://tools.techidaily.com/advancedinstaller/products/) type.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Locating the attached component for a resource
 
@@ -173,33 +179,33 @@ Use the “Go To Component” tree context menu item or press the F8 key. This c
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This command is available only for a user defined empty folder, a synchronized folder or a folder removal operation.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Moving folders
 
 Drag and drop the folder(s) to be moved to the target folder.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing folders
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key on a selected folder. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Refreshing synchronized folders
 
@@ -207,28 +213,28 @@ Drag and drop the folder(s) to be moved to the target folder.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Directory\_Parent
 * DefaultDir
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Repackager settings
 
 These settings are available in a folder's context menu. They are used to work with folders directly from the repackaged result instead of from the hard drive. In the latter case you can easily configure the repackager from the Repackager Settings dialog.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Add folder to ignore list
 
@@ -284,22 +290,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-effortless-keyword-harvesting-explore-the-best-7-no-fee-tag-extractors-for-2024/"><u>[Updated] Effortless Keyword Harvesting Explore the Best 7 No-Fee Tag Extractors for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-achieve-negative-like-images-effectively/"><u>2024 Approved How to Achieve Negative-Like Images Effectively</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-synthetic-worlds-the-future-of-gaming-with-vr/"><u>2024 Approved Synthetic Worlds The Future of Gaming with VR</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/d-the-sequence-celebrating-youtubes-top-cosmetics-artists-for-2024/"><u>Behind the Sequence Celebrating YouTube's Top Cosmetics Artists for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/boosting-brand-exposure-through-box/"><u>Boosting Brand Exposure Through Box</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-reactive-ui-suite-with-bootstrap-4-and-react-get-the-free-paper-kit-bundle-now/"><u>Creative Tim's Reactive UI Suite with Bootstrap 4 and React - Get the Free Paper Kit Bundle Now</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enhance-laravel-projects-at-no-cost-get-the-nowui-framework-and-templates-from-creativetim/"><u>Enhance Laravel Projects at No Cost: Get the NowUI Framework and Templates From @CreativeTim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/explore-extensive-vuetifyjs-theme-selections-by-creative-tim-more-than-just-3-gorgeous-examples/"><u>Explore Extensive Vuetify.js Theme Selections by Creative Tim - More than Just 3 Gorgeous Examples!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/free-access-to-nucleus-design-suite-tailwind-css-with-angular-for-frontend-development-created-by-creative-tim-studio/"><u>Free Access to Nucleus Design Suite: Tailwind CSS with Angular for Frontend Development - Created by Creative Tim Studio</u></a></li>
-<li><a href="https://fox-within.techidaily.com/free-react-paper-design-toolkit-powered-by-bootstrap-and-reactstrap-from-creative-tim/"><u>Free React Paper Design Toolkit Powered by Bootstrap & Reactstrap From Creative Tim</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-camera-functionality-on-discord-expert-advice/"><u>How to Restore Camera Functionality on Discord: Expert Advice</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-c55-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme C55 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/material-ui-react-dashboard-template-downloadable-and-free-version-from-creative-tim/"><u>Material-UI React Dashboard Template - Downloadable & Free Version From Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/pro-version-horizon-ai-boilerplate-with-nextjs-and-figma-integration-advanced-payment-setups-with-stripe-and-supabase-complete-oauth-support-by-creative-tim13/"><u>PRO Version Horizon AI Boilerplate with NextJS & Figma Integration – Advanced Payment Setups with Stripe and Supabase, Complete OAuth Support by Creative Tim</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/snapshot-surge-pro-high-quality-mobile-images-with-zero-cost-for-2024/"><u>Snapshot Surge Pro High-Quality Mobile Images with Zero Cost for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-top-tier-svelte-templates-from-creative-tim/"><u>Ultimate Guide to Top-Tier Svelte Templates From Creative Tim</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unleash-the-skys-potential-with-drone-livestreaming-on-fb-for-2024/"><u>Unleash the Sky's Potential with Drone Livestreaming on FB for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-champion-toolkit-10-budget-friendly-caption-extractors/"><u>[New] 2024 Approved Champion Toolkit 10 Budget-Friendly Caption Extractors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-guide-to-subtitle-sharing-on-tumblr-and-discord/"><u>[New] A Comprehensive Guide to Subtitle Sharing on Tumblr and Discord</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-from-novice-to-expert-advanced-screencasting-steps-for-2024/"><u>[New] From Novice to Expert Advanced Screencasting Steps for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-maximizing-fb-instream-ad-impact-configuration-techniques-and-metrics/"><u>[New] Maximizing FB Instream Ad Impact Configuration Techniques and Metrics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-step-by-step-guide-to-creating-breathtaking-tile-art-for-2024/"><u>[New] Step-by-Step Guide to Creating Breathtaking Tile Art for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-next-level-broadcast-software-beyond-streamlabs/"><u>[Updated] In 2024, Next-Level Broadcast Software Beyond StreamLabs</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-unleashing-the-power-of-playstation-top-2-techniques-for-seamless-ps4-capture/"><u>1. Unleashing the Power of PlayStation: Top 2 Techniques for Seamless PS4 Capture</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-infinix-frp-bypass-by-drfone-android/"><u>About Infinix FRP Bypass</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/battle-of-broadband-in-depth-look-at-tp-link-archer-ax6000-vs-nighthawk-ax12/"><u>Battle of Broadband: In-Depth Look at TP-Link Archer AX6000 Vs. Nighthawk AX12</u></a></li>
+<li><a href="https://fox-within.techidaily.com/beginners-guide-to-configuring-default-chat-scripts-instantly/"><u>Beginner's Guide to Configuring Default Chat Scripts Instantly</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-increase-image-size-without-compromising-quality-best-practices/"><u>How to Increase Image Size Without Compromising Quality: Best Practices</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-list-of-no-cost-digital-image-editing-tools-online/"><u>Ultimate List of No-Cost Digital Image Editing Tools Online</u></a></li>
 </ul></div>
 

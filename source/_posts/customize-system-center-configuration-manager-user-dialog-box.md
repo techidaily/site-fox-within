@@ -1,7 +1,7 @@
 ---
 title: Customize System Center Configuration Manager User Dialog Box
-date: 2024-09-26T19:46:11.085Z
-updated: 2024-09-29T23:52:28.769Z
+date: 2024-09-29T16:18:25.068Z
+updated: 2024-10-05T16:05:45.749Z
 tags:
   - user-guide
 categories:
@@ -77,10 +77,10 @@ Table of Contents
 In this dialog you can edit the SCCM program settings like general information, requirements, run options and dependencies.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -127,21 +127,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-mastering-the-art-of-audio-integration-on-social-media-videos/"><u>[New] 2024 Approved Mastering the Art of Audio Integration on Social Media Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-analysis-simplified-dynamic-range-photography/"><u>[New] In-Depth Analysis Simplified Dynamic Range Photography</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamlining-your-live-events-merging-obs-and-zoom/"><u>[Updated] Streamlining Your Live Events Merging OBS and Zoom</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-experts-guide-to-recording-mp4-videos/"><u>2024 Approved Expert's Guide to Recording MP4 Videos</u></a></li>
-<li><a href="https://fox-within.techidaily.com/download-your-tunes-with-cd-baby-converter-get-songs-in-mp3-wav-and-flac-formats/"><u>Download Your Tunes with CD Baby Converter: Get Songs in MP3, WAV, and FLAC Formats</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easily-download-premium-dotnet-course-series-in-high-quality-mp4-format-for-pc-and-mac-users/"><u>Easily Download Premium DotNet Course Series in High-Quality MP4 Format for PC and Mac Users</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-myspace-content-grabber-how-to-save-your-favorites-to-desktop-or-laptop-windowsmac/"><u>Easy MySpace Content Grabber: How to Save Your Favorites to Desktop or Laptop (Windows/Mac)</u></a></li>
-<li><a href="https://fox-within.techidaily.com/find-and-convert-audio-files-on-mp3skull-comprehensive-guide-to-downloading-music-and-podcasts-in-mp3-or-flac-formats/"><u>Find and Convert Audio Files on Mp3Skull: Comprehensive Guide to Downloading Music & Podcasts in MP3 or FLAC Formats</u></a></li>
-<li><a href="https://fox-within.techidaily.com/fix-catch-video-issues-top-solutions-for-non-working-catch-video-on-pcs-and-macs/"><u>Fix Catch Video Issues: Top Solutions for Non-Working Catch Video on PCs & MACs</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-to-saving-tastytrade-lessons-from-desktop-pcs-running-windows-or-macos/"><u>Guide to Saving TastyTrade Lessons From Desktop PCs Running Windows or macOS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-12-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 12 and iPad</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/quick-technique-downloading-tweet-videos-to-your-phone/"><u>Quick Technique Downloading Tweet Videos to Your Phone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/scrutinizing-vsdc-screen-recording-capabilities/"><u>Scrutinizing VSDC Screen Recording Capabilities</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-legally-downloading-high-quality-drake-tracks-as-mp4-aac-or-wma/"><u>Step-by-Step Tutorial: Legally Downloading High-Quality Drake Tracks as MP4, AAC, or WMA</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-practices-for-video-thumbnail-creation-in-the-digital-age/"><u>[New] 2024 Approved Best Practices for Video Thumbnail Creation in the Digital Age</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-navigating-video-submission-on-facebook-from-your-gadgets/"><u>[Updated] In 2024, Navigating Video Submission on Facebook From Your Gadgets</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exeuntus-a-comprehensive-review-of-their-latest-album/"><u>Exeuntus - A Comprehensive Review of Their Latest Album</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-easily-modify-pdf-document-hues-modern-techniques-explored/"><u>How to Easily Modify PDF Document Hues - Modern Techniques Explored</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-increase-image-size-without-compromising-quality-best-practices/"><u>How to Increase Image Size Without Compromising Quality: Best Practices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-note-30-vip-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Note 30 VIP</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-13-mini-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 13 mini Without Passcode Now</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-screen-grabber-software-in-the-windows-10-arena/"><u>In 2024, Top Screen Grabber Software in the Windows 10 Arena</u></a></li>
+<li><a href="https://fox-within.techidaily.com/pc-strategy-mastery-in-summoners-war-step-by-step-tips-and-tricks-to-excel-in-the-game/"><u>PC Strategy Mastery in Summoner’s War: Step-by-Step Tips and Tricks to Excel in the Game</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/protect-your-mobile-experience-6-stellar-iphone-antivirus-tools-ranked/"><u>Protect Your Mobile Experience: 6 Stellar iPhone Antivirus Tools Ranked</u></a></li>
+<li><a href="https://fox-within.techidaily.com/quick-and-simple-the-tabbed-app-download-system/"><u>Quick and Simple: The Tabbed App Download System</u></a></li>
 </ul></div>
 

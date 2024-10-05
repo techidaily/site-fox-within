@@ -1,7 +1,7 @@
 ---
 title: "Understanding User Share Settings: The Essential Guide"
-date: 2024-09-24T16:18:49.278Z
-updated: 2024-09-30T03:36:10.349Z
+date: 2024-09-30T20:25:27.221Z
+updated: 2024-10-05T17:20:29.439Z
 tags:
   - user-guide
 categories:
@@ -98,10 +98,10 @@ This dialog allows you to specify share permissions for the selected folder.
 ![Share Permissions](https://cdn.advancedinstaller.com/img/dialog/share-permissions.png "Share Permissions")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New...
@@ -109,10 +109,10 @@ This dialog allows you to specify share permissions for the selected folder.
 This button creates a new share permission for the selected folder. You will be able to edit the newly created permission in the popped up [Permission Dialog](https://tools.techidaily.com/advancedinstaller/products/). Additionally, you can use the Insert key while the "Groups or user names" list is focused to create a new share permission.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit...
@@ -120,10 +120,10 @@ This button creates a new share permission for the selected folder. You will be 
 Shows you the selected share permission's properties and allows you to change them. Additionally, you can use theSpace key while an element is selected, to edit its properties. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove
@@ -169,22 +169,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-how-to-make-your-lol-gaming-memories-last-3-tips-for-2024/"><u>[New] How to Make Your LOL Gaming Memories Last (3 Tips) for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-samsung-vs-lg-battle-of-360-degree-cameras/"><u>[New] In 2024, Samsung Vs LG Battle of 360-Degree Cameras</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-essential-tips-sharing-your-apple-devices-screen-with-youtube-for-2024/"><u>[Updated] Essential Tips Sharing Your Apple Devices Screen with YouTube for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/10-vital-tiktok-analytics-for-cutting-edge-content-strategy-for-2024/"><u>10 Vital TikTok Analytics for Cutting-Edge Content Strategy for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/elevate-your-digital-memories-effortless-mac-compatible-album-creation-using-image-mac-converter-by-flipbuildercom/"><u>Elevate Your Digital Memories: Effortless Mac Compatible Album Creation Using Image Mac Converter by FlipBuilder.com</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enable-sharing-your-digital-brochures-promote-content-across-facebook-twitter-and-googleplus/"><u>Enable Sharing Your Digital Brochures: Promote Content Across Facebook, Twitter & Google+</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enhance-your-ebook-appeal-turn-dull-text-and-images-into-vibrant-flash-books-using-flipbuilder/"><u>Enhance Your eBook Appeal: Turn Dull Text & Images Into Vibrant Flash Books Using FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/explore-individual-profiles-with-ease-enabling-search-functionality-within-flipbook-publications-on-flipbuildercom/"><u>Explore Individual Profiles with Ease: Enabling Search Functionality Within FlipBook Publications on FlipBuilder.com</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-14-ultra-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi 14 Ultra Devices | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-to-horizontal-text-orientation-on-flipbuilder-learn-rightleft-placement-easily/"><u>Guide to Horizontal Text Orientation on FlipBuilder - Learn Right/Left Placement Easily</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-add-a-watermark-to-your-photos-using-the-flipimage-pro-tool-learn-at-flipbuildercom/"><u>How to Add a Watermark to Your Photos Using the FlipImage Pro Tool [Learn at flipbuilder.com]</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-create-various-flipbook-formats-using-flippdf-on-a-mac-a-comprehensive-guide/"><u>How to Create Various Flipbook Formats Using FlipPDF on a Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-se-2022-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone SE (2022) | Stellar</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-share-your-custom-made-flipbooks-on-facebook-using-flipbuilder/"><u>How to Share Your Custom-Made Flipbooks on Facebook Using FlipBuilder</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-blaze-2-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Blaze 2</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-s17-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/trumps-suspension-from-facebook-tested-in-jan/"><u>Trump's Suspension From Facebook Tested in Jan</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-elite-camera-set-optimal-webcams-for-windows-11/"><u>[New] 2024 Approved The Elite Camera Set Optimal Webcams for Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-firefoxs-best-screen-cast-add-ons-for-2024/"><u>[Updated] Firefox's Best Screen Cast Add-Ons for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-unleashing-the-power-of-playstation-top-2-techniques-for-seamless-ps4-capture/"><u>1. Unleashing the Power of PlayStation: Top 2 Techniques for Seamless PS4 Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-rejuvenated-interview-framework-for-auditory-appeal/"><u>2024 Approved Rejuvenated Interview Framework for Auditory Appeal</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-snd-movavi/"><u>線上全面FREE SND改版轉移功能 – Movavi解決方案</u></a></li>
+<li><a href="https://fox-info.techidaily.com/concentrate-on-core-affinity-photo-trick-for-2024/"><u>Concentrate on Core - Affinity Photo Trick for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exeuntus-a-comprehensive-review-of-their-latest-album/"><u>Exeuntus - A Comprehensive Review of Their Latest Album</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-easily-modify-pdf-document-hues-modern-techniques-explored/"><u>How to Easily Modify PDF Document Hues - Modern Techniques Explored</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-increase-image-size-without-compromising-quality-best-practices/"><u>How to Increase Image Size Without Compromising Quality: Best Practices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-poco-f5-pro-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Poco F5 Pro 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/mac-alternatives-to-windows-snipping-tool-the-ultimate-list/"><u>Mac Alternatives to Windows' Snipping Tool: The Ultimate List</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/make-every-picture-pop-with-these-10-online-photo-fixers/"><u>Make Every Picture Pop with These 10 Online Photo Fixers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/overcoming-iphones-difficulty-in-auto-focusing-issues-for-2024/"><u>Overcoming iPhone's Difficulty in Auto-Focusing Issues for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/pc-strategy-mastery-in-summoners-war-step-by-step-tips-and-tricks-to-excel-in-the-game/"><u>PC Strategy Mastery in Summoner’s War: Step-by-Step Tips and Tricks to Excel in the Game</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pinnacle-performance-comparison-hero5-black-and-hero4-silver/"><u>Pinnacle Performance Comparison Hero5 Black and Hero4 Silver</u></a></li>
+<li><a href="https://fox-within.techidaily.com/quick-and-simple-the-tabbed-app-download-system/"><u>Quick and Simple: The Tabbed App Download System</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-ranking-artificial-intelligence-tts-software-solutions/"><u>Top-Ranking Artificial Intelligence TTS Software Solutions</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-rated-face-morphing-applications-and-websites-achieve-flawless-altered-selfies/"><u>Top-Rated Face Morphing Applications & Websites: Achieve Flawless Altered Selfies</u></a></li>
 </ul></div>
 

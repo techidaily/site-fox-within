@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Photography Section: Unveil Your Images"
-date: 2024-09-25T02:21:06.760Z
-updated: 2024-09-30T08:48:36.028Z
+date: 2024-09-29T19:35:53.967Z
+updated: 2024-10-05T17:48:17.973Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ Table of Contents
 You can use regular images (e.g. .jpg, .png), but you can also pick a .SVG image resource and Advanced Installer will offer you the option to convert it to a regular image (i.e. .ico, .jpg or .png).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new image
@@ -93,10 +93,10 @@ You can use regular images (e.g. .jpg, .png), but you can also pick a .SVG image
 Use the \[New... \] button, the “New...” context menu item or press the Ins key. The [Image Options Dialog - Installer Project](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to create a new binary image.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an image
@@ -104,10 +104,10 @@ Use the \[New... \] button, the “New...” context menu item or press the Ins 
 Use the \[Edit \] button, the “Edit...” context menu item, press the Space key or double click an item in the list. The[Image Options Dialog - Installer Project](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit an image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing an image
@@ -115,10 +115,16 @@ Use the \[Edit \] button, the “Edit...” context menu item, press the Space k
 Use the \[Remove \] button, the “Remove” or press theDel key while an element from the list is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -163,21 +169,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-expert-tips-for-developing-high-quality-fb-videos-for-2024/"><u>[New] Expert Tips for Developing High-Quality FB Videos for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-award-winning-screenplays-for-each-genre-division/"><u>[New] In 2024, Award-Winning Screenplays for Each Genre Division</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-from-concrete-jungles-to-eco-havens-rethinking-urban-living-for-2024/"><u>[Updated] From Concrete Jungles to Eco Havens Rethinking Urban Living for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-master-the-game-with-aliez-expert-guide-on-live-streaming-strategies-and-techniques/"><u>1. Master the Game with Aliez: Expert Guide on Live-Streaming Strategies & Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-7-tools-for-3d-animators-creation/"><u>2024 Approved Top 7 Tools for 3D Animator's Creation</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-argon-pro-dashboard-with-material-ui-integration-a-high-end-react-application-suite-by-creative-tim/"><u>Advanced Argon Pro Dashboard with Material-UI Integration: A High-End React Application Suite by Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-proui-dashboard-creator-with-bootstrap-4-and-react-complete-reactive-admin-panel-by-creative-tim/"><u>Advanced ProUI Dashboard Creator with Bootstrap 4 & React: Complete Reactive Admin Panel by Creative Tim</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-bulk-lowering-your-cpu-use-for-smoother-zooms-top-tips/"><u>Beat the Bulk: Lowering Your CPU Use for Smoother Zooms – Top Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breakthrough-in-laptop-technology-the-worlds-first-thinkpad-p1-gen-7-with-advanced-lpcamm2-memory-uncompromising-speed-and-slim-profile-redefined/"><u>Breakthrough in Laptop Technology: The World's First ThinkPad P1 Gen 7 with Advanced LPCAMM2 Memory – Uncompromising Speed and Slim Profile Redefined</u></a></li>
-<li><a href="https://fox-within.techidaily.com/capture-clips-like-a-pro-essential-techniques-for-recording-any-movie-or-video-on-pc-action/"><u>Capture Clips Like a Pro: Essential Techniques for Recording Any Movie or Video on PC - Action!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-poco-f5-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Poco F5 5G.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-mix-fold-3-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi Mix Fold 3?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-6-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 6 Prevention & Solution</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-capturing-your-next-online-workshop-successfully/"><u>Step-by-Step Guide: Capturing Your Next Online Workshop Successfully</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-how-to-upload-your-screen-captures-on-youtube/"><u>Step-by-Step Guide: How to Upload Your Screen Captures on YouTube</u></a></li>
-<li><a href="https://fox-within.techidaily.com/tutorial-for-downloading-crooks-and-liars-episodes-onto-your-pc-or-mac-device/"><u>Tutorial for Downloading Crooks and Liars Episodes Onto Your PC or Mac Device</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-intuitive-methods-documenting-your-google-voice-chats-for-2024/"><u>[New] Intuitive Methods Documenting Your Google Voice Chats for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-visual-treat-discover-these-14-text-animation-delights/"><u>[Updated] A Visual Treat Discover These 14 Text Animation Delights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leaders-designing-ultra-realistic-virtual-worlds/"><u>[Updated] Leaders Designing Ultra-Realistic Virtual Worlds</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-unleashing-the-power-of-playstation-top-2-techniques-for-seamless-ps4-capture/"><u>1. Unleashing the Power of PlayStation: Top 2 Techniques for Seamless PS4 Capture</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-zip-to-subs-creating-srt-from-compressed-texts/"><u>2024 Approved Zip to Subs Creating .SRT From Compressed Texts</u></a></li>
+<li><a href="https://fox-within.techidaily.com/beginners-guide-to-configuring-default-chat-scripts-instantly/"><u>Beginner's Guide to Configuring Default Chat Scripts Instantly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-note-30-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Note 30 Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-8s-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 8S Pro Bootloader Easily</u></a></li>
+<li><a href="https://fox-within.techidaily.com/language-settings-customize-your-interface-with-ease/"><u>Language Settings: Customize Your Interface with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterclass-troubleshooting-and-solving-graphic-card-problems-for-fortnite-windows-players/"><u>Masterclass: Troubleshooting and Solving Graphic Card Problems for Fortnite Windows Players</u></a></li>
+<li><a href="https://fox-within.techidaily.com/optimizing-your-data-storage-the-ultimate-guide-to-databases-servers/"><u>Optimizing Your Data Storage: The Ultimate Guide to Databases Servers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-typing-trouble-restoring-functionality-to-a-broken-dell-keyboard/"><u>Overcoming Typing Trouble: Restoring Functionality to a Broken Dell Keyboard</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-fix-guide-for-google-hangouts-microphone-issues/"><u>Simple Fix Guide for Google Hangouts Microphone Issues</u></a></li>
+<li><a href="https://fox-within.techidaily.com/the-3-best-methods-for-ppt-presentation-video-compression-a-step-by-step-guide/"><u>The 3 Best Methods for PPT Presentation Video Compression: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-guide-how-to-enhance-your-videos-with-hd-quality-conversion-techniques/"><u>Ultimate Guide: How to Enhance Your Videos with HD Quality Conversion Techniques</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-list-of-no-cost-digital-image-editing-tools-online/"><u>Ultimate List of No-Cost Digital Image Editing Tools Online</u></a></li>
+<li><a href="https://fox-within.techidaily.com/unlocking-file-management-secrets-with-the-windows-explorer-properties-panel/"><u>Unlocking File Management Secrets with the Windows Explorer Properties Panel</u></a></li>
 </ul></div>
 

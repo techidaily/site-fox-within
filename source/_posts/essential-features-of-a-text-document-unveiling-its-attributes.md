@@ -1,7 +1,7 @@
 ---
 title: "Essential Features of a Text Document: Unveiling Its Attributes"
-date: 2024-09-26T08:28:48.208Z
-updated: 2024-09-29T20:12:46.956Z
+date: 2024-10-01T16:18:32.401Z
+updated: 2024-10-05T18:09:52.718Z
 tags:
   - user-guide
 categories:
@@ -94,7 +94,21 @@ The options set here will influence the behaviour of all [Replace](https://tools
 
 ![Text File Updates Global Properties](https://cdn.advancedinstaller.com/img/dialog/txt-update-global.png "Text File Updates Global Properties")  
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Files
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Include
 
@@ -102,32 +116,11 @@ This field will contain the name of the file that will be created or modified. I
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If wildcards are being defined the "Create" operation **can not be used**. The "Append" operation can be used when using wildcards.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The name in this field will be shared with the "Text File Properties" node. For example, if the filename in this field is_MyFile.txt_, the corresponding "Text File Properties" node from the tree located on the left of this dialog will have the same name.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Exclude
 
 This field will contain the name of the file which won't be modified. It is possible to define wildcards.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Search sub-folders
 
@@ -141,13 +134,6 @@ The file(s) specified in the "Include" and "Exclude" fields will be searched in 
 
 You can use this combobox to select the component that will trigger the "Replace" or "Append/Create" operations.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Run on
 
 The operations will be executed on:
@@ -156,7 +142,21 @@ The operations will be executed on:
 * Component Uninstall
 * Component Install and Uninstall
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Error
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### If an error occurs
 
@@ -165,16 +165,16 @@ This combobox sets the behaviour in case the "Replace" or "Append/Create" operat
 * abort installation and rollback
 * skip the file and restore original state
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Backup file before performing update
 
 In some cases the operation will have undesired results. It is advised to enable this option in case such an event occurs. This way the file can be restored to it's unchanged, original state from the backup copy generated before the operation took place.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Common Options
 
@@ -215,17 +215,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos/"><u>[Updated] 2024 Approved The New Dawn of Creativity Spotlight on Six Visionary NFTOs</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-proui-dashboard-creator-with-bootstrap-4-and-react-complete-reactive-admin-panel-by-creative-tim/"><u>Advanced ProUI Dashboard Creator with Bootstrap 4 & React: Complete Reactive Admin Panel by Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-exclusive-premium-nextjs-admin-dashboard-powered-by-material-components/"><u>Creative Tim's Exclusive Premium NextJS Admin Dashboard Powered by Material Components</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-top-picks-over-40-elegant-vite-template-collections-for-rapid-web-development/"><u>Creative Tim's Top Picks: Over 40 Elegant Vite Template Collections for Rapid Web Development</u></a></li>
-<li><a href="https://fox-within.techidaily.com/django-boosted-with-bootstrap-4-the-ultimate-black-admin-by-creative-tim/"><u>Django Boosted with Bootstrap 4 - The Ultimate Black Admin by Creative Tim</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/do-real-world-dialogues-enhance-chatgpts-knowledge-base/"><u>Do Real-World Dialogues Enhance ChatGPT’s Knowledge Base?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/enhance-productivity-mac-screen-capture-made-simple-using-shortcut-keys-for-2024/"><u>Enhance Productivity Mac Screen Capture Made Simple Using Shortcut Keys for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/figma-pro-mastery-unlocking-efficiency-with-horizon-ai-boilerplate-plus-design-excellence-by-creative-tim/"><u>Figma Pro Mastery: Unlocking Efficiency with Horizon AI Boilerplate PLUS | Design Excellence by Creative Tim</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-note-30i-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Note 30i to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-d3dx934dll-error-a-step-by-step-guide/"><u>Solving the d3dx9_34.dll Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-safekeeping-sensitive-visuals-from-public-eyes/"><u>[New] Safekeeping Sensitive Visuals From Public Eyes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-overviews-discover-more-at-tomngear/"><u>Advanced Tech Overviews: Discover More at Tom'n'Gear</u></a></li>
+<li><a href="https://fox-within.techidaily.com/convert-mov-videos-to-wmv-quickly-enjoy-a-hassle-free-free-file-conversion-tool/"><u>Convert MOV Videos to WMV Quickly - Enjoy a Hassle-Free, FREE File Conversion Tool!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/custom-actions-component-enhance-your-app-with-tailored-functionality/"><u>Custom Actions Component: Enhance Your App with Tailored Functionality</u></a></li>
+<li><a href="https://fox-within.techidaily.com/enhance-coding-efficiency-using-ipatch-sequence-goals-in-projects/"><u>Enhance Coding Efficiency Using IPatch Sequence Goals in Projects</u></a></li>
+<li><a href="https://fox-within.techidaily.com/expert-tips-bypassing-spigots-anti-search-block-for-seo-success/"><u>Expert Tips: Bypassing Spigot's Anti-Search Block for SEO Success</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976037089-how-to-seamlessly-update-your-sound-blaster-z-drivers-on-windows-10-system/"><u>How to Seamlessly Update Your Sound Blaster Z Drivers on Windows 10 System</u></a></li>
+<li><a href="https://fox-within.techidaily.com/improve-user-experience-next-level-tab-functionality-features/"><u>Improve User Experience: Next-Level Tab Functionality Features</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-addressing-code-bug-5573-in-call-of-duty-vanguard/"><u>Resolved: Addressing Code Bug #5573 in Call of Duty Vanguard</u></a></li>
+<li><a href="https://fox-within.techidaily.com/simple-steps-to-transform-your-avi-videos-into-compatible-formats-for-ipad/"><u>Simple Steps to Transform Your AVI Videos Into Compatible Formats for iPad</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-transferring-your-dvd-collection-from-disc-to-pc-using-windows-and-macos/"><u>Step-by-Step Guide: Transferring Your DVD Collection From Disc to PC Using Windows & macOS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-testing-your-tp-link-re505x-wireless-extender/"><u>The Ultimate Guide to Testing Your TP-Link Re505X Wireless Extender</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-user-share-settings-the-essential-guide/"><u>Understanding User Share Settings: The Essential Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/virtually-profitable-gaming-channels/"><u>Virtually Profitable Gaming Channels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-secrets-to-efficient-frame-viewing-free/"><u>YouTube's Secrets to Efficient Frame Viewing (FREE!)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Predesignated Storage Bin Layouts
-date: 2024-09-27T04:32:32.398Z
-updated: 2024-09-30T08:51:06.702Z
+date: 2024-09-30T20:54:26.071Z
+updated: 2024-10-05T16:32:29.641Z
 tags:
   - user-guide
 categories:
@@ -116,10 +116,10 @@ Table of Contents
 This interface is created as an access point, using getters, for all the predefined folders. It is meant to replicate Advanced Installer Files and Folders graphical interface.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -127,10 +127,10 @@ This interface is created as an access point, using getters, for all the predefi
 IPredefinedFolders : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -202,17 +202,17 @@ IPredefinedFolders : IDispatch
 ![Ipredefinedfolders](https://cdn.advancedinstaller.com/img/powershell-automation/ipredefinedfolders.png "Ipredefinedfolders")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -256,18 +256,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-channel-buying-made-simple-a-beginners-toolkit/"><u>[New] Channel Buying Made Simple A Beginner’s Toolkit</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rom-script-to-screen-youtube-tutorial-and-alternative-pathways/"><u>[New] From Script to Screen YouTube Tutorial & Alternative Pathways</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-pro-level-strategies-for-remote-audio-capture-for-2024/"><u>[Updated] Pro-Level Strategies for Remote Audio Capture for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-much-do-you-really-make-as-a-podcaster/"><u>2024 Approved How Much Do You Really Make as a Podcaster?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-myspace-content-grabber-how-to-save-your-favorites-to-desktop-or-laptop-windowsmac/"><u>Easy MySpace Content Grabber: How to Save Your Favorites to Desktop or Laptop (Windows/Mac)</u></a></li>
-<li><a href="https://fox-within.techidaily.com/find-and-convert-audio-files-on-mp3skull-comprehensive-guide-to-downloading-music-and-podcasts-in-mp3-or-flac-formats/"><u>Find and Convert Audio Files on Mp3Skull: Comprehensive Guide to Downloading Music & Podcasts in MP3 or FLAC Formats</u></a></li>
-<li><a href="https://fox-within.techidaily.com/fix-catch-video-issues-top-solutions-for-non-working-catch-video-on-pcs-and-macs/"><u>Fix Catch Video Issues: Top Solutions for Non-Working Catch Video on PCs & MACs</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-to-saving-tastytrade-lessons-from-desktop-pcs-running-windows-or-macos/"><u>Guide to Saving TastyTrade Lessons From Desktop PCs Running Windows or macOS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-tecno-camon-20-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Tecno Camon 20 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature service</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-lava-yuva-2-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Lava Yuva 2 Pattern Lock Screen</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-legally-downloading-high-quality-drake-tracks-as-mp4-aac-or-wma/"><u>Step-by-Step Tutorial: Legally Downloading High-Quality Drake Tracks as MP4, AAC, or WMA</u></a></li>
-<li><a href="https://fox-within.techidaily.com/tutorial-for-downloading-crooks-and-liars-episodes-onto-your-pc-or-mac-device/"><u>Tutorial for Downloading Crooks and Liars Episodes Onto Your PC or Mac Device</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-youtube-video-edits-with-adobe-premiere/"><u>[New] 2024 Approved Mastering YouTube Video Edits with Adobe Premiere</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-leading-edge-webcams-the-best-on-windows-10/"><u>[New] Leading Edge Webcams The Best on Windows 10</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-starlight-moment-capture-analysis/"><u>2024 Approved Starlight Moment Capture Analysis</u></a></li>
+<li><a href="https://fox-within.techidaily.com/discovering-the-hidden-places-of-chrome-browser-plugins-and-extensions/"><u>Discovering the Hidden Places of Chrome Browser Plugins and Extensions</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easy-methods-to-duplicate-content-from-your-xiaomi-11-onto-your-pc/"><u>Easy Methods to Duplicate Content From Your Xiaomi 지패11 Onto Your PC</u></a></li>
+<li><a href="https://fox-within.techidaily.com/expert-tips-on-speedy-production-of-quicktime-audio-captures/"><u>Expert Tips on Speedy Production of QuickTime Audio Captures</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-ultimate-driver-setup-for-your-msi-z370-a-pro-motherboard/"><u>Free Download: Ultimate Driver Setup for Your MSI Z370-A PRO Motherboard</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-tecno-spark-20c-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Tecno Spark 20C Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-sony-xperia-1-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Sony Xperia 1 V without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/real-time-notification-updates-never-miss-out-on-important-information/"><u>Real-Time Notification Updates - Never Miss Out on Important Information!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-setting-up-alarms-on-android-phones-and-tablets/"><u>Ultimate Guide to Setting Up Alarms on Android Phones and Tablets</u></a></li>
 </ul></div>
 

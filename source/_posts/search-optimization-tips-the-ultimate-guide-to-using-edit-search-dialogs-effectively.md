@@ -1,7 +1,7 @@
 ---
 title: "Search Optimization Tips: The Ultimate Guide to Using Edit Search Dialogs Effectively"
-date: 2024-09-28T16:53:15.323Z
-updated: 2024-09-30T05:49:17.377Z
+date: 2024-09-30T19:12:21.610Z
+updated: 2024-10-05T16:40:05.034Z
 tags:
   - user-guide
 categories:
@@ -85,10 +85,10 @@ Table of Contents
 ![Edit Search String Dialog](https://cdn.advancedinstaller.com/img/dialog/prereq-search-string.png "Edit Search String Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a reference to a folder
@@ -96,10 +96,10 @@ Table of Contents
 Use the \[Folder... \] button. The [Folder Picker](https://tools.techidaily.com/advancedinstaller/products/) will pop up, allowing you to select the folder to reference.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a reference to an environment variable
@@ -107,16 +107,10 @@ Use the \[Folder... \] button. The [Folder Picker](https://tools.techidaily.com/
 Use the \[Env Var... \] button. The [Environment Variable Picker](https://tools.techidaily.com/advancedinstaller/products/) will pop up, allowing you to select an environment variable for reference.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a reference to the registry value
@@ -126,10 +120,10 @@ Use the \[Reg Value... \] button. The file will be searched on the disk at the l
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The references inserted in the field are replaced with their actual value.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -165,18 +159,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-within.techidaily.com/1-free-full-stack-web-application-using-vue-laravel-and-jsonapi-a-comprehensive-guide-with-vue-white-dashboard/"><u>1. Free Full-Stack Web Application Using Vue, Laravel, and JSON:API - A Comprehensive Guide with Vue White Dashboard</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-new-age-of-games-debate-the-best-vr-headsets-today/"><u>2024 Approved A New Age of Games? Debate the Best VR Headsets Today</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-vue-material-pro-dashboard-for-experts-crafted-by-creative-tim/"><u>Advanced Vue Material Pro Dashboard for Experts - Crafted by Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-horizon-ai-integrating-nextjs-and-figma-for-innovative-uiux/"><u>Creative Tim's Horizon AI: Integrating NextJS and Figma for Innovative UI/UX</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-premium-horizon-ai-pro-enhanced-developer-experience-using-nextjs-and-figma-featuring-secure-stripe-and-supabase-integration-plus-comprehensiv1/"><u>Creative Tim's Premium Horizon AI PRO: Enhanced Developer Experience Using NextJS & Figma - Featuring Secure Stripe and Supabase Integration + Comprehensive OAuth Boilerplate</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-reactive-ui-suite-with-bootstrap-4-and-react-get-the-free-paper-kit-bundle-now/"><u>Creative Tim's Reactive UI Suite with Bootstrap 4 and React - Get the Free Paper Kit Bundle Now</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopro-match-made-in-heaven-camera-showdowns-for-2024/"><u>GoPro Match Made in Heaven Camera Showdowns for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-a2-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo A2 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-efficiently-manage-and-update-microsoft-drivers-in-windows-10-8-and-earlier-editions/"><u>How to Efficiently Manage and Update Microsoft Drivers in Windows 10, 8, and Earlier Editions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mastering-video-best-practices-in-game-recording-and-streaming/"><u>Mastering Video Best Practices in Game Recording & Streaming</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-asus-laptop-trackpad-driver-installation-on-windows-11/"><u>Quick and Simple Guide: ASUS Laptop Trackpad Driver Installation on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-lava-blaze-2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Lava Blaze 2 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-content-strategy-through-youtube-metrics-for-2024/"><u>[New] Elevating Content Strategy Through YouTube Metrics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmmakers-pathway-to-anime-subscription-buttons-in-filmora-for-2024/"><u>[New] Filmmaker’s Pathway to Anime Subscription Buttons in Filmora for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-10-bestsellers-copyright-free-melodies-for-zen/"><u>Discover 10 Bestsellers Copyright-Free Melodies for Zen</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exclusive-features-unveiled-discover-how-advanced-functions-can-transform-your-world/"><u>Exclusive Features Unveiled: Discover How Advanced Functions Can Transform Your World</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-complete-google-photos-guide-for-beginners/"><u>In 2024, Complete Google Photos Guide for Beginners</u></a></li>
+<li><a href="https://fox-within.techidaily.com/malwarefox-insights-expert-tips-and-advice-on-cybersecurity/"><u>MalwareFox Insights: Expert Tips and Advice on Cybersecurity</u></a></li>
+<li><a href="https://fox-within.techidaily.com/revise-language-conversation-interface-a-comprehensive-guide/"><u>Revise Language Conversation Interface: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-inserting-numbered-pages-into-your-pdf-documents/"><u>Step-by-Step Tutorial: Inserting Numbered Pages Into Your PDF Documents</u></a></li>
 </ul></div>
 

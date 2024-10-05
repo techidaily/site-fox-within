@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of Internet Information Services (IIS) Properties Window
-date: 2024-09-26T23:35:44.579Z
-updated: 2024-09-30T00:55:57.372Z
+date: 2024-09-28T18:17:50.929Z
+updated: 2024-10-05T18:52:56.272Z
 tags:
   - user-guide
 categories:
@@ -103,31 +103,31 @@ This dialog allows you to configure IIS properties.
 
 ## Attribute ID
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Section
 
 The attribute you want to set must be a member of this IIS configuration section.
 
 <**WebSite**\>, <**VirtualDirectory**\> and <**ApplicationPool**\> are section pseudonames used for grouping direct attributes of the website/virtual directory/application pool.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Name
 
 Specify a name for the attribute.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Attribute Value
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Type
 
@@ -136,10 +136,10 @@ Provides type information for the selected attribute.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)An **Enum** attribute consists of just one of the displayed options. A **Flags** attribute may contain any number of the displayed options, separated by a comma.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -147,10 +147,10 @@ Provides type information for the selected attribute.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -186,19 +186,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-boost-sound-level-for-twitters-quiet-vids/"><u>[New] Boost Sound Level for Twitter's Quiet Vids</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-charting-the-financial-landscape-of-youtube-marketing/"><u>2024 Approved Charting the Financial Landscape of YouTube Marketing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/breaking-down-instagrams-standard-video-cap-solutions/"><u>Breaking Down Instagram's Standard Video Cap Solutions</u></a></li>
-<li><a href="https://fox-within.techidaily.com/capture-the-moment-simple-way-to-download-and-keep-glide-content-for-offline-viewing/"><u>Capture the Moment: Simple Way to Download and Keep Glide Content for Offline Viewing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-fongo-top-canadian-voip-provider/"><u>Comprehensive Analysis of Fongo - Top Canadian VOIP Provider</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199742941-comprehensive-guide-to-fixing-the-classpnpsys-missing-driver-on-windows-11-and-7-solved/"><u>Comprehensive Guide to Fixing the classpnp.sys Missing Driver on Windows 11 and 7 - Solved</u></a></li>
-<li><a href="https://fox-within.techidaily.com/convert-your-favorite-jango-tracks-to-mp3wavaacm4a-with-jango-downloader-for-easy-audio-saving/"><u>Convert Your Favorite Jango Tracks to MP3/WAV/AAC/M4A with Jango Downloader for Easy Audio Saving</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/diving-deep-essential-pro-tips-for-underwater-gopro-footage/"><u>Diving Deep Essential Pro Tips for Underwater GoPro Footage</u></a></li>
-<li><a href="https://fox-within.techidaily.com/download-adult-films-from-bdsmstreak-with-bdsmstreak-downloader/"><u>Download Adult Films From BDSMSTREAK with BDSMSTREAK Downloader</u></a></li>
-<li><a href="https://fox-within.techidaily.com/download-and-convert-your-favorite-tvzion-series-get-episodes-in-mp4-mov-and-avi-formats-with-tvzion-downloader/"><u>Download and Convert Your Favorite TVZion Series - Get Episodes in MP4, MOV & AVI Formats with TVZion Downloader</u></a></li>
-<li><a href="https://fox-within.techidaily.com/effective-solutions-for-eliminating-lag-and-stutter-in-youtube-streaming/"><u>Effective Solutions for Eliminating Lag and Stutter in YouTube Streaming</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nokia-c12-plus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nokia C12 Plus to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-itel-p40-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Itel P40 and Browser | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/no-cost-upgrade-excellent-online-beat-detection-for-music-producers/"><u>No Cost Upgrade Excellent Online Beat Detection for Music Producers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-go-from-camera-to-cellphone-vt-adjustments-in-fcpx/"><u>[New] In 2024, Go From Camera to Cellphone VT Adjustments in FCPX</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unified-audience-across-two-mainstream-streaming-platforms/"><u>2024 Approved Unified Audience Across Two Mainstream Streaming Platforms</u></a></li>
+<li><a href="https://fox-within.techidaily.com/best-mp3-downloader-tools-for-android-iphone-and-windows-mobile-users/"><u>Best MP3 Downloader Tools for Android, iPhone & Windows Mobile Users</u></a></li>
+<li><a href="https://fox-within.techidaily.com/comprehensive-service-offerings-overview/"><u>Comprehensive Service Offerings Overview</u></a></li>
+<li><a href="https://fox-within.techidaily.com/detect-and-eradicate-cryptomining-malware-a-guide-to-protect-your-system/"><u>Detect & Eradicate Cryptomining Malware: A Guide to Protect Your System</u></a></li>
+<li><a href="https://fox-within.techidaily.com/enhance-search-efficiency-with-advanced-prerequisite-configuration-options/"><u>Enhance Search Efficiency with Advanced Prerequisite Configuration Options</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-p40-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P40 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/key-characteristics-and-capabilities-in-language-translation-software/"><u>Key Characteristics and Capabilities in Language Translation Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pre-upgrade-essentials-a-comprehensive-guide-for-2024/"><u>Pre-Upgrade Essentials A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/predesignated-storage-bin-layouts/"><u>Predesignated Storage Bin Layouts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-issues-with-madden-nfl-22-get-the-game-running-smoothly/"><u>Quick Solutions: Resolving Issues with Madden NFL 22 - Get the Game Running Smoothly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rehabilitating-broken-android-video-content/"><u>Rehabilitating Broken Android Video Content</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-accessing-documents-on-your-ios-device/"><u>Step-by-Step Guide: Accessing Documents on Your iOS Device</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-making-quick-clips-with-your-computer-and-iphone/"><u>Step-by-Step Guide: Making Quick Clips with Your Computer & iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/streamstart-beginner-friendly-podcast-live-broadcast-guide/"><u>StreamStart Beginner-Friendly Podcast Live Broadcast Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-to-youtube-virality-eight-key-tips/"><u>Unlocking the Secrets to YouTube Virality: Eight Key Tips</u></a></li>
 </ul></div>
 

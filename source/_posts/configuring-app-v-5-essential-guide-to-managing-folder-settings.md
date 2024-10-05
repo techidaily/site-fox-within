@@ -1,7 +1,7 @@
 ---
 title: "Configuring App-V 5: Essential Guide to Managing Folder Settings"
-date: 2024-09-28T21:04:01.123Z
-updated: 2024-09-30T04:00:57.403Z
+date: 2024-10-02T18:51:23.371Z
+updated: 2024-10-05T17:33:49.448Z
 tags:
   - user-guide
 categories:
@@ -42,25 +42,19 @@ In this dialog you can set options specific to App-V for a folder.
 ![App-V 5 Folder Options Tab](https://cdn.advancedinstaller.com/img/dialog/appv-folder-options-tab.png "App-V 5 Folder Options Tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Virtualization level:
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Merge with local directory
@@ -68,10 +62,10 @@ In this dialog you can set options specific to App-V for a folder.
  Enable this option so the virtual application can see this folder from both real and virtual systems.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Overwrite local directory
@@ -79,10 +73,10 @@ In this dialog you can set options specific to App-V for a folder.
 By enabling this option the virtual application will see this folder only from the virtual system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Compute automatically
@@ -122,22 +116,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-5-most-inspiring-tiktok-stars/"><u>[New] In 2024, 5 Most Inspiring TikTok Stars</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-become-a-pro-at-screen-recording-essential-tips-for-xiaomi-users-for-2024/"><u>[Updated] Become a Pro at Screen Recording Essential Tips for Xiaomi Users for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-boost-your-social-interaction-skills-with-these-simple-snapchat-steps-for-2024/"><u>[Updated] Boost Your Social Interaction Skills with These Simple Snapchat Steps for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-instagrams-self-verification-maze/"><u>2024 Approved Navigating Instagram's Self-Verification Maze</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-oppo-reno-10-proplus-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Oppo Reno 10 Pro+ 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://fox-within.techidaily.com/elevate-your-digital-memories-effortless-mac-compatible-album-creation-using-image-mac-converter-by-flipbuildercom/"><u>Elevate Your Digital Memories: Effortless Mac Compatible Album Creation Using Image Mac Converter by FlipBuilder.com</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enable-sharing-your-digital-brochures-promote-content-across-facebook-twitter-and-googleplus/"><u>Enable Sharing Your Digital Brochures: Promote Content Across Facebook, Twitter & Google+</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enhance-your-ebook-appeal-turn-dull-text-and-images-into-vibrant-flash-books-using-flipbuilder/"><u>Enhance Your eBook Appeal: Turn Dull Text & Images Into Vibrant Flash Books Using FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/explore-individual-profiles-with-ease-enabling-search-functionality-within-flipbook-publications-on-flipbuildercom/"><u>Explore Individual Profiles with Ease: Enabling Search Functionality Within FlipBook Publications on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-to-horizontal-text-orientation-on-flipbuilder-learn-rightleft-placement-easily/"><u>Guide to Horizontal Text Orientation on FlipBuilder - Learn Right/Left Placement Easily</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-add-a-watermark-to-your-photos-using-the-flipimage-pro-tool-learn-at-flipbuildercom/"><u>How to Add a Watermark to Your Photos Using the FlipImage Pro Tool [Learn at flipbuilder.com]</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-create-various-flipbook-formats-using-flippdf-on-a-mac-a-comprehensive-guide/"><u>How to Create Various Flipbook Formats Using FlipPDF on a Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-share-your-custom-made-flipbooks-on-facebook-using-flipbuilder/"><u>How to Share Your Custom-Made Flipbooks on Facebook Using FlipBuilder</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-cloud-storage-for-your-clippings-free-tiers-and-paid-plans-explored/"><u>In 2024, Cloud Storage for Your Clippings Free Tiers & Paid Plans Explored</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-free-and-easy-top-8-fb-link-exporters-for-23-online/"><u>In 2024, Free and Easy Top 8 FB Link Exporters for '23 Online</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-techniques-for-excising-drum-sections-in-online-music-editing-for-2024/"><u>New Techniques for Excising Drum Sections in Online Music Editing for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-the-issue-of-prolonged-boot-time-for-fallout-4-gamers/"><u>Tackling the Issue of Prolonged Boot Time for Fallout 4 Gamers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-essential-iphoneside-by-side-guide-for-fb-sharing/"><u>[New] The Essential iPhoneside by Side Guide for FB Sharing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-beat-the-heat-tips-for-uploading-songs-to-youtube/"><u>[Updated] Beat the Heat Tips for Uploading Songs to YouTube</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-essential-guide-to-mastering-ini-file-configuration-settings/"><u>1. Essential Guide to Mastering INI File Configuration Settings</u></a></li>
+<li><a href="https://fox-within.techidaily.com/best-free-tools-top-5-m4a-to-mp3-converter-software/"><u>Best FREE Tools: Top 5 M4A to MP3 Converter Software</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/eco-friendly-cities-redefining-urban-spaces-for-nature-for-2024/"><u>Eco-Friendly Cities Redefining Urban Spaces for Nature for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-mp4-timestamp-discrepanrances/"><u>Fixing MP4 Timestamp Discrepanrances</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuit-changer-des-fichiers-mp4-en-format-mov-en-lignes-directes-convertissez-votre-video/"><u>Gratuit : Changer Des Fichiers MP4 en Format MOV En Lignes Directes - Convertissez Votre Vidéo</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-effectively-transfer-and-burn-your-apple-music-collection-onto-a-physical-disc/"><u>How to Effectively Transfer and Burn Your Apple Music Collection Onto a Physical Disc</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/steal-the-deal-acers-34-wqhd-curved-monitor-for-a-steal-at-just-200-newegg-exclusive/"><u>Steal the Deal: Acer's 34 WQHD Curved Monitor for a Steal at Just $200 - Newegg Exclusive</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-guide-removing-text-overlays-from-your-snaps-on-snapchat/"><u>Ultimate Guide: Removing Text Overlays From Your Snaps on Snapchat</u></a></li>
 </ul></div>
 

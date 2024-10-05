@@ -1,7 +1,7 @@
 ---
 title: Understanding the Essential Criteria in the Requirements Tab
-date: 2024-09-26T05:37:11.663Z
-updated: 2024-09-30T08:54:53.705Z
+date: 2024-09-29T16:38:50.024Z
+updated: 2024-10-05T19:56:36.076Z
 tags:
   - user-guide
 categories:
@@ -82,6 +82,13 @@ In this tab you can set the install conditions of a new prerequisite or change t
 
 ![Prerequisite Install Conditions](https://cdn.advancedinstaller.com/img/dialog/prerequisite-conditions.png "Prerequisite Install Conditions")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Supported Windows Versions
 
 This section allows you to specify which Windows versions are supported by the prerequisite. If a check box is enabled then the prerequisite will support all the Windows versions located under that specific tree node.
@@ -89,15 +96,22 @@ This section allows you to specify which Windows versions are supported by the p
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The prerequisite will be hidden on unsupported Windows versions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Install only if the Windows language is one of the following
 
 Restricts the prerequisite to run only if the Windows Operating System is installed in one of the specified languages. If the language of the Windows Operating System is not supported by the prerequisite, it will be ignored.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Install only on host systems with native architecture
 
@@ -110,27 +124,20 @@ Install the prerequisite only if the host system has one of the following archit
 
 This section allows you to condition the prerequisite based on custom searches. These searches will also be used to verify if the prerequisite was installed correctly. You can create multiple searches for the same prerequisite.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a new search to the installation condition
 
 Use the \[New... \] button, the “New...” context menu option or press theInsert key while the list is focused. The [Edit Prerequisite Search Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to specify a new search.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Editing a search from the installation condition
 
 Use the \[Edit... \] button, the “Edit...” context menu option or press theSpace key while an item from the list is selected. The [Edit Prerequisite Search Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit the attributes of a search.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Deleting a search from the installation condition
 
@@ -148,27 +155,20 @@ The order in which the searches will be performed when the condition is evaluate
 
 If this option is selected, at least one search must fail in order to install the prerequisite.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Install only if all conditions are false
 
 If this option is selected, all searches must fail in order to install the prerequisite.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Install only if this prerequisite is being installed
 
 Choose another prerequisite that conditions the installation of this prerequisite. If the selected prerequisite is not being installed, this prerequisite will not be launched.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use 64-bit locations when evaluating conditions on a 64-bit machine
 
@@ -212,21 +212,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-strategic-scheduling-leveraging-free-fb-resources/"><u>[New] Strategic Scheduling Leveraging Free FB Resources</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-essential-6-steps-for-recording-your-favorite-movies-from-netflix-on-macos-for-2024/"><u>[New] The Essential 6 Steps for Recording Your Favorite Movies From Netflix on macOS for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tackling-blurry-youtube-videos-fixing-visual-fuzziness/"><u>[Updated] 2024 Approved Tackling Blurry YouTube Videos Fixing Visual Fuzziness</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-vdg-screen-snatcher-synopsis-full-breakdown/"><u>[Updated] In 2024, VDG Screen Snatcher Synopsis Full Breakdown</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unravel-the-secrets-of-crafting-engaging-snapchat-boomerangs-for-2024/"><u>[Updated] Unravel the Secrets of Crafting Engaging Snapchat Boomerangs for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-deciphering-disguised-dialogues-with-youtube-viewers/"><u>2024 Approved Deciphering Disguised Dialogues with YouTube Viewers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-where-are-my-youtube-comments-desktopiosandroid-strategies/"><u>2024 Approved Where Are My YouTube Comments? Desktop/iOS/Android Strategies</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-implementing-youtubes-custom-markup-guide/"><u>In 2024, Implementing YouTube's Custom Markup Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-motorola-razr-40-ultra-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Motorola Razr 40 Ultra Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-converting-vidlii-downloads-into-multiple-video-formats-like-mp4-avi-and-mov/"><u>Step-by-Step Guide: Converting VidLii Downloads Into Multiple Video Formats Like MP4, AVI & MOV</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-downloading-and-saving-vrt-nu-live-shows-as-high-quality-video-files-on-windows-or-macos/"><u>Step-by-Step Tutorial: Downloading and Saving VRT NU Live Shows as High-Quality Video Files on Windows or macOS</u></a></li>
-<li><a href="https://fox-within.techidaily.com/stream-and-save-secure-video-downloads-with-the-quickplay-tool-from-playedto/"><u>Stream & Save: Secure Video Downloads with the Quickplay Tool From Played.to</u></a></li>
-<li><a href="https://fox-within.techidaily.com/stream-and-save-on-demand-top-tool-for-tagesschau-content-videocaptures-to-audio-extraction-made-simple/"><u>Stream and Save on Demand: Top Tool for Tagesschau Content – Videocaptures to Audio Extraction Made Simple</u></a></li>
-<li><a href="https://fox-within.techidaily.com/transfer-live365-streams-to-high-quality-audio-formats-like-mp3-wav-and-aac-with-our-handy-downloader/"><u>Transfer Live365 Streams to High-Quality Audio Formats Like MP3, WAV, and AAC with Our Handy Downloader</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-conver2mp3-errors-and-enhancing-functionality/"><u>Troubleshooting Conver2MP3 Errors and Enhancing Functionality</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-premium-free-cinema-securing-your-favorite-movies-for-offline-viewing/"><u>Ultimate Guide to Premium-Free Cinema: Securing Your Favorite Movies for Offline Viewing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-budget-conscious-obs-tweaks-and-tricks/"><u>[New] Budget-Conscious OBS Tweaks and Tricks</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-14-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 14 Pro Max to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-resolve-missing-libeay32dll-errors/"><u>A Comprehensive Guide to Resolve Missing Libeay32.dll Errors</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/are-cheap-ssls-a-steal-or-scam/"><u>Are Cheap SSLs a Steal or Scam?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/bridging-the-gap-between-mobile-and-home-entertainment-a-comprehensive-tutorial-for-playing-android-games-on-your-tv-setup/"><u>Bridging the Gap Between Mobile and Home Entertainment: A Comprehensive Tutorial for Playing Android Games on Your TV Setup</u></a></li>
+<li><a href="https://fox-within.techidaily.com/configuring-app-v-5-essential-guide-to-managing-folder-settings/"><u>Configuring App-V 5: Essential Guide to Managing Folder Settings</u></a></li>
+<li><a href="https://fox-within.techidaily.com/custom-actions-with-property-files-in-sharepoint-best-practices/"><u>Custom Actions with Property Files in SharePoint - Best Practices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-oppo-a1x-5g-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Oppo A1x 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-amd-processor-drivers-for-windows-systems/"><u>Download the Latest AMD Processor Drivers for Windows Systems</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exploring-the-features-of-internet-information-services-iis-properties-window/"><u>Exploring the Features of Internet Information Services (IIS) Properties Window</u></a></li>
+<li><a href="https://fox-within.techidaily.com/get-instant-updates-alerts-stay-informed-with-latest-notifications/"><u>Get Instant Updates Alerts - Stay Informed with Latest Notifications</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photographers-aid-free-mobile-photography-boost/"><u>In 2024, Photographer's Aid - Free, Mobile Photography Boost</u></a></li>
+<li><a href="https://fox-within.techidaily.com/navigating-requirements-configuring-your-pre-install-setup-interface/"><u>Navigating Requirements: Configuring Your Pre-Install Setup Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-more-clutter-win-riddance-of-temp-files/"><u>No More Clutter: Win Riddance of Temp Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamlessly-sync-media-library-across-platforms-with-5kplayer-connect-your-windows-10mac-devices-using-airplay-technology/"><u>Seamlessly Sync Media Library Across Platforms with 5KPlayer - Connect Your Windows 10/Mac Devices Using AirPlay Technology</u></a></li>
+<li><a href="https://fox-within.techidaily.com/tailored-functionality-attributes/"><u>Tailored Functionality Attributes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/unlock-insights-with-effective-dialogue-techniques-in-archival-retrieval/"><u>Unlock Insights with Effective Dialogue Techniques in Archival Retrieval</u></a></li>
 </ul></div>
 

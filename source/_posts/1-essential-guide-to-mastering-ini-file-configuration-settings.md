@@ -1,7 +1,7 @@
 ---
 title: 1. Essential Guide to Mastering INI File Configuration Settings
-date: 2024-09-26T01:28:54.266Z
-updated: 2024-09-30T04:05:34.609Z
+date: 2024-09-28T17:09:12.991Z
+updated: 2024-10-05T17:41:06.231Z
 tags:
   - user-guide
 categories:
@@ -77,13 +77,20 @@ Table of Contents
 
 ## INI Location Properties
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Identification
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File Name
@@ -98,19 +105,6 @@ Table of Contents
 
  The INI file key which you want to find. 
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Field
 
  For multi-field values you can set the number of the field you want to find. 
@@ -119,33 +113,39 @@ Table of Contents
 
  Specifies how to interpret the value found in that INI key: as a path to a file, a folder or raw data. 
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Path
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)For [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the parent folder cannot be configured. The INI file will be searched only in the Windows folder.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Folder
 
 The INI file parent folder path. Leave empty to search on all fixed drives on the target computer. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Depth
 
 This field specifies how deep within the folder's subdirectories to search. 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * FileName
 * Section
@@ -188,24 +188,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-essential-tips-recording-every-moment-of-skype-on-obs/"><u>[New] Essential Tips Recording Every Moment of Skype on OBS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-leveraging-likes-and-shares-top-30-facebook-marketing-steps/"><u>[New] In 2024, Leveraging Likes and Shares Top 30 Facebook Marketing Steps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-listing-leading-8-4k-ultra-hd-players/"><u>2024 Approved Exclusive Listing Leading 8 4K Ultra HD Players</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-savvy-top-5-methods-for-building-a-thriving-influencer-profile/"><u>2024 Approved Instagram Savvy Top 5 Methods for Building a Thriving Influencer Profile</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-lava-storm-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Lava Storm 5G Phone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-flying-toys-for-kids-and-family-fun-for-2024/"><u>Best Flying Toys for Kids & Family Fun for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-12-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 12 Devices | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-free-audio-to-text-conversion/"><u>In 2024, Free Audio to Text Conversion</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 14 Pro to Android | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ipad-ebook-creator-transform-your-pdfs-into-interactive-books-using-flippdfs-html5-technology/"><u>IPad eBook Creator: Transform Your PDFs Into Interactive Books Using FlipPDF's HTML5 Technology</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-video-editing-with-flipbuilder-how-to-seamlessly-integrate-music-tracks/"><u>Mastering Video Editing with FlipBuilder: How to Seamlessly Integrate Music Tracks</u></a></li>
-<li><a href="https://fox-within.techidaily.com/protecting-your-digital-content-on-flipbook-prevent-unauthorized-access/"><u>Protecting Your Digital Content on FlipBook - Prevent Unauthorized Access</u></a></li>
-<li><a href="https://fox-within.techidaily.com/running-flipbuilder-software-offline-via-external-hard-drive-or-pen-drive-for-easy-accessibility/"><u>Running FlipBuilder Software Offline via External Hard Drive or Pen Drive for Easy Accessibility</u></a></li>
-<li><a href="https://fox-within.techidaily.com/set-your-favorite-websites-as-the-first-page-on-launch-with-flipbuilder/"><u>Set Your Favorite Websites as the First Page on Launch with FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/simple-page-turning-enjoy-digital-reading-anywhere-with-flipbook-creator-by-flipbuilder/"><u>Simple Page Turning: Enjoy Digital Reading Anywhere with FlipBook Creator by FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/speedy-turn-pages-enhance-your-book-navigation-using-flipbuilder-tools/"><u>Speedy Turn Pages: Enhance Your Book Navigation Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-to-displaying-custom-flipbook-creations-on-your-facebook-page-using-flipbuilder/"><u>Step-by-Step Guide to Displaying Custom FlipBook Creations on Your Facebook Page Using FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-switching-up-flipbook-templates-with-ease/"><u>Step-by-Step Guide: Switching Up FlipBook Templates with Ease</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-elevating-your-youtube-comments-with-emoji-skills-for-2024/"><u>[Updated] Elevating Your YouTube Comments with Emoji Skills for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elite-virtual-auditoriums/"><u>[Updated] In 2024, Elite Virtual Auditoriums</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-rise-in-search-results-mastering-podcast-seo/"><u>[Updated] In 2024, Rise in Search Results Mastering Podcast SEO</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-professional-tips-for-hd-streaming-success-on-social-media-fb/"><u>[Updated] Professional Tips for HD Streaming Success on Social Media (FB)</u></a></li>
+<li><a href="https://fox-within.techidaily.com/custom-actions-component-enhance-your-app-with-tailored-functionality/"><u>Custom Actions Component: Enhance Your App with Tailored Functionality</u></a></li>
+<li><a href="https://fox-within.techidaily.com/enhance-coding-efficiency-using-ipatch-sequence-goals-in-projects/"><u>Enhance Coding Efficiency Using IPatch Sequence Goals in Projects</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/multitasking-mac-tech-screensound-recorder/"><u>Multitasking Mac Tech Screen/Sound Recorder</u></a></li>
+<li><a href="https://fox-within.techidaily.com/simple-steps-to-transform-your-avi-videos-into-compatible-formats-for-ipad/"><u>Simple Steps to Transform Your AVI Videos Into Compatible Formats for iPad</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-user-share-settings-the-essential-guide/"><u>Understanding User Share Settings: The Essential Guide</u></a></li>
 </ul></div>
 

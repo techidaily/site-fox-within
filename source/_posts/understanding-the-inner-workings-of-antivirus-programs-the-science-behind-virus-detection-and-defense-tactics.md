@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Inner Workings of Antivirus Programs: The Science Behind Virus Detection and Defense Tactics"
-date: 2024-09-25T19:44:08.974Z
-updated: 2024-09-30T09:23:56.819Z
+date: 2024-10-01T16:32:47.923Z
+updated: 2024-10-05T17:15:00.259Z
 tags:
   - product
   - antivirus
@@ -62,6 +62,13 @@ This approach is what helps protect against encrypted viruses, or viruses that a
 
 That’s the long and short of it, a basic overview of how this type of software works. But as noted above, these security solutions also come with a bunch more advanced detection capabilities and clean up techniques that help them protect against more advanced and stealthier threats.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How an antivirus detects infection?
 
 In an attempt to protect itself, modern malware threats employ several techniques to avoid detection and elimination. It is these self-preservation methods that antivirus programs need to guard against, in order to protect a system or a network. Malicious software can also mutate, making it difficult to create a signature. And worse yet, there is malware that also actively attacks antivirus software and personal firewalls to terminate their processes, and prevent their launch.
@@ -74,13 +81,6 @@ These are some really next generation technologies that are very well equipped a
 
 Though the approaches below are listed under individual headings, the distinctions between many of these are often blurred, as antivirus programs combine different techniques to actively protect against the different types of threats.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Virus definitions
 
 Or in other words, signature-based detection. As noted above, this is practically the first method traditional antivirus software employ to identify malware. The programs rely upon signatures to detect new malware. Provided the company has already analyzed and extracted a proper signature of the file that is then kept in a database. Threats are compared to this database, and devices are then protected in case the signatures match.
@@ -89,36 +89,15 @@ Or in other words, signature-based detection. As noted above, this is practicall
 
 But while this approach does prevent malware outbreaks, cybercriminals try to stay one step ahead by writing viruses that either encrypt themselves or modify their code in order to disguise and not match virus definitions.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Heuristics
 
 While identifying a specific virus is well and good, most antivirus programs come with advanced heuristics that allows them to quickly detect a virus family, even by an inexact match to an existing signature. This helps protect against viruses that start as a single infection, but grow into dozens or even hundreds of slightly different variants.
 
 A heuristic detection allows a scanner to detect viruses even when they are padded with extra or meaningless code, using what are called wildcard characters. Heuristics is vitally important for modern antivirus solutions, but it usually not too aggressive, so as not to flag legitimate software as malware.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Behavioral blocking
 
 Behavior detection is a signatureless approach to detection that helps the program build a full context around every process execution path in real time, and identify the stealthier, more advanced malware threats. Suspicious behavior includes unpacking of malicious code, modifying the host files, or observing key strokes. Noticing actions like these allows an antivirus program to detect previously unseen malware on a system.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Sandbox detection
 
@@ -127,10 +106,10 @@ This is a behavioral based detection technique that executes the programs in a v
 As you can imagine, this technique is both heavy and slow, and its resource intensive nature means that it is rarely used in consumer antivirus solutions. End users may not always have the need for sandbox detection, but enterprises do, and antivirus solutions designed for corporate and network use offer this.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Data mining
@@ -145,6 +124,13 @@ Originally, antivirus programs just offered a regular scanner that searched thro
 
 [Why Does Antivirus Quarantine Instead of Deleting?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conventional disk scans
 
 The standard way to check for a virus. A conventional scan is either run when the user requests it, or at a scheduled instance that the antivirus sets up. This type of scan searches the contents of the disks, directories and files, as well as boot sectors and system components. Conventional disk scans are used either as a preventive maintenance activity, or when a virus is suspected.
@@ -155,6 +141,13 @@ Also known as memory-resident scanning or background guard, this type of scannin
 
 The price of this type of scanning is performance, but it offers increased protection, and more chances of catching malware before it does damage.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Smart scans
 
 These refer to an approach where an antivirus only scans selected files, that are more suspicious to be altered or infected. Smart scanning lowers the need of system resources, while protecting against the more common types of viruses, threats and risks.
@@ -162,6 +155,13 @@ These refer to an approach where an antivirus only scans selected files, that ar
 ### Startup scanning
 
 Antivirus software often come with a special program that is designed to run every time the PC is booted up. It does a quick scan of the boot sectors and critical system files, instead of a full disk scan that takes a long time to finish. This comes in particularly handy to catch boot sector viruses, before they get a chance to spread.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Detection rate
 
@@ -198,22 +198,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-when-does-instagram-get-most-active-a-comprehensive-look/"><u>[Updated] 2024 Approved When Does Instagram Get Most Active? A Comprehensive Look</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-precision-engineering-for-dvd-production-in-macos/"><u>[Updated] In 2024, Precision Engineering for DVD Production in macOS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-essential-tactics-for-gratis-picture-frames-on-screen/"><u>2024 Approved Essential Tactics for Gratis Picture Frames on Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-game-experiences-await-at-chatgpt-get-ready-to-play-these-6-amazing-games/"><u>Best Game Experiences Await at ChatGPT - Get Ready to Play These 6 Amazing Games</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-asus-zephyrus-g14-assessment-the-ultimate-all-rounder-in-portable-gaming/"><u>Comprehensive Asus Zephyrus G14 Assessment: The Ultimate All-Rounder in Portable Gaming</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-guide-to-adding-hyperlinks-to-your-ebook-pages-skip-the-acrobat-professional-hassle-try-flipbuilder-today/"><u>Easy Guide to Adding Hyperlinks to Your eBook Pages - Skip the Acrobat Professional Hassle, Try FlipBuilder Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-techniques-mastering-the-art-of-rotating-your-videos-on-facebook/"><u>Easy Techniques: Mastering the Art of Rotating Your Videos on Facebook</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-way-to-enable-interactive-flash-windows-in-your-ebooks-with-flipbuilder-try-now/"><u>Easy Way to Enable Interactive Flash Windows in Your eBooks with FlipBuilder - Try Now!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/elevate-your-digital-memories-effortless-mac-compatible-album-creation-using-image-mac-converter-by-flipbuildercom/"><u>Elevate Your Digital Memories: Effortless Mac Compatible Album Creation Using Image Mac Converter by FlipBuilder.com</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enable-sharing-your-digital-brochures-promote-content-across-facebook-twitter-and-googleplus/"><u>Enable Sharing Your Digital Brochures: Promote Content Across Facebook, Twitter & Google+</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enhance-your-ebook-appeal-turn-dull-text-and-images-into-vibrant-flash-books-using-flipbuilder/"><u>Enhance Your eBook Appeal: Turn Dull Text & Images Into Vibrant Flash Books Using FlipBuilder</u></a></li>
-<li><a href="https://fox-within.techidaily.com/explore-individual-profiles-with-ease-enabling-search-functionality-within-flipbook-publications-on-flipbuildercom/"><u>Explore Individual Profiles with Ease: Enabling Search Functionality Within FlipBook Publications on FlipBuilder.com</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-t2-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo T2 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-to-horizontal-text-orientation-on-flipbuilder-learn-rightleft-placement-easily/"><u>Guide to Horizontal Text Orientation on FlipBuilder - Learn Right/Left Placement Easily</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-add-a-watermark-to-your-photos-using-the-flipimage-pro-tool-learn-at-flipbuildercom/"><u>How to Add a Watermark to Your Photos Using the FlipImage Pro Tool [Learn at flipbuilder.com]</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-persistent-lagging-and-crashing-issues-in-warframe/"><u>How to Fix the Persistent Lagging and Crashing Issues in Warframe</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-m34-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy M34 5G Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-converting-spotify-playlist-selections-for-youtube-music-service/"><u>[New] In 2024, Converting Spotify Playlist Selections for YouTube Music Service</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-game-capture-software-analysis-obs-vs-shadowplay-for-2024/"><u>[Updated] Game Capture Software Analysis OBS vs ShadowPlay for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-upload-without-rt-video-tweets/"><u>[Updated] How to Upload Without RT Video Tweets</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-curating-credible-outro-vibes/"><u>[Updated] The Art of Curating Credible Outro Vibes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/creating-effective-youtube-cover-art-with-your-iphone-a-step-by-step-guide/"><u>Creating Effective YouTube Cover Art with Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/discover-the-ultimate-free-downloads-a-list-of-top-10-software-sources-online/"><u>Discover the Ultimate Free Downloads: A List of Top 10 Software Sources Online</u></a></li>
+<li><a href="https://fox-within.techidaily.com/essential-features-of-a-text-document-unveiling-its-attributes/"><u>Essential Features of a Text Document: Unveiling Its Attributes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/incorporating-personalized-vbscript-triggers-into-user-interfaces-a-step-by-step-guide/"><u>Incorporating Personalized VBScript Triggers Into User Interfaces: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/live-streaming-with-a-new-blue-backdrop-guide-for-smartphones/"><u>Live Streaming with a New Blue Backdrop - Guide for Smartphones</u></a></li>
+<li><a href="https://fox-within.techidaily.com/simple-tutorial-attaching-captured-images-to-your-monitor-effortlessly/"><u>Simple Tutorial: Attaching Captured Images To Your Monitor Effortlessly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/inancial-worth-one-million-youtube-eyes-for-2024/"><u>The Financial Worth One Million YouTube Eyes for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-checklist-for-establishing-a-distinctive-online-self-for-2024/"><u>The Ultimate Checklist for Establishing a Distinctive Online Self for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-top-tier-gratis-mp3-integration-suites-for-the-modern-ear-for-2024/"><u>Updated Top-Tier, Gratis MP3 Integration Suites for the Modern Ear for 2024</u></a></li>
 </ul></div>
 

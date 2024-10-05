@@ -1,7 +1,7 @@
 ---
 title: Tailored Functionality Attributes
-date: 2024-09-24T02:30:13.651Z
-updated: 2024-09-29T20:26:17.504Z
+date: 2024-10-04T18:42:06.862Z
+updated: 2024-10-05T19:31:16.146Z
 tags:
   - user-guide
 categories:
@@ -76,13 +76,6 @@ Table of Contents
 
 See [Custom Actions List](https://tools.techidaily.com/advancedinstaller/products/) for a detailed description of each predefined custom action in Advanced Installer.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Execution Time
 
 * _Immediately_ \- the action will be executed immediately when it is found in the action sequence.
@@ -91,6 +84,26 @@ See [Custom Actions List](https://tools.techidaily.com/advancedinstaller/product
 * _After the system has been successfully modified (commit)_ \- the action will be executed in the Commit phase, after everything got installed successfully.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)On Windows Vista or above the custom actions which affect the system or require Administrator privileges should run without impersonation. For this you can simply check the **Run under the LocalSystem account with full privileges (no impersonation)** option.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Execution Options
 
@@ -103,17 +116,17 @@ See [Custom Actions List](https://tools.techidaily.com/advancedinstaller/product
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Custom actions that are _executable_ files must return a value of 0 for success. The installer interprets any other return value as failure.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Execution Condition
@@ -138,13 +151,6 @@ A list with all the [events](https://tools.techidaily.com/advancedinstaller/prod
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This list is shown only for custom actions without sequence. If the list is empty then the custom action will never execute.
 
 Select an event and click **Go to selected event dialog** link button to configure it in the [Dialog Editor Page](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -188,22 +194,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-audiovisual-authority-the-finest-computers-for-professional-edits/"><u>[New] 2024 Approved Audiovisual Authority The Finest Computers for Professional Edits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-art-of-sideways-iphone-photography/"><u>[New] Unveiling the Art of Sideways iPhone Photography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-6-affordable-high-definition-projectors/"><u>Best 6 Affordable High-Definition Projectors</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-test-drive-of-the-newly-released-samsung-chromebook-galaxy-gen2/"><u>Comprehensive Test Drive of the Newly Released Samsung Chromebook (Galaxy Gen2)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/discover-unlimited-stories-free-extensions-and-mobile-marvels-for-2024/"><u>Discover Unlimited Stories – FREE Extensions & Mobile Marvels for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/extract-high-definition-audio-and-video-from-youtube-watch-history-for-pcs-and-macs-in-mp4-or-mp3-format/"><u>Extract High Definition Audio and Video From YouTube Watch History for PCs and Macs in MP4 or MP3 Format</u></a></li>
-<li><a href="https://fox-within.techidaily.com/get-premium-quality-youporn-content-for-offline-viewing-convert-and-download-as-mp4-avi-wmv-files-easily/"><u>Get Premium Quality YouPorn Content for Offline Viewing – Convert and Download as MP4, AVI, WMV Files Easily!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/get-premium-raaga-tunes-in-mp3-wav-or-aac-format-with-easy-downloading-options/"><u>Get Premium Raaga Tunes in MP3, WAV or AAC Format with Easy Downloading Options</u></a></li>
-<li><a href="https://fox-within.techidaily.com/get-your-favorite-mls-soccer-media-with-one-click-download-clips-songs-and-more/"><u>Get Your Favorite MLS Soccer Media with One-Click Download: Clips, Songs, and More!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 6 | Stellar</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y27s-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo Y27s to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/playfm-music-conversion-guide-download-mp3-aac-wav-files-now/"><u>Play.FM Music Conversion Guide - Download MP3, AAC, WAV Files Now</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-converting-rooster-teeth-shows-into-mp4-and-avi-formats/"><u>Step-by-Step Guide: Converting Rooster Teeth Shows Into MP4 & AVI Formats</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-converting-vidlii-downloads-into-multiple-video-formats-like-mp4-avi-and-mov/"><u>Step-by-Step Guide: Converting VidLii Downloads Into Multiple Video Formats Like MP4, AVI & MOV</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969477841-step-by-step-guide-updating-graphics-and-chipset-drivers-on-your-dell-xps-15/"><u>Step-by-Step Guide: Updating Graphics and Chipset Drivers on Your Dell XPS 15</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-downloading-and-saving-vrt-nu-live-shows-as-high-quality-video-files-on-windows-or-macos/"><u>Step-by-Step Tutorial: Downloading and Saving VRT NU Live Shows as High-Quality Video Files on Windows or macOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fixes-for-nonfunctioning-chromecast-sound-issues/"><u>The Ultimate Fixes for Nonfunctioning Chromecast Sound Issues</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pair-phonetablet-and-computer-calendars-for-seamless-zoom-scheduling/"><u>[Updated] In 2024, Pair Phone/Tablet & Computer Calendars for Seamless Zoom Scheduling</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-untouched-live-visual-recorders-for-2024/"><u>[Updated] Untouched Live Visual Recorders for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-hook-creation-tool-for-online-titles/"><u>2024 Approved Ultimate Hook-Creation Tool for Online Titles</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/combining-security-effortlessly-an-insightful-overview-of-the-arlo-video-doorbell-with-built-in-alarm-features/"><u>Combining Security Effortlessly: An Insightful Overview of the Arlo Video Doorbell with Built-In Alarm Features</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/led-insights-into-youtubes-perfected-aspect-ratios/"><u>Detailed Insights Into YouTube's Perfected Aspect Ratios</u></a></li>
+<li><a href="https://fox-within.techidaily.com/discovering-the-hidden-places-of-chrome-browser-plugins-and-extensions/"><u>Discovering the Hidden Places of Chrome Browser Plugins and Extensions</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easy-methods-to-duplicate-content-from-your-xiaomi-11-onto-your-pc/"><u>Easy Methods to Duplicate Content From Your Xiaomi 지패11 Onto Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/eliminating-barriers-accessing-fcp-at-no-charge/"><u>Eliminating Barriers Accessing FCP at No Charge</u></a></li>
+<li><a href="https://fox-within.techidaily.com/engage-and-configure-user-friendly-interface-for-quick-setup-processes/"><u>Engage & Configure: User-Friendly Interface for Quick Setup Processes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/expert-tips-on-speedy-production-of-quicktime-audio-captures/"><u>Expert Tips on Speedy Production of QuickTime Audio Captures</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-ghost-recon-breakpoint-resolving-game-crashes-fast-and-simple/"><u>Fixing Ghost Recon Breakpoint: Resolving Game Crashes Fast and Simple</u></a></li>
+<li><a href="https://fox-within.techidaily.com/innovative-dialogue-formatting-strategies-in-writing/"><u>Innovative Dialogue Formatting Strategies in Writing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/malwarefox-unveiled-a-comprehensive-guide-on-spyware-and-malware-distinctions-for-optimal-protection/"><u>MalwareFox Unveiled: A Comprehensive Guide on Spyware and Malware Distinctions for Optimal Protection</u></a></li>
+<li><a href="https://fox-within.techidaily.com/real-time-notification-updates-never-miss-out-on-important-information/"><u>Real-Time Notification Updates - Never Miss Out on Important Information!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-essential-list-of-macs-top-snipping-apps/"><u>The Essential List of Mac's Top Snipping Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-beginners-guide-to-the-5-highest-ranking-vlogging-cameras-on-the-market-today/"><u>The Ultimate Beginners' Guide to the 5 Highest-Ranking Vlogging Cameras on the Market Today</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-file-deletion-tool-effortless-cleanup-with-iremovefiles/"><u>Ultimate File Deletion Tool: Effortless Cleanup with IRemoveFiles</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-setting-up-alarms-on-android-phones-and-tablets/"><u>Ultimate Guide to Setting Up Alarms on Android Phones and Tablets</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unmatched-recording-alternatives-for-modern-gaming-enthusiasts-for-2024/"><u>Unmatched Recording Alternatives for Modern Gaming Enthusiasts for 2024</u></a></li>
 </ul></div>
 

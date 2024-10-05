@@ -1,7 +1,7 @@
 ---
 title: Beginner's Guide to Configuring Default Chat Scripts Instantly
-date: 2024-09-27T23:32:23.293Z
-updated: 2024-09-29T17:05:35.041Z
+date: 2024-10-02T17:36:54.540Z
+updated: 2024-10-05T16:56:35.151Z
 tags:
   - user-guide
 categories:
@@ -91,6 +91,13 @@ The dialogs defined here can appear only during the first time install or major 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It is recommended to remove this dialog to reduce installation steps. Also, users usually skip this dialog without reading.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Select Installation Folder Dialog (FolderDlg)
 
  Allows the user to select the folder where the package will be installed.
@@ -131,13 +138,6 @@ The dialog asks the user to confirm the file associations' creation. The availab
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If you want the user to be able to select which file associations to register, you should use the "FileAssociationsDlg" dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### File Associations Dialog (FileAssociationsDlg)
 
 This dialog will enable you to select which of the file associations you want to register. When added, this dialog is automatically populated with the extensions which use the **Show in extension list** option in [Extension Properties](https://tools.techidaily.com/advancedinstaller/products/) pane. In order to use this dialog, go to “File Associations” under “Resources” and select the desired File Extension. In the “Extension Properties” page of the selected element, be sure to enable "Show in FileAssociationsDlg dialog" option. 
@@ -145,13 +145,6 @@ This dialog will enable you to select which of the file associations you want to
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For more information, please see [File Associations Page](https://tools.techidaily.com/advancedinstaller/products/). This dialog is not available in a "Simple" project.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If you want to remove a checkbox from this dialog you can disable the "Show in extension list" option for the associated extension.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Install Type Dialog (InstallTypeDlg)
 
@@ -161,10 +154,16 @@ This dialog will allow the user to choose where the application will be installe
 * All Users - The application will be available for all users. For this type of installation, a user with administrator privileges is required.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### License Agreement Dialog (LicenseAgreementDlg)
@@ -177,13 +176,6 @@ In _Enterprise_ or above project types you can select the Rich Text Format file 
 
 You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the License Agreement text and optionally [enforce the EULA lecture](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Logon Information Dialog (LogonInformationDlg)
 
  This dialog can be used when the logon credentials are needed to during the application's installation process. The dialog is composed of the following fields: 
@@ -192,16 +184,16 @@ You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the
 * Domain - the string will be saved in the DOMAIN\_NAME property.
 * Password - the string will be saved in the USER\_PASSWORD property.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Optional Features Dialog (OptionalFeatsDlg)
 
 This dialog implements the [Quick Selection List](https://tools.techidaily.com/advancedinstaller/products/) control with the function to check or uncheck all features in the list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prerequisites Dialog (PrerequisitesDlg)
 
@@ -220,6 +212,13 @@ In _Enterprise_ or above project types you can select the Rich Text Format file 
 You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the ReadMe text.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It is recommended to exclude this dialog in order to reduce the installation steps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Setup Type Dialog (SetupTypeDlg)
 
@@ -247,10 +246,10 @@ This dialog prompts the user to select where he wants to create shortcuts. Four 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These shortcuts must be created in the [Files and Folders](https://tools.techidaily.com/advancedinstaller/products/) page in order to be installed. This dialog doesn't create the shortcuts automatically, it simply conditions their creation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 With _Professional_ project types, in the bottom pane you can choose what options will be displayed on the dialog during installation as well as their default state.
@@ -258,6 +257,20 @@ With _Professional_ project types, in the bottom pane you can choose what option
 On _Enterprise_ or above project types, in the "Shortcuts Actions" tab from the "Control" view you can choose what shortcuts will be displayed on the dialog during installation as well as their default state.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This dialog is not available in a "Simple" project.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### SQL Connection Dialog (SQLConnectionDlg)
 
@@ -287,26 +300,6 @@ This dialogs defines and uses the following global properties:
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)These properties can be easily used to configure an SQL connection. For more information please, visit [Configuring Databases with SQL Scripts](https://tools.techidaily.com/advancedinstaller/products/) tutorial.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### SQL Server Connection Dialog (SQLServerConnectionDlg)
 
 This dialog is mutually exclusive with SQL Connection Dialog (SQLConnectionDlg). It includes functionality to list the available [databases](https://tools.techidaily.com/advancedinstaller/products/) and [servers](https://tools.techidaily.com/advancedinstaller/products/), choosing the[SQL authentication type](https://tools.techidaily.com/advancedinstaller/products/) and [testing the connection parameters](https://tools.techidaily.com/advancedinstaller/products/) before establishing the connection. The advantage of this dialog over SQLConnectionDlg is that it automatically adds all necessary SQL configuration in the [SQL Databases Page](https://tools.techidaily.com/advancedinstaller/products/).
@@ -318,6 +311,13 @@ This dialog is mutually exclusive with SQL Connection Dialog (SQLConnectionDlg).
  This dialog allows you to choose the shortcut group from Start Menu in which your program's shortcuts will be installed. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This dialog is not available in a "Simple" project.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Upgrade Dialog (UpgradeDlg)
 
@@ -372,16 +372,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-pinterest-videos-top-5-no-pay-extractors-online/"><u>[New] 2024 Approved Pinterest Videos Top 5 No-Pay Extractors Online</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-video-earning-excellence-mastering-youtube-monetization-anywhere/"><u>[New] In 2024, Video Earning Excellence Mastering YouTube Monetization Anywhere</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-screen-capture-guide-tunefab-pro/"><u>[Updated] 2024 Approved Ultimate Screen Capture Guide - Tunefab Pro</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-essential-tips-for-instagram-photos-with-custom-watermarks-for-2024/"><u>[Updated] Essential Tips for Instagram Photos with Custom Watermarks for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-visualization-selecting-the-ideal-size-and-placement-for-yt/"><u>[Updated] In 2024, Channel Visualization Selecting the Ideal Size and Placement for YT</u></a></li>
-<li><a href="https://fox-within.techidaily.com/best-techniques-for-downloading-myvideo-content-from-pc-or-mac/"><u>Best Techniques for Downloading MyVideo Content From PC or Mac</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-conver2mp3-errors-and-enhancing-functionality/"><u>Troubleshooting Conver2MP3 Errors and Enhancing Functionality</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-premium-free-cinema-securing-your-favorite-movies-for-offline-viewing/"><u>Ultimate Guide to Premium-Free Cinema: Securing Your Favorite Movies for Offline Viewing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/unlocking-learning-potential-seamless-guide-to-download-training-vids-from-video2brain-platform/"><u>Unlocking Learning Potential: Seamless Guide to Download Training Vids From Video2Brain Platform</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-crafting-the-perfect-track-heres-our-selection-of-the-best-8-chrome-os-compatible-daws-musicians-for-2024/"><u>Updated Crafting the Perfect Track? Heres Our Selection of the Best 8 Chrome OS-Compatible DAWs Musicians for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-creative-instagram-story-questions-increase-engagement/"><u>[Updated] 2024 Approved Creative Instagram Story Questions Increase Engagement</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-editors-playbook-for-social-media-stardom/"><u>[Updated] 2024 Approved The Editor's Playbook for Social Media Stardom</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-bridging-twitter-and-fb-with-shared-vids-for-2024/"><u>[Updated] Bridging Twitter and FB with Shared Vids for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-strategic-application-of-hashtags-in-fb-advertising/"><u>[Updated] In 2024, Strategic Application of Hashtags in FB Advertising</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-poker-playpersonalized-projections/"><u>2024 Approved POKER PLAYPERSONALIZED PROJECTIONS</u></a></li>
+<li><a href="https://fox-within.techidaily.com/creating-viral-tiktok-content-a-step-by-step-guide/"><u>Creating Viral TikTok Content: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/eliminate-intrusive-advertisements-effectively-using-our-proven-anti-adware-solution-from-malwarefox/"><u>Eliminate Intrusive Advertisements Effectively Using Our Proven Anti-Adware Solution From MalwareFox!</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-c53-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme C53 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/resume-speed-on-xbox-sx-necessary-or-not/"><u>Résumé Speed on Xbox S/X - Necessary or Not?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-guide-resolving-issues-with-non-responsive-samsung-smart-switch/"><u>Troubleshooting Guide: Resolving Issues with Non-Responsive Samsung Smart Switch</u></a></li>
+<li><a href="https://fox-within.techidaily.com/watch-the-global-hit-your-guide-to-streaming-the-permission-to-dance-performance-by-bts-on-television/"><u>Watch the Global Hit: Your Guide to Streaming the 'Permission to Dance' Performance by BTS On Television</u></a></li>
 </ul></div>
 

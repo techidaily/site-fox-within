@@ -1,7 +1,7 @@
 ---
 title: "Advanced Guide: How to Modify Executable File Properties Window"
-date: 2024-09-26T03:40:48.958Z
-updated: 2024-09-29T21:17:07.299Z
+date: 2024-09-29T20:43:35.122Z
+updated: 2024-10-05T17:15:32.675Z
 tags:
   - user-guide
 categories:
@@ -93,37 +93,44 @@ This dialog enables you to edit a field from the EXE metadata.
 
 ![Edit EXE Metadata Field Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-exe-metadata-field.png "Edit EXE Metadata Field Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Field Details
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Name
 
 The field name. This value cannot be changed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Value
 
 This field has [Advanced Installer PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Value Options
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use specific value
@@ -133,13 +140,6 @@ Checking this option will enable the above **Value** field allowing you to edit 
 ### Use default value
 
 This option restores the default field value.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Do not use this field
 
@@ -178,22 +178,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-step-by-step-to-effortless-iphone-screen-recording/"><u>[New] 2024 Approved Step-by-Step to Effortless IPhone Screen Recording</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-dynamic-visual-snapshot-providers/"><u>[New] In 2024, Dynamic Visual Snapshot Providers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-collection-8-amazing-3d-websites-with-gold/"><u>[New] The Ultimate Collection 8 Amazing 3D Websites with Gold</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-jumpstart-your-channelstopwatch-seeking-viewers-with-these-youtube-seo-essentials/"><u>[Updated] Jumpstart Your Channel’stopwatch-Seeking Viewers with These YouTube SEO Essentials</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effortlessly-convert-your-gif-files-to-mpeg-format-at-no-cost-using-movavis-web-tool/"><u>Effortlessly Convert Your GIF Files to MPEG Format at No Cost - Using Movavi's Web Tool</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/empowering-videos-with-your-cellphones-camera-function/"><u>Empowering Videos with Your Cellphone's Camera Function</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expedition-tools-for-storytelling-through-lenses/"><u>In 2024, Expedition Tools for Storytelling Through Lenses</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-myface-illusion-sketch-your-whimsical-profile-icon/"><u>In 2024, MyFace Illusion Sketch Your Whimsical Profile Icon</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-converting-vidlii-downloads-into-multiple-video-formats-like-mp4-avi-and-mov/"><u>Step-by-Step Guide: Converting VidLii Downloads Into Multiple Video Formats Like MP4, AVI & MOV</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-downloading-and-saving-vrt-nu-live-shows-as-high-quality-video-files-on-windows-or-macos/"><u>Step-by-Step Tutorial: Downloading and Saving VRT NU Live Shows as High-Quality Video Files on Windows or macOS</u></a></li>
-<li><a href="https://fox-within.techidaily.com/stream-and-save-secure-video-downloads-with-the-quickplay-tool-from-playedto/"><u>Stream & Save: Secure Video Downloads with the Quickplay Tool From Played.to</u></a></li>
-<li><a href="https://fox-within.techidaily.com/stream-and-save-on-demand-top-tool-for-tagesschau-content-videocaptures-to-audio-extraction-made-simple/"><u>Stream and Save on Demand: Top Tool for Tagesschau Content – Videocaptures to Audio Extraction Made Simple</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-dangers-of-over-relying-on-ai-6-critical-points/"><u>The Hidden Dangers of Over-Relying on AI: 6 Critical Points</u></a></li>
-<li><a href="https://fox-within.techidaily.com/transfer-live365-streams-to-high-quality-audio-formats-like-mp3-wav-and-aac-with-our-handy-downloader/"><u>Transfer Live365 Streams to High-Quality Audio Formats Like MP3, WAV, and AAC with Our Handy Downloader</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-conver2mp3-errors-and-enhancing-functionality/"><u>Troubleshooting Conver2MP3 Errors and Enhancing Functionality</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-premium-free-cinema-securing-your-favorite-movies-for-offline-viewing/"><u>Ultimate Guide to Premium-Free Cinema: Securing Your Favorite Movies for Offline Viewing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/unlocking-learning-potential-seamless-guide-to-download-training-vids-from-video2brain-platform/"><u>Unlocking Learning Potential: Seamless Guide to Download Training Vids From Video2Brain Platform</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/electing-the-right-gear-a-filmmakers-checklist-for-2024/"><u>[New] Selecting the Right Gear A Filmmaker's Checklist for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-zoom-communication-guide-unlocking-the-power-of-remote-conversations/"><u>[New] The Ultimate Zoom Communication Guide Unlocking the Power of Remote Conversations</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-10-secrets-from-pros-for-stellar-youtubers-music-videos-for-2024/"><u>[New] Top 10 Secrets From Pros for Stellar Youtubers' Music Videos for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/automatic-app-closure-feature-update/"><u>Automatic App Closure Feature Update</u></a></li>
+<li><a href="https://fox-within.techidaily.com/convert-mov-videos-to-wmv-quickly-enjoy-a-hassle-free-free-file-conversion-tool/"><u>Convert MOV Videos to WMV Quickly - Enjoy a Hassle-Free, FREE File Conversion Tool!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-13-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 13 mini Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/leading-no-cost-video-editor-apps-seamless-file-conversions-anytime-anywhere/"><u>Leading No-Cost Video Editor Apps: Seamless File Conversions Anytime, Anywhere</u></a></li>
+<li><a href="https://fox-within.techidaily.com/navigating-system-modification-insights-into-the-page-group-category/"><u>Navigating System Modification: Insights Into the Page Group Category</u></a></li>
+<li><a href="https://fox-within.techidaily.com/quick-and-effective-techniques-for-modifying-pdf-text-content-with-adobes-tools/"><u>Quick and Effective Techniques for Modifying PDF Text Content with Adobe's Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/sonic-selections-fine-tuning-your-instagram-video-soundtrack/"><u>Sonic Selections Fine-Tuning Your Instagram Video Soundtrack</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/steelseries-gaming-mouse-drivers-free-downloads-available/"><u>SteelSeries Gaming Mouse Drivers - Free Downloads Available</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-on-installing-and-configuring-your-license-server/"><u>Step-by-Step Tutorial on Installing and Configuring Your License Server</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-to-facebooks-most-engaging-vids-for-2024/"><u>The Ultimate Guide to Facebook’s Most Engaging Vids for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/the-ultimate-troubleshooting-for-retrieving-deleted-conversations-following-the-ios-12-upgrade/"><u>The Ultimate Troubleshooting for Retrieving Deleted Conversations Following the iOS 12 Upgrade</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Poco M6 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
 

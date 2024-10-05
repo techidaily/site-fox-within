@@ -1,7 +1,7 @@
 ---
 title: "Overview Section: Understanding the Basics"
-date: 2024-09-26T03:13:50.730Z
-updated: 2024-09-29T23:46:01.786Z
+date: 2024-10-03T20:10:05.506Z
+updated: 2024-10-05T20:02:35.974Z
 tags:
   - user-guide
 categories:
@@ -76,13 +76,6 @@ Table of Contents
 
 ![Edit SCCM General Information](https://cdn.advancedinstaller.com/img/dialog/sccm-general-info.png "Edit SCCM General Information")  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Description
 
 This section contains general information about the selected program profile.
@@ -93,13 +86,6 @@ This field displays the name of the profile. This field must be unique within th
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It supports [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment
 
 This field is **optional** and can be used to add comments for this program profile.
@@ -107,15 +93,22 @@ This field is **optional** and can be used to add comments for this program prof
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It supports [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Application
 
 In this section, you can select the application that will be associated with this program profile.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Command Line
 
@@ -125,16 +118,16 @@ In order to select an application use the \[... \] button. The following file ex
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field supports [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Start In
 
 In this field, you can declare the working folder of the program. This entry is **mandatory**. It can point to an absolute path on the client computer or a path relative to the package source folder. If no specific path is declared the folder where the package is deployed will be used as the working directory.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run Mode
 
@@ -163,6 +156,13 @@ This combo box allows you to declare the post-execution behavior if the program 
 * Once the program has ended successfully the "Log Off" operation will be executed on the System Management Server.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If a predefined configuration profile is being edited these settings cannot be changed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -197,20 +197,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-close-look-at-dji-phantom-3s-high-end-capabilities/"><u>[New] A Close Look at DJI Phantom 3'S High-End Capabilities</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-bursting-laughter-crafting-engaging-reaction-videos-on-youtube-3-methods-for-2024/"><u>[New] Bursting Laughter Crafting Engaging Reaction Videos on YouTube (3 Methods) for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-innovative-strategies-for-iphoneipad-screenshots-in-media/"><u>[Updated] Innovative Strategies for iPhone/iPad Screenshots in Media</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-exploring-javascript-integration-is-it-permissible-in-e-book-formats-on-flipbuilder/"><u>1. Exploring JavaScript Integration: Is It Permissible in E-Book Formats on FlipBuilder?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-essential-skills-for-harvesting-and-storing-gifs-from-facebooks-feed/"><u>2024 Approved Essential Skills for Harvesting and Storing GIFs From Facebook's Feed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 7 Plus | Stellar</u></a></li>
-<li><a href="https://fox-within.techidaily.com/can-you-embed-videos-using-flipbuilder-on-your-website/"><u>Can You Embed Videos Using FlipBuilder on Your Website?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/convert-your-free-pdfs-into-interactive-flash-magazines-effortless-no-cost/"><u>Convert Your Free PDFs Into Interactive Flash Magazines - Effortless, No Cost!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/convert-your-presentations-in-no-time-free-software-turns-powerpoint-into-flash-files-swf/"><u>Convert Your Presentations in No Time - Free Software Turns PowerPoint Into Flash Files (.swf)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/masterful-mentorship-with-ai-six-ways-for-an-outstanding-dungeon-master/"><u>Masterful Mentorship with AI: Six Ways for an Outstanding Dungeon Master</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-the-ultimate-guide-to-generating-speech-in-different-languages-with-the-best-tools-for-2024/"><u>New The Ultimate Guide to Generating Speech in Different Languages With the Best Tools for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/pro-version-horizon-ai-boilerplate-with-nextjs-and-figma-integration-advanced-payment-setups-with-stripe-and-supabase-complete-oauth-support-by-creative-tim13/"><u>PRO Version Horizon AI Boilerplate with NextJS & Figma Integration – Advanced Payment Setups with Stripe and Supabase, Complete OAuth Support by Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-top-tier-svelte-templates-from-creative-tim/"><u>Ultimate Guide to Top-Tier Svelte Templates From Creative Tim</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-best-free-video-surveillance-software-a-comprehensive-guide/"><u>Updated In 2024, The Best Free Video Surveillance Software A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/when-diluting-or-concentrating-solutions-adjust-amounts-proportionally-to-keep-the-same-concentration/"><u>When Diluting or Concentrating Solutions, Adjust Amounts Proportionally to Keep the Same Concentration.</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-toolkit-for-creating-stunning-and-effective-snaps-for-2024/"><u>[New] The Ultimate Toolkit for Creating Stunning & Effective Snaps for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/canon-sx70s-zoom-unleashed-a-perfect-choice/"><u>Canon SX70's Zoom Unleashed: A Perfect Choice?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/creating-viral-tiktok-content-a-step-by-step-guide/"><u>Creating Viral TikTok Content: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/eliminate-intrusive-advertisements-effectively-using-our-proven-anti-adware-solution-from-malwarefox/"><u>Eliminate Intrusive Advertisements Effectively Using Our Proven Anti-Adware Solution From MalwareFox!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-up-to-date-drivers-for-your-canon-mg3022-printer/"><u>How to Install Up-to-Date Drivers for Your Canon MG3022 Printer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-lava-yuva-2-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Lava Yuva 2 Pro FRP Bypass</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-guide-to-resolving-multiversus-not-launching-top-tips-and-tricks/"><u>PC Gamers Guide to Resolving MultiVersus Not Launching – Top Tips and Tricks</u></a></li>
+<li><a href="https://fox-within.techidaily.com/quick-guide-how-to-transfer-spotify-tracks-onto-a-cd-on-windows-or-macos-computers/"><u>Quick Guide: How to Transfer Spotify Tracks Onto a CD on Windows or macOS Computers</u></a></li>
+<li><a href="https://fox-within.techidaily.com/reviving-your-iphone-with-icloud-top-techniques-for-optimal-recovery/"><u>Reviving Your iPhone with iCloud: Top Techniques for Optimal Recovery</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-projecting-your-huawei-p30-screen-onto-the-television/"><u>Step-by-Step Guide: Projecting Your Huawei P30 Screen Onto the Television</u></a></li>
+<li><a href="https://fox-within.techidaily.com/stop-getting-push-notifications-about-ios-s-12-updates-comprehensive-tips-and-tricks/"><u>Stop Getting Push Notifications About iOS S 12 Updates - Comprehensive Tips & Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/swiftly-enhanced-facebook-videos-best-extensions-hacks-and-apps/"><u>Swiftly Enhanced Facebook Videos Best Extensions, Hacks, and Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-recuva-the-leading-solution-for-data-deletion-reversal/"><u>Unveiling Recuva: The Leading Solution for Data Deletion Reversal</u></a></li>
 </ul></div>
 

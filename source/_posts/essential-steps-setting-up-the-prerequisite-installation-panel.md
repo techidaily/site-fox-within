@@ -1,7 +1,7 @@
 ---
 title: "Essential Steps: Setting Up the Prerequisite Installation Panel"
-date: 2024-09-24T03:46:22.481Z
-updated: 2024-09-30T08:02:51.787Z
+date: 2024-10-02T18:32:18.593Z
+updated: 2024-10-05T18:41:35.001Z
 tags:
   - user-guide
 categories:
@@ -84,13 +84,6 @@ In this tab you can edit the properties of a new prerequisite or change the prop
 
 ## Install
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### UI Level
 
 Select the User Interface level used by the prerequisite package during product install
@@ -145,16 +138,16 @@ Specify when to install the prerequisite:
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For Professional project type the "During Main Package" and "After Main Package" prerequisites will be installed only if the main package is run with full UI. The prerequisite will not be installed if the main package is installed with silent or basic UI.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reboot system after installing this prerequisite
 
 The user will be prompted to reboot the machine after the prerequisite is installed. If the user accepts a reboot, the machine will be automatically restarted and the installation will continue, otherwise the installation will be aborted.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Continue with main installation even if the prerequisite is not installed
 
@@ -164,9 +157,23 @@ When this option is unchecked, the main product installation will not fail as in
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Enabling this option for prerequisites scheduled during the main package installation will not rollback the installation when the prerequisite fails if you're running the main package in silent mode. This is happening because during a silent installation the prerequisite will be installed after the main installation when it's too late to rollback.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Chained
 
 Check this option to install the prerequisite as a [Chained Package](https://tools.techidaily.com/advancedinstaller/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Framework
 
@@ -180,6 +187,19 @@ Check this option to install the prerequisite as a Framework Prerequisite.
 
 Check this option to allow the uninstall for the prerequisite
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### UI Level
 
 Select the desired UI level for the prerequisite:
@@ -190,6 +210,13 @@ Select the desired UI level for the prerequisite:
 * **Silent install(no UI)** \- the prerequisite will be installed in silent mode
 * **Same as main package** \- the UI level will be the same as the main package's
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Properties
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is only available for _Chained_ prerequisites
@@ -197,13 +224,6 @@ Select the desired UI level for the prerequisite:
 A list of installer properties that will be passed to the package (for exampleMY\_PROPERTY="Value")
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Command Line
 
@@ -217,16 +237,16 @@ Optional command lines for launching the prerequisite under different UI environ
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If you need to omit a parameter containing an empty property from the install command line of a prerequisite, you could **place it between curly brackets - "{ }"** . For example :" {PROP=\[CHEKBOX\]} ". In this case, if CHECKBOX property is empty the whole expression will be ommited.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)This field does not support _Formatted values_ for Framework prerequisites.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The command line of a prerequisite accepts all the standard MSIEXEC parameters if the prerequisite's installation package is MSI-based.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Condition
 
@@ -246,32 +266,11 @@ A list of installer properties that will be passed to the package (for exampleMY
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Condition
 
 Specify the condition for Maintainace mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Rollback
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Allow Rollback
 
@@ -281,20 +280,27 @@ Check this option to allow Rollback for the prerequisite.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is only available for _Chained_ prerequisites
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A list of installer properties that will be passed to the package (for exampleMY\_PROPERTY="Value")
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Condition
 
 Specify the condition for rollback.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -334,24 +340,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-experts-picks-top-5-free-screen-recorders-for-pc-users-for-2024/"><u>[New] Expert's Picks Top 5 Free Screen Recorders For PC Users for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foundational-codes-for-youtube-enthusiasts/"><u>[Updated] 2024 Approved Foundational Codes for YouTube Enthusiasts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-pro-shortcuts-every-youtuber-needs-the-top-20-list/"><u>[Updated] In 2024, Pro Shortcuts Every YouTuber Needs - The Top 20 List</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-argon-pro-dashboard-with-material-ui-integration-a-high-end-react-application-suite-by-creative-tim/"><u>Advanced Argon Pro Dashboard with Material-UI Integration: A High-End React Application Suite by Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-proui-dashboard-creator-with-bootstrap-4-and-react-complete-reactive-admin-panel-by-creative-tim/"><u>Advanced ProUI Dashboard Creator with Bootstrap 4 & React: Complete Reactive Admin Panel by Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-exclusive-premium-nextjs-admin-dashboard-powered-by-material-components/"><u>Creative Tim's Exclusive Premium NextJS Admin Dashboard Powered by Material Components</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creative-tims-top-picks-over-40-elegant-vite-template-collections-for-rapid-web-development/"><u>Creative Tim's Top Picks: Over 40 Elegant Vite Template Collections for Rapid Web Development</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-hidden-gems-a-guide-to-finding-your-saved-instagram-reels/"><u>Discovering Hidden Gems: A Guide to Finding Your Saved Instagram Reels</u></a></li>
-<li><a href="https://fox-within.techidaily.com/django-boosted-with-bootstrap-4-the-ultimate-black-admin-by-creative-tim/"><u>Django Boosted with Bootstrap 4 - The Ultimate Black Admin by Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/figma-pro-mastery-unlocking-efficiency-with-horizon-ai-boilerplate-plus-design-excellence-by-creative-tim/"><u>Figma Pro Mastery: Unlocking Efficiency with Horizon AI Boilerplate PLUS | Design Excellence by Creative Tim</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixes-for-failed-connection-with-steam-servers/"><u>Fixes for Failed Connection with Steam Servers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c51-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Poco C51 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-x100-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo X100 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-convert-video-to-audio-best-apps-for-ios-and-android/"><u>New 2024 Approved Convert Video to Audio Best Apps for iOS and Android</u></a></li>
-<li><a href="https://fox-within.techidaily.com/react-paper-dashboard-with-bootstrap-4-professional-admin-layout-by-creative-tim/"><u>React Paper Dashboard with Bootstrap 4 - Professional Admin Layout by Creative Tim</u></a></li>
-<li><a href="https://fox-within.techidaily.com/superior-project-manager-dashboard-2-professional-edition-with-laravels-livewire-features-by-creative-tim-and-updivision-for-ultimate-uiux-experience/"><u>Superior Project Manager Dashboard 2 Professional Edition with Laravel's Livewire Features by Creative Tim & UPDIVISION for Ultimate UI/UX Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-kobo-nia-is-it-a-strong-contender-in-the-kindle-arena/"><u>Unboxing the Kobo Nia - Is It a Strong Contender in the Kindle Arena?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/unleash-your-creativity-with-free-bootstrap-based-user-interface-kit-from-creative-tim/"><u>Unleash Your Creativity with Free Bootstrap-Based User Interface Kit From Creative Tim!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-editing-gopro-videos-on-mac-best-practices-and-software/"><u>Updated In 2024, Editing GoPro Videos on Mac Best Practices and Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-sites-boosting-youtube-viewership/"><u>[Updated] Leading Sites Boosting YouTube Viewership</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-socialsoundify-twitter-videos-to-audio-for-2024/"><u>[Updated] SocialSoundify Twitter Videos to Audio for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-up-your-photography-game-with-these-top-8-tablets/"><u>[Updated] Step Up Your Photography Game With These Top 8 Tablets</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-tiktok-streams-decoded-finding-your-special-hashtag/"><u>2024 Approved TikTok Streams Decoded Finding Your Special Hashtag</u></a></li>
+<li><a href="https://fox-within.techidaily.com/discovering-the-hidden-places-of-chrome-browser-plugins-and-extensions/"><u>Discovering the Hidden Places of Chrome Browser Plugins and Extensions</u></a></li>
+<li><a href="https://fox-within.techidaily.com/engage-and-configure-user-friendly-interface-for-quick-setup-processes/"><u>Engage & Configure: User-Friendly Interface for Quick Setup Processes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/expert-tips-on-speedy-production-of-quicktime-audio-captures/"><u>Expert Tips on Speedy Production of QuickTime Audio Captures</u></a></li>
+<li><a href="https://fox-within.techidaily.com/innovative-dialogue-formatting-strategies-in-writing/"><u>Innovative Dialogue Formatting Strategies in Writing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/malwarefox-unveiled-a-comprehensive-guide-on-spyware-and-malware-distinctions-for-optimal-protection/"><u>MalwareFox Unveiled: A Comprehensive Guide on Spyware and Malware Distinctions for Optimal Protection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-infinix-note-30-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Infinix Note 30 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-s23-tactical-edition-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy S23 Tactical Edition Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/top-solutions-fixing-the-persistent-black-screen-problem-in-zoom/"><u>Top Solutions: Fixing the Persistent Black Screen Problem in Zoom</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-setting-up-alarms-on-android-phones-and-tablets/"><u>Ultimate Guide to Setting Up Alarms on Android Phones and Tablets</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-the-essential-criteria-in-the-requirements-tab/"><u>Understanding the Essential Criteria in the Requirements Tab</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iuocpuocoplusodsplusocrplusocueodkplusodhplusocquoduplusocouocpdrpq5jluqbjgarpn7plo7dlpinmj5vjgqzjgqtjg4kg56ys5zub6yoo44ks44gu57s55lul44gx44gplus44gzig/"><u>ウィンクスビデオ・アイ:高度な音声変換ガイド 第四部をご紹介します</u></a></li>
 </ul></div>
 

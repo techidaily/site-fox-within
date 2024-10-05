@@ -1,7 +1,7 @@
 ---
 title: Setting Up an Efficient Event Tracker Dashboard
-date: 2024-09-26T00:47:01.155Z
-updated: 2024-09-30T09:08:48.205Z
+date: 2024-10-03T19:31:41.322Z
+updated: 2024-10-05T16:25:17.448Z
 tags:
   - user-guide
 categories:
@@ -98,13 +98,6 @@ Global builds events are executed for all builds from the list. If you want to h
 
 It is possible to create **Pre** and **Post** build events.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pre-Build Events
 
 This type of events are executed **before** the actual package is being created. They can be useful to run commands whose results are used in the package building process, like always copy files from a location to ensure that you always have the latest files included in the project before starting the build process.
@@ -125,39 +118,53 @@ Also, you can create new events starting from some predefined templates. Just se
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You need to substitute place holders <source\_file> and <destination\_file> with actual paths.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can access the current build output path by using properties like AI\_BUILD\_OUTPUT\_FILE or AI\_BUILD\_OUTPUT\_FOLDER. These properties are available only during build-time. It is **highly recommended** to include all paths in quotation marks (" ") since some of them can contain spaces of special characters.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Edit an event
 
  Use the “Edit” list context menu item or press theSpace key in order to edit an event.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Removing an event
 
  Use the “Delete” list context menu item or press theDelete key in order to remove an event.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifying the events execution order
 
 Use the “Move Up” / “Move Down” context menu item while an event is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Examples
 
@@ -167,13 +174,6 @@ It is possible to define your own event that will be scheduled post or prior bui
 * Add a command line [batch (.bat) file as a custom event](https://tools.techidaily.com/advancedinstaller/products/)
 * Add a [vbscript file as a custom event](https://tools.techidaily.com/advancedinstaller/products/)
 * Add a [custom exe file as a custom event](https://tools.techidaily.com/advancedinstaller/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -221,17 +221,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-within.techidaily.com/1-free-iversity-learning-materials-procure-mooc-and-expert-video-lectures/"><u>1. Free Iversity Learning Materials: Procure MOOC and Expert Video Lectures</u></a></li>
-<li><a href="https://fox-within.techidaily.com/2-catch-every-play-live-ultimate-guide-to-saving-nfl-games-on-your-pc-or-mac-with-our-downloader/"><u>2) Catch Every Play Live: Ultimate Guide to Saving NFL Games On Your PC or Mac with Our Downloader!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/elevating-your-content-creation-leveraging-vimeo-recorder-for-2024/"><u>Elevating Your Content Creation Leveraging Vimeo Recorder for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-motorola-moto-g84-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Motorola Moto G84 5G Phone?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78plus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78+ Phone with Broken Screen</u></a></li>
-<li><a href="https://media-tips.techidaily.com/newly-launched-paramountplus-begins-content-removal-what-subscribers-need-to-know/"><u>Newly Launched Paramount+ Begins Content Removal: What Subscribers Need To Know</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ps5-face-off-evaluating-the-playstation-5-slim-against-the-traditional-ps5-unit/"><u>PS5 Face-Off: Evaluating the PlayStation 5 Slim Against the Traditional PS5 Unit</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-accessing-ai-chat-platforms-like-gpt-and-messaging-apps-sans-phone-registration/"><u>Step-by-Step Tutorial: Accessing AI Chat Platforms Like GPT and Messaging Apps Sans Phone Registration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-the-phanteks-eclipse-g360a-your-top-choice-for-an-affordable-pc-case-at-just-59/"><u>Unbeatable Deal: The Phanteks Eclipse G360A, Your Top Choice for an Affordable PC Case at Just $59</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-image-upload-prerequisites-on-flipbuilder-a-comprehensive-guide/"><u>Understanding Image Upload Prerequisites on FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/unveiling-content-versatility-what-range-of-output-formats-can-you-choose-from-on-flipbuildercom/"><u>Unveiling Content Versatility: What Range of Output Formats Can You Choose From on FlipBuilder.com?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-itel-s23-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-shooter-showdown-the-ultimate-battle-for-game-supremacy/"><u>[New] 2024 Approved Shooter Showdown The Ultimate Battle for Game Supremacy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elevate-your-teams-presence-blur-backdrops-with-expertise/"><u>[Updated] In 2024, Elevate Your Teams Presence Blur Backdrops with Expertise</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-uncomplicated-techniques-for-adding-igtv-to-your-story/"><u>[Updated] Uncomplicated Techniques for Adding IGTV to Your Story</u></a></li>
+<li><a href="https://fox-within.techidaily.com/adaptable-techniques-for-disabling-your-laptop-display/"><u>Adaptable Techniques for Disabling Your Laptop Display</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ancs-refurbished-marshall-immaculate-appearance-rich-soundtrack/"><u>ANC's Refurbished Marshall: Immaculate Appearance, Rich Soundtrack</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-ai-performance-with-vector-database-technology-explained/"><u>Boosting AI Performance with Vector Database Technology Explained</u></a></li>
+<li><a href="https://fox-within.techidaily.com/expert-level-media-control-panel/"><u>Expert-Level Media Control Panel</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-memes-in-the-virtual-frontier/"><u>In 2024, Crafting Memes in the Virtual Frontier</u></a></li>
+<li><a href="https://fox-within.techidaily.com/seamless-conversion-of-wav-files-into-optimal-m4a-format/"><u>Seamless Conversion of WAV Files Into Optimal M4A Format</u></a></li>
+<li><a href="https://fox-within.techidaily.com/sustainable-practices-a-comprehensive-guide-to-environmental-stewardship/"><u>Sustainable Practices: A Comprehensive Guide to Environmental Stewardship</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-rated-stickers-creator-apps-for-enhancing-your-whatsapp-experience/"><u>Top-Rated Stickers Creator Apps for Enhancing Your WhatsApp Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tuning-into-trends-effective-music-uploads-for-2024/"><u>Tuning Into Trends Effective Music Uploads for 2024</u></a></li>
 </ul></div>
 
