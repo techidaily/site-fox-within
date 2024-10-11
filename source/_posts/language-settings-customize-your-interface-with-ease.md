@@ -1,7 +1,7 @@
 ---
 title: "Language Settings: Customize Your Interface with Ease"
-date: 2024-09-30T19:53:28.202Z
-updated: 2024-10-05T16:03:24.349Z
+date: 2024-10-10T03:55:25.088Z
+updated: 2024-10-11T00:51:26.284Z
 tags:
   - user-guide
 categories:
@@ -80,18 +80,18 @@ Advanced Installer has the ability to build MSI packages in various languages.
 
 ![Languages tab](https://cdn.advancedinstaller.com/img/ui/languages-tab.png "Languages tab")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Selecting additional build languages
 
  Check the check-box button next to the desired language in the tree. For each language a separate MSI package will be built with the code page set to the default ANSI code page of that language. 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Mac OS X has a native support for multi language bundles so the resulted package will contain the translations for all languages.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The languages must be specified independently for each build. You can select the desired build in the toolbar builds combo. This option is enabled only if several build are defined.
 
@@ -99,25 +99,11 @@ Advanced Installer has the ability to build MSI packages in various languages.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Each language increases the package size with about 40 - 50 Kilobytes (depending on the strings it contains).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Creating a single multi-language package
 
 You can choose to create a package that contains all the build languages by selecting the “Create separate packages and a multi-language package” option. This package will be created in the "\\all" sub-folder of the folder where the project is build. If you need only the multi-language package you can speed up the build process by selecting the “Create only a multi-language package” option.
 
 When the package is installed the language will be selected according to the regional settings on the target computer. The interface language of the tools that Advanced Installer uses (Setup, Java Launcher and Updater) is selected according to the Windows operating system's language.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Filtering visible build languages
 
@@ -126,31 +112,32 @@ When the package is installed the language will be selected according to the reg
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If you select a language without translations build in, Advanced Installer will try to get the translation strings from the closest related language. This may be or may not be what you want. The Neutral language (ASCII US English) is used as the parent of all languages and generic fall back.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## UI Language
 
 This section allows you to set the language selection method used by multilingual packages. To set this option you need to have an EXE as output package.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Automatically use previous version's language if installed.
 
  The installer will try to use the previous version's language, if it is found on the system. Otherwise, it will proceed with using the language specified in the radio group below. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Automatically use system language for installation
@@ -166,6 +153,13 @@ Use current user language during the installation.
  If this option is enabled the user is prompted to select the language that will be used during the installation. The prompt dialog can be customized from the [Pre-install UI](https://tools.techidaily.com/advancedinstaller/products/) section in the [Dialogs Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) As of version 8.1 of Advanced Installer, when an automatic upgrade occurs, the already installed package's language will be automatically used instead of displaying the language selection dialog. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -205,22 +199,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-abrupt-pauses-in-your-photobooth-experience/"><u>[Updated] Analyzing Abrupt Pauses in Your Photobooth Experience</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-intro-creation-made-simple-free-templates/"><u>[Updated] In 2024, Intro Creation Made Simple - Free Templates</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-premier-10-creative-filters-elevating-your-social-media-game/"><u>[Updated] In 2024, Premier 10 Creative Filters Elevating Your Social Media Game</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-secret-to-stability-overcoming-handheld-videography-challenges-for-2024/"><u>[Updated] The Secret to Stability Overcoming Handheld Videography Challenges for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-essential-documentation-understanding-the-prerequisite-files-section/"><u>1. Essential Documentation: Understanding the Prerequisite Files Section</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-organizing-with-ifolder-mastering-seamless-file-handling-operations/"><u>Advanced Organizing with iFolder: Mastering Seamless File Handling Operations</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/direct-connection-navigating-desktop-display-integration-on-facebook-for-2024/"><u>Direct Connection Navigating Desktop Display Integration on Facebook for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-detect-and-prevent-malware-in-your-downloaded-files/"><u>How to Detect and Prevent Malware in Your Downloaded Files</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-detailed-insight-the-gecata-live-game-tracker/"><u>In 2024, Detailed Insight The Gecata Live Game Tracker</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-the-art-of-zoom-filters-for-premium-sessions/"><u>In 2024, Mastering the Art of Zoom Filters for Premium Sessions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/inside-the-innovative-world-of-intova-x-for-2024/"><u>Inside the Innovative World of Intova X for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/master-the-technique-of-changing-full-color-pdfs-to-grayscale-images/"><u>Master the Technique of Changing Full-Color PDFs to Grayscale Images</u></a></li>
-<li><a href="https://fox-within.techidaily.com/revive-your-deleted-pics-expert-image-recovery-for-memory-card-users/"><u>Revive Your Deleted Pics: Expert Image Recovery for Memory Card Users</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-removing-watermarks-from-your-pdf-documents/"><u>Step-by-Step Guide: Removing Watermarks From Your PDF Documents</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-strategies-for-optimizing-audio-visual-conference-recording/"><u>Top Strategies for Optimizing Audio-Visual Conference Recording</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-iphones-overcoming-device-recovery-failures-easily/"><u>Troubleshooting iPhones: Overcoming Device Recovery Failures Easily</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-riskware-a-simple-guide-and-visuals/"><u>Understanding Riskware: A Simple Guide and Visuals</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-exclusive-no-fee-fb-visual-content-craftsman/"><u>[New] Exclusive No-Fee FB Visual Content Craftsman</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-speedy-tiktok-video-acquisition-guide/"><u>[New] In 2024, Speedy TikTok Video Acquisition Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-best-fbx-game-recorder-alternatives/"><u>2024 Approved Best FBX Game Recorder Alternatives</u></a></li>
+<li><a href="https://fox-within.techidaily.com/adaptable-techniques-for-disabling-your-laptop-display/"><u>Adaptable Techniques for Disabling Your Laptop Display</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convertir-archivos-avi-al-formato-m2ts-de-forma-gratuita-a-traves-de-servicios-en-linea/"><u>Convertir Archivos AVI Al Formato M2TS De Forma Gratuita a Través De Servicios en Línea</u></a></li>
+<li><a href="https://fox-within.techidaily.com/expert-level-media-control-panel/"><u>Expert-Level Media Control Panel</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-navigate-tiktok-on-your-computer-or-laptop-complete-walkthrough/"><u>How to Navigate TikTok on Your Computer or Laptop - Complete Walkthrough</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-obtain-perfect-photos-without-marks/"><u>In 2024, How To Obtain Perfect Photos Without Marks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-f5-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco F5 5G Phone FRP Lock</u></a></li>
+<li><a href="https://fox-within.techidaily.com/installer-toolkit-overview-understanding-your-applications-registry-settings/"><u>Installer Toolkit Overview: Understanding Your Application's Registry Settings</u></a></li>
+<li><a href="https://fox-within.techidaily.com/mastering-telegram-streaming-the-ultimate-how-to-for-tv-users/"><u>Mastering Telegram Streaming: The Ultimate How-To for TV Users</u></a></li>
+<li><a href="https://fox-within.techidaily.com/mastering-the-core-elements-of-effective-organization-components/"><u>Mastering the Core Elements of Effective Organization Components</u></a></li>
+<li><a href="https://fox-within.techidaily.com/revolutionize-your-photo-game-the-best-background-editors-for-stunning-selfies/"><u>Revolutionize Your Photo Game: The Best Background Editors for Stunning Selfies</u></a></li>
+<li><a href="https://fox-within.techidaily.com/seamless-conversion-of-wav-files-into-optimal-m4a-format/"><u>Seamless Conversion of WAV Files Into Optimal M4A Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-game-startup-replacing-lost-physxloaderdll-files/"><u>Troubleshoot Your Game Startup: Replacing Lost physxloader.dll Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-selection-the-top-15plus-vr-games-on-google-cardboard/"><u>Ultimate Selection The Top 15+ VR Games on Google Cardboard</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-12s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomi Redmi 12s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

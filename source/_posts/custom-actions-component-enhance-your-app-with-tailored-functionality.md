@@ -1,7 +1,7 @@
 ---
 title: "Custom Actions Component: Enhance Your App with Tailored Functionality"
-date: 2024-09-29T19:10:59.118Z
-updated: 2024-10-05T16:24:51.751Z
+date: 2024-10-05T18:26:29.879Z
+updated: 2024-10-10T20:59:19.751Z
 tags:
   - user-guide
 categories:
@@ -125,30 +125,43 @@ Table of Contents
 
 ## ICustomActionsComponent
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 ICustomActionsComponent : IDispatch
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Overview
 
 This component is meant to create and manage existing predefined custom actions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
 **Array<ICustomActions> CustomActions** \- Gets existing custom actions.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -203,13 +216,6 @@ This component is meant to create and manage existing predefined custom actions.
 RemoveCustomAction(ICustomActions aCustomAction)   
 \-Removes an existing custom action .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Example
 
 $advinst = new-object -com AdvancedInstaller
@@ -219,18 +225,18 @@ $project.CustomActionsComponent.NewLaunchAttachedScriptFile("d:\my_script.vbs")
 
 Copy
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## See also
 
 [ICustomAction](https://tools.techidaily.com/advancedinstaller/products/)
 
 [ICustomActionSequence](https://tools.techidaily.com/advancedinstaller/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -302,17 +308,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/eciphering-the-superior-video-sharing-platform-tiktok-or-youtube-shorts/"><u>[New] Deciphering the Superior Video-Sharing Platform TikTok or YouTube Shorts?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comprehensive-list-of-8-prime-youtube-to-avi-tools/"><u>[Updated] 2024 Approved Comprehensive List of 8 Prime YouTube-to-AVI Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-windows-10-top-new-apps-and-games-for-your-pc-for-2024/"><u>[Updated] Windows 10 Top New Apps & Games for Your PC for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-originality-understanding-its-research-methodology/"><u>ChatGPT and Originality: Understanding Its Research Methodology</u></a></li>
-<li><a href="https://fox-within.techidaily.com/exclusive-features-unveiled-discover-how-advanced-functions-can-transform-your-world/"><u>Exclusive Features Unveiled: Discover How Advanced Functions Can Transform Your World</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-k70-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-seamlessly-backup-your-camera-roll-exporting-to-snapchat-made-easy/"><u>In 2024, Seamlessly Backup Your Camera Roll Exporting to Snapchat Made Easy</u></a></li>
-<li><a href="https://fox-within.techidaily.com/malwarefox-insights-expert-tips-and-advice-on-cybersecurity/"><u>MalwareFox Insights: Expert Tips and Advice on Cybersecurity</u></a></li>
-<li><a href="https://fox-within.techidaily.com/revise-language-conversation-interface-a-comprehensive-guide/"><u>Revise Language Conversation Interface: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-inserting-numbered-pages-into-your-pdf-documents/"><u>Step-by-Step Tutorial: Inserting Numbered Pages Into Your PDF Documents</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-the-essential-criteria-in-the-requirements-tab/"><u>Understanding the Essential Criteria in the Requirements Tab</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-reverse-video-online-top-picks-for-this-year/"><u>Updated 2024 Approved Reverse Video Online Top Picks for This Year</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-face-fluidity-techniques-implementing-motion-blur-effects/"><u>[Updated] Face Fluidity Techniques Implementing Motion Blur Effects</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-a2-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo A2? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974745391-get-the-latest-msi-z370-a-pro-drivers-for-optimal-performance-download-now/"><u>Get the Latest MSI Z370-A Pro Drivers for Optimal Performance – Download Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/live-streaming-with-a-new-blue-backdrop-guide-for-smartphones/"><u>Live Streaming with a New Blue Backdrop - Guide for Smartphones</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-your-home-entertainment-with-the-ultimate-review-of-the-amazon-fire-tv-cube/"><u>Master Your Home Entertainment with the Ultimate Review of the Amazon Fire TV Cube</u></a></li>
+<li><a href="https://fox-within.techidaily.com/revive-your-deleted-pics-expert-image-recovery-for-memory-card-users/"><u>Revive Your Deleted Pics: Expert Image Recovery for Memory Card Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-wrong-letters-during-computer-inputs/"><u>Solving the Problem of Wrong Letters During Computer Inputs</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-removing-watermarks-from-your-pdf-documents/"><u>Step-by-Step Guide: Removing Watermarks From Your PDF Documents</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-strategies-for-optimizing-audio-visual-conference-recording/"><u>Top Strategies for Optimizing Audio-Visual Conference Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solutions-for-overcoming-pubgs-failure-to-launch-in-2eb4-your-step-by-step-manual/"><u>Ultimate Solutions for Overcoming PUBG's Failure to Launch in 2Eb4 – Your Step-by-Step Manual</u></a></li>
 </ul></div>
 

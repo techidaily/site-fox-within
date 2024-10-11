@@ -1,7 +1,7 @@
 ---
 title: "Quick and Simple: The Tabbed App Download System"
-date: 2024-10-03T16:48:06.502Z
-updated: 2024-10-05T20:12:22.343Z
+date: 2024-10-05T17:37:36.377Z
+updated: 2024-10-10T20:37:43.984Z
 tags:
   - user-guide
 categories:
@@ -86,10 +86,10 @@ Table of Contents
 App Installer allows installation of Windows 10 apps by double clicking the app package. In this page you can configure the App Installer settings
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AppInstaller
@@ -103,17 +103,10 @@ A folder containing the MSIX resulted from the build (the output of the build mu
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The dependencies of the package are expected to be in a subfolder named Dependencies under the folder above. Also the package of each dependency must have the name identical with its package ID.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Frequency check
@@ -127,10 +120,10 @@ Informs the user about the update through a prompt.
 _Available in Windows 10, version 1903 and later._
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Updates block activation
@@ -148,6 +141,13 @@ _Available in Windows 10, version 1903 and later._
 With this option enabled, periodic checks for updates are made in the background even if the application was not launched. The check for updates interval is 8 hours. 
 
 _Available in Windows 10, version 1803 and later._
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Force update from any version
 
@@ -188,15 +188,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-finding-the-facebook-in-niche-driven-instagram-realms/"><u>[New] 2024 Approved Finding the Face(book) in Niche-Driven Instagram Realms</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-rise-above-the-norm-expert-tips-for-broadcasting-spherical-content-on-youtube-for-2024/"><u>[Updated] Rise Above the Norm Expert Tips for Broadcasting Spherical Content on Youtube for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/free-conversion-techniques-transforming-webm-files-into-mp3-audio-on-any-device/"><u>Free Conversion Techniques: Transforming WEBM Files Into MP3 Audio on Any Device</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-navigate-tiktok-on-your-computer-or-laptop-complete-walkthrough/"><u>How to Navigate TikTok on Your Computer or Laptop - Complete Walkthrough</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humor-weaver-androids-in-chains/"><u>In 2024, Humor Weaver Androids in Chains</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/master-a-new-language-by-jan-2024/"><u>Master a New Language by Jan 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-telegram-streaming-the-ultimate-how-to-for-tv-users/"><u>Mastering Telegram Streaming: The Ultimate How-To for TV Users</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-the-core-elements-of-effective-organization-components/"><u>Mastering the Core Elements of Effective Organization Components</u></a></li>
-<li><a href="https://fox-within.techidaily.com/revolutionize-your-photo-game-the-best-background-editors-for-stunning-selfies/"><u>Revolutionize Your Photo Game: The Best Background Editors for Stunning Selfies</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/the-role-of-cdn-in-reducing-web-page-load-times-for-2024/"><u>The Role of CDN in Reducing Web Page Load Times for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-advanced-strategies-for-youtube-audio-editing-mastery/"><u>[Updated] In 2024, Advanced Strategies for YouTube Audio Editing Mastery</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/download-premium-facebook-hd-content-anywhere/"><u>Download Premium Facebook HD Content Anywhere</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easy-steps-to-watch-tv-shows-and-movies-with-video-on-demand-vod-apps-on-your-android-device/"><u>Easy Steps to Watch TV Shows and Movies with Video-On-Demand (VOD) Apps on Your Android Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-y36i-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo Y36i Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-2023-shift-in-facebooks-video-presentation-style/"><u>In 2024, The 2023 Shift in Facebook’s Video Presentation Style</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>In 2024, The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://fox-within.techidaily.com/master-the-art-of-upgrading-your-music-converting-mp3s-to-premium-320kbps-quality/"><u>Master the Art of Upgrading Your Music: Converting MP3s to Premium 320Kbps Quality</u></a></li>
+<li><a href="https://fox-within.techidaily.com/modify-sccm-policy-configuration-interface/"><u>Modify SCCM Policy Configuration Interface</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavibmpgif/"><u>Movaviのような優れたソースコードによるオンライン無料BMPからGIFへの逆変換</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/simple-methods-to-download-sound-clips-from-facebook-for-free/"><u>Simple Methods to Download Sound Clips From Facebook for Free!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-capturing-crystal-clear-hulu-programs-for-personal-viewing/"><u>Step-by-Step Tutorial: Capturing Crystal Clear Hulu Programs for Personal Viewing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-zamzar-substitutes-superior-solutions-beyond-zamzar/"><u>Top Zamzar Substitutes: Superior Solutions Beyond Zamzar</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-isoiec-19770-22009-the-standard-guide-for-software-asset-tags/"><u>Understanding ISO/IEC 19770-2:2009 - The Standard Guide for Software Asset Tags</u></a></li>
 </ul></div>
 

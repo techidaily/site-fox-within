@@ -1,7 +1,7 @@
 ---
 title: Modify SCCM Policy Configuration Interface
-date: 2024-10-01T17:45:10.967Z
-updated: 2024-10-05T17:32:01.714Z
+date: 2024-10-05T18:19:25.388Z
+updated: 2024-10-10T16:07:36.387Z
 tags:
   - user-guide
 categories:
@@ -77,10 +77,10 @@ Table of Contents
 In this dialog you can edit the SCCM program settings like general information, requirements, run options and dependencies.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -127,24 +127,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-maximizing-marketing-the-best-highlight-techniques-for-brands/"><u>[New] In 2024, Maximizing Marketing The Best Highlight Techniques for Brands</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-luts-premiere-pro-essentials/"><u>[New] Mastering LUTs Premiere Pro Essentials</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-swiftly-enhanced-facebook-videos-best-extensions-hacks-and-apps/"><u>[New] Swiftly Enhanced Facebook Videos Best Extensions, Hacks, and Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hotspots-for-revolutionary-vr-cinema/"><u>[Updated] Hotspots for Revolutionary VR Cinema</u></a></li>
-<li><a href="https://fox-within.techidaily.com/bridging-the-gap-between-mobile-and-home-entertainment-a-comprehensive-tutorial-for-playing-android-games-on-your-tv-setup/"><u>Bridging the Gap Between Mobile and Home Entertainment: A Comprehensive Tutorial for Playing Android Games on Your TV Setup</u></a></li>
-<li><a href="https://fox-within.techidaily.com/custom-actions-with-property-files-in-sharepoint-best-practices/"><u>Custom Actions with Property Files in SharePoint - Best Practices</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/effective-techniques-to-slash-your-videos-size-by-up-to-90-preserving-quality/"><u>Effective Techniques to Slash Your Video's Size by Up to 90%, Preserving Quality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-bootmgr-not-found-error-step-by-step-guide-includes-screenshots/"><u>Effortless Fix for Bootmgr Not Found Error - Step-by-Step Guide Includes Screenshots</u></a></li>
-<li><a href="https://fox-within.techidaily.com/exploring-the-features-of-internet-information-services-iis-properties-window/"><u>Exploring the Features of Internet Information Services (IIS) Properties Window</u></a></li>
-<li><a href="https://fox-within.techidaily.com/get-instant-updates-alerts-stay-informed-with-latest-notifications/"><u>Get Instant Updates Alerts - Stay Informed with Latest Notifications</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-visual-vault-verifier/"><u>In 2024, Visual Vault Verifier</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instructingdarkmodeonwindowsnotepad/"><u>InstructingDarkModeOnWindowsNotepad</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/motorola-one-review-a-stylish-contender-against-apples-iconic-iphone-at-a-bargain-price/"><u>Motorola One Review: A Stylish Contender Against Apple's Iconic iPhone at a Bargain Price</u></a></li>
-<li><a href="https://fox-within.techidaily.com/navigating-requirements-configuring-your-pre-install-setup-interface/"><u>Navigating Requirements: Configuring Your Pre-Install Setup Interface</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-get-noticed-by-recruiters-the-best-video-resume-creation-tools-free-templates-for-2024/"><u>New Get Noticed by Recruiters The Best Video Resume Creation Tools Free Templates for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/simple-methods-to-download-sound-clips-from-facebook-for-free/"><u>Simple Methods to Download Sound Clips From Facebook for Free!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-capturing-crystal-clear-hulu-programs-for-personal-viewing/"><u>Step-by-Step Tutorial: Capturing Crystal Clear Hulu Programs for Personal Viewing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/tailored-functionality-attributes/"><u>Tailored Functionality Attributes</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-isoiec-19770-22009-the-standard-guide-for-software-asset-tags/"><u>Understanding ISO/IEC 19770-2:2009 - The Standard Guide for Software Asset Tags</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-classic-crimson-codec/"><u>[New] In 2024, Classic Crimson Codec</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-guide-to-eye-catching-after-effects-texture/"><u>[Updated] In 2024, Ultimate Guide to Eye-Catching After Effects Texture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fun-on-a-budget-meme-creators-handbook/"><u>Fun on a Budget – Meme Creator’s Handbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/los-mejores-programas-gratis-para-grabar-dvd-en-windows-1187-una-lista-con-6-opciones-destacadas/"><u>Los Mejores Programas Gratis Para Grabar DVD en Windows 11/8/7: Una Lista Con 6 Opciones Destacadas</u></a></li>
+<li><a href="https://fox-within.techidaily.com/quick-and-easy-steps-to-clear-iphone-reminders/"><u>Quick & Easy Steps to Clear iPhone Reminders</u></a></li>
+<li><a href="https://fox-within.techidaily.com/streamlined-system-operation-setup-instructions/"><u>Streamlined System Operation Setup Instructions</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-role-of-social-platforms-in-mitigating-scam-advertisements/"><u>The Role of Social Platforms in Mitigating Scam Advertisements</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-strategies-for-implementing-efficient-rapid-development-approaches/"><u>Top Strategies for Implementing Efficient Rapid Development Approaches</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-techniques-for-capturing-online-audio-streams-successfully/"><u>Top Techniques for Capturing Online Audio Streams Successfully</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-rated-classic-video-editing-software/"><u>Top-Rated Classic Video Editing Software</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-play-40c-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Play 40C.</u></a></li>
+<li><a href="https://fox-within.techidaily.com/unique-customizable-templates-for-your-specific-project-needs/"><u>Unique Customizable Templates for Your Specific Project Needs</u></a></li>
 </ul></div>
 

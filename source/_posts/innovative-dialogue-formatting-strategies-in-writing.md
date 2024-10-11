@@ -1,7 +1,7 @@
 ---
 title: Innovative Dialogue Formatting Strategies in Writing
-date: 2024-09-28T18:10:46.341Z
-updated: 2024-10-05T18:48:52.604Z
+date: 2024-10-05T19:38:52.225Z
+updated: 2024-10-10T18:56:03.765Z
 tags:
   - user-guide
 categories:
@@ -78,37 +78,17 @@ Table of Contents
 
 ![Text Style Dialog](https://cdn.advancedinstaller.com/img/dialog/text-style.png "Text Style Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Text Style
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Identifier
 
 The text style's identifier.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Property Name
@@ -119,6 +99,13 @@ Property used to refer to this style (indirectly).
 
 Set the current text style as the default UI font. If a control does not explicitly specify a text style, this text style will be used when rendering the UI.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Set Fallbacks
 
 This option allows you to set conditional fallback text styles through the [Edit Conditional Text Styles Dialog](https://tools.techidaily.com/advancedinstaller/products/). This support is available only when text styles with a property are used indirect (by their property) and for the DefaultUI font. 
@@ -126,6 +113,13 @@ This option allows you to set conditional fallback text styles through the [Edit
 For example, a static text control must have its "Use Indirection" text style property set to True from the [Dialog Editor Page](https://tools.techidaily.com/advancedinstaller/products/) for this option to apply.
 
 ## Font & Color
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Edit
 
@@ -136,10 +130,10 @@ Click on the font link (Tahoma, 14) to edit the font face-name, size, effects an
 You can choose a text style color, from a full range color palette.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Preview
@@ -184,17 +178,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-potential-master-dvd-burning-with-your-mac/"><u>[New] Unlocking Potential Master DVD Burning with Your Mac</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-masters-list-best-sierra-dvd-software/"><u>[Updated] 2024 Approved Master's List Best Sierra DVD Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-escape-artists-manual-to-disguised-youtube-archives/"><u>[Updated] The Escape Artist's Manual to Disguised YouTube Archives</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-transform-your-images-with-these-incredible-tools-edit-and-alter-png-colors-seamlessly/"><u>1. Transform Your Images with These Incredible Tools: Edit & Alter PNG Colors Seamlessly</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/datadeliverer-analyst-take-for-2024/"><u>DataDeliverer Analyst Take for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-ways-to-move-your-tunes-to-an-iphone-without-using-itunes/"><u>Easy Ways to Move Your Tunes to an iPhone Without Using iTunes</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/ethical-buying-of-tiktok-clout-increase/"><u>Ethical Buying of TikTok Clout Increase</u></a></li>
-<li><a href="https://fox-within.techidaily.com/finalize-operations-query-box-streamlining-the-user-experience/"><u>Finalize Operations Query Box: Streamlining the User Experience</u></a></li>
-<li><a href="https://fox-within.techidaily.com/overview-section-understanding-the-basics/"><u>Overview Section: Understanding the Basics</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-instructions-for-converting-high-quality-flac-audio-to-wav/"><u>Step-by-Step Instructions for Converting High-Quality FLAC Audio to WAV</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-ipad-holders-and-supports-top-picks/"><u>Top-Rated iPad Holders & Supports - Top Picks</u></a></li>
-<li><a href="https://fox-within.techidaily.com/universal-characteristics-across-various-media-volumes/"><u>Universal Characteristics Across Various Media Volumes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-cinema-in-your-palm-three-cost-effective-techniques-to-blend-beats-and-videos-on-iphone/"><u>[New] 2024 Approved Cinema in Your Palm – Three Cost-Effective Techniques to Blend Beats and Videos on iPhone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlined-approach-record-movies-everywhere-you-go/"><u>[New] 2024 Approved Streamlined Approach Record Movies Everywhere You Go</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-key-tips-to-capture-youtube-streams-effectively-for-2024/"><u>[New] Key Tips to Capture YouTube Streams Effectively for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-steam-cant-log-in/"><u>[SOLVED] Steam Can’t Log In</u></a></li>
+<li><a href="https://android-frp.techidaily.com/affordable-gaming-beast-the-asus-rog-nuc-comes-equipped-with-core-i5-155h-and-rtx-4060-at-a-price-tag-of-1629/"><u>Affordable Gaming Beast: The Asus ROG NUC Comes Equipped With Core I5-155H & RTX 4060 at a Price Tag of $1,629</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-infinix-smart-7-hd-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Smart 7 HD Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/creating-viral-tiktok-content-a-step-by-step-guide/"><u>Creating Viral TikTok Content: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/eliminate-intrusive-advertisements-effectively-using-our-proven-anti-adware-solution-from-malwarefox/"><u>Eliminate Intrusive Advertisements Effectively Using Our Proven Anti-Adware Solution From MalwareFox!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/quick-guide-how-to-transfer-spotify-tracks-onto-a-cd-on-windows-or-macos-computers/"><u>Quick Guide: How to Transfer Spotify Tracks Onto a CD on Windows or macOS Computers</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-projecting-your-huawei-p30-screen-onto-the-television/"><u>Step-by-Step Guide: Projecting Your Huawei P30 Screen Onto the Television</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-ios-8-mobile-applications-a-compreh/"><u>Top iOS 8 Mobile Applications: A Compreh</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-guide-resolving-issues-with-non-responsive-samsung-smart-switch/"><u>Troubleshooting Guide: Resolving Issues with Non-Responsive Samsung Smart Switch</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-s-most-popular-free-video-editing-apps-with-special-effects-features-for-2024/"><u>Updated S Most Popular Free Video Editing Apps with Special Effects Features for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/watch-the-global-hit-your-guide-to-streaming-the-permission-to-dance-performance-by-bts-on-television/"><u>Watch the Global Hit: Your Guide to Streaming the 'Permission to Dance' Performance by BTS On Television</u></a></li>
 </ul></div>
 

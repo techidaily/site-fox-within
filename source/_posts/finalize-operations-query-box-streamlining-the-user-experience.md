@@ -1,7 +1,7 @@
 ---
 title: "Finalize Operations Query Box: Streamlining the User Experience"
-date: 2024-10-01T20:54:22.521Z
-updated: 2024-10-05T17:44:39.884Z
+date: 2024-10-04T05:27:18.357Z
+updated: 2024-10-10T16:02:24.213Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,16 @@ Table of Contents
 ## Finish Actions Dialog
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Finish Actions
@@ -96,10 +102,17 @@ You can use the Finish Actions tab to schedule two predefined actions that will 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The tab is available only if ExitDialog is selected in the “Install Sequence” tree.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Show ReadMe File
@@ -107,13 +120,6 @@ You can use the Finish Actions tab to schedule two predefined actions that will 
 ### Show "View ReadMe" option.
 
 Select this option if you want to display the “Show readme file” check box on the ExitDialog.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ReadMe file
 
@@ -125,13 +131,6 @@ By default the “Show readme file” box on the dialog is selected.
 
 ## Launch Application
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Launch your application at the end of installation
 
 Select this option if you want to display the “Launch Your Application” check box on the ExitDialog.
@@ -139,6 +138,13 @@ Select this option if you want to display the “Launch Your Application” chec
 ### Application
 
 Select the file that will be launched.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Arguments
 
@@ -151,10 +157,10 @@ By default the “Launch Your Application” box on the dialog is selected.
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Optionally, you can launch any action at the end of the install process by adding it without sequence. For the \[Finish \] button assign an _Execute custom action_ event in the[Published Events Tab](https://tools.techidaily.com/advancedinstaller/products/) with its argument set with the previously created custom action. Another method is by adding a custom action under "Finish Execution" action group found in "Install Execution Stage".
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Minimize Installation Steps
@@ -196,19 +202,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-how-to-reactivate-your-photo-viewer-in-win-11-proactively/"><u>[New] In 2024, How to Reactivate Your Photo Viewer in Win 11 Proactively</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-selection-of-8-instagram-schedulers-for-phones/"><u>[Updated] In 2024, The Ultimate Selection of 8 Instagram Schedulers for Phones</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-transform-your-movie-grading-skills-using-cg-centrals-luts/"><u>2024 Approved Transform Your Movie Grading Skills Using CG Central's Luts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/achieving-greatness-an-in-depth-analysis-of-why-fifa-19-reigns-supreme-in-the-world-of-soccer-games/"><u>Achieving Greatness: An In-Depth Analysis of Why FIFA 19 Reigns Supreme in the World of Soccer Games</u></a></li>
-<li><a href="https://article-tips.techidaily.com/discover-the-best-options-to-apply-vhs-photo-effects-on-computeronline-for-2024/"><u>Discover The Best Options to Apply VHS Photo Effects on Computer/Online for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-rethink-your-classic-movies-best-swaps-7/"><u>In 2024, Rethink Your Classic Movies - Best Swaps #7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-experience-solutions-for-speeding-up-ubisoft-connect-downloads/"><u>Optimizing Your Experience: Solutions for Speeding Up Ubisoft Connect Downloads</u></a></li>
-<li><a href="https://fox-within.techidaily.com/quick-and-easy-steps-to-clear-iphone-reminders/"><u>Quick & Easy Steps to Clear iPhone Reminders</u></a></li>
-<li><a href="https://fox-within.techidaily.com/streamlined-system-operation-setup-instructions/"><u>Streamlined System Operation Setup Instructions</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-strategies-for-implementing-efficient-rapid-development-approaches/"><u>Top Strategies for Implementing Efficient Rapid Development Approaches</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-techniques-for-capturing-online-audio-streams-successfully/"><u>Top Techniques for Capturing Online Audio Streams Successfully</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-rated-classic-video-editing-software/"><u>Top-Rated Classic Video Editing Software</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-the-symbol-files-section-a-guide-to-debugging-and-code-analysis/"><u>Understanding the Symbol Files Section: A Guide to Debugging and Code Analysis</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unleash-potential-with-magix-video-pro-xs-power-tools/"><u>[New] 2024 Approved Unleash Potential with Magix Video Pro X's Power Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-profit-strategies-for-snapchat-users/"><u>[New] In 2024, Profit Strategies for Snapchat Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-laptop-and-mobile-commencing-a-google-meet-session/"><u>[Updated] In 2024, Laptop & Mobile Commencing a Google Meet Session</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-pixelperfect-toolkit-guidebook/"><u>2024 Approved PixelPerfect Toolkit Guidebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-mending-a-computer-that-powers-up-without-displaying-anything/"><u>Diagnosing and Mending a Computer That Powers Up Without Displaying Anything</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easy-methods-to-duplicate-content-from-your-xiaomi-11-onto-your-pc/"><u>Easy Methods to Duplicate Content From Your Xiaomi 지패11 Onto Your PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-reno-10-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo Reno 10 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/real-time-notification-updates-never-miss-out-on-important-information/"><u>Real-Time Notification Updates - Never Miss Out on Important Information!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-file-deletion-tool-effortless-cleanup-with-iremovefiles/"><u>Ultimate File Deletion Tool: Effortless Cleanup with IRemoveFiles</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-setting-up-alarms-on-android-phones-and-tablets/"><u>Ultimate Guide to Setting Up Alarms on Android Phones and Tablets</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mastering-avi-file-editing-a-beginners-guide-to-splitting-and-trimming/"><u>Updated 2024 Approved Mastering AVI File Editing A Beginners Guide to Splitting and Trimming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-update-woes-heres-how-you-can-successfully-reapply-or-rollback-fixed/"><u>Windows 10 Update Woes? Here's How You Can Successfully Reapply or Rollback [FIXED]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Predesignated Storage Bin Layouts
-date: 2024-09-30T20:54:26.071Z
-updated: 2024-10-05T16:32:29.641Z
+date: 2024-10-08T19:46:26.515Z
+updated: 2024-10-11T02:41:41.720Z
 tags:
   - user-guide
 categories:
@@ -116,10 +116,10 @@ Table of Contents
 This interface is created as an access point, using getters, for all the predefined folders. It is meant to replicate Advanced Installer Files and Folders graphical interface.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -127,10 +127,10 @@ This interface is created as an access point, using getters, for all the predefi
 IPredefinedFolders : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -202,17 +202,17 @@ IPredefinedFolders : IDispatch
 ![Ipredefinedfolders](https://cdn.advancedinstaller.com/img/powershell-automation/ipredefinedfolders.png "Ipredefinedfolders")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -256,16 +256,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-youtube-video-edits-with-adobe-premiere/"><u>[New] 2024 Approved Mastering YouTube Video Edits with Adobe Premiere</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-leading-edge-webcams-the-best-on-windows-10/"><u>[New] Leading Edge Webcams The Best on Windows 10</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-starlight-moment-capture-analysis/"><u>2024 Approved Starlight Moment Capture Analysis</u></a></li>
-<li><a href="https://fox-within.techidaily.com/discovering-the-hidden-places-of-chrome-browser-plugins-and-extensions/"><u>Discovering the Hidden Places of Chrome Browser Plugins and Extensions</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-methods-to-duplicate-content-from-your-xiaomi-11-onto-your-pc/"><u>Easy Methods to Duplicate Content From Your Xiaomi 지패11 Onto Your PC</u></a></li>
-<li><a href="https://fox-within.techidaily.com/expert-tips-on-speedy-production-of-quicktime-audio-captures/"><u>Expert Tips on Speedy Production of QuickTime Audio Captures</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-ultimate-driver-setup-for-your-msi-z370-a-pro-motherboard/"><u>Free Download: Ultimate Driver Setup for Your MSI Z370-A PRO Motherboard</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-tecno-spark-20c-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Tecno Spark 20C Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-sony-xperia-1-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Sony Xperia 1 V without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/real-time-notification-updates-never-miss-out-on-important-information/"><u>Real-Time Notification Updates - Never Miss Out on Important Information!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-setting-up-alarms-on-android-phones-and-tablets/"><u>Ultimate Guide to Setting Up Alarms on Android Phones and Tablets</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-powerhouse-analyzing-the-performance-of-lg-ud88-w-hdtv/"><u>[New] The Powerhouse Analyzing the Performance of LG UD88-W HDTV</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-smartphone-video-recording-assistants-for-2024/"><u>[Updated] Best Smartphone Video Recording Assistants for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-laying-the-foundation-of-zoom-room-use-for-2024/"><u>[Updated] Laying the Foundation of Zoom Room Use for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-15-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 15 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/advanced-guide-how-to-modify-executable-file-properties-window/"><u>Advanced Guide: How to Modify Executable File Properties Window</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-an-audio-trailblazer-exclusive-vocal-change-techniques-in-free-fire-free/"><u>Become an Audio Trailblazer – Exclusive Vocal Change Techniques in Free Fire (Free)</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effortless-conversion-guide-turning-wav-audio-into-compatible-wma-files-methods-and-tips/"><u>Effortless Conversion Guide: Turning WAV Audio Into Compatible WMA Files, Methods & Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-guide-transforming-audio-units-au-into-mp3-files/"><u>Effortless Guide: Transforming Audio Units (AU) Into MP3 Files</u></a></li>
+<li><a href="https://fox-within.techidaily.com/enhance-coding-efficiency-using-ipatch-sequence-goals-in-projects/"><u>Enhance Coding Efficiency Using IPatch Sequence Goals in Projects</u></a></li>
+<li><a href="https://fox-within.techidaily.com/expert-tips-bypassing-spigots-anti-search-block-for-seo-success/"><u>Expert Tips: Bypassing Spigot's Anti-Search Block for SEO Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-simple-como-optimizar-y-reducir-tamanos-de-videos-para-su-correcta-carga-en-facebook/"><u>Guía Simple: Cómo Optimizar Y Reducir Tamaños De Videos Para Su Correcta Carga en Facebook</u></a></li>
+<li><a href="https://fox-within.techidaily.com/improve-user-experience-next-level-tab-functionality-features/"><u>Improve User Experience: Next-Level Tab Functionality Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-speech-to-text-your-all-inclusive-gdoc-training-guide/"><u>In 2024, From Speech to Text Your All-Inclusive GDoc Training Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/proven-strategies-to-extract-the-foreground-isolating-your-brands-emblem/"><u>Proven Strategies to Extract the Foreground: Isolating Your Brand's Emblem</u></a></li>
+<li><a href="https://fox-within.techidaily.com/simple-steps-to-transform-your-avi-videos-into-compatible-formats-for-ipad/"><u>Simple Steps to Transform Your AVI Videos Into Compatible Formats for iPad</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-drivers-resource-hub/"><u>Ultimate Driver's Resource Hub</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-user-share-settings-the-essential-guide/"><u>Understanding User Share Settings: The Essential Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Driver's Resource Hub
-date: 2024-09-29T19:55:21.699Z
-updated: 2024-10-05T16:34:28.512Z
+date: 2024-10-07T23:54:32.687Z
+updated: 2024-10-11T01:09:27.281Z
 tags:
   - user-guide
 categories:
@@ -81,30 +81,43 @@ On this page you can set up the installation of drivers. To install a driver:
 * Add the driver's files to the project in the [Files and Folders](https://tools.techidaily.com/advancedinstaller/products/) page.
 * Add the INF file.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a driver
 
 ![Add Driver](https://cdn.advancedinstaller.com/img/toolbar/inf-add.png "Add Driver")Select a driver's INF file and add it to the list of drivers by using the \[Add Driver \] toolbar button, selecting the “Add” context menu option or by pressing the Ins key while the left pane is focused.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Removing a driver
 
 ![Delete Driver](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Delete Driver")Remove an INF file from the list by using the \[Delete Driver \] toolbar button, selecting the “Delete” context menu option or by pressing the Del key while an entry is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Changing installation order
 
 To change the order in which the drivers are installed use the “Move Up” or “Move Down” context menu options or, alternatively, use the Page Up or Page Down key while the element is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Notes
@@ -114,20 +127,19 @@ Advanced Installer uses Windows Driver Install Frameworks (DIFx), version 2.1, t
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)This framework is designed for installing Software First Install drivers **only**.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 These drivers usually come with your application, e.g. an anti-virus filter for the network adapter. It is **not recommended** to use it for installing Hardware First Install type drivers, e.g. a driver for your sound card.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -167,19 +179,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/alternate-fix-added-missing-amd-graphics-for-windows-10/"><u>[ALTERNATE FIX] Added Missing AMD Graphics for Windows 10</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-harmonizing-visual-media-and-audio-through-premiere-pros-features/"><u>[New] In 2024, Harmonizing Visual Media and Audio Through Premiere Pro's Features</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-becoming-an-unboxing-star-strategies-for-viral-engaging-tiktok-videos/"><u>[Updated] 2024 Approved Becoming an Unboxing Star Strategies for Viral, Engaging TikTok Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-essential-gameplay-cams-for-live-streamers/"><u>[Updated] Top 5 Essential Gameplay Cams for Live Streamers</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1-how-to-overcome-the-unable-to-connect-issue-in-kodi-step-by-step-guide/"><u>1. How to Overcome the 'Unable to Connect' Issue in Kodi: Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/3-proven-techniques-for-efficiently-recovering-deleted-images/"><u>3 Proven Techniques for Efficiently Recovering Deleted Images</u></a></li>
-<li><a href="https://fox-within.techidaily.com/effective-strategies-to-eliminate-the-windows-security-alert-phishing-scheme/"><u>Effective Strategies to Eliminate the Windows Security Alert Phishing Scheme</u></a></li>
-<li><a href="https://fox-within.techidaily.com/exploring-the-world-of-cloud-antivirus-why-its-superior-to-conventional-antivirus-programs/"><u>Exploring the World of Cloud Antivirus - Why It's Superior to Conventional Antivirus Programs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ahead-of-the-curve-with-vital-details-on-teslas-revolutionary-robotaxi-news-update-price-forecasts-and-more-hearsay-released/"><u>Get Ahead of the Curve with Vital Details on Tesla's Revolutionary Robotaxi - News Update, Price Forecasts and More Hearsay Released</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-expert-tips-for-youtube-short-pitfall-prevention/"><u>In 2024, Expert Tips for YouTube Short Pitfall Prevention</u></a></li>
-<li><a href="https://win11.techidaily.com/reversing-the-effect-of-zoom-failure-1132-in-windows-11/"><u>Reversing the Effect of Zoom Failure #1132 in Windows 11</u></a></li>
-<li><a href="https://fox-within.techidaily.com/search-optimization-tips-the-ultimate-guide-to-using-edit-search-dialogs-effectively/"><u>Search Optimization Tips: The Ultimate Guide to Using Edit Search Dialogs Effectively</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-capturing-audio-using-a-chromebook-efficiently/"><u>Ultimate Guide: Capturing Audio Using a Chromebook Efficiently</u></a></li>
-<li><a href="https://fox-within.techidaily.com/windows-media-player-compatible-video-converter-effortless-format-transformation/"><u>Windows Media Player Compatible Video Converter: Effortless Format Transformation</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-20-timeless-anime-themes-making-a-mark-on-tiktok/"><u>2024 Approved 20 Timeless Anime Themes Making a Mark on TikTok</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-complementary-behaviors-with-audio-tales-playing/"><u>2024 Approved Ideal Complementary Behaviors with Audio Tales Playing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/adaptable-techniques-for-disabling-your-laptop-display/"><u>Adaptable Techniques for Disabling Your Laptop Display</u></a></li>
+<li><a href="https://fox-within.techidaily.com/complete-guide-operating-your-apowerrec-the-ultimate-user-handbook/"><u>Complete Guide: Operating Your ApowerREC - The Ultimate User Handbook</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expand-your-retro-gaming-library-install-new-games-on-nes-classic-mini/"><u>Expand Your Retro Gaming Library: Install New Games on NES Classic Mini</u></a></li>
+<li><a href="https://fox-within.techidaily.com/expert-level-media-control-panel/"><u>Expert-Level Media Control Panel</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harnessing-the-power-combine-zoom-and-google-mail-for-2024/"><u>Harnessing the Power Combine Zoom & Google Mail for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-navigate-tiktok-on-your-computer-or-laptop-complete-walkthrough/"><u>How to Navigate TikTok on Your Computer or Laptop - Complete Walkthrough</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/installer-toolkit-overview-understanding-your-applications-registry-settings/"><u>Installer Toolkit Overview: Understanding Your Application's Registry Settings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimizing-ad-revenue-on-youtube-with-new-strategies-for-2024/"><u>Optimizing Ad Revenue on YouTube with New Strategies for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/amers-video-toolkit-selection/"><u>Pro Gamers' Video Toolkit Selection</u></a></li>
+<li><a href="https://fox-within.techidaily.com/seamless-conversion-of-wav-files-into-optimal-m4a-format/"><u>Seamless Conversion of WAV Files Into Optimal M4A Format</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722964385606-soil-structure-interaction-ssi-evaluates-how-soil-movement-impacts-the-response-of-structures-to-seismic-forces-influencing-design-demands/"><u>Soil-Structure Interaction (SSI) Evaluates How Soil Movement Impacts the Response of Structures to Seismic Forces, Influencing Design Demands</u></a></li>
+<li><a href="https://fox-within.techidaily.com/sustainable-practices-a-comprehensive-guide-to-environmental-stewardship/"><u>Sustainable Practices: A Comprehensive Guide to Environmental Stewardship</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-rated-stickers-creator-apps-for-enhancing-your-whatsapp-experience/"><u>Top-Rated Stickers Creator Apps for Enhancing Your WhatsApp Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/venturing-into-the-realm-of-engaging-interactive-systems/"><u>Venturing Into the Realm of Engaging Interactive Systems</u></a></li>
 </ul></div>
 

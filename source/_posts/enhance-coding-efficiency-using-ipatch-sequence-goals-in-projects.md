@@ -1,7 +1,7 @@
 ---
 title: Enhance Coding Efficiency Using IPatch Sequence Goals in Projects
-date: 2024-10-02T20:18:32.084Z
-updated: 2024-10-05T17:18:51.999Z
+date: 2024-10-08T02:15:08.499Z
+updated: 2024-10-11T03:28:15.298Z
 tags:
   - user-guide
 categories:
@@ -118,10 +118,10 @@ Table of Contents
 ## IPatchSequenceTarget
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -129,10 +129,10 @@ Table of Contents
 IPatchSequenceTarget : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -140,10 +140,10 @@ IPatchSequenceTarget : IDispatch
 This interface is meant to edit sequence target options. This information is required by the installer in order to determine the sequence in which the patches are applied.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -159,16 +159,10 @@ This interface is meant to edit sequence target options. This information is req
 **Bool SupersedeEarlierPatches** \- Gets or sets the flag that specifies if the sequence supersedes earlier patches.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -210,22 +204,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-elevate-your-streams-from-obs-to-fb-directly/"><u>[New] 2024 Approved Elevate Your Streams From OBS to FB Directly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-bring-your-stories-alive-techniques-for-animation-in-text/"><u>[New] Bring Your Stories Alive Techniques for Animation in Text</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-how-to-achieve-premium-picture-standards-without-paying/"><u>[New] In 2024, How to Achieve Premium Picture Standards Without Paying</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-psychoacoustic-enhancement-for-playstation-titles/"><u>[New] In 2024, Psychoacoustic Enhancement for PlayStation Titles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamlining-console-experience-with-computer-playback-tech-for-2024/"><u>[New] Streamlining Console Experience with Computer Playback Tech for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-essentialists-guide-to-archiving-ps3-gameplay-moments/"><u>[New] The Essentialist's Guide to Archiving PS3 Gameplay Moments</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-surging-profits-with-three-steps-an-easy-way-to-tally-your-youtube-earning-for-2024/"><u>[Updated] Surging Profits with Three Steps An Easy Way to Tally Your YouTube Earning for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/beginners-guide-to-configuring-default-chat-scripts-instantly/"><u>Beginner's Guide to Configuring Default Chat Scripts Instantly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-compelling-compositions-with-magix-fruity-loops/"><u>In 2024, Crafting Compelling Compositions with Magix Fruity Loops</u></a></li>
-<li><a href="https://fox-within.techidaily.com/language-settings-customize-your-interface-with-ease/"><u>Language Settings: Customize Your Interface with Ease</u></a></li>
-<li><a href="https://fox-within.techidaily.com/master-the-art-of-upgrading-your-music-converting-mp3s-to-premium-320kbps-quality/"><u>Master the Art of Upgrading Your Music: Converting MP3s to Premium 320Kbps Quality</u></a></li>
-<li><a href="https://fox-within.techidaily.com/optimizing-your-data-storage-the-ultimate-guide-to-databases-servers/"><u>Optimizing Your Data Storage: The Ultimate Guide to Databases Servers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-15-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 15</u></a></li>
-<li><a href="https://fox-within.techidaily.com/the-3-best-methods-for-ppt-presentation-video-compression-a-step-by-step-guide/"><u>The 3 Best Methods for PPT Presentation Video Compression: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-how-to-enhance-your-videos-with-hd-quality-conversion-techniques/"><u>Ultimate Guide: How to Enhance Your Videos with HD Quality Conversion Techniques</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-list-of-no-cost-digital-image-editing-tools-online/"><u>Ultimate List of No-Cost Digital Image Editing Tools Online</u></a></li>
-<li><a href="https://fox-within.techidaily.com/unlocking-file-management-secrets-with-the-windows-explorer-properties-panel/"><u>Unlocking File Management Secrets with the Windows Explorer Properties Panel</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-list-the-7-most-immersive-global-conflict-sims/"><u>[New] 2024 Approved Ultimate List The 7 Most Immersive Global Conflict Sims</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-leading-top-5-agile-and-lightweight-cameras-list/"><u>[New] In 2024, Leading Top 5 Agile and Lightweight Cameras List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ring-induced-voice-memo-iphone-24/"><u>[New] Ring-Induced Voice Memo - iPhone '24</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-premium-android-screenshot-and-video-tools-ranked-five/"><u>[Updated] 2024 Approved Premium Android Screenshot & Video Tools - Ranked Five</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-iron-bank-of-erebor-online-resources-for-got-audio-calls/"><u>2024 Approved The Iron Bank of Erebor Online Resources for GoT Audio Calls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766764426-2024dvd/"><u>初心者のための完全ガイド: 2024年のDVDから無料で高品質なブルーレイへの変換</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2022-release-delay-solutions-and-workarounds/"><u>Football Manager 2022 Release Delay: Solutions & Workarounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-console-power-advanced-strategies-for-ps4-users/"><u>Optimizing Console Power: Advanced Strategies for PS4 Users</u></a></li>
+<li><a href="https://fox-within.techidaily.com/quick-and-easy-steps-to-clear-iphone-reminders/"><u>Quick & Easy Steps to Clear iPhone Reminders</u></a></li>
+<li><a href="https://fox-within.techidaily.com/quick-guide-how-to-transfer-spotify-tracks-onto-a-cd-on-windows-or-macos-computers/"><u>Quick Guide: How to Transfer Spotify Tracks Onto a CD on Windows or macOS Computers</u></a></li>
+<li><a href="https://fox-within.techidaily.com/reviving-your-iphone-with-icloud-top-techniques-for-optimal-recovery/"><u>Reviving Your iPhone with iCloud: Top Techniques for Optimal Recovery</u></a></li>
+<li><a href="https://discover-great.techidaily.com/safe-and-sound-mastering-the-process-of-downloading-mp4-from-youtube/"><u>Safe and Sound: Mastering the Process of Downloading MP4 From YouTube</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-projecting-your-huawei-p30-screen-onto-the-television/"><u>Step-by-Step Guide: Projecting Your Huawei P30 Screen Onto the Television</u></a></li>
+<li><a href="https://fox-within.techidaily.com/stop-getting-push-notifications-about-ios-s-12-updates-comprehensive-tips-and-tricks/"><u>Stop Getting Push Notifications About iOS S 12 Updates - Comprehensive Tips & Tricks</u></a></li>
+<li><a href="https://fox-within.techidaily.com/streamlined-system-operation-setup-instructions/"><u>Streamlined System Operation Setup Instructions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-insiders-guide-to-finesse-and-control-on-insta-stories-for-2024/"><u>The Insider's Guide to Finesse and Control on Insta Stories for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-techniques-for-capturing-online-audio-streams-successfully/"><u>Top Techniques for Capturing Online Audio Streams Successfully</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-rated-classic-video-editing-software/"><u>Top-Rated Classic Video Editing Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-the-symbol-files-section-a-guide-to-debugging-and-code-analysis/"><u>Understanding the Symbol Files Section: A Guide to Debugging and Code Analysis</u></a></li>
 </ul></div>
 

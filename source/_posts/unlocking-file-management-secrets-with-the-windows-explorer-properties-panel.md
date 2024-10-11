@@ -1,7 +1,7 @@
 ---
 title: Unlocking File Management Secrets with the Windows Explorer Properties Panel
-date: 2024-10-04T17:02:04.154Z
-updated: 2024-10-05T16:16:39.618Z
+date: 2024-10-05T02:59:52.254Z
+updated: 2024-10-10T17:00:33.442Z
 tags:
   - user-guide
 categories:
@@ -104,16 +104,16 @@ The property through which the folder can be identified or referenced by.
 
  This filed contains the name under which the folder will be installed. The target name will override the name of the folder on your disk, allowing you to specify a custom name for the folder.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Source Name
 
 When placing the installation files next to the MSI, Advanced Installer will create a folder structure which will contain the files. The name of a folder in this structure can be set in the "Source Name" field. This allows you to add to the project a folder with a custom name and set a more user-friendly name for it in the installation package.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Component
 
@@ -126,13 +126,20 @@ This checkbox gives you the possibility to create or delete the component associ
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In some cases the folder's component cannot be removed, therefore the checkbox is disabled and selected.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The Folder Name is [localizable](https://tools.techidaily.com/advancedinstaller/products/) and [pseudoformatted](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Install folder content into the parent folder
@@ -146,20 +153,13 @@ At build time, the content of the folder that is not needed can be excluded from
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When this option is being used and resources with the same name can be found in the parent folder or in other sibling folders that uses this option, some conditions must be specified in order to decide what resources will be used. Component conditions and feature exclusion from build are the mechanisms to do that.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## File Options
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ensure that all files in this folder overwrite any installed target files
 
@@ -198,22 +198,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-easily-capturing-iphone-screens-on-the-go/"><u>[New] 2024 Approved Easily Capturing iPhone Screens on the Go</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-understanding-youtube-shorts-earnings-for-maker-income/"><u>[New] In 2024, Understanding YouTube Shorts Earnings for Maker Income</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-palettes-power-in-film-editing-techniques/"><u>[New] The Palette's Power in Film Editing Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-chucklecanvas-draw-hilarious-social-media-art/"><u>[Updated] ChuckleCanvas Draw Hilarious Social Media Art</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-quick-screen-cut-and-paste-in-winoses/"><u>[Updated] In 2024, Quick Screen Cut & Paste in WinOSes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-privacy-downloading-facebook-status-videos/"><u>2024 Approved Navigating Privacy Downloading Facebook Status Videos</u></a></li>
-<li><a href="https://fox-within.techidaily.com/3-proven-techniques-for-efficiently-recovering-deleted-images/"><u>3 Proven Techniques for Efficiently Recovering Deleted Images</u></a></li>
-<li><a href="https://fox-within.techidaily.com/automatic-app-closure-feature-update/"><u>Automatic App Closure Feature Update</u></a></li>
-<li><a href="https://fox-within.techidaily.com/effective-strategies-to-eliminate-the-windows-security-alert-phishing-scheme/"><u>Effective Strategies to Eliminate the Windows Security Alert Phishing Scheme</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-group-policies-in-windows-via-tripartite-lens/"><u>Exploring Group Policies in Windows via Tripartite Lens</u></a></li>
-<li><a href="https://fox-within.techidaily.com/exploring-the-world-of-cloud-antivirus-why-its-superior-to-conventional-antivirus-programs/"><u>Exploring the World of Cloud Antivirus - Why It's Superior to Conventional Antivirus Programs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-x7b-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor X7b Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://fox-within.techidaily.com/leading-no-cost-video-editor-apps-seamless-file-conversions-anytime-anywhere/"><u>Leading No-Cost Video Editor Apps: Seamless File Conversions Anytime, Anywhere</u></a></li>
-<li><a href="https://fox-within.techidaily.com/navigating-system-modification-insights-into-the-page-group-category/"><u>Navigating System Modification: Insights Into the Page Group Category</u></a></li>
-<li><a href="https://fox-within.techidaily.com/quick-and-effective-techniques-for-modifying-pdf-text-content-with-adobes-tools/"><u>Quick and Effective Techniques for Modifying PDF Text Content with Adobe's Tools</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-on-installing-and-configuring-your-license-server/"><u>Step-by-Step Tutorial on Installing and Configuring Your License Server</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-innovations-in-capturing-high-quality-facetime-calls/"><u>[New] 2024 Approved Innovations in Capturing High-Quality FaceTime Calls</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/p-by-step-expedition-to-youtubes-unseen-layers/"><u>A Step-by-Step Expedition to YouTube's Unseen Layers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/aural-archive-discussion-and-judgment/"><u>Aural Archive Discussion & Judgment</u></a></li>
+<li><a href="https://fox-within.techidaily.com/best-free-tools-top-5-m4a-to-mp3-converter-software/"><u>Best FREE Tools: Top 5 M4A to MP3 Converter Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/customize-system-center-configuration-manager-user-dialog-box/"><u>Customize System Center Configuration Manager User Dialog Box</u></a></li>
+<li><a href="https://fox-within.techidaily.com/discover-the-top-5-essential-mouse-recorders-for-efficient-workflow/"><u>Discover the Top 5 Essential Mouse Recorders for Efficient Workflow</u></a></li>
+<li><a href="https://fox-within.techidaily.com/efficient-base-service-operation-techniques/"><u>Efficient Base Service Operation Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminates-main-issue-in-portable-consoles/"><u>Eliminates Main Issue in Portable Consoles</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exploring-the-photography-section-unveil-your-images/"><u>Exploring the Photography Section: Unveil Your Images</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-14-ultrafrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 14 UltraFRP Lock</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-y36i-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo Y36i</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-instructions-for-properly-logging-out-of-windows-operating-systems-windows-7-to-8/"><u>Step-by-Step Instructions for Properly Logging Out of Windows Operating Systems (Windows 7 to 8)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transforming-webp-images-into-jpegs-effortlessly/"><u>Transforming WebP Images Into JPEGs Effortlessly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-external-hard-drive/"><u>Ultimate Guide to Choosing the Best External Hard Drive</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-guide-removing-text-overlays-from-your-snaps-on-snapchat/"><u>Ultimate Guide: Removing Text Overlays From Your Snaps on Snapchat</u></a></li>
 </ul></div>
 

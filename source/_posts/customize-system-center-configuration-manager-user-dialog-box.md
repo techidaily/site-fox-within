@@ -1,7 +1,7 @@
 ---
 title: Customize System Center Configuration Manager User Dialog Box
-date: 2024-09-29T16:18:25.068Z
-updated: 2024-10-05T16:05:45.749Z
+date: 2024-10-07T21:05:13.375Z
+updated: 2024-10-10T21:49:05.880Z
 tags:
   - user-guide
 categories:
@@ -77,10 +77,16 @@ Table of Contents
 In this dialog you can edit the SCCM program settings like general information, requirements, run options and dependencies.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -127,16 +133,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-practices-for-video-thumbnail-creation-in-the-digital-age/"><u>[New] 2024 Approved Best Practices for Video Thumbnail Creation in the Digital Age</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-navigating-video-submission-on-facebook-from-your-gadgets/"><u>[Updated] In 2024, Navigating Video Submission on Facebook From Your Gadgets</u></a></li>
-<li><a href="https://fox-within.techidaily.com/exeuntus-a-comprehensive-review-of-their-latest-album/"><u>Exeuntus - A Comprehensive Review of Their Latest Album</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-easily-modify-pdf-document-hues-modern-techniques-explored/"><u>How to Easily Modify PDF Document Hues - Modern Techniques Explored</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-increase-image-size-without-compromising-quality-best-practices/"><u>How to Increase Image Size Without Compromising Quality: Best Practices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-note-30-vip-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Note 30 VIP</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-13-mini-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 13 mini Without Passcode Now</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-screen-grabber-software-in-the-windows-10-arena/"><u>In 2024, Top Screen Grabber Software in the Windows 10 Arena</u></a></li>
-<li><a href="https://fox-within.techidaily.com/pc-strategy-mastery-in-summoners-war-step-by-step-tips-and-tricks-to-excel-in-the-game/"><u>PC Strategy Mastery in Summoner’s War: Step-by-Step Tips and Tricks to Excel in the Game</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/protect-your-mobile-experience-6-stellar-iphone-antivirus-tools-ranked/"><u>Protect Your Mobile Experience: 6 Stellar iPhone Antivirus Tools Ranked</u></a></li>
-<li><a href="https://fox-within.techidaily.com/quick-and-simple-the-tabbed-app-download-system/"><u>Quick and Simple: The Tabbed App Download System</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-conjure-humorous-content-for-online-community-giphy/"><u>[New] Conjure Humorous Content for Online Community, Giphy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-comparison-between-sharex-and-rivals/"><u>[Updated] 2024 Approved The Ultimate Comparison Between ShareX & Rivals</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-editing-workshop-portal/"><u>[Updated] Editing Workshop Portal</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-excellence-in-camera-technology-top-15/"><u>[Updated] Excellence in Camera Technology – Top 15</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-smartphone-speech-to-text-solutions-compiling-the-best-android-and-iphone-apps/"><u>New 2024 Approved Smartphone Speech-to-Text Solutions Compiling the Best Android and iPhone Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/parents-choice-best-kids-flicks-streaming-on-disney-plus-this-july/"><u>Parents' Choice: Best Kids Flicks Streaming on Disney Plus This July</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/puredownload-free-youtube-file-acquisition-for-2024/"><u>PureDownload Free YouTube File Acquisition for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/quick-and-easy-steps-to-clear-iphone-reminders/"><u>Quick & Easy Steps to Clear iPhone Reminders</u></a></li>
+<li><a href="https://fox-within.techidaily.com/reviving-your-iphone-with-icloud-top-techniques-for-optimal-recovery/"><u>Reviving Your iPhone with iCloud: Top Techniques for Optimal Recovery</u></a></li>
+<li><a href="https://fox-within.techidaily.com/stop-getting-push-notifications-about-ios-s-12-updates-comprehensive-tips-and-tricks/"><u>Stop Getting Push Notifications About iOS S 12 Updates - Comprehensive Tips & Tricks</u></a></li>
+<li><a href="https://fox-within.techidaily.com/streamlined-system-operation-setup-instructions/"><u>Streamlined System Operation Setup Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-generation-ai-puzzle-why-does-chatgpt-4-take-its-time-when-chatgpt-35-was-faster/"><u>The Next Generation AI Puzzle: Why Does ChatGPT-4 Take Its Time When ChatGPT-3.5 Was Faster?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-techniques-for-capturing-online-audio-streams-successfully/"><u>Top Techniques for Capturing Online Audio Streams Successfully</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-rated-classic-video-editing-software/"><u>Top-Rated Classic Video Editing Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-the-symbol-files-section-a-guide-to-debugging-and-code-analysis/"><u>Understanding the Symbol Files Section: A Guide to Debugging and Code Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/visual-dominance-best-ps5-compatible-high-res-hdmi-21-screens-for-2024/"><u>Visual Dominance Best PS5 Compatible High-Res (HDMI 2.1) Screens for 2024</u></a></li>
 </ul></div>
 

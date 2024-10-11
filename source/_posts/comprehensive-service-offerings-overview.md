@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Service Offerings Overview
-date: 2024-10-01T19:38:33.308Z
-updated: 2024-10-05T16:48:44.938Z
+date: 2024-10-03T20:25:55.383Z
+updated: 2024-10-11T05:18:45.070Z
 tags:
   - user-guide
 categories:
@@ -92,32 +92,45 @@ In the left-side pane you can see a tree with four branches:
 
 In the right-side pane you can see the [properties of a service](https://tools.techidaily.com/advancedinstaller/products/) (if a service is selected in the left-side pane) or the parameters of a control operation (if a control operation is selected in the left-side pane).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a service to install
 
 ![New Service](https://cdn.advancedinstaller.com/img/toolbar/service-new.png "New Service") Use the \[New Service... \] toolbar button, the “New Service Installation...” context menu item or press the Insert key while the “Install and Control” panel is focused. The [File Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear and you can select the file containing the service. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To install a .NET service you must use a [.NET Installer Class action](https://tools.techidaily.com/advancedinstaller/products/) predefined custom action.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding a service control operation
 
 ![New Service Control Operation](https://cdn.advancedinstaller.com/img/toolbar/service-control-new.png "New Service Control Operation") Use the \[New Operation... \] toolbar button, the “New Control Operation...” context menu item or press the+ key while the “Install and Control” panel is focused. This will add a service control operation with default parameters. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding a service configure operation
 
 ![New Service Configure Operation](https://cdn.advancedinstaller.com/img/toolbar/service-config-new.png "New Service Configure Operation") Use the \[New Configure Operation \] toolbar button, the “New Configure Operation...” context menu item. This will add a service configure operation with default parameters.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a service failure operation
@@ -126,33 +139,26 @@ In the right-side pane you can see the [properties of a service](https://tools.t
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Configure and failure operations requires **Windows Installer 5.0** and they will have no effect on systems which have Windows Installer 4.5 or earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Locating the attached component for a service or a control operation
 
  Use the “Go To Component” tree context menu item or press theF8 key while the service or control is selected. This command will activate the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page with the appropriate component selected in the left tree control.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Removing a service or an operation action
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while the element is selected. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -199,22 +205,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-examining-streaming-platform-powerhouses-twitch-and-youtube-comparison/"><u>[New] 2024 Approved Examining Streaming Platform Powerhouses Twitch and YouTube Comparison</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-5-techniques-for-capturing-games-and-live-feeds/"><u>[New] In 2024, Top 5 Techniques for Capturing Games & Live Feeds</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhance-content-categorization-top-picks-for-the-7-cheapest-youtube-taggification-apps/"><u>[Updated] 2024 Approved Enhance Content Categorization Top Picks for the 7 Cheapest Youtube Taggification Apps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-inverting-photo-colors-with-advanced-tools/"><u>[Updated] In 2024, Inverting Photo Colors with Advanced Tools</u></a></li>
-<li><a href="https://fox-within.techidaily.com/best-mp3-downloader-tools-for-android-iphone-and-windows-mobile-users/"><u>Best MP3 Downloader Tools for Android, iPhone & Windows Mobile Users</u></a></li>
-<li><a href="https://fox-within.techidaily.com/detect-and-eradicate-cryptomining-malware-a-guide-to-protect-your-system/"><u>Detect & Eradicate Cryptomining Malware: A Guide to Protect Your System</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enhance-search-efficiency-with-advanced-prerequisite-configuration-options/"><u>Enhance Search Efficiency with Advanced Prerequisite Configuration Options</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-effortlessly-update-your-windows-with-new-gtx-780-graphics-card-drivers/"><u>How to Effortlessly Update Your Windows with New GTX 780 Graphics Card Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-p55t-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/key-characteristics-and-capabilities-in-language-translation-software/"><u>Key Characteristics and Capabilities in Language Translation Software</u></a></li>
-<li><a href="https://fox-within.techidaily.com/predesignated-storage-bin-layouts/"><u>Predesignated Storage Bin Layouts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/setting-up-a-digital-stage-for-real-time-viewers-for-2024/"><u>Setting Up a Digital Stage for Real-Time Viewers for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-accessing-documents-on-your-ios-device/"><u>Step-by-Step Guide: Accessing Documents on Your iOS Device</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-making-quick-clips-with-your-computer-and-iphone/"><u>Step-by-Step Guide: Making Quick Clips with Your Computer & iPhone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-file-deletion-tool-effortless-cleanup-with-iremovefiles/"><u>Ultimate File Deletion Tool: Effortless Cleanup with IRemoveFiles</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-guide-premium-free-video-conferencing-tools-for-phones/"><u>Ultimate Guide Premium-Free Video Conferencing Tools for Phones</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-elevate-your-tiktok-footage-with-stunning-template-techniques/"><u>[New] 2024 Approved Elevate Your TikTok Footage with Stunning Template Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-cutting-edge-3d-animations-made-easy-by-leading-applications/"><u>[New] Cutting-Edge 3D Animations Made Easy by Leading Applications</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-cutting-edge-strategies-for-iptv-capture-success/"><u>[Updated] In 2024, Cutting-Edge Strategies for IPTV Capture Success</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-transform-your-images-with-these-incredible-tools-edit-and-alter-png-colors-seamlessly/"><u>1. Transform Your Images with These Incredible Tools: Edit & Alter PNG Colors Seamlessly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-90-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor 90 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/configuring-app-v-5-essential-guide-to-managing-folder-settings/"><u>Configuring App-V 5: Essential Guide to Managing Folder Settings</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easy-ways-to-move-your-tunes-to-an-iphone-without-using-itunes/"><u>Easy Ways to Move Your Tunes to an iPhone Without Using iTunes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/effective-techniques-for-retrieving-lost-iphone-data/"><u>Effective Techniques for Retrieving Lost iPhone Data</u></a></li>
+<li><a href="https://fox-within.techidaily.com/finalize-operations-query-box-streamlining-the-user-experience/"><u>Finalize Operations Query Box: Streamlining the User Experience</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-way-to-transform-your-pdfs-into-jpeg-images-on-a-mac/"><u>Free Way to Transform Your PDFs Into JPEG Images on a Mac</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/overview-section-understanding-the-basics/"><u>Overview Section: Understanding the Basics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/selecting-the-perfect-fps-a-deep-dive-into-30fps-vs-60fps/"><u>Selecting the Perfect FPS A Deep Dive Into 30Fps Vs. 60Fps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-narzo-60-pro-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme Narzo 60 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://fox-within.techidaily.com/universal-characteristics-across-various-media-volumes/"><u>Universal Characteristics Across Various Media Volumes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/unlock-insights-with-effective-dialogue-techniques-in-archival-retrieval/"><u>Unlock Insights with Effective Dialogue Techniques in Archival Retrieval</u></a></li>
 </ul></div>
 

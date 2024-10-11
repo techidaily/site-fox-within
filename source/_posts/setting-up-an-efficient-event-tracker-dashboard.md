@@ -1,7 +1,7 @@
 ---
 title: Setting Up an Efficient Event Tracker Dashboard
-date: 2024-10-03T19:31:41.322Z
-updated: 2024-10-05T16:25:17.448Z
+date: 2024-10-05T19:59:08.065Z
+updated: 2024-10-10T23:36:18.544Z
 tags:
   - user-guide
 categories:
@@ -98,6 +98,13 @@ Global builds events are executed for all builds from the list. If you want to h
 
 It is possible to create **Pre** and **Post** build events.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Pre-Build Events
 
 This type of events are executed **before** the actual package is being created. They can be useful to run commands whose results are used in the package building process, like always copy files from a location to ensure that you always have the latest files included in the project before starting the build process.
@@ -119,26 +126,13 @@ Also, you can create new events starting from some predefined templates. Just se
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You need to substitute place holders <source\_file> and <destination\_file> with actual paths.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can access the current build output path by using properties like AI\_BUILD\_OUTPUT\_FILE or AI\_BUILD\_OUTPUT\_FOLDER. These properties are available only during build-time. It is **highly recommended** to include all paths in quotation marks (" ") since some of them can contain spaces of special characters.
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Edit an event
 
@@ -149,22 +143,21 @@ You can access the current build output path by using properties like AI\_BUILD\
  Use the “Delete” list context menu item or press theDelete key in order to remove an event.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifying the events execution order
 
 Use the “Move Up” / “Move Down” context menu item while an event is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Examples
 
@@ -174,6 +167,13 @@ It is possible to define your own event that will be scheduled post or prior bui
 * Add a command line [batch (.bat) file as a custom event](https://tools.techidaily.com/advancedinstaller/products/)
 * Add a [vbscript file as a custom event](https://tools.techidaily.com/advancedinstaller/products/)
 * Add a [custom exe file as a custom event](https://tools.techidaily.com/advancedinstaller/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -221,18 +221,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-shooter-showdown-the-ultimate-battle-for-game-supremacy/"><u>[New] 2024 Approved Shooter Showdown The Ultimate Battle for Game Supremacy</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elevate-your-teams-presence-blur-backdrops-with-expertise/"><u>[Updated] In 2024, Elevate Your Teams Presence Blur Backdrops with Expertise</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-uncomplicated-techniques-for-adding-igtv-to-your-story/"><u>[Updated] Uncomplicated Techniques for Adding IGTV to Your Story</u></a></li>
-<li><a href="https://fox-within.techidaily.com/adaptable-techniques-for-disabling-your-laptop-display/"><u>Adaptable Techniques for Disabling Your Laptop Display</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ancs-refurbished-marshall-immaculate-appearance-rich-soundtrack/"><u>ANC's Refurbished Marshall: Immaculate Appearance, Rich Soundtrack</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-ai-performance-with-vector-database-technology-explained/"><u>Boosting AI Performance with Vector Database Technology Explained</u></a></li>
-<li><a href="https://fox-within.techidaily.com/expert-level-media-control-panel/"><u>Expert-Level Media Control Panel</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-memes-in-the-virtual-frontier/"><u>In 2024, Crafting Memes in the Virtual Frontier</u></a></li>
-<li><a href="https://fox-within.techidaily.com/seamless-conversion-of-wav-files-into-optimal-m4a-format/"><u>Seamless Conversion of WAV Files Into Optimal M4A Format</u></a></li>
-<li><a href="https://fox-within.techidaily.com/sustainable-practices-a-comprehensive-guide-to-environmental-stewardship/"><u>Sustainable Practices: A Comprehensive Guide to Environmental Stewardship</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-rated-stickers-creator-apps-for-enhancing-your-whatsapp-experience/"><u>Top-Rated Stickers Creator Apps for Enhancing Your WhatsApp Experience</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/tuning-into-trends-effective-music-uploads-for-2024/"><u>Tuning Into Trends Effective Music Uploads for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-enhance-experience-using-your-logitech-webcam-properly-for-2024/"><u>[New] Enhance Experience Using Your Logitech Webcam Properly for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ranking-premium-photo-and-video-shows-x-ios14/"><u>[New] In 2024, Ranking Premium Photo & Video Shows (X-IOS14)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-streamline-your-strategy-with-aspect-ratio-mastery-on-youtube/"><u>[Updated] 2024 Approved Streamline Your Strategy with Aspect Ratio Mastery on YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-ultimate-guide-to-best-toy-drones-for-kids/"><u>[Updated] In 2024, The Ultimate Guide to Best Toy Drones for Kids</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-transform-your-images-with-these-incredible-tools-edit-and-alter-png-colors-seamlessly/"><u>1. Transform Your Images with These Incredible Tools: Edit & Alter PNG Colors Seamlessly</u></a></li>
+<li><a href="https://fox-within.techidaily.com/advanced-guide-how-to-modify-executable-file-properties-window/"><u>Advanced Guide: How to Modify Executable File Properties Window</u></a></li>
+<li><a href="https://extra-information.techidaily.com/collaborative-filmmaking-teamwork-in-producing-instagram-content-for-2024/"><u>Collaborative Filmmaking Teamwork in Producing Instagram Content for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easy-ways-to-move-your-tunes-to-an-iphone-without-using-itunes/"><u>Easy Ways to Move Your Tunes to an iPhone Without Using iTunes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/effective-techniques-for-retrieving-lost-iphone-data/"><u>Effective Techniques for Retrieving Lost iPhone Data</u></a></li>
+<li><a href="https://fox-within.techidaily.com/expert-tips-bypassing-spigots-anti-search-block-for-seo-success/"><u>Expert Tips: Bypassing Spigot's Anti-Search Block for SEO Success</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/free-online-converter-change-mp4-videos-into-animated-gifs-with-movavi/"><u>Free Online Converter: Change MP4 Videos Into Animated GIFs with Movavi</u></a></li>
+<li><a href="https://fox-within.techidaily.com/improve-user-experience-next-level-tab-functionality-features/"><u>Improve User Experience: Next-Level Tab Functionality Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/postpresence-mastering-photo-and-video-sizing-on-instagram/"><u>PostPresence Mastering Photo and Video Sizing on Instagram</u></a></li>
+<li><a href="https://fox-within.techidaily.com/proven-strategies-to-extract-the-foreground-isolating-your-brands-emblem/"><u>Proven Strategies to Extract the Foreground: Isolating Your Brand's Emblem</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-c32-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove C32 unlock screen</u></a></li>
+<li><a href="https://fox-within.techidaily.com/simple-steps-to-transform-your-avi-videos-into-compatible-formats-for-ipad/"><u>Simple Steps to Transform Your AVI Videos Into Compatible Formats for iPad</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/small-businesss-safest-video-conferencing-top-picks/"><u>Small Business's Safest Video Conferencing Top Picks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/turning-compressed-files-into-srt-speaking-texts-quickly/"><u>Turning Compressed Files Into .Srt Speaking Texts Quickly</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-drivers-resource-hub/"><u>Ultimate Driver's Resource Hub</u></a></li>
 </ul></div>
 

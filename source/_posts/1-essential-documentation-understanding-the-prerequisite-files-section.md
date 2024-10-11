@@ -1,7 +1,7 @@
 ---
 title: "1. Essential Documentation: Understanding the Prerequisite Files Section"
-date: 2024-09-28T20:07:36.832Z
-updated: 2024-10-05T18:41:29.298Z
+date: 2024-10-05T17:00:31.357Z
+updated: 2024-10-11T02:28:50.899Z
 tags:
   - user-guide
 categories:
@@ -89,40 +89,13 @@ A prerequisite package can be retrieved from one of the following locations:
 * _Download single file from URL_ \- this option allows you to specify a URL which points to the prerequisite setup file. You can use the installation package exact size and MD5 signature to verify if the prerequisite is downloaded correctly or not. This option supports only single-file prerequisites. You cannot select additional files.
 * _Open website in default Internet browser_ \- this option will allow the user to browse the specified website and select the prerequisite version that he wants to install. In this case, the prerequisite wizard will wait until the user clicks "Finish" button in the wizard before verifying if the prerequisite was installed correctly or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Main Setup File
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### File path/URL
 
  This field lets you specify the exact path, URL or website address which contains the prerequisite installation package. The URL field can be [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) or [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) (for Feature-based prerequisites only).
 
 Use the \[... \] button to edit the URL using the [Edit PseudoFormatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Folder
 
@@ -144,9 +117,23 @@ This field holds the name of the property in which the prerequisite installer wi
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)This field is forced to **uppercase characters** due to the fact that only**public properties** set during Wizard Dialogs Stage will be passed to Install Execution Stage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Action to be run before the package installation
 
 Using this option you can select any of the custom actions declared in the project to be ran before the prerequisite is installed. You can pick an action from the dropdown list or click on Go To shortcut hyperlink to open [Custom Actions](https://tools.techidaily.com/advancedinstaller/products/) page. The dropdown list contains all your custom actions without sequence
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Action to be run after this package installation
 
@@ -156,24 +143,18 @@ Using this option you can select any of the custom actions declared in the proje
 
 In this list, you can add additional files required by your prerequisite.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding files
 
  You can specify additional files for your prerequisite by using the \[Add Files... \] and \[Add Folder... \] buttons.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Only files that are in the primary setup file folder or one of its sub-folders can be added.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Removing files
 
@@ -182,10 +163,10 @@ The selected file can be removed from the list by using \[Remove \] button.
 ## Compression
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Archive prerequisite files using LZMA Compression
@@ -195,13 +176,20 @@ This allows you to enable [LZMA Compression](https://tools.techidaily.com/advanc
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In order to use compression, your prerequisite files must be included in the EXE bootstrapper. This setting can be changed in the [Configuration Tab](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Logging
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Enable Logging
 
@@ -244,20 +232,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-dynamic-dyes-mastery-in-color-manipulation/"><u>[Updated] Dynamic Dyes Mastery in Color Manipulation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-the-art-of-play-navigating-switch-pro-and-steam-games-for-2024/"><u>[Updated] Mastering the Art of Play Navigating Switch Pro and Steam Games for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/15-masterpieces-that-defined-stop-motion-artistry/"><u>15 Masterpieces That Defined Stop Motion Artistry</u></a></li>
-<li><a href="https://fox-within.techidaily.com/adaptable-techniques-for-disabling-your-laptop-display/"><u>Adaptable Techniques for Disabling Your Laptop Display</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/curated-insta-photos-in-slideshow/"><u>Curated Insta Photos in Slideshow</u></a></li>
-<li><a href="https://fox-within.techidaily.com/expert-level-media-control-panel/"><u>Expert-Level Media Control Panel</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-navigate-tiktok-on-your-computer-or-laptop-complete-walkthrough/"><u>How to Navigate TikTok on Your Computer or Laptop - Complete Walkthrough</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-f5-pro-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-elevating-your-vimeo-clips-a-guide-to-musical-additions/"><u>In 2024, Elevating Your Vimeo Clips A Guide to Musical Additions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-inexpensive-mirrorless-and-dslr-options/"><u>In 2024, Inexpensive Mirrorless & DSLR Options</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-realme-gt-5-240w-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Realme GT 5 (240W) Phone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/installer-toolkit-overview-understanding-your-applications-registry-settings/"><u>Installer Toolkit Overview: Understanding Your Application's Registry Settings</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-the-core-elements-of-effective-organization-components/"><u>Mastering the Core Elements of Effective Organization Components</u></a></li>
-<li><a href="https://fox-within.techidaily.com/revolutionize-your-photo-game-the-best-background-editors-for-stunning-selfies/"><u>Revolutionize Your Photo Game: The Best Background Editors for Stunning Selfies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/simplified-approach-to-embedding-multiple-video-playlists-from-youtube-for-2024/"><u>Simplified Approach to Embedding Multiple Video Playlists From YouTube for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-maximizing-views-6-simple-strategies-for-youtube-success/"><u>[Updated] In 2024, Maximizing Views 6 Simple Strategies for YouTube Success</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlined-scheduling-making-the-most-of-zoom-calls-for-2024/"><u>[Updated] Streamlined Scheduling Making the Most of Zoom Calls for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/bridging-the-gap-between-mobile-and-home-entertainment-a-comprehensive-tutorial-for-playing-android-games-on-your-tv-setup/"><u>Bridging the Gap Between Mobile and Home Entertainment: A Comprehensive Tutorial for Playing Android Games on Your TV Setup</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exploring-the-features-of-internet-information-services-iis-properties-window/"><u>Exploring the Features of Internet Information Services (IIS) Properties Window</u></a></li>
+<li><a href="https://fox-within.techidaily.com/get-instant-updates-alerts-stay-informed-with-latest-notifications/"><u>Get Instant Updates Alerts - Stay Informed with Latest Notifications</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-s17t-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo S17t?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-smart-8-plus-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Infinix Smart 8 Plus to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-it-time-to-make-the-switch-to-amds-next-gen-ryzen-processors/"><u>Is It Time to Make the Switch to AMD's Next-Gen Ryzen Processors?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/navigating-requirements-configuring-your-pre-install-setup-interface/"><u>Navigating Requirements: Configuring Your Pre-Install Setup Interface</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-ps4-noise-issues-diagnosing-and-repairing-the-cause/"><u>Solving PS4 Noise Issues: Diagnosing and Repairing the Cause</u></a></li>
+<li><a href="https://fox-within.techidaily.com/tailored-functionality-attributes/"><u>Tailored Functionality Attributes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-price-quality-debate-an-in-depth-review-of-the-samsung-un65nu8000fxza-smart-tv/"><u>The Price-Quality Debate: An In-Depth Review of the Samsung UN65NU8000FXZA Smart TV</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-speedy-way-effortlessly-add-a-vimeo-video-to-your-slides/"><u>The Speedy Way Effortlessly Add a Vimeo Video to Your Slides</u></a></li>
+<li><a href="https://fox-within.techidaily.com/unlock-insights-with-effective-dialogue-techniques-in-archival-retrieval/"><u>Unlock Insights with Effective Dialogue Techniques in Archival Retrieval</u></a></li>
 </ul></div>
 
