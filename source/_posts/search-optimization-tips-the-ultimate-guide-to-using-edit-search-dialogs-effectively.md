@@ -1,7 +1,7 @@
 ---
 title: "Search Optimization Tips: The Ultimate Guide to Using Edit Search Dialogs Effectively"
-date: 2024-10-05T04:03:48.371Z
-updated: 2024-10-10T21:03:07.103Z
+date: 2024-10-27T23:05:32.349Z
+updated: 2024-10-28T16:55:08.515Z
 tags:
   - user-guide
 categories:
@@ -85,10 +85,10 @@ Table of Contents
 ![Edit Search String Dialog](https://cdn.advancedinstaller.com/img/dialog/prereq-search-string.png "Edit Search String Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a reference to a folder
@@ -96,16 +96,10 @@ Table of Contents
 Use the \[Folder... \] button. The [Folder Picker](https://tools.techidaily.com/advancedinstaller/products/) will pop up, allowing you to select the folder to reference.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a reference to an environment variable
@@ -113,10 +107,10 @@ Use the \[Folder... \] button. The [Folder Picker](https://tools.techidaily.com/
 Use the \[Env Var... \] button. The [Environment Variable Picker](https://tools.techidaily.com/advancedinstaller/products/) will pop up, allowing you to select an environment variable for reference.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a reference to the registry value
@@ -126,16 +120,10 @@ Use the \[Reg Value... \] button. The file will be searched on the disk at the l
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The references inserted in the field are replaced with their actual value.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -171,20 +159,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-iphone-imaging-insights-for-professionals/"><u>[Updated] 2024 Approved IPhone Imaging Insights for Professionals</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-cutting-out-the-clutter-efficient-borders-removal-on-canva-for-2024/"><u>[Updated] Cutting Out the Clutter Efficient Borders Removal on Canva for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-efficiently-capturing-professional-movies-on-your-windows-pc/"><u>[Updated] In 2024, Efficiently Capturing Professional Movies on Your Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028777909-windows-11/"><u>「ウェブ会議を記録・再生する Windows 11ユーザーへの究極チュートリアル」</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-voice-logging-made-simple-with-ipad-apps/"><u>2024 Approved Voice Logging Made Simple with iPad Apps</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-a38-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo A38</u></a></li>
-<li><a href="https://driver-error.techidaily.com/disconnect-dilemma-bluetooth-mouse-on-win-810/"><u>Disconnect Dilemma: Bluetooth Mouse on Win 8/10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://fox-within.techidaily.com/live-streaming-with-a-new-blue-backdrop-guide-for-smartphones/"><u>Live Streaming with a New Blue Backdrop - Guide for Smartphones</u></a></li>
-<li><a href="https://fox-within.techidaily.com/revive-your-deleted-pics-expert-image-recovery-for-memory-card-users/"><u>Revive Your Deleted Pics: Expert Image Recovery for Memory Card Users</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-removing-watermarks-from-your-pdf-documents/"><u>Step-by-Step Guide: Removing Watermarks From Your PDF Documents</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-kid-friendly-drone-models-for-first-flights-for-2024/"><u>Top Kid-Friendly Drone Models for First Flights for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-strategies-for-optimizing-audio-visual-conference-recording/"><u>Top Strategies for Optimizing Audio-Visual Conference Recording</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-riskware-a-simple-guide-and-visuals/"><u>Understanding Riskware: A Simple Guide and Visuals</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-the-inner-workings-of-antivirus-programs-the-science-behind-virus-detection-and-defense-tactics/"><u>Understanding the Inner Workings of Antivirus Programs: The Science Behind Virus Detection and Defense Tactics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-from-confinement-to-comedy-selecting-lighthearted-fb-incarceration-moments/"><u>[New] From Confinement to Comedy Selecting Lighthearted FB Incarceration Moments</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-comparing-top-titles-magix-video-pro-x-among-others-for-2024/"><u>[Updated] Comparing Top Titles Magix Video Pro X Among Others for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-selecting-the-superior-cloud-storage-hub-for-2024/"><u>[Updated] Selecting the Superior Cloud Storage Hub for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/3-effective-techniques-for-shifting-contacts-from-an-iphone-to-mac/"><u>3 Effective Techniques for Shifting Contacts From an iPhone to Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-steam-api-file-gap-error/"><u>Addressing Steam API File Gap Error</u></a></li>
+<li><a href="https://fox-within.techidaily.com/best-solutions-for-resolving-new-iphone-cant-restore-backup-issues-top-7-methods/"><u>Best Solutions for Resolving 'New iPhone Can't Restore Backup' Issues - Top 7 Methods!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-amd-radeon-software-and-drivers-for-windows-11-latest-updates/"><u>Download AMD Radeon Software and Drivers for Windows 11: Latest Updates</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/horizon-hours-exploring-auto-advancements-through-reading-book-five-of-fourth-series/"><u>Horizon Hours - Exploring Auto Advancements Through Reading, Book Five of Fourth Series</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-dive-into-the-world-of-youtube-shorts-mastering-video-creation/"><u>In 2024, Dive Into the World of YouTube Shorts Mastering Video Creation</u></a></li>
+<li><a href="https://fox-within.techidaily.com/iphone-update-wie-viele-stunden-oder-tage-sollte-ich-fur-den-vorgang-warten/"><u>IPhone Update: Wie Viele Stunden Oder Tage Sollte Ich Für Den Vorgang Warten?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/is-there-a-one-month-hold-period-for-items-sent-to-the-recycle-bin-when-deleted/"><u>Is There a One-Month Hold Period for Items Sent to the Recycle Bin when Deleted?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/passen-sie-sich-an-wie-man-desktop-dateien-wieder-aktiviert-die-durch-das-windows-11-upgrade-verloren-gegangen-sind/"><u>Passen Sie Sich An: Wie Man Desktop-Dateien Wieder Aktiviert, Die Durch Das Windows 11-Upgrade Verloren Gegangen Sind</u></a></li>
+<li><a href="https://fox-within.techidaily.com/solving-the-quick-start-disappearance-issue-on-your-iphone-proven-methods-for-immediate-access/"><u>Solving the Quick Start Disappearance Issue on Your iPhone: Proven Methods for Immediate Access</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/total-war-three-kingdoms-no-more-crashes-discover-how-your-gameplay-improved-dramatically/"><u>Total War: Three Kingdoms No More Crashes! Discover How Your Gameplay Improved Dramatically</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728489537273-windows-115/"><u>データ損失を防ぐため、Windows 11で効果的なバックアップ方法をご紹介！5つのキーポイント</u></a></li>
 </ul></div>
 

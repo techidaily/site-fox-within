@@ -1,7 +1,7 @@
 ---
 title: Explore the Language Options Menu – Tailor Your User Experience
-date: 2024-10-09T17:07:40.266Z
-updated: 2024-10-10T22:08:25.791Z
+date: 2024-10-23T19:00:18.427Z
+updated: 2024-10-28T17:13:39.049Z
 tags:
   - user-guide
 categories:
@@ -92,38 +92,11 @@ Advanced Installer has the ability to build MSI packages in various languages.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Each language increases the package size with about 40 - 50 Kilobytes (depending on the strings it contains).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Creating a single multi-language package
 
 You can choose to create a package that contains all the build languages by selecting the “Create separate packages and a multi-language package” option. This package will be created in the "\\all" sub-folder of the folder where the project is build. If you need only the multi-language package you can speed up the build process by selecting the “Create only a multi-language package” option.
 
 When the package is installed the language will be selected according to the regional settings on the target computer. The interface language of the tools that Advanced Installer uses (Setup, Java Launcher and Updater) is selected according to the Windows operating system's language.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Filtering visible build languages
 
@@ -132,40 +105,61 @@ When the package is installed the language will be selected according to the reg
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If you select a language without translations build in, Advanced Installer will try to get the translation strings from the closest related language. This may be or may not be what you want. The Neutral language (ASCII US English) is used as the parent of all languages and generic fall back.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## UI Language
 
 This section allows you to set the language selection method used by multilingual packages. To set this option you need to have an EXE as output package.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Automatically use previous version's language if installed.
 
  The installer will try to use the previous version's language, if it is found on the system. Otherwise, it will proceed with using the language specified in the radio group below. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Automatically use system language for installation
 
 Use target system language during the installation. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Automatically use current user language for installation
 
 Use current user language during the installation. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display language selection dialog (for multi-language packages)
 
  If this option is enabled the user is prompted to select the language that will be used during the installation. The prompt dialog can be customized from the [Pre-install UI](https://tools.techidaily.com/advancedinstaller/products/) section in the [Dialogs Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) As of version 8.1 of Advanced Installer, when an automatic upgrade occurs, the already installed package's language will be automatically used instead of displaying the language selection dialog. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -205,20 +199,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-budget-friendly-multiview-camera-options-expanding-horizons/"><u>[New] In 2024, Budget-Friendly Multiview Camera Options Expanding Horizons</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-seeking-freedom-with-videos-which-plays-better-vlc-or-mpc/"><u>[Updated] Seeking Freedom with Videos Which Plays Better, VLC or MPC?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/adaptable-techniques-for-disabling-your-laptop-display/"><u>Adaptable Techniques for Disabling Your Laptop Display</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-motorola-moto-g34-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Motorola Moto G34 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/expert-level-media-control-panel/"><u>Expert-Level Media Control Panel</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/facile-comme-loeuf-integrale-de-6-astuces-pour-publier-vos-videos-iphone-avec-movavi-clips/"><u>Facile Comme L'oeuf : Intégrale De 6 Astuces Pour Publier Vos Vidéos iPhone Avec Movavi Clips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-xiaomi-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Xiaomi</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-navigate-tiktok-on-your-computer-or-laptop-complete-walkthrough/"><u>How to Navigate TikTok on Your Computer or Laptop - Complete Walkthrough</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-snapchat-audio-ensuring-whole-video-playback-every-time/"><u>In 2024, Snapchat Audio Ensuring Whole Video Playback Every Time</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g13-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G13 Device</u></a></li>
-<li><a href="https://fox-within.techidaily.com/installer-toolkit-overview-understanding-your-applications-registry-settings/"><u>Installer Toolkit Overview: Understanding Your Application's Registry Settings</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-more-minds-through-multilingualism/"><u>Mastering More Minds Through Multilingualism</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-the-core-elements-of-effective-organization-components/"><u>Mastering the Core Elements of Effective Organization Components</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/revolutionize-your-photo-game-the-best-background-editors-for-stunning-selfies/"><u>Revolutionize Your Photo Game: The Best Background Editors for Stunning Selfies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-infinity-series-ultra-hd-single-touch-display/"><u>[New] 2024 Approved Infinity Series – Ultra HD, Single Touch Display</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-streamline-your-gameplay-professional-ps4-recording-tips/"><u>[Updated] 2024 Approved Streamline Your Gameplay Professional PS4 Recording Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-complete-step-by-step-to-google-podcast-success/"><u>[Updated] Complete Step-by-Step to Google Podcast Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-simplified-instalment-downloading-and-using-vrecord/"><u>[Updated] In 2024, Simplified Instalment Downloading & Using VRecord</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-soften-image-periphery-with-circular-light-blend-photoshop/"><u>[Updated] Soften Image Periphery with Circular Light Blend Photoshop</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-a24-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy A24 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/6loh5paz5ogi5b6p5oqa5ben77ya5lplusu5ps556ob56kf5b6m6yen5paw5bu656ul5pah5lu257o757wx/"><u>資料恢復技巧：修改磁碟後重新建立文件系統</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphone-microphone-malfunctioning-a-comprehensive-guide/"><u>How To Repair Your iPhone Microphone Malfunctioning: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-restore-deleted-files-from-the-recycle-bin-in-windows-10-after-emptying-it/"><u>How to Restore Deleted Files From the Recycle Bin in Windows 10 After Emptying It</u></a></li>
+<li><a href="https://fox-within.techidaily.com/mastering-system-recovery-a-comprehensive-tutorial-on-wbadmin-for-windows-server-2012/"><u>Mastering System Recovery: A Comprehensive Tutorial on WBAdmin for Windows Server 2012</u></a></li>
+<li><a href="https://fox-within.techidaily.com/resolving-the-0xc000021a-blue-screen-of-death-in-windows-server-2012-r2-a-comprehensive-guide/"><u>Resolving the 0xC000021A Blue Screen of Death in Windows Server 2012 R2: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/solving-the-attrib-command-failure-with-three-effective-strategies/"><u>Solving the 'Attrib Command Failure' With Three Effective Strategies</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-on-how-to-effortlessly-retrieve-and-restore-deleted-items-from-your-onedrive-account/"><u>Step-by-Step Guide on How to Effortlessly Retrieve and Restore Deleted Items From Your OneDrive Account</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-hp-1020-driver-functionality-in-windows/"><u>Streamlining HP 1020 Driver Functionality in Windows</u></a></li>
+<li><a href="https://fox-within.techidaily.com/transferir-tu-licencia-de-windows-10-y-configurarla-en-una-nueva-pc-con-facilidad/"><u>Transferir Tu Licencia De Windows 10 Y Configurarla en Una Nueva PC Con Facilidad</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-strategies-for-securing-your-ideal-employment/"><u>Utilizing ChatGPT: Strategies for Securing Your Ideal Employment</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728489049620-windows-11-usb-3/"><u>Windows 11 USBメモリへの自由で安全なバックアップ手順: 最新3種案</u></a></li>
 </ul></div>
 

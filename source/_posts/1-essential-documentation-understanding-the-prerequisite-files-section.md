@@ -1,7 +1,7 @@
 ---
 title: "1. Essential Documentation: Understanding the Prerequisite Files Section"
-date: 2024-10-05T17:00:31.357Z
-updated: 2024-10-11T02:28:50.899Z
+date: 2024-10-26T19:41:13.325Z
+updated: 2024-10-28T18:20:02.782Z
 tags:
   - user-guide
 categories:
@@ -81,6 +81,19 @@ Table of Contents
 
 ![Prerequisite Files Tab](https://cdn.advancedinstaller.com/img/dialog/prerequisite-install-files.png "Prerequisite Files Tab")  
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Location
 
 A prerequisite package can be retrieved from one of the following locations:
@@ -118,22 +131,15 @@ This field holds the name of the property in which the prerequisite installer wi
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)This field is forced to **uppercase characters** due to the fact that only**public properties** set during Wizard Dialogs Stage will be passed to Install Execution Stage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Action to be run before the package installation
 
 Using this option you can select any of the custom actions declared in the project to be ran before the prerequisite is installed. You can pick an action from the dropdown list or click on Go To shortcut hyperlink to open [Custom Actions](https://tools.techidaily.com/advancedinstaller/products/) page. The dropdown list contains all your custom actions without sequence
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Action to be run after this package installation
 
@@ -143,6 +149,13 @@ Using this option you can select any of the custom actions declared in the proje
 
 In this list, you can add additional files required by your prerequisite.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding files
 
  You can specify additional files for your prerequisite by using the \[Add Files... \] and \[Add Folder... \] buttons.
@@ -150,10 +163,10 @@ In this list, you can add additional files required by your prerequisite.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Only files that are in the primary setup file folder or one of its sub-folders can be added.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing files
@@ -162,13 +175,6 @@ The selected file can be removed from the list by using \[Remove \] button.
 
 ## Compression
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Archive prerequisite files using LZMA Compression
 
 This allows you to enable [LZMA Compression](https://tools.techidaily.com/advancedinstaller/products/) for your prerequisite files.
@@ -176,19 +182,19 @@ This allows you to enable [LZMA Compression](https://tools.techidaily.com/advanc
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In order to use compression, your prerequisite files must be included in the EXE bootstrapper. This setting can be changed in the [Configuration Tab](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Logging
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enable Logging
@@ -232,19 +238,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-maximizing-views-6-simple-strategies-for-youtube-success/"><u>[Updated] In 2024, Maximizing Views 6 Simple Strategies for YouTube Success</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-streamlined-scheduling-making-the-most-of-zoom-calls-for-2024/"><u>[Updated] Streamlined Scheduling Making the Most of Zoom Calls for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/bridging-the-gap-between-mobile-and-home-entertainment-a-comprehensive-tutorial-for-playing-android-games-on-your-tv-setup/"><u>Bridging the Gap Between Mobile and Home Entertainment: A Comprehensive Tutorial for Playing Android Games on Your TV Setup</u></a></li>
-<li><a href="https://fox-within.techidaily.com/exploring-the-features-of-internet-information-services-iis-properties-window/"><u>Exploring the Features of Internet Information Services (IIS) Properties Window</u></a></li>
-<li><a href="https://fox-within.techidaily.com/get-instant-updates-alerts-stay-informed-with-latest-notifications/"><u>Get Instant Updates Alerts - Stay Informed with Latest Notifications</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-s17t-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo S17t?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-smart-8-plus-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Infinix Smart 8 Plus to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-it-time-to-make-the-switch-to-amds-next-gen-ryzen-processors/"><u>Is It Time to Make the Switch to AMD's Next-Gen Ryzen Processors?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/navigating-requirements-configuring-your-pre-install-setup-interface/"><u>Navigating Requirements: Configuring Your Pre-Install Setup Interface</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-ps4-noise-issues-diagnosing-and-repairing-the-cause/"><u>Solving PS4 Noise Issues: Diagnosing and Repairing the Cause</u></a></li>
-<li><a href="https://fox-within.techidaily.com/tailored-functionality-attributes/"><u>Tailored Functionality Attributes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-price-quality-debate-an-in-depth-review-of-the-samsung-un65nu8000fxza-smart-tv/"><u>The Price-Quality Debate: An In-Depth Review of the Samsung UN65NU8000FXZA Smart TV</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-speedy-way-effortlessly-add-a-vimeo-video-to-your-slides/"><u>The Speedy Way Effortlessly Add a Vimeo Video to Your Slides</u></a></li>
-<li><a href="https://fox-within.techidaily.com/unlock-insights-with-effective-dialogue-techniques-in-archival-retrieval/"><u>Unlock Insights with Effective Dialogue Techniques in Archival Retrieval</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ultimate-top-11-list-excellent-audio-devices/"><u>[New] 2024 Approved Ultimate Top 11 List Excellent Audio Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-tap-into-the-rhythm-web-free-and-comprehensive-for-2024/"><u>[New] Tap Into the Rhythm Web (FREE & Comprehensive) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-action-to-archive-top-screen-recording-tools-assessed/"><u>2024 Approved Action to Archive Top Screen Recording Tools Assessed</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728487662285-404/"><u>404エラーに直面したら、次へ進む手順は何ですか?</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728469905500-windows-116/"><u>解決Windows 11重置進度膠化的6種有效方法</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-premier-smartwatch-selection-available-this-year/"><u>Discover the Premier Smartwatch Selection Available This Year</u></a></li>
+<li><a href="https://fox-within.techidaily.com/erfolgreiches-backup-mit-den-besten-techniken-fur-windows-server-auf-qnap-speicherlosung/"><u>Erfolgreiches Backup Mit Den Besten Techniken Für Windows Server Auf QNAP-Speicherlösung</u></a></li>
+<li><a href="https://fox-within.techidaily.com/guide-pratique-comment-installer-et-utiliser-un-point-de-restauration-dans-le-serveur-windows-server-2019/"><u>Guide Pratique: Comment Installer Et Utiliser Un Point De Restauration Dans Le Serveur Windows Server 2019</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-dynamics-behind-tseries-youtube-earning-patterns/"><u>In 2024, The Dynamics Behind TSeries' YouTube Earning Patterns</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-of-emporias-affordable-electric-vehicle-charger-with-enhanced-power-metrics-a-zdnet-review/"><u>In-Depth Analysis of Emporia's Affordable Electric Vehicle Charger with Enhanced Power Metrics - A ZDNet Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-emotional-landscapes-will-ai-be-our-ally-or-adversary-in-mental-wellness/"><u>Navigating Through Emotional Landscapes: Will AI Be Our Ally or Adversary in Mental Wellness?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/recupera-rapidamente-tus-archivos-perdidos-guia-paso-a-paso-para-sistemas-operativos-windows-10-y-11/"><u>Recupera Rápidamente Tus Archivos Perdidos: Guía Paso a Paso Para Sistemas Operativos Windows 10 Y 11</u></a></li>
+<li><a href="https://fox-within.techidaily.com/solution-optimale-pour-restaurer-un-disque-dur-fantome-sur-windows-11-guide-complet-et-efficace/"><u>Solution Optimale Pour Restaurer Un Disque Dur Fantôme Sur Windows 11 : Guide Complet Et Efficace</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-team-talk-here-are-5-easy-fixes-for-overwatch-voice-chat-failures/"><u>Trouble with Team Talk? Here Are 5 Easy Fixes for Overwatch Voice Chat Failures</u></a></li>
+<li><a href="https://fox-within.techidaily.com/verwenden-von-dism-im-offline-modus-fur-die-wiederherstellung-und-reparatur-von-windows-11-systemen/"><u>Verwenden Von DISM Im Offline-Modus Für Die Wiederherstellung Und Reparatur Von Windows 11 Systemen</u></a></li>
+<li><a href="https://fox-within.techidaily.com/wechseln-sie-ihr-betriebssystem-nahtlos-auf-eine-andere-festplatte-keine-neuinstallation-erforderlich/"><u>Wechseln Sie Ihr Betriebssystem Nahtlos Auf Eine Andere Festplatte - Keine Neuinstallation Erforderlich!</u></a></li>
 </ul></div>
 

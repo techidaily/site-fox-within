@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Eliminate the Windows Security Alert Phishing Scheme
-date: 2024-10-10T02:48:02.661Z
-updated: 2024-10-10T23:40:55.926Z
+date: 2024-10-27T17:35:54.014Z
+updated: 2024-10-28T16:34:02.190Z
 tags:
   - product
   - antivirus
@@ -90,10 +90,10 @@ If you are dealing with this message or pop-up repeatedly, you have to get rid o
 Here are the steps for that:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Restart your PC in Safe Mode**
@@ -101,13 +101,6 @@ Here are the steps for that:
 Windows Safe Mode is the perfect environment to find out and solve critical errors in the system. In safe mode, only system programs and some crucial programs run. Safe mode would most likely kill the applications and their files that try to run automatically on your system. [Follow this guide to boot your Windows 10 PC in **Safe Mode**](https://www.windowschimp.com/how-to-boot-windows-10-into-safe-mode/)**.**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Uninstall Suspicious Applications**
 
@@ -118,10 +111,10 @@ If the “Windows Security Alert” Scam still appears on your PC, try to find t
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right-click on the suspicious application and open its file location.  
@@ -129,6 +122,13 @@ If the “Windows Security Alert” Scam still appears on your PC, try to find t
 4. Delete the file from its root location.
 
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -145,13 +145,6 @@ Here are the steps to eliminate the temporary files:
 4. Select all Files and Folders of this folder and delete them. Don’t hesitate to delete them, as they are not essential for any of your tasks. ![Delete temp files](https://www.malwarefox.com/wp-content/uploads/2020/07/Delete-temp-files.png)
 5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Reset Web Browser Settings**
 
 If your browser is misbehaving because of the “Windows Security Alert” Scam, then reset its settings to default.
@@ -159,17 +152,37 @@ If your browser is misbehaving because of the “Windows Security Alert” Scam,
 1. Open Chrome and navigate to **Settings** by clicking on the three-dots at the top right.![Chrome Settings](https://www.malwarefox.com/wp-content/uploads/2020/03/Chrome-Malware-Scanner-1.png)
 2. Click on advanced **Advanced**.![Chrome Advanced Settings](https://www.malwarefox.com/wp-content/uploads/2020/05/Chrome-Malware-Scanner-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under **Reset and cleanup,** click on “**Restore settings to their original defaults.”**![Restore chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/Restore-chrome.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select **Reset settings** on the next prompt.![reset the chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/reset-the-chrome.png)
 5. Relaunch your browser.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Install an Antimalware and Perform a Scan**
 
@@ -183,10 +196,10 @@ MalwareFox is reliable security software that promises to protect your system an
 [Why Windows get More Virus Attacks than Mac or Linux](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Avoid such Threats?
@@ -209,29 +222,22 @@ Microsoft never blocks any computer. You see the warning of “Microsoft has blo
 
 [5 Things to do when your Facebook Account is Hacked](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 thought on “How To Remove “Windows Security Alert” Tech Support Scam?”
 
 1. ![](https://secure.gravatar.com/avatar/840469052af58082edaec2995ffe9417?s=50&d=mm&r=g)  
 Daniel  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [January 30, 2021 at 12:51 am](https://tools.techidaily.com/malwarefox/products/)  
 What a useful post, I must say. A friend of mine was a victim of this tedious malware, used these tips and the malware disappeared. Now, I see that  
 And I must say that this helps me on my task to learn aboutIT security. So thank you for that.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -258,20 +264,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-discover-the-power-of-video-filters-in-your-zoom-sessions/"><u>[New] 2024 Approved Discover the Power of Video Filters in Your Zoom Sessions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-the-art-of-growth-in-a-saturated-tiktok-market/"><u>[Updated] Mastering the Art of Growth in a Saturated TikTok Market</u></a></li>
-<li><a href="https://fox-within.techidaily.com/best-free-tools-top-5-m4a-to-mp3-converter-software/"><u>Best FREE Tools: Top 5 M4A to MP3 Converter Software</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/convert-your-downloaded-episodes-into-various-audio-formats-including-mp3-and-more-on-pc-or-mac/"><u>Convert Your Downloaded Episodes Into Various Audio Formats Including MP3 & More on PC or Mac</u></a></li>
-<li><a href="https://fox-within.techidaily.com/customize-system-center-configuration-manager-user-dialog-box/"><u>Customize System Center Configuration Manager User Dialog Box</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-edge-tips-designing-immersive-educational-videos-for-online-learning/"><u>Cutting-Edge Tips Designing Immersive Educational Videos for Online Learning</u></a></li>
-<li><a href="https://fox-within.techidaily.com/efficient-base-service-operation-techniques/"><u>Efficient Base Service Operation Techniques</u></a></li>
-<li><a href="https://fox-within.techidaily.com/exploring-the-photography-section-unveil-your-images/"><u>Exploring the Photography Section: Unveil Your Images</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-instructions-for-properly-logging-out-of-windows-operating-systems-windows-7-to-8/"><u>Step-by-Step Instructions for Properly Logging Out of Windows Operating Systems (Windows 7 to 8)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-3-tech-powered-linguistic-advancement-tools-announced-today/"><u>Top 3 Tech-Powered Linguistic Advancement Tools Announced Today</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformez-votre-ficmkv-en-format-mov-sans-cout-mooviez/"><u>Transformez Votre FICMKV en Format MOV Sans Coût - Mooviez</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-guide-resolving-software-problems-on-hp-officejet-pro-6978/"><u>Troubleshooting Guide: Resolving Software Problems on HP Officejet Pro 6978</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-removing-text-overlays-from-your-snaps-on-snapchat/"><u>Ultimate Guide: Removing Text Overlays From Your Snaps on Snapchat</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/webm-to-mp3-made-easy-top-converter-reviews/"><u>WebM to MP3 Made Easy Top Converter Reviews</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-whats-encrypted-exploring-the-role-of-facebooks-blue-icon-for-2024/"><u>[New] What's Encrypted Exploring the Role of Facebook's Blue Icon for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-revenue-revolution-leveraging-the-youtube-premium-opportunity/"><u>[Updated] Revenue Revolution Leveraging the YouTube Premium Opportunity</u></a></li>
+<li><a href="https://fox-within.techidaily.com/automatiser-le-sauvegarde-de-windows-sur-truenas-methodes-optimales-et-conseils-pratiques/"><u>Automatiser Le Sauvegarde De Windows Sur TrueNAS : Méthodes Optimales Et Conseils Pratiques</u></a></li>
+<li><a href="https://fox-within.techidaily.com/comprehensive-guide-to-restoring-your-samsung-portable-ssd-t5-to-factory-settings-with-safe-data-retrieval-techniques/"><u>Comprehensive Guide to Restoring Your Samsung Portable SSD T5 to Factory Settings with Safe Data Retrieval Techniques</u></a></li>
+<li><a href="https://fox-within.techidaily.com/effiziente-wege-zur-automatisierung-der-bestandsubergabe-in-windows-betriebssystemen-windows-111087-die-top-3-strategien-verdeutlicht/"><u>Effiziente Wege Zur Automatisierung Der Bestandsübergabe in Windows-Betriebssystemen (Windows 11/10/8/7): Die Top 3 Strategien Verdeutlicht</u></a></li>
+<li><a href="https://fox-within.techidaily.com/effizientes-datensicherungsverfahren-windows-server-raid-1-erklarung-und-durchfuhrung/"><u>Effizientes Datensicherungsverfahren - Windows Server RAID 1 Erklärung Und Durchführung</u></a></li>
+<li><a href="https://fox-within.techidaily.com/finding-missing-drives-on-windows-11-a-step-by-step-guide/"><u>Finding Missing Drives on Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nubia-red-magic-9-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nubia Red Magic 9 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-mp4-video-editing-software-with-cutting-capabilities/"><u>In 2024, Free MP4 Video Editing Software with Cutting Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-with-enhanced-privacy-can-vpns-help/"><u>Navigating ChatGPT with Enhanced Privacy: Can VPNs Help?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/no-cost-solution-retrieve-accidentally-erased-drone-videography-with-ease/"><u>No Cost Solution: Retrieve Accidentally Erased Drone Videography with Ease</u></a></li>
+<li><a href="https://fox-within.techidaily.com/pasos-seguros-para-transferir-el-sistema-reservado-entre-unidades-en-tu-computadora/"><u>Pasos Seguros Para Transferir El Sistema Reservado Entre Unidades en Tu Computadora</u></a></li>
+<li><a href="https://fox-within.techidaily.com/scegli-il-cancellatore-di-disco-ottimale-opzioni-compatibili-con-le-versioni-piu-recenti-di-windows-da-11-a-7/"><u>Scegli Il Cancellatore Di Disco Ottimale: Opzioni Compatibili Con Le Versioni Più Recenti Di Windows Da 11 a 7!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sound-sculpting-crafting-harmony-in-audiovox-studio-for-2024/"><u>Sound Sculpting Crafting Harmony in Audiovox Studio for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-income-youtubes-new-rules-for-2024/"><u>Streamline Your Income YouTube's New Rules for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-resilience-of-bose-headphones-reviewed-for-durability/"><u>The Resilience of Bose Headphones Reviewed for Durability</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transitioning-between-streams-how-to-transfer-playlists-between-apple-music-and-youtube-music-effortlessly/"><u>Transitioning Between Streams: How to Transfer Playlists Between Apple Music and YouTube Music Effortlessly</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728492339428-windows-7-8-10-11/"><u>Windows 7, 8, 10, 11におけるデータ損傷回復手順の迅速ガイド</u></a></li>
 </ul></div>
 

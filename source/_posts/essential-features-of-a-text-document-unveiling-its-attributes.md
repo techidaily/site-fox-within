@@ -1,7 +1,7 @@
 ---
 title: "Essential Features of a Text Document: Unveiling Its Attributes"
-date: 2024-10-07T03:15:36.729Z
-updated: 2024-10-10T19:54:52.716Z
+date: 2024-10-25T21:08:41.120Z
+updated: 2024-10-28T23:42:28.916Z
 tags:
   - user-guide
 categories:
@@ -94,20 +94,13 @@ The options set here will influence the behaviour of all [Replace](https://tools
 
 ![Text File Updates Global Properties](https://cdn.advancedinstaller.com/img/dialog/txt-update-global.png "Text File Updates Global Properties")  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Files
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Include
@@ -117,13 +110,6 @@ This field will contain the name of the file that will be created or modified. I
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If wildcards are being defined the "Create" operation **can not be used**. The "Append" operation can be used when using wildcards.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The name in this field will be shared with the "Text File Properties" node. For example, if the filename in this field is_MyFile.txt_, the corresponding "Text File Properties" node from the tree located on the left of this dialog will have the same name.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Exclude
 
@@ -137,9 +123,23 @@ The file(s) specified in the "Include" and "Exclude" fields will be searched in 
 
 ## Install
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Component
 
 You can use this combobox to select the component that will trigger the "Replace" or "Append/Create" operations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Run on
 
@@ -148,6 +148,13 @@ The operations will be executed on:
 * Component Install
 * Component Uninstall
 * Component Install and Uninstall
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Error
 
@@ -162,20 +169,13 @@ This combobox sets the behaviour in case the "Replace" or "Append/Create" operat
 
 In some cases the operation will have undesired results. It is advised to enable this option in case such an event occurs. This way the file can be restored to it's unchanged, original state from the backup copy generated before the operation took place.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Common Options
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Impersonate installing user
@@ -215,18 +215,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-dive-into-dynamic-artistry-explore-14-text-animation-showcases-for-2024/"><u>[New] Dive Into Dynamic Artistry Explore 14 Text Animation Showcases for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-essential-guide-to-aspect-ratio-standards-on-yt/"><u>[New] The Essential Guide to Aspect Ratio Standards on YT</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-most-memorable-tiktok-videos-and-their-twitter-spreads/"><u>[Updated] In 2024, Most Memorable TikTok Videos & Their Twitter Spreads</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-dynamic-text-styling-techniques-for-engaging-conversations/"><u>1. 'Dynamic Text Styling Techniques for Engaging Conversations'</u></a></li>
-<li><a href="https://fox-within.techidaily.com/boosting-productivity-with-macos-xs-multi-tab-capability/"><u>Boosting Productivity with MacOS X's Multi-Tab Capability</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enhanced-uwp-detection-update/"><u>Enhanced UWP Detection Update</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-lava-agni-2-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Agni 2 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-successfully-launch-your-quest-in-monster-hunter-stories-2-wings-of-ruin/"><u>How to Successfully Launch Your Quest in Monster Hunter Stories 2 - Wings of Ruin</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-necessary-to-use-polite-language-while-interacting-with-ai-platforms-including-chatgpt-alexa-and-siri/"><u>Is It Necessary to Use Polite Language While Interacting With AI Platforms Including ChatGPT, Alexa, and Siri?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-file-management-essential-techniques-on-the-files-and-folders-interface-within-a-vsix-development-environment/"><u>Mastering File Management: Essential Techniques on the Files & Folders Interface Within a VSIX Development Environment</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-the-art-of-capturing-your-screen-on-windows-11/"><u>Mastering the Art of Capturing Your Screen on Windows 11</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-vignette-perfection-discover-the-best-apps-for-ios-and-android/"><u>New Vignette Perfection Discover the Best Apps for iOS and Android</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-strategies-for-efficiently-shrinking-your-quicktime-videos/"><u>Top Strategies for Efficiently Shrinking Your QuickTime Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-put-a-halt-on-surprise-youtube-videos/"><u>[New] Put a Halt on Surprise YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-banner-success-a-complete-strategy/"><u>[Updated] Mastering YouTube Banner Success A Complete Strategy</u></a></li>
+<li><a href="https://fox-within.techidaily.com/clonare-i-tuoi-dati-ssd-gratuitamente-con-protezione-avanzata-software-in-italia/"><u>Clonare I Tuoi Dati SSD Gratuitamente Con Protezione Avanzata - Software in Italia</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-free-photo-editing-solutions-a-top-6-countdown/"><u>Essential Free Photo Editing Solutions: A Top 6 Countdown</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-15-pro-max-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 15 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-solo-play-how-to-enjoy-your-steam-library-anywhere-even-offline/"><u>Mastering Solo Play: How to Enjoy Your Steam Library Anywhere, Even Offline</u></a></li>
+<li><a href="https://fox-within.techidaily.com/preparing-for-windows-11-build-23h2s-end-of-life-upgrade-guide/"><u>Preparing for Windows 11 Build 23H2's End-of-Life Upgrade Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/recupere-sus-archivos-de-juegos-eliminados-en-su-pc-con-estas-4-estrategias-efectivas/"><u>Recupere Sus Archivos De Juegos Eliminados en Su PC Con Estas 4 Estrategias Efectivas</u></a></li>
+<li><a href="https://fox-within.techidaily.com/resipihen-komprehensif-proses-mudah-menuju-ulangan-data-hdd-perusahaan-toshiba/"><u>Resipihen Komprehensif: Proses Mudah Menuju Ulangan Data Hdd Perusahaan Toshiba</u></a></li>
+<li><a href="https://fox-within.techidaily.com/sicherung-ihrer-wichtigsten-ordner-die-besten-methoden-mit-dropbox-erklart-auf-deutsch/"><u>Sicherung Ihrer Wichtigsten Ordner - Die Besten Methoden Mit Dropbox Erklärt Auf Deutsch</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1726027752358-windows-1011/"><u>マルチトラックなしで内部音声をWindows 10または11環境下で記録する方法</u></a></li>
 </ul></div>
 

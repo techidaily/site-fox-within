@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Inner Workings of Antivirus Programs: The Science Behind Virus Detection and Defense Tactics"
-date: 2024-10-03T19:09:10.198Z
-updated: 2024-10-11T03:30:59.294Z
+date: 2024-10-22T20:32:23.094Z
+updated: 2024-10-28T21:58:28.756Z
 tags:
   - product
   - antivirus
@@ -62,6 +62,13 @@ This approach is what helps protect against encrypted viruses, or viruses that a
 
 That’s the long and short of it, a basic overview of how this type of software works. But as noted above, these security solutions also come with a bunch more advanced detection capabilities and clean up techniques that help them protect against more advanced and stealthier threats.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How an antivirus detects infection?
 
 In an attempt to protect itself, modern malware threats employ several techniques to avoid detection and elimination. It is these self-preservation methods that antivirus programs need to guard against, in order to protect a system or a network. Malicious software can also mutate, making it difficult to create a signature. And worse yet, there is malware that also actively attacks antivirus software and personal firewalls to terminate their processes, and prevent their launch.
@@ -75,10 +82,10 @@ These are some really next generation technologies that are very well equipped a
 Though the approaches below are listed under individual headings, the distinctions between many of these are often blurred, as antivirus programs combine different techniques to actively protect against the different types of threats.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Virus definitions
@@ -89,18 +96,18 @@ Or in other words, signature-based detection. As noted above, this is practicall
 
 But while this approach does prevent malware outbreaks, cybercriminals try to stay one step ahead by writing viruses that either encrypt themselves or modify their code in order to disguise and not match virus definitions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Heuristics
 
 While identifying a specific virus is well and good, most antivirus programs come with advanced heuristics that allows them to quickly detect a virus family, even by an inexact match to an existing signature. This helps protect against viruses that start as a single infection, but grow into dozens or even hundreds of slightly different variants.
 
 A heuristic detection allows a scanner to detect viruses even when they are padded with extra or meaningless code, using what are called wildcard characters. Heuristics is vitally important for modern antivirus solutions, but it usually not too aggressive, so as not to flag legitimate software as malware.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Behavioral blocking
 
@@ -116,13 +123,6 @@ As you can imagine, this technique is both heavy and slow, and its resource inte
 
 This is one of the latest approaches in malware detection that security vendors now provide with their antivirus and antimalware products. A series of features of files are extracted from files, and then data mining and machine learning algorithms are used to classify the behavior of a file and detect whether it has malicious intent or not. This is particularly helpful in detecting and defeating the newest forms of malware in the wild.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Types of scans
 
 All these varying types of detection capabilities are fine, but another, equally important, measure of how successful an antivirus is in protecting a system is the types of scans it offers.
@@ -131,15 +131,22 @@ Originally, antivirus programs just offered a regular scanner that searched thro
 
 [Why Does Antivirus Quarantine Instead of Deleting?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conventional disk scans
 
 The standard way to check for a virus. A conventional scan is either run when the user requests it, or at a scheduled instance that the antivirus sets up. This type of scan searches the contents of the disks, directories and files, as well as boot sectors and system components. Conventional disk scans are used either as a preventive maintenance activity, or when a virus is suspected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Real time protection
@@ -166,13 +173,6 @@ Typically, more than 100,000 samples are used for testing, and a detection rate 
 
 The detection rates fluctuate over time, with no best product constantly on top. Then again, this goes to show just how dynamic and constantly changing the computing security landscape is these days.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
 Comment
@@ -198,17 +198,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-enrolling-in-the-apple-podcast-network/"><u>[New] In 2024, Enrolling in the Apple Podcast Network</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-building-a-professional-online-network-hub/"><u>[Updated] Building a Professional Online Network Hub</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leveraging-vocal-charisma-to-enrich-ppt-storytelling/"><u>[Updated] Leveraging Vocal Charisma to Enrich PPT Storytelling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-straightforward-guide-to-photo-uploads-on-instagram/"><u>2024 Approved The Straightforward Guide to Photo Uploads on Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/are-minecraft-realms-a-game-changer-for-multiplayer-experience/"><u>Are Minecraft Realms a Game-Changer for Multiplayer Experience?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/discovering-the-hidden-places-of-chrome-browser-plugins-and-extensions/"><u>Discovering the Hidden Places of Chrome Browser Plugins and Extensions</u></a></li>
-<li><a href="https://fox-within.techidaily.com/engage-and-configure-user-friendly-interface-for-quick-setup-processes/"><u>Engage & Configure: User-Friendly Interface for Quick Setup Processes</u></a></li>
-<li><a href="https://fox-within.techidaily.com/expert-tips-on-speedy-production-of-quicktime-audio-captures/"><u>Expert Tips on Speedy Production of QuickTime Audio Captures</u></a></li>
-<li><a href="https://fox-within.techidaily.com/malwarefox-unveiled-a-comprehensive-guide-on-spyware-and-malware-distinctions-for-optimal-protection/"><u>MalwareFox Unveiled: A Comprehensive Guide on Spyware and Malware Distinctions for Optimal Protection</u></a></li>
-<li><a href="https://extra-information.techidaily.com/maximizing-zoom-visual-precision-effective-strategies/"><u>Maximizing Zoom Visual Precision Effective Strategies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/open-gallery-timeless-visuals-no-rights-to-claim/"><u>Open Gallery Timeless Visuals No Rights to Claim</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ultimate-university-sound-snatchers/"><u>Ultimate University Sound Snatchers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-windows-8-tips-record-your-screen/"><u>[New] 2024 Approved Essential Windows 8 Tips Record Your Screen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-how-to-see-every-participant-in-google-meet/"><u>[New] In 2024, How to See Every Participant in Google Meet?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/adobe-lightroom/"><u>「Adobe Lightroomで消去された撮影画像の復元マニュアル」</u></a></li>
+<li><a href="https://fox-within.techidaily.com/4-innovative-methods-to-create-formatted-usb-drives-complete-guide/"><u>4 Innovative Methods to Create Formatted USB Drives - Complete Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cinematic-slowing-discover-the-top-10-slow-motion-video-editors-for-2024/"><u>Cinematic Slowing Discover the Top 10 Slow Motion Video Editors for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/cold-frames-and-greenhouses-can-maintain-a-microclimate-with-higher-humidity-levels-which-reduces-transpiration-stress-on-the-plant-during-cold-periods/"><u>Cold Frames and Greenhouses Can Maintain a Microclimate with Higher Humidity Levels, Which Reduces Transpiration Stress on the Plant During Cold Periods.</u></a></li>
+<li><a href="https://fox-within.techidaily.com/comparative-analysis-amazons-s3-and-s3-glacier-which-is-the-best-object-storage-solution/"><u>Comparative Analysis: Amazon's S3 and S3 Glacier - Which Is the Best Object Storage Solution?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fast-and-efficient-dvd-backup-strategy-for-vintage-and-modern-discs-lose-none-of-the-visuals/"><u>Fast & Efficient DVD Backup Strategy for Vintage and Modern Discs - Lose None of the Visuals!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/fehlerbehebung-fehlende-system-reservepartition-erfolgreich-wiederherstellungsmoglichkeiten/"><u>Fehlerbehebung: Fehlende System-Reservepartition – Erfolgreich Wiederherstellungsmöglichkeiten</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-8k-tv-showdown-highest-resolution-screens-compared/"><u>In 2024, 8K TV Showdown Highest Resolution Screens Compared</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-ultimate-plan-for-profit-from-instagram-content/"><u>In 2024, The Ultimate Plan for Profit From Instagram Content</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oneplus-nord-n30-se-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track OnePlus Nord N30 SE without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/logiciel-gratuit-pour-effacer-lhistorique-des-fichiers-dans-windows-11-8-et-81-le-meilleur-choix/"><u>Logiciel Gratuit Pour Effacer L’historique Des Fichiers Dans Windows 11, 8 Et 8.1 - Le Meilleur Choix</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ps5-vs-ps4-pro-should-you-upgrade/"><u>PS5 vs PS4 Pro: Should You Upgrade?</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-a2-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo A2 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/windows-server-2012-r2-os-4/"><u>Windows Server 2012 R2 安全基準適用時 OS パニック状態発生に関する解決策を4点</u></a></li>
 </ul></div>
 
