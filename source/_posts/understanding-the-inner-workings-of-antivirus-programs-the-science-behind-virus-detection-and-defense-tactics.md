@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Inner Workings of Antivirus Programs: The Science Behind Virus Detection and Defense Tactics"
-date: 2024-10-22T20:32:23.094Z
-updated: 2024-10-28T21:58:28.756Z
+date: 2024-11-21T05:41:56.065Z
+updated: 2024-11-22T08:33:32.247Z
 tags:
   - product
   - antivirus
@@ -44,6 +44,10 @@ Find and Remove Hidden Malware Viruses on your PC
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The makings of a guardian
 
 Think of antivirus software as the penicillin of the PC world. These applications may look lightweight, and function in the background, but are built on some of the most advanced computing and security technologies available. They have to be, considering the continually evolving threats of advanced malware these days.
@@ -63,10 +67,7 @@ This approach is what helps protect against encrypted viruses, or viruses that a
 That’s the long and short of it, a basic overview of how this type of software works. But as noted above, these security solutions also come with a bunch more advanced detection capabilities and clean up techniques that help them protect against more advanced and stealthier threats.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How an antivirus detects infection?
@@ -81,13 +82,6 @@ These are some really next generation technologies that are very well equipped a
 
 Though the approaches below are listed under individual headings, the distinctions between many of these are often blurred, as antivirus programs combine different techniques to actively protect against the different types of threats.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Virus definitions
 
 Or in other words, signature-based detection. As noted above, this is practically the first method traditional antivirus software employ to identify malware. The programs rely upon signatures to detect new malware. Provided the company has already analyzed and extracted a proper signature of the file that is then kept in a database. Threats are compared to this database, and devices are then protected in case the signatures match.
@@ -96,22 +90,23 @@ Or in other words, signature-based detection. As noted above, this is practicall
 
 But while this approach does prevent malware outbreaks, cybercriminals try to stay one step ahead by writing viruses that either encrypt themselves or modify their code in order to disguise and not match virus definitions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Heuristics
 
 While identifying a specific virus is well and good, most antivirus programs come with advanced heuristics that allows them to quickly detect a virus family, even by an inexact match to an existing signature. This helps protect against viruses that start as a single infection, but grow into dozens or even hundreds of slightly different variants.
 
 A heuristic detection allows a scanner to detect viruses even when they are padded with extra or meaningless code, using what are called wildcard characters. Heuristics is vitally important for modern antivirus solutions, but it usually not too aggressive, so as not to flag legitimate software as malware.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Behavioral blocking
 
 Behavior detection is a signatureless approach to detection that helps the program build a full context around every process execution path in real time, and identify the stealthier, more advanced malware threats. Suspicious behavior includes unpacking of malicious code, modifying the host files, or observing key strokes. Noticing actions like these allows an antivirus program to detect previously unseen malware on a system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Sandbox detection
 
@@ -131,23 +126,9 @@ Originally, antivirus programs just offered a regular scanner that searched thro
 
 [Why Does Antivirus Quarantine Instead of Deleting?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conventional disk scans
 
 The standard way to check for a virus. A conventional scan is either run when the user requests it, or at a scheduled instance that the antivirus sets up. This type of scan searches the contents of the disks, directories and files, as well as boot sectors and system components. Conventional disk scans are used either as a preventive maintenance activity, or when a virus is suspected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Real time protection
 
@@ -162,6 +143,10 @@ These refer to an approach where an antivirus only scans selected files, that ar
 ### Startup scanning
 
 Antivirus software often come with a special program that is designed to run every time the PC is booted up. It does a quick scan of the boot sectors and critical system files, instead of a full disk scan that takes a long time to finish. This comes in particularly handy to catch boot sector viruses, before they get a chance to spread.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Detection rate
 
@@ -198,21 +183,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-windows-8-tips-record-your-screen/"><u>[New] 2024 Approved Essential Windows 8 Tips Record Your Screen</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-how-to-see-every-participant-in-google-meet/"><u>[New] In 2024, How to See Every Participant in Google Meet?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/adobe-lightroom/"><u>「Adobe Lightroomで消去された撮影画像の復元マニュアル」</u></a></li>
-<li><a href="https://fox-within.techidaily.com/4-innovative-methods-to-create-formatted-usb-drives-complete-guide/"><u>4 Innovative Methods to Create Formatted USB Drives - Complete Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cinematic-slowing-discover-the-top-10-slow-motion-video-editors-for-2024/"><u>Cinematic Slowing Discover the Top 10 Slow Motion Video Editors for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/cold-frames-and-greenhouses-can-maintain-a-microclimate-with-higher-humidity-levels-which-reduces-transpiration-stress-on-the-plant-during-cold-periods/"><u>Cold Frames and Greenhouses Can Maintain a Microclimate with Higher Humidity Levels, Which Reduces Transpiration Stress on the Plant During Cold Periods.</u></a></li>
-<li><a href="https://fox-within.techidaily.com/comparative-analysis-amazons-s3-and-s3-glacier-which-is-the-best-object-storage-solution/"><u>Comparative Analysis: Amazon's S3 and S3 Glacier - Which Is the Best Object Storage Solution?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fast-and-efficient-dvd-backup-strategy-for-vintage-and-modern-discs-lose-none-of-the-visuals/"><u>Fast & Efficient DVD Backup Strategy for Vintage and Modern Discs - Lose None of the Visuals!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/fehlerbehebung-fehlende-system-reservepartition-erfolgreich-wiederherstellungsmoglichkeiten/"><u>Fehlerbehebung: Fehlende System-Reservepartition – Erfolgreich Wiederherstellungsmöglichkeiten</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-8k-tv-showdown-highest-resolution-screens-compared/"><u>In 2024, 8K TV Showdown Highest Resolution Screens Compared</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-ultimate-plan-for-profit-from-instagram-content/"><u>In 2024, The Ultimate Plan for Profit From Instagram Content</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oneplus-nord-n30-se-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track OnePlus Nord N30 SE without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/logiciel-gratuit-pour-effacer-lhistorique-des-fichiers-dans-windows-11-8-et-81-le-meilleur-choix/"><u>Logiciel Gratuit Pour Effacer L’historique Des Fichiers Dans Windows 11, 8 Et 8.1 - Le Meilleur Choix</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ps5-vs-ps4-pro-should-you-upgrade/"><u>PS5 vs PS4 Pro: Should You Upgrade?</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-oppo-a2-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo A2 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/windows-server-2012-r2-os-4/"><u>Windows Server 2012 R2 安全基準適用時 OS パニック状態発生に関する解決策を4点</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-adding-vibrancy-easy-youtube-subscribe-animations-with-filmora/"><u>[Updated] In 2024, Adding Vibrancy Easy YouTube Subscribe Animations with Filmora</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-starting-offright-how-to-register-with-youtube/"><u>[Updated] Starting Offright How to Register With YouTube</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-is-your-iphone-messaging-data-saved-on-icloud-cloud-storage/"><u>1. Is Your iPhone Messaging Data Saved on iCloud Cloud Storage?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-foundations-of-facebook-video-marketing/"><u>2024 Approved The Foundations of Facebook Video Marketing</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/begin-with-an-overview-tailor-first-page-display-options-using-flipbuildercom-tools/"><u>Begin with an Overview: Tailor First-Page Display Options Using FlipBuilder.com Tools</u></a></li>
+<li><a href="https://fox-within.techidaily.com/comment-gerer-et-surveiller-les-ordinateurs-personnels-avec-aomei-backupper/"><u>Comment Gérer Et Surveiller Les Ordinateurs Personnels Avec AOMEI Backupper?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/datensicherung-durch-iso-aufzeichnung-verstehen-und-umsetzen-erfahrungen-mit-aomei-tools/"><u>Datensicherung Durch ISO-Aufzeichnung Verstehen Und Umsetzen – Erfahrungen Mit AOMEI Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-guide-6-ways-to-document-your-minecraft-experiences/"><u>Expert Guide 6 Ways to Document Your Minecraft Experiences</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exploring-the-world-of-vcenter-is-it-gratis-and-tips-on-selecting-the-right-edition/"><u>Exploring the World of vCenter: Is It Gratis & Tips on Selecting the Right Edition?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-configurare-il-backup-automatico-su-windows-10/"><u>How to Configurare Il Backup Automatico Su Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/problembehebung-volles-laufwerk-c-auf-windows-11-schritte-zur-losung/"><u>Problembehebung: Volles Laufwerk C Auf Windows 11 – Schritte Zur Lösung</u></a></li>
+<li><a href="https://fox-within.techidaily.com/recupera-sus-archivos-de-escritorios-perdidos-en-windows-10-con-estas-7-tecnicas-utiles/"><u>Recupera Sus Archivos De Escritorios Perdidos en Windows 10 Con Estas 7 Técnicas Útiles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-16-affordable-smartwatches-for-the-festive-season-featuring-apple-garmin-and-others-insights-from-zdnet/"><u>Top 16 Affordable Smartwatches For The Festive Season: Featuring Apple, Garmin & Others - Insights From ZDNet</u></a></li>
 </ul></div>
 

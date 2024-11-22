@@ -1,7 +1,7 @@
 ---
 title: "Incorporating Personalized VBScript Triggers Into User Interfaces: A Step-by-Step Guide"
-date: 2024-10-26T23:40:42.297Z
-updated: 2024-10-28T21:02:20.892Z
+date: 2024-11-15T11:58:47.208Z
+updated: 2024-11-22T04:22:24.658Z
 tags:
   - user-guide
 categories:
@@ -81,13 +81,25 @@ Table of Contents
 * [Advanced Installer Blog](https://tools.techidaily.com/advancedinstaller/products/)
 * [Table of Contents](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Add a VBScript file as a custom event
 
 It is possible to create an event based on a VBScript you created. Depending on your script, the VBScript file _can_ or _can not_ accept command line arguments. 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Event if usually a VBScript file doesn't accept arguments, there are ways of making it accept command line arguments.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Vbs file event](https://cdn.advancedinstaller.com/img/dialog/vbs-file-event.png "Vbs file event")  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This event is equivalent to running the sample.vbs prior or post-build time depending on how you created the event.
 
@@ -124,23 +136,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-fake-following-fiasco-avoiding-illusory-supporters-in-social-media-space/"><u>[New] 2024 Approved Fake Following Fiasco Avoiding Illusory Supporters in Social Media Space</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-methods-saving-your-google-voice-dialogues-for-2024/"><u>[Updated] Quick Methods Saving Your Google Voice Dialogues for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-imprint-on-developer-routines/"><u>AI's Imprint on Developer Routines</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-choice-avi-player-with-multiplatform-support/"><u>Best Choice Avi Player with Multiplatform Support</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mov-movies-content-on-xiaomi-14-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Xiaomi 14</u></a></li>
-<li><a href="https://fox-within.techidaily.com/complete-step-by-step-tutorial-for-performing-a-factory-reset-on-your-hp-desktop-with-windows-11/"><u>Complete Step-by-Step Tutorial for Performing a Factory Reset on Your HP Desktop with Windows 11</u></a></li>
-<li><a href="https://fox-within.techidaily.com/free-techniques-for-crafting-your-own-windows-response-generate-free-boot-disk-backups-on-windows-10-two-simple-strategies/"><u>Free Techniques for Crafting Your Own Windows # Response: Generate Free Boot Disk Backups on Windows 10 - Two Simple Strategies</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-pratique-pour-reflashage-de-limage-systeme-windows-vers-une-machine-differente-windows-1087/"><u>Guide Pratique Pour Reflashage De L'image Système Windows Vers Une Machine Différente : Windows 10/8/7</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changefake-your-itel-s23-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Itel S23 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/resolve-a-complete-system-restore-on-your-pc-with-a-pure-black-display/"><u>Resolve a Complete System Restore on Your PC with a Pure Black Display</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728491204046-windows-116/"><u>Windows 11におけるタブレットモードを使用不可状態から回復するための6つのコツ</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfectly-pair-audio-visual-delights-top-6-music-video-apps-for-android/"><u>[New] Perfectly Pair Audio-Visual Delights Top 6 Music Video Apps for Android</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-cost-effective-video-enhancement-vimeo-edition/"><u>[Updated] 2024 Approved Cost-Effective Video Enhancement Vimeo Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-quick-pace-champions-2022-edition-for-2024/"><u>[Updated] Quick Pace Champions 2022 Edition for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-uniting-visuals-the-art-of-video-sequence-composition/"><u>[Updated] Uniting Visuals The Art of Video Sequence Composition</u></a></li>
+<li><a href="https://fox-within.techidaily.com/44cm44kq44ov44kj44k544oh44o844or44oc44od44kv44k55a656yep5rqi44km6kej5rai5pa55rov44cn/"><u>「オフィスメールボックス容量溢れ解消方法」</u></a></li>
+<li><a href="https://fox-within.techidaily.com/come-liberare-la-casella-piena-su-hotmail-con-strategie-prove-e-verificate/"><u>Come Liberare La Casella Piena Su Hotmail Con Strategie Prove E Verificate</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-creativity-step-by-step-utilization-of-the-background-eraser-tool/"><u>Enhancing Creativity Step-by-Step Utilization of the Background Eraser Tool</u></a></li>
+<li><a href="https://fox-within.techidaily.com/icloud-versus-itunes-backups-on-ios-determining-the-superior-choice-for-your-device-security/"><u>ICloud Versus iTunes Backups on iOS - Determining the Superior Choice for Your Device Security</u></a></li>
+<li><a href="https://fox-within.techidaily.com/impact-de-la-reinstallation-windows-sur-les-donnees-sauvegardees-est-ce-certain/"><u>Impact De La Réinstallation Windows Sur Les Données Sauvegardées - Est-Ce Certain ?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-tecno-pova-5-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Tecno Pova 5 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://fox-within.techidaily.com/losungsfuhrer-fur-schnelle-und-sichere-samsung-datenubertragung-entdecken-sie-funf-effiziente-methoden/"><u>Lösungsführer Für Schnelle Und Sichere Samsung-Datenübertragung – Entdecken Sie Fünf Effiziente Methoden!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728481463123-microsoft-onedrive/"><u>Microsoft OneDriveで紛失したデータを取り戻す方法</u></a></li>
+<li><a href="https://fox-within.techidaily.com/secure-your-files-online-with-cloud-storage-discover-aomei-backupper/"><u>Secure Your Files Online with Cloud Storage: Discover AOMEI Backupper</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-lava-yuva-2-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Lava Yuva 2 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-techniques-for-faulty-hp-monitor-drivers-on-windows-11-8-and-7/"><u>Troubleshooting Techniques for Faulty HP Monitor Drivers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-3d-video-makers-for-all-budgets/"><u>Unleash Your Creativity Top 3D Video Makers for All Budgets</u></a></li>
+<li><a href="https://fox-within.techidaily.com/wie-sie-ihren-computer-erfolgreich-auf-windows-booten-konnen-professionelle-tipps-und-tricks/"><u>Wie Sie Ihren Computer Erfolgreich Auf Windows 지원으로 Booten Können - Professionelle Tipps Und Tricks</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

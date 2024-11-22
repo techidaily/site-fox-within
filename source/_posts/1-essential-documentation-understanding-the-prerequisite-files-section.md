@@ -1,7 +1,7 @@
 ---
 title: "1. Essential Documentation: Understanding the Prerequisite Files Section"
-date: 2024-11-07T18:19:54.585Z
-updated: 2024-11-12T17:19:15.384Z
+date: 2024-11-16T22:32:54.338Z
+updated: 2024-11-21T18:24:07.096Z
 tags:
   - user-guide
 categories:
@@ -81,13 +81,6 @@ Table of Contents
 
 ![Prerequisite Files Tab](https://cdn.advancedinstaller.com/img/dialog/prerequisite-install-files.png "Prerequisite Files Tab")  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Location
 
 A prerequisite package can be retrieved from one of the following locations:
@@ -96,14 +89,11 @@ A prerequisite package can be retrieved from one of the following locations:
 * _Download single file from URL_ \- this option allows you to specify a URL which points to the prerequisite setup file. You can use the installation package exact size and MD5 signature to verify if the prerequisite is downloaded correctly or not. This option supports only single-file prerequisites. You cannot select additional files.
 * _Open website in default Internet browser_ \- this option will allow the user to browse the specified website and select the prerequisite version that he wants to install. In this case, the prerequisite wizard will wait until the user clicks "Finish" button in the wizard before verifying if the prerequisite was installed correctly or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Main Setup File
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### File path/URL
 
@@ -125,19 +115,6 @@ Copy
 
 If the “?FILE” construction is missing (just the “DIRECTORY” name is specified), the download file name from URL is used automatically.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Save return value in this property
 
 This field holds the name of the property in which the prerequisite installer will store its return value. You can use this property during the install process of your main MSI.
@@ -148,6 +125,10 @@ This field holds the name of the property in which the prerequisite installer wi
 
 Using this option you can select any of the custom actions declared in the project to be ran before the prerequisite is installed. You can pick an action from the dropdown list or click on Go To shortcut hyperlink to open [Custom Actions](https://tools.techidaily.com/advancedinstaller/products/) page. The dropdown list contains all your custom actions without sequence
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Action to be run after this package installation
 
 Using this option you can select any of the custom actions declared in the project to be ran after the prerequisite is installed. You can pick an action from the dropdown list or click on Go To shortcut hyperlink to open [Custom Actions](https://tools.techidaily.com/advancedinstaller/products/) page. The dropdown list contains all your custom actions without sequence.
@@ -157,10 +138,7 @@ Using this option you can select any of the custom actions declared in the proje
 In this list, you can add additional files required by your prerequisite.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adding files
@@ -169,18 +147,19 @@ In this list, you can add additional files required by your prerequisite.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Only files that are in the primary setup file folder or one of its sub-folders can be added.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Removing files
 
 The selected file can be removed from the list by using \[Remove \] button. 
 
-## Compression
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Compression
 
 ### Archive prerequisite files using LZMA Compression
 
@@ -189,10 +168,11 @@ This allows you to enable [LZMA Compression](https://tools.techidaily.com/advanc
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In order to use compression, your prerequisite files must be included in the EXE bootstrapper. This setting can be changed in the [Configuration Tab](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Logging
@@ -238,17 +218,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-chromatic-confluence-blending-colors-with-flair/"><u>[New] In 2024, Chromatic Confluence Blending Colors with Flair</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-optimizing-remote-team-meetings-with-skype-screen-sharing/"><u>[New] Optimizing Remote Team Meetings with Skype Screen Sharing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-seamlessly-change-backdrops-explore-our-top-10-image-replace-tools/"><u>[Updated] Seamlessly Change Backdrops Explore Our Top 10 Image Replace Tools</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728487662285-404/"><u>404エラーに直面したら、次へ進む手順は何ですか?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-pratique-comment-installer-et-utiliser-un-point-de-restauration-dans-le-serveur-windows-server-2019/"><u>Guide Pratique: Comment Installer Et Utiliser Un Point De Restauration Dans Le Serveur Windows Server 2019</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-moto-g24-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola Moto G24 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/image-editing-excellence-cutting-out-the-unwanted/"><u>Image Editing Excellence: Cutting Out the Unwanted</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oneplus-nord-3-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On OnePlus Nord 3 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mental-health-horizons-with-the-help-of-ai-innovations/"><u>Mental Health Horizons with the Help of AI Innovations</u></a></li>
-<li><a href="https://fox-within.techidaily.com/recupera-rapidamente-tus-archivos-perdidos-guia-paso-a-paso-para-sistemas-operativos-windows-10-y-11/"><u>Recupera Rápidamente Tus Archivos Perdidos: Guía Paso a Paso Para Sistemas Operativos Windows 10 Y 11</u></a></li>
-<li><a href="https://fox-within.techidaily.com/solution-optimale-pour-restaurer-un-disque-dur-fantome-sur-windows-11-guide-complet-et-efficace/"><u>Solution Optimale Pour Restaurer Un Disque Dur Fantôme Sur Windows 11 : Guide Complet Et Efficace</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/troubleshooting-steps-to-prevent-outlook-from-frequent-crashes/"><u>Troubleshooting Steps to Prevent Outlook From Frequent Crashes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-journey-into-the-creative-realm-top-25-tiktok-anime-ideas/"><u>[New] 2024 Approved Journey Into the Creative Realm Top 25 TikTok Anime Ideas</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-explore-premium-download-options-for-mp4/"><u>[Updated] In 2024, Explore Premium Download Options for MP4</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-optimal-strategies-for-downloading-audio-from-pinterest-videos/"><u>[Updated] Optimal Strategies for Downloading Audio From Pinterest Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-high-res-screens-for-playstation-5/"><u>[Updated] Top 5 High-Res Screens for PlayStation 5</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728484177392-pc/"><u>最も簡単なPCから全データ移行手順</u></a></li>
+<li><a href="https://fox-within.techidaily.com/content-missing-webpage-cannot-be-located-http-404-error/"><u>Content Missing: Webpage Cannot Be Located (HTTP 404 Error)</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oneplus-12-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from OnePlus 12 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/real-time-streaming-made-easy-discover-the-power-of-manycam-your-ultimate-live-video-solution/"><u>Real-Time Streaming Made Easy: Discover the Power of ManyCam, Your Ultimate Live Video Solution</u></a></li>
+<li><a href="https://fox-within.techidaily.com/schritt-fur-schritt-anleitung-zum-zurucksetzen-von-windows-server-sicherungen-professionelle-tipps-und-tricks/"><u>Schritt-Für-Schritt-Anleitung Zum Zurücksetzen Von Windows Server Sicherungen: Professionelle Tipps Und Tricks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/secure-mp4-conversion-at-your-fingertits-fb-only-for-2024/"><u>Secure MP4 Conversion at Your Fingertits – FB Only for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/the-intrigue-of-lost-files-can-information-persist-after-hard-drive-deletion/"><u>The Intrigue of Lost Files: Can Information Persist After Hard Drive Deletion?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-free-synctoy-tutorial-and-alternatives-for-windows-11-a-complete-guide/"><u>Ultimate Free SyncToy Tutorial & Alternatives for Windows 11: A Complete Guide</u></a></li>
 </ul></div>
 
