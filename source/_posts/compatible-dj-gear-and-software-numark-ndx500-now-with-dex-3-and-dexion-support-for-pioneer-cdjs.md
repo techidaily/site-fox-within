@@ -1,7 +1,7 @@
 ---
 title: Compatible DJ Gear & Software | Numark NDX500 Now with DEX 3 & Dexion Support for Pioneer CDJs
-date: 2024-11-25T18:51:29.952Z
-updated: 2024-11-30T20:04:05.513Z
+date: 2024-12-06T23:54:57.759Z
+updated: 2024-12-08T23:02:44.402Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark NDX500 DJ CD Player and Controller Features:
@@ -56,7 +56,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 ![Numark NDX500 DJ controllers Setup](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/numarkndx500m6nologo.jpg?fit=1000%2C541&ssl=1 "Numark NDX500 DJ controllers Setup")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [View All Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
@@ -64,7 +64,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 _Have questions about the **Numark NDX500** DJ Controller/Media player and how it works with our **DJ software**? Please leave your questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,18 +86,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/ndx500-supported.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-trustworthy-tiktok-followers-acquisition-guide/"><u>[New] Trustworthy TikTok Followers Acquisition Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/4-innovative-methods-to-create-formatted-usb-drives-complete-guide/"><u>4 Innovative Methods to Create Formatted USB Drives - Complete Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728473126999-windows-11/"><u>三星Windows 11数据转移方法：全面下载与使用手册</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/ace-all-round-strategies-maximizing-efficiency-in-acquiring-and-storing-vimeo-videos/"><u>Ace All-Round Strategies Maximizing Efficiency in Acquiring & Storing Vimeo Videos</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guide-adding-music-and-sounds-to-your-digital-magazines-with-flipbuilders-easy-tools/"><u>Guide: Adding Music and Sounds to Your Digital Magazines with FlipBuilder's Easy Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-a14-4g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy A14 4G</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-13-mini-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 13 mini and iPad</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-world-of-video-chats-on-your-xbox-console/"><u>Navigating the World of Video Chats on Your Xbox Console</u></a></li>
-<li><a href="https://fox-within.techidaily.com/securely-deleting-your-hard-drive-a-guide-to-the-gutmann-method-of-data-wiping/"><u>Securely Deleting Your Hard Drive: A Guide to the Gutmann Method of Data Wiping</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-guide-resolving-connection-issues-between-airpods-pro-and-iphone-x-series/"><u>Troubleshooting Guide: Resolving Connection Issues Between AirPods Pro and iPhone X Series</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-display-clarity-comparing-1080p-144-monitor-showdown-the-clear-distinctions-between-1080p-1440p-and-4k-screens/"><u>Understanding Display Clarity: Comparing 1080P, 144 Monitor Showdown: The Clear Distinctions Between 1080P, 1440P & 4K Screens</u></a></li>
-<li><a href="https://fox-within.techidaily.com/wie-sie-datentrageruberprufungen-bei-jedem-systemstart-unter-windows-11-stoppen-und-reparieren/"><u>Wie Sie Datenträgerüberprüfungen Bei Jedem Systemstart Unter Windows 11 Stoppen Und Reparieren</u></a></li>
-<li><a href="https://fox-within.techidaily.com/zero-cost-methods-for-moving-your-whatsapp-messages-and-media/"><u>Zero-Cost Methods for Moving Your WhatsApp Messages and Media</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-why-highlighted-content-flourishes-on-instagram-stories/"><u>[New] 2024 Approved Why Highlighted Content Flourishes on Instagram Stories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-highhurdle-slowmomenttape/"><u>[Updated] In 2024, HighHurdle SlowMomentTape</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-steps-to-restrict-access-to-websites-on-your-browser-a-comprehensive-guide-from-yl-computing/"><u>1. Steps to Restrict Access to Websites on Your Browser: A Comprehensive Guide From YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easy-guide-upgrading-to-the-newest-windows-defender-edition-step-by-step-instructions-from-yl-computing/"><u>Easy Guide: Upgrading to the Newest Windows Defender Edition - Step-by-Step Instructions From YL Computing</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-13-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 13 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-150-2023-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia 150 (2023) to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-to-supercharge-videos-on-snapchat/"><u>In 2024, Step by Step to Supercharge Videos on Snapchat</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/cting-your-videos-the-power-of-proper-thumbnails/"><u>Perfecting Your Videos The Power of Proper Thumbnails</u></a></li>
+<li><a href="https://fox-within.techidaily.com/rising-trade-barriers-and-aging-demographics-how-renewable-energys-rise-will-amplify-global-inflation-challenging-central-banks-to-curb-prices-insights-by-y17/"><u>Rising Trade Barriers & Aging Demographics: How Renewable Energy's Rise Will Amplify Global Inflation, Challenging Central Banks to Curb Prices - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-your-broken-printer-tips-and-solutions-by-yl-software/"><u>Troubleshooting Your Broken Printer: Tips & Solutions by YL Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/yl-software-solutions-for-windows-registry-management-expert-tips-on-effective-backup-and-recovery-processes/"><u>YL Software Solutions for Windows Registry Management: Expert Tips on Effective Backup and Recovery Processes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "New Downloads Alert: Access Updated DEX v3.16.0.2 and LYRX Amplifier v1.7.0.2 Today!"
-date: 2024-11-23T18:04:29.619Z
-updated: 2024-11-30T18:29:23.674Z
+date: 2024-12-06T20:03:25.186Z
+updated: 2024-12-08T20:50:22.274Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes and Fixes Included in DEX 3.16.0.2 and LYRX 1.7.0.2
@@ -35,7 +35,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![DEX 3.16.0.2](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/08/karaoke-playing-performing.jpg?fit=300%2C167&ssl=1 "DEX 3.16.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DEX 3.16.0.2**
@@ -49,7 +49,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![LYRX 1.7.0.2](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/LYRX17screenshot.jpg?fit=300%2C169&ssl=1 "LYRX 1.7.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **LYRX v1.7.0.2**
@@ -65,7 +65,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 **MacOS | IMPORTANT NOTE:** If you receive this warning _“(product name here) can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3/LYRX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,20 +87,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/dex3-lyrx-updates.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-mr-beasts-economic-impact-analysis/"><u>[New] 2024 Approved Mr. Beast's Economic Impact Analysis</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-10-educational-youtube-channels/"><u>[Updated] 2024 Approved Top 10 Educational YouTube Channels</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-apowersoft-free-software-review-for-techies-for-2024/"><u>[Updated] Apowersoft Free Software Review for Techies for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728472332206-microsoft-word/"><u>如何轻松找回被丢失的Microsoft Word文件——五个有效方法！</u></a></li>
-<li><a href="https://fox-within.techidaily.com/windows-11samsung/"><u>如何在Windows 11下成功迁移SAMSUNG设备的信息：步骤指南及其他有效方法</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/acquire-amd-radeon-gpu-drivers-for-windows-8-pcs-without-charge/"><u>Acquire AMD Radeon GPU Drivers for Windows 8 PCs Without Charge</u></a></li>
-<li><a href="https://article-helps.techidaily.com/asmrs-upside-exploring-its-health-impacts/"><u>ASMR's Upside Exploring Its Health Impacts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/boxing-brilliance-versus-broadband-bonanza/"><u>Boxing Brilliance versus Broadband Bonanza</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-guide-to-multipurpose-internet-mail-extensions-mime-essential-file-type-identifiers-on-the-web/"><u>Comprehensive Guide to Multipurpose Internet Mail Extensions (MIME) - Essential File Type Identifiers on the Web</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/detailed-breakdown-chilled-delights-on-your-screen-for-2024/"><u>Detailed Breakdown Chilled Delights on Your Screen for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728492869561-hdd/"><u>HDDのクリーンアップ：確実にデータ削除の手順を学ぶ</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-best-iphone-selfie-devices-ranked-8/"><u>In 2024, The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
-<li><a href="https://fox-within.techidaily.com/quick-fix-protocol-how-to-rebuild-windows-successfully-from-an-image-backup/"><u>Quick Fix Protocol: How to Rebuild Windows Successfully From an Image Backup</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-masterclass-deploying-macrium-reflect-for-full-system-backups-on-usb-drives/"><u>Step-by-Step Masterclass: Deploying Macrium Reflect for Full System Backups on USB Drives</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-rated-usb-duplication-software-for-effortless-file-and-operating-system-backup/"><u>Top Rated USB Duplication Software for Effortless File & Operating System Backup</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-clear-up-cloudy-captures-uncover-the-best-10-web-enhancers-ranked/"><u>[New] In 2024, Clear Up Cloudy Captures Uncover the Best 10 Web Enhancers Ranked</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-seamless-video-recording-on-facebook-with-top-5-tools-for-2024/"><u>[New] Seamless Video Recording on Facebook with Top 5 Tools for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-prime-panel-participant-prompter/"><u>[Updated] 2024 Approved Prime Panel Participant Prompter</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discover-local-wonders-and-services-at-a-tap-away/"><u>2024 Approved Discover Local Wonders & Services at a Tap Away</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-evolved-sony-bdp-s6700-world/"><u>2024 Approved Inside the Evolved Sony BDP-S6700 World</u></a></li>
+<li><a href="https://fox-within.techidaily.com/can-updating-drivers-resolve-issues-with-your-graphics-card-explore-solutions-with-yl-computings-guide/"><u>Can Updating Drivers Resolve Issues with Your Graphics Card? Explore Solutions with YL Computing's Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easy-guide-upgrading-to-the-newest-windows-defender-edition-step-by-step-instructions-from-yl-computing/"><u>Easy Guide: Upgrading to the Newest Windows Defender Edition - Step-by-Step Instructions From YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/epic-star-wars-hd-wallpapers-and-backgrounds-high-res-visual-content-by-yl-software/"><u>Epic Star Wars HD Wallpapers & Backgrounds - High-Res Visual Content by YL Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exploring-the-legacy-of-deng-xiaopings-revolutionary-reforms-in-china-as-analyzed-by-yl-computing-and-yl-software/"><u>Exploring the Legacy of Deng Xiaoping’s Revolutionary Reforms in China, as Analyzed by YL Computing and YL Software</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/galaxy-s24-vs-s23-head-to-head-comparison-of-the-latest-flagship-smartphones/"><u>Galaxy S24 vs S23: Head-to-Head Comparison of the Latest Flagship Smartphones</u></a></li>
+<li><a href="https://fox-within.techidaily.com/identifying-signs-of-a-deteriorating-cpu-insights-from-yl-computings-guide/"><u>Identifying Signs of a Deteriorating CPU: Insights From YL Computing's Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-behind-the-lens-detailed-evaluation-of-sj-cam-s6/"><u>In 2024, Behind the Lens Detailed Evaluation of SJ-CAM S6</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-seo-masterclass-unlocking-the-secrets-to-higher-podcast-visibility/"><u>In 2024, SEO Masterclass Unlocking the Secrets to Higher Podcast Visibility</u></a></li>
+<li><a href="https://fox-within.techidaily.com/is-it-safe-to-use-free-tools-for-windows-registry-maintenance-and-optimization-insights-from-yl-computings-experts/"><u>Is It Safe to Use Free Tools for Windows Registry Maintenance and Optimization? Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://fox-within.techidaily.com/majority-of-singapores-30-key-stocks-boost-market-open-with-053-rise-sembcorp-industries-up-jardine-candc-down-yl-software-update/"><u>Majority of Singapore's 30 Key Stocks Boost Market Open with 0.53% Rise; Sembcorp Industries Up, Jardine C&C Down - YL Software Update</u></a></li>
+<li><a href="https://fox-within.techidaily.com/yl-software-solutions-for-windows-registry-management-expert-tips-on-effective-backup-and-recovery-processes/"><u>YL Software Solutions for Windows Registry Management: Expert Tips on Effective Backup and Recovery Processes</u></a></li>
 </ul></div>
 
