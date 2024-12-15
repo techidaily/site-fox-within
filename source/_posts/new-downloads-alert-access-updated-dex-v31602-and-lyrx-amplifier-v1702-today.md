@@ -1,7 +1,7 @@
 ---
 title: "New Downloads Alert: Access Updated DEX v3.16.0.2 and LYRX Amplifier v1.7.0.2 Today!"
-date: 2024-12-06T20:03:25.186Z
-updated: 2024-12-08T20:50:22.274Z
+date: 2024-12-09T03:27:43.551Z
+updated: 2024-12-14T18:00:10.686Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes and Fixes Included in DEX 3.16.0.2 and LYRX 1.7.0.2
@@ -35,7 +35,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![DEX 3.16.0.2](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/08/karaoke-playing-performing.jpg?fit=300%2C167&ssl=1 "DEX 3.16.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DEX 3.16.0.2**
@@ -49,7 +49,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![LYRX 1.7.0.2](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/LYRX17screenshot.jpg?fit=300%2C169&ssl=1 "LYRX 1.7.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **LYRX v1.7.0.2**
@@ -65,7 +65,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 **MacOS | IMPORTANT NOTE:** If you receive this warning _“(product name here) can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3/LYRX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,22 +87,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/dex3-lyrx-updates.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-clear-up-cloudy-captures-uncover-the-best-10-web-enhancers-ranked/"><u>[New] In 2024, Clear Up Cloudy Captures Uncover the Best 10 Web Enhancers Ranked</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-seamless-video-recording-on-facebook-with-top-5-tools-for-2024/"><u>[New] Seamless Video Recording on Facebook with Top 5 Tools for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-prime-panel-participant-prompter/"><u>[Updated] 2024 Approved Prime Panel Participant Prompter</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-discover-local-wonders-and-services-at-a-tap-away/"><u>2024 Approved Discover Local Wonders & Services at a Tap Away</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-evolved-sony-bdp-s6700-world/"><u>2024 Approved Inside the Evolved Sony BDP-S6700 World</u></a></li>
-<li><a href="https://fox-within.techidaily.com/can-updating-drivers-resolve-issues-with-your-graphics-card-explore-solutions-with-yl-computings-guide/"><u>Can Updating Drivers Resolve Issues with Your Graphics Card? Explore Solutions with YL Computing's Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-guide-upgrading-to-the-newest-windows-defender-edition-step-by-step-instructions-from-yl-computing/"><u>Easy Guide: Upgrading to the Newest Windows Defender Edition - Step-by-Step Instructions From YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/epic-star-wars-hd-wallpapers-and-backgrounds-high-res-visual-content-by-yl-software/"><u>Epic Star Wars HD Wallpapers & Backgrounds - High-Res Visual Content by YL Software</u></a></li>
-<li><a href="https://fox-within.techidaily.com/exploring-the-legacy-of-deng-xiaopings-revolutionary-reforms-in-china-as-analyzed-by-yl-computing-and-yl-software/"><u>Exploring the Legacy of Deng Xiaoping’s Revolutionary Reforms in China, as Analyzed by YL Computing and YL Software</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/galaxy-s24-vs-s23-head-to-head-comparison-of-the-latest-flagship-smartphones/"><u>Galaxy S24 vs S23: Head-to-Head Comparison of the Latest Flagship Smartphones</u></a></li>
-<li><a href="https://fox-within.techidaily.com/identifying-signs-of-a-deteriorating-cpu-insights-from-yl-computings-guide/"><u>Identifying Signs of a Deteriorating CPU: Insights From YL Computing's Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-behind-the-lens-detailed-evaluation-of-sj-cam-s6/"><u>In 2024, Behind the Lens Detailed Evaluation of SJ-CAM S6</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-seo-masterclass-unlocking-the-secrets-to-higher-podcast-visibility/"><u>In 2024, SEO Masterclass Unlocking the Secrets to Higher Podcast Visibility</u></a></li>
-<li><a href="https://fox-within.techidaily.com/is-it-safe-to-use-free-tools-for-windows-registry-maintenance-and-optimization-insights-from-yl-computings-experts/"><u>Is It Safe to Use Free Tools for Windows Registry Maintenance and Optimization? Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://fox-within.techidaily.com/majority-of-singapores-30-key-stocks-boost-market-open-with-053-rise-sembcorp-industries-up-jardine-candc-down-yl-software-update/"><u>Majority of Singapore's 30 Key Stocks Boost Market Open with 0.53% Rise; Sembcorp Industries Up, Jardine C&C Down - YL Software Update</u></a></li>
-<li><a href="https://fox-within.techidaily.com/yl-software-solutions-for-windows-registry-management-expert-tips-on-effective-backup-and-recovery-processes/"><u>YL Software Solutions for Windows Registry Management: Expert Tips on Effective Backup and Recovery Processes</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-become-a-video-virtuoso-on-tiktok-by-leveraging-template-artistry/"><u>[Updated] 2024 Approved Become a Video Virtuoso on TikTok by Leveraging Template Artistry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-drone-equipment-collection-guide/"><u>[Updated] The Complete Drone Equipment Collection Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tweets-unfolded-yearly-guide-to-social-reactions-for-2024/"><u>[Updated] Tweets Unfolded Yearly Guide to Social Reactions for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-optimize-your-storage-effective-techniques-to-clear-up-hard-drive-space-insights-by-yl-computing/"><u>1. Optimize Your Storage: Effective Techniques to Clear Up Hard Drive Space - Insights by YL Computing</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/chiang-kai-sheks-defining-actions-in-shaping-china-insights-from-yl-software-and-expertise-perspective/"><u>Chiang Kai-Shek’s Defining Actions in Shaping China – Insights From YL Software & Expertise Perspective</u></a></li>
+<li><a href="https://fox-within.techidaily.com/diagnosing-computer-hardware-issues-expert-tips-from-yl-computing/"><u>Diagnosing Computer Hardware Issues: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/download-free-shawn-mendes-backgrounds-by-yl-computing-exclusive-wallpaper-collection/"><u>Download Free Shawn Mendes Backgrounds by YL Computing: Exclusive Wallpaper Collection</u></a></li>
+<li><a href="https://fox-within.techidaily.com/evaluating-the-dependability-and-accuracy-of-results-insights-into-yl-computings-cutting-edge-tool/"><u>Evaluating the Dependability and Accuracy of Results: Insights Into YL Computing's Cutting-Edge Tool</u></a></li>
+<li><a href="https://fox-within.techidaily.com/identifying-and-preventing-windows-memory-clashes-a-guide-from-professionals-at-yl-software/"><u>Identifying and Preventing Windows Memory Clashes: A Guide From Professionals at YL Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/identifying-the-best-tools-for-boosting-pc-speeds-an-expert-guide-by-yl-computing/"><u>Identifying the Best Tools for Boosting PC Speeds: An Expert Guide by YL Computing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-s18e-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo S18e?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/managing-users-adding-and-removing-accounts-via-windows-control-panel-tips-from-yl-computing-experts/"><u>Managing Users: Adding and Removing Accounts via Windows Control Panel - Tips From YL Computing Experts</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/movavis-vrije-online-werkplaats-m4a-naar-aiff-konvertiezen/"><u>Movavi's Vrije Online Werkplaats M4A Naar AIFF Konvertiezen</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenate-archived-media-enhancing-videos-through-madvr-and-windows/"><u>Rejuvenate Archived Media: Enhancing Videos Through MadVR and Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-process-to-implementing-discords-family-mode-features/"><u>Step-by-Step Process to Implementing Discord's Family Mode Features</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/tinariyen-desert-rock-inspirations-high-quality-backgrounds-and-wallpapers-by-yl-computing/"><u>Tinariyen Desert Rock Inspirations: High-Quality Backgrounds & Wallpapers by YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/k-insights-into-video-popularity-via-rank-trackers-for-2024/"><u>Unlock Insights Into Video Popularity via Rank Trackers for 2024</u></a></li>
 </ul></div>
 

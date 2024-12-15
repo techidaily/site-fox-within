@@ -1,7 +1,7 @@
 ---
 title: How to Save Files to External Hard Drive in Windows 10 - Complete Guide
-date: 2024-11-26T19:41:55.977Z
-updated: 2024-11-30T17:25:53.822Z
+date: 2024-12-09T17:24:53.512Z
+updated: 2024-12-14T21:36:59.211Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913b07ba9cca730be764e6c410.jpg
@@ -24,13 +24,13 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -53,14 +53,6 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -81,6 +73,10 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -100,7 +96,7 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -122,7 +118,7 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -143,10 +139,6 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -160,10 +152,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -190,6 +178,10 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -245,6 +237,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -263,6 +259,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -280,22 +280,14 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-performance-gpu-picks-for-quality-video-streaming/"><u>[New] In 2024, High-Performance GPU Picks for Quality Video Streaming</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-optimizing-online-identity-through-yt-profile-refinement/"><u>[New] Optimizing Online Identity Through YT Profile Refinement</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-easy-steps-to-get-vrecorder-running-on-your-device/"><u>[Updated] In 2024, Easy Steps to Get VRecorder Running on Your Device</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-transform-your-images-with-these-incredible-tools-edit-and-alter-png-colors-seamlessly/"><u>1. Transform Your Images with These Incredible Tools: Edit & Alter PNG Colors Seamlessly</u></a></li>
-<li><a href="https://fox-within.techidaily.com/configuring-app-v-5-essential-guide-to-managing-folder-settings/"><u>Configuring App-V 5: Essential Guide to Managing Folder Settings</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-ways-to-move-your-tunes-to-an-iphone-without-using-itunes/"><u>Easy Ways to Move Your Tunes to an iPhone Without Using iTunes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/enhance-visibility-on-instagram-the-art-of-animated-texts-in-stories-for-2024/"><u>Enhance Visibility on Instagram The Art of Animated Texts in Stories for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/finalize-operations-query-box-streamlining-the-user-experience/"><u>Finalize Operations Query Box: Streamlining the User Experience</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pixelpilot-studio-plus-advanced-os-recorder/"><u>In 2024, PixelPilot Studio Plus Advanced OS Recorder</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-htc-u23-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your HTC U23 Phone Pattern Lock</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mp4-to-mp3-converter-reviews-find-the-best-tool-for-your-needs-for-2024/"><u>MP4 to MP3 Converter Reviews Find the Best Tool for Your Needs for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/navigating-requirements-configuring-your-pre-install-setup-interface/"><u>Navigating Requirements: Configuring Your Pre-Install Setup Interface</u></a></li>
-<li><a href="https://fox-within.techidaily.com/overview-section-understanding-the-basics/"><u>Overview Section: Understanding the Basics</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/ultimate-guide-to-the-top-8-discreet-content-collectors/"><u>Ultimate Guide to the Top 8 Discreet Content Collectors</u></a></li>
-<li><a href="https://fox-within.techidaily.com/universal-characteristics-across-various-media-volumes/"><u>Universal Characteristics Across Various Media Volumes</u></a></li>
-<li><a href="https://fox-within.techidaily.com/unlock-insights-with-effective-dialogue-techniques-in-archival-retrieval/"><u>Unlock Insights with Effective Dialogue Techniques in Archival Retrieval</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-n7-screen-detection-fix-successfully-configuring-multiple-displays-problem-solved/"><u>Windows N7 Screen Detection Fix: Successfully Configuring Multiple Displays (PROBLEM SOLVED)</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-unveiling-the-benefits-of-cryptocurrency-explore-why-its-gaining-popularity-with-yl-computing/"><u>1. Unveiling the Benefits of Cryptocurrency: Explore Why It's Gaining Popularity with YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-11-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme 11 5G PC | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-soundscape-of-affordability-comprehensive-review-of-the-steelseries-arctis-nova-7-wireless-headset-for-all-heads-gadgetguruhub/"><u>Exploring the Soundscape of Affordability: Comprehensive Review of the SteelSeries Arctis Nova 7 Wireless Headset for All Heads | GadgetGuruHub</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-reno-11f-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo Reno 11F 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-ace-2-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change OnePlus Ace 2 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-instructions-to-modify-network-preferences-with-control-panel-by-yl-software-experts/"><u>Step-by-Step Instructions to Modify Network Preferences with Control Panel by YL Software Experts</u></a></li>
+<li><a href="https://fox-within.techidaily.com/the-synergy-of-tech-unveiling-blockchains-role-in-driving-crypto-innovations-by-yl-software/"><u>The Synergy of Tech: Unveiling Blockchain's Role in Driving Crypto Innovations by YL Software</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-honor-90-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor 90 Pro FRP</u></a></li>
+<li><a href="https://fox-within.techidaily.com/tips-for-accelerating-your-computers-reaction-speed-expert-advice-by-yl-technologies/"><u>Tips for Accelerating Your Computer's Reaction Speed: Expert Advice by YL Technologies</u></a></li>
 </ul></div>
 

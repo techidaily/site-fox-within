@@ -1,7 +1,7 @@
 ---
 title: Compatible DJ Gear & Software | Numark NDX500 Now with DEX 3 & Dexion Support for Pioneer CDJs
-date: 2024-12-06T23:54:57.759Z
-updated: 2024-12-08T23:02:44.402Z
+date: 2024-12-14T02:27:32.544Z
+updated: 2024-12-14T20:24:05.542Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark NDX500 DJ CD Player and Controller Features:
@@ -56,7 +56,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 ![Numark NDX500 DJ controllers Setup](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/numarkndx500m6nologo.jpg?fit=1000%2C541&ssl=1 "Numark NDX500 DJ controllers Setup")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [View All Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
@@ -64,7 +64,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 _Have questions about the **Numark NDX500** DJ Controller/Media player and how it works with our **DJ software**? Please leave your questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,16 +86,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/ndx500-supported.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-why-highlighted-content-flourishes-on-instagram-stories/"><u>[New] 2024 Approved Why Highlighted Content Flourishes on Instagram Stories</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-highhurdle-slowmomenttape/"><u>[Updated] In 2024, HighHurdle SlowMomentTape</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-steps-to-restrict-access-to-websites-on-your-browser-a-comprehensive-guide-from-yl-computing/"><u>1. Steps to Restrict Access to Websites on Your Browser: A Comprehensive Guide From YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/easy-guide-upgrading-to-the-newest-windows-defender-edition-step-by-step-instructions-from-yl-computing/"><u>Easy Guide: Upgrading to the Newest Windows Defender Edition - Step-by-Step Instructions From YL Computing</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-13-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 13 Pro Max to PC | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-150-2023-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia 150 (2023) to Outlook | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-to-supercharge-videos-on-snapchat/"><u>In 2024, Step by Step to Supercharge Videos on Snapchat</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/cting-your-videos-the-power-of-proper-thumbnails/"><u>Perfecting Your Videos The Power of Proper Thumbnails</u></a></li>
-<li><a href="https://fox-within.techidaily.com/rising-trade-barriers-and-aging-demographics-how-renewable-energys-rise-will-amplify-global-inflation-challenging-central-banks-to-curb-prices-insights-by-y17/"><u>Rising Trade Barriers & Aging Demographics: How Renewable Energy's Rise Will Amplify Global Inflation, Challenging Central Banks to Curb Prices - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-your-broken-printer-tips-and-solutions-by-yl-software/"><u>Troubleshooting Your Broken Printer: Tips & Solutions by YL Software</u></a></li>
-<li><a href="https://fox-within.techidaily.com/yl-software-solutions-for-windows-registry-management-expert-tips-on-effective-backup-and-recovery-processes/"><u>YL Software Solutions for Windows Registry Management: Expert Tips on Effective Backup and Recovery Processes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-dynamic-musical-journeys-with-crossfading/"><u>[New] Crafting Dynamic Musical Journeys with Crossfading</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-step-up-your-gameplay-with-a-top-ranked-no-fee-voice-transformation-tool-for-2024/"><u>[New] Step Up Your Gameplay with a Top-Ranked No-Fee Voice Transformation Tool for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-future-of-advertising-on-youtube-shorts/"><u>[New] The Future of Advertising on YouTube Shorts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-az-capture-in-depth-app-analysis-and-reviews-for-2024/"><u>[Updated] AZ Capture In-Depth App Analysis & Reviews for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-leading-edge-the-top-10-mobile-video-chat-platforms/"><u>2024 Approved Leading Edge The Top 10 Mobile Video Chat Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerating-ar-development-leveraging-custom-luts-for-2024/"><u>Accelerating AR Development Leveraging Custom LUTs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accessing-zoom-directly-from-google-mail-interface/"><u>Accessing Zoom Directly From Google Mail Interface</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-can-you-avoid-your-gpu-from-burning-out-expert-tips-and-strategies-by-yl-computing/"><u>How Can You Avoid Your GPU From Burning Out? - Expert Tips & Strategies by YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/identifying-issues-when-a-laptop-refuses-to-start-expertise-by-yl-software/"><u>Identifying Issues When a Laptop Refuses to Start: Expertise by YL Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>In 2024, M1 Pro & M1 Max Exploring Their Significant Differences</u></a></li>
+<li><a href="https://fox-within.techidaily.com/professional-image-gallery-emilia-clarke-wallscapes-in-stunning-hd-quality-powered-by-yl-software-solutions/"><u>Professional Image Gallery: Emilia Clarke Wallscapes in Stunning HD Quality - Powered by YL Software Solutions</u></a></li>
+<li><a href="https://fox-within.techidaily.com/protecting-your-computers-heartbeat-securing-your-windows-registry-with-expert-tips-from-yl-computing/"><u>Protecting Your Computer's Heartbeat: Securing Your Windows Registry with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-scanners-steps-for-power-issues-by-yl-software-professionals/"><u>Troubleshooting Scanners: Steps for Power Issues by YL Software Professionals</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028106302-clipchamp/"><u>アスペクト比修正: Clipchampによる動画編集ガイド</u></a></li>
 </ul></div>
 

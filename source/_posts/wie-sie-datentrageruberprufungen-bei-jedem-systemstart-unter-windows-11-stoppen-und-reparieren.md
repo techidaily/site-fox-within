@@ -1,7 +1,7 @@
 ---
 title: Wie Sie Datenträgerüberprüfungen Bei Jedem Systemstart Unter Windows 11 Stoppen Und Reparieren
-date: 2024-12-04T17:24:05.525Z
-updated: 2024-12-09T02:20:44.710Z
+date: 2024-12-11T20:47:31.698Z
+updated: 2024-12-14T20:54:52.468Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8bb07eb48712190cd8997d0c.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solved: Winload. efi Missing in Windows 11 | 2024
 
@@ -52,11 +48,11 @@ My HP is not starting up. I’ve received the ‘winload efi is missing or corru
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
-If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
 ## About winload.efi file
 
@@ -87,7 +83,7 @@ Furthermore, AOMEI Backupper proves invaluable in tackling various problems such
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best free bootable media creation tool
@@ -99,7 +95,7 @@ Step 1\. Download this software and open it. Click **Tools** and then choose **C
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
@@ -107,7 +103,7 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
@@ -119,7 +115,7 @@ After creating bootable media (just a few minutes), boot your computer from this
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
@@ -135,6 +131,10 @@ Step 2\. Navigate to the Secure Boot option in BIOS, located under tabs like **B
 Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disable**.
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4\. Save the changes and exit the UEFI settings.
 
@@ -152,10 +152,6 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -165,7 +161,7 @@ Step 5\. Once the process is complete, unplug the USB and restart the computer.
 Check if the system boots normally after performing these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
@@ -189,10 +185,6 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 **✍Note**: Replace "**C**" with the system hard drive partition letter.
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
 
@@ -230,6 +222,10 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -265,7 +261,7 @@ Was the provided information useful? Your vote is important to us!
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related Articles
@@ -296,6 +292,10 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -313,20 +313,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-navigating-the-digital-space-with-ease-via-onestream-platform/"><u>[New] 2024 Approved Navigating the Digital Space with Ease via OneStream Platform</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-reviewing-the-powerhouse-of-magixs-photo-toolkit/"><u>[Updated] Reviewing the Powerhouse of MAGIX's Photo Toolkit</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-joyride-collection-for-young-ones/"><u>[Updated] The Joyride Collection for Young Ones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-shade-smarts-mastering-the-art-of-color-correction-with-speed/"><u>2024 Approved Shade Smarts Mastering the Art of Color Correction with Speed</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/windows-server-201r2/"><u>如何在Windows Server 201#R2上有效復原操作系统和檔案的指南</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-access-to-10-superior-lut-resources/"><u>In 2024, Free Access to 10 Superior LUT Resources</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/kobe-wallpapers-and-visual-assets-for-inspiration-photo-set-from-yl-softwares-premium-image-library/"><u>Kobe Wallpapers and Visual Assets for Inspiration – Photo Set From YL Software's Premium Image Library</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/macx-dvd-ripper-pro-windows70/"><u>MacX DVD Ripper Pro 特別価格: 「官方」でWindows版70%オフクーポンが手に入る！</u></a></li>
-<li><a href="https://fox-within.techidaily.com/managing-windows-service-settings-with-ease-enabledisable-tips-by-yl-software-professionals/"><u>Managing Windows Service Settings with Ease: Enable/Disable Tips by YL Software Professionals</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-unstick-black-ops-cold-war-game-when-compiling-shaders-gets-held-up/"><u>Resolved! How to Unstick Black Ops Cold War Game When Compiling Shaders Gets Held Up</u></a></li>
-<li><a href="https://fox-within.techidaily.com/solving-your-software-setup-woes-expert-tips-from-yl-computing/"><u>Solving Your Software Setup Woes - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/strengthening-your-windows-10-defenses-a-guide-to-enhancing-security-settings-by-yl-computing/"><u>Strengthening Your Windows 10 Defenses: A Guide to Enhancing Security Settings - By YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-fixing-the-blue-screen-error-on-your-windows-pc-tech-solutions-by-yl/"><u>Ultimate Guide: Fixing the Blue Screen Error on Your Windows PC - Tech Solutions by YL</u></a></li>
-<li><a href="https://fox-within.techidaily.com/yl-computings-ultimate-steven-universe-image-set-for-dynamic-backgrounds-and-creative-inspiration/"><u>YL Computing's Ultimate Steven Universe Image Set for Dynamic Backgrounds and Creative Inspiration</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-choosing-livestream-software-the-obs-vs-streamlabs-dilemma/"><u>[Updated] 2024 Approved Choosing Livestream Software The OBS Vs. Streamlabs Dilemma</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-shaping-tomorrow-celebrating-the-top-6-in-nft-artistry/"><u>[Updated] 2024 Approved Shaping Tomorrow Celebrating the Top 6 in NFT Artistry</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-compreenas-guide-to-designing-a-compelling-rss-feed/"><u>2024 Approved A Compreenas Guide to Designing a Compelling RSS Feed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertissez-vos-videos-avec-movavi-le-convertisseur-video-le-plus-performant-et-gratuit/"><u>Convertissez Vos Vidéos Avec Movavi - Le Convertisseur Vidéo Le Plus Performant Et Gratuit</u></a></li>
+<li><a href="https://fox-within.techidaily.com/diagnosing-non-responsive-applications-insights-from-yl-computings-expertise/"><u>Diagnosing Non-Responsive Applications: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-within.techidaily.com/epic-star-wars-hd-wallpapers-and-backgrounds-high-res-visual-content-by-yl-software/"><u>Epic Star Wars HD Wallpapers & Backgrounds - High-Res Visual Content by YL Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exploring-the-legacy-of-deng-xiaopings-revolutionary-reforms-in-china-as-analyzed-by-yl-computing-and-yl-software/"><u>Exploring the Legacy of Deng Xiaoping’s Revolutionary Reforms in China, as Analyzed by YL Computing and YL Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-reliable-is-chatgpt-for-crafting-your-tailored-and-secure-exercise-plans/"><u>How Reliable Is ChatGPT for Crafting Your Tailored and Secure Exercise Plans?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-realme-narzo-n55-screen-sharing-drfone-by-drfone-android/"><u>How To Do Realme Narzo N55 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/identifying-signs-of-a-deteriorating-cpu-insights-from-yl-computings-guide/"><u>Identifying Signs of a Deteriorating CPU: Insights From YL Computing's Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-smart-8-hd-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Infinix Smart 8 HD Device</u></a></li>
+<li><a href="https://fox-within.techidaily.com/is-it-safe-to-use-free-tools-for-windows-registry-maintenance-and-optimization-insights-from-yl-computings-experts/"><u>Is It Safe to Use Free Tools for Windows Registry Maintenance and Optimization? Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-13-5-ways-to-get-into-a-locked-apple-iphone-13-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 13? 5 Ways to get into a Locked Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/majority-of-singapores-30-key-stocks-boost-market-open-with-053-rise-sembcorp-industries-up-jardine-candc-down-yl-software-update/"><u>Majority of Singapore's 30 Key Stocks Boost Market Open with 0.53% Rise; Sembcorp Industries Up, Jardine C&C Down - YL Software Update</u></a></li>
+<li><a href="https://fox-within.techidaily.com/market-analysis-alert-nike-faces-an-unprecedented-erosion-in-value-potentially-missing-key-expansion-milestnates-expert-commentary-from-yl-computing-yl-soft21/"><u>Market Analysis Alert: Nike Faces an Unprecedented Erosion in Value, Potentially Missing Key Expansion Milestnates; Expert Commentary From YL Computing | YL Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-ai-tech-explore-the-five-most-significant-hardware-advancements/"><u>Revolutionary AI Tech: Explore the Five Most Significant Hardware Advancements</u></a></li>
+<li><a href="https://fox-within.techidaily.com/securing-digital-assets-a-step-by-step-guide-to-encrypting-images-videos-and-pdfs-with-yl-computings-tools/"><u>Securing Digital Assets: A Step-by-Step Guide to Encrypting Images, Videos & PDFs with YL Computing's Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-techniques-fixing-dll-files-that-arent-detected/"><u>Ultimate Troubleshooting Techniques: Fixing DLL Files That Aren't Detected</u></a></li>
+<li><a href="https://fox-within.techidaily.com/yl-software-tips-how-to-convert-document-types-easily/"><u>YL Software Tips: How To Convert Document Types Easily</u></a></li>
 </ul></div>
 
