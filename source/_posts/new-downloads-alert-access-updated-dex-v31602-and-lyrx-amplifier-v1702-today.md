@@ -1,7 +1,7 @@
 ---
 title: "New Downloads Alert: Access Updated DEX v3.16.0.2 and LYRX Amplifier v1.7.0.2 Today!"
-date: 2024-12-22T03:04:16.777Z
-updated: 2024-12-23T22:12:40.726Z
+date: 2024-12-26T17:26:31.916Z
+updated: 2024-12-29T18:53:53.238Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes and Fixes Included in DEX 3.16.0.2 and LYRX 1.7.0.2
@@ -35,7 +35,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![DEX 3.16.0.2](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/08/karaoke-playing-performing.jpg?fit=300%2C167&ssl=1 "DEX 3.16.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DEX 3.16.0.2**
@@ -49,7 +49,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![LYRX 1.7.0.2](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/LYRX17screenshot.jpg?fit=300%2C169&ssl=1 "LYRX 1.7.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **LYRX v1.7.0.2**
@@ -65,7 +65,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 **MacOS | IMPORTANT NOTE:** If you receive this warning _“(product name here) can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3/LYRX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,15 +87,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/dex3-lyrx-updates.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-flawless-video-calls-from-laptop-using-the-desktop-whatsapp-browser/"><u>[New] 2024 Approved Flawless Video Calls From Laptop Using the Desktop WhatsApp Browser</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-bandicam-reference-unpacking-2023-features/"><u>[New] The Ultimate Bandicam Reference – Unpacking 2023 Features</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-harmonizing-content-with-youtubes-ideal-video-shapes-for-2024/"><u>[Updated] Harmonizing Content with YouTube's Ideal Video Shapes for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-elevate-your-storytelling-borders-for-instagram-videos/"><u>[Updated] In 2024, Elevate Your Storytelling Borders for Instagram Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-perfecting-picture-in-picture-setup-with-youtube-on-ios-for-2024/"><u>[Updated] Perfecting Picture-in-Picture Setup with YouTube on iOS for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/adjusting-power-options-via-the-windows-control-panel-a-comprehensive-guide-by-yl-computing/"><u>Adjusting Power Options via the Windows Control Panel - A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/boosting-pc-performance-with-key-hardware-upgrades-tips-and-tricks-by-yl-software-experts/"><u>Boosting PC Performance with Key Hardware Upgrades - Tips and Tricks by YL Software Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/buy-these-three-exciting-apple-innovations-announced-at-wwdc-today-discover-availability-and-preorder-links-on-zdnet/"><u>Buy These Three Exciting Apple Innovations Announced at WWDC Today! Discover Availability and Preorder Links on ZDNet</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-respond-when-your-pcs-ram-is-malfunctioning-expert-tips-from-yl-software/"><u>How to Respond When Your PC's RAM Is Malfunctioning: Expert Tips From YL Software</u></a></li>
-<li><a href="https://fox-within.techidaily.com/maximizing-your-windows-10-laptops-battery-performance-tips-and-tricks-by-yl-computing/"><u>Maximizing Your Windows 10 Laptop's Battery Performance: Tips & Tricks by YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-tailored-tips-for-maximizing-vlc-playback-potential/"><u>[New] 2024 Approved Tailored Tips for Maximizing VLC Playback Potential</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-speech-to-text-googles-pathway-for-precision/"><u>[Updated] 2024 Approved Cutting-Edge Speech-to-Text Google’s Pathway for Precision</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-real-time-streaming-on-facebook-simplified-2023/"><u>[Updated] 2024 Approved Real-Time Streaming on Facebook, Simplified 2023</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-tier-free-screen-capture-programs-2023-edition/"><u>[Updated] In 2024, Top-Tier Free Screen Capture Programs – 2023 Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweak-twitter-video-clip-cover-for-2024/"><u>[Updated] Tweak Twitter Video Clip Cover for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/2-easy-steps-for-accessing-windows-documents-through-other-software-youth-leaders-digital-solutions/"><u>2. Easy Steps for Accessing Windows Documents Through Other Software - Youth Leaders' Digital Solutions</u></a></li>
+<li><a href="https://fox-within.techidaily.com/captivating-graphics-of-miraculous-tales-of-ladybug-and-cat-noir-high-quality-desktop-walls-and-posters-by-yl-software-solutions/"><u>Captivating Graphics of Miraculous: Tales of Ladybug and Cat Noir – High-Quality Desktop Walls & Posters by YL Software Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exclusive-list-affordable-efficient-high-quality-passport-photos-creators/"><u>Exclusive List Affordable, Efficient, High-Quality Passport Photos Creators</u></a></li>
+<li><a href="https://fox-within.techidaily.com/explore-stunning-glass-inspired-dark-themed-wallpaper-collections-by-yl-computing-solutions/"><u>Explore Stunning Glass-Inspired Dark Themed Wallpaper Collections by YL Computing Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nokia-c12-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nokia C12 Pro</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-troubleshoot-when-your-pc-ignores-the-network-card-expert-guide-by-yl-computing/"><u>How to Troubleshoot When Your PC Ignores the Network Card - Expert Guide by YL Computing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-get-your-hand-on-the-latest-50-youtube-promo-banners/"><u>In 2024, Get Your Hand on the Latest 50 YouTube Promo Banners!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/master-digital-clutter-control-with-expert-guidance-on-setting-up-organizational-folders-in-windows-advice-from-yl-software-experts/"><u>Master Digital Clutter Control with Expert Guidance on Setting Up Organizational Folders in Windows – Advice From YL Software Experts</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-trending-dj-mixes-and-songs-download-collection-at-the-video-pool/"><u>Top Trending DJ Mixes & Songs Download Collection at The Video Pool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-flip-to-flash-with-android-for-2024/"><u>Transform Your Flip to Flash with Android for 2024</u></a></li>
 </ul></div>
 

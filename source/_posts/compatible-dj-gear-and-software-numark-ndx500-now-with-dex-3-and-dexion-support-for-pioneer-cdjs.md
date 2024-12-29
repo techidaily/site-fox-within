@@ -1,7 +1,7 @@
 ---
 title: Compatible DJ Gear & Software | Numark NDX500 Now with DEX 3 & Dexion Support for Pioneer CDJs
-date: 2024-12-18T20:57:17.335Z
-updated: 2024-12-23T22:51:58.801Z
+date: 2024-12-27T19:24:43.320Z
+updated: 2024-12-29T18:17:13.169Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark NDX500 DJ CD Player and Controller Features:
@@ -56,7 +56,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 ![Numark NDX500 DJ controllers Setup](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/numarkndx500m6nologo.jpg?fit=1000%2C541&ssl=1 "Numark NDX500 DJ controllers Setup")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [View All Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
@@ -64,7 +64,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 _Have questions about the **Numark NDX500** DJ Controller/Media player and how it works with our **DJ software**? Please leave your questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,19 +86,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/ndx500-supported.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-from-raw-to-masterpiece-the-premier-free-mobile-editors-for-android/"><u>[New] From Raw to Masterpiece The Premier Free Mobile Editors for Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-virtual-exploration-a-tactical-approach/"><u>[New] The Art of Virtual Exploration A Tactical Approach</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-dive-into-free-download-final-cut-pro-for-2024/"><u>[Updated] Dive Into FREE Download Final Cut Pro for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-scale-up-influence-crafting-content-that-resonates-for-2024/"><u>[Updated] Scale Up Influence Crafting Content That Resonates for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-farm-family-bonding-the-ultimate-agritainment-guide/"><u>2024 Approved Farm Family Bonding The Ultimate Agritainment Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bridging-the-gap-connecting-playstation-vr-to-your-desktop-for-an-enhanced-experience/"><u>Bridging the Gap: Connecting PlayStation VR to Your Desktop for an Enhanced Experience</u></a></li>
-<li><a href="https://fox-within.techidaily.com/diagnosing-windows-boot-failures-common-culprits-behind-computer-crashes-by-yl-software-experts/"><u>Diagnosing Windows Boot Failures: Common Culprits Behind Computer Crashes by YL Software Experts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/gold-tier-8-secret-screeners-choice-for-2024/"><u>Gold-Tier 8 Secret Screeners' Choice for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-v30-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme V30 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-6-titans-boundless-ai-model-landscape/"><u>Leading 6 Titans: Boundless AI Model Landscape</u></a></li>
-<li><a href="https://fox-within.techidaily.com/master-managing-your-microsoft-account-preferences-on-pc-tips-and-steps/"><u>Master Managing Your Microsoft Account Preferences on PC - Tips & Steps</u></a></li>
-<li><a href="https://fox-within.techidaily.com/resetting-your-devices-original-hardware-configuration-a-step-by-step-guide-yl-software-solutions/"><u>Resetting Your Device's Original Hardware Configuration: A Step-by-Step Guide - YL Software Solutions</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-diy-tech-help-identifying-and-solving-your-computers-hardware-problems-in-windows-advice-by-yl-software/"><u>Ultimate DIY Tech Help: Identifying and Solving Your Computer's Hardware Problems in Windows – Advice by YL Software</u></a></li>
-<li><a href="https://fox-within.techidaily.com/yl-software-insights-easy-techniques-to-alter-text-files-on-your-pc/"><u>YL Software Insights: Easy Techniques to Alter Text Files on Your PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-the-power-of-mp4-converting-youtube-shorts/"><u>[Updated] In 2024, Harness the Power of Mp4 Converting YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-natural-vs-artificial-balancing-your-sets-illumination/"><u>[Updated] Natural Vs. Artificial Balancing Your Set's Illumination</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-synthesize-and-add-videos-to-your-listing/"><u>[Updated] Synthesize and Add Videos to Your Listing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-comical-animated-cartoons-enjoy-free-viewing-on-iphone-and-ipad-without-internet/"><u>Download Comical Animated Cartoons: Enjoy Free Viewing on iPhone and iPad Without Internet</u></a></li>
+<li><a href="https://fox-within.techidaily.com/enhancing-your-scanners-efficiency-a-guide-on-updating-drivers-tech-solutions-by-yl/"><u>Enhancing Your Scanner's Efficiency: A Guide on Updating Drivers - Tech Solutions by YL</u></a></li>
+<li><a href="https://fox-within.techidaily.com/guide-activating-autoplay-feature-on-windows-11-tips-from-yl-computing/"><u>Guide: Activating AutoPlay Feature on Windows 11 - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/hd-autumn-scenery-backgrounds-and-decorative-wallpapers-high-resolution-image-collections-by-yl-computing/"><u>HD Autumn Scenery Backgrounds & Decorative Wallpapers - High-Resolution Image Collections by YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-troubleshoot-a-scanner-that-cant-recognize-your-files-tips-from-yl-computing/"><u>How to Troubleshoot a Scanner That Can't Recognize Your Files: Tips From YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/mastering-display-configurations-tailoring-screen-resolution-and-scaling-on-windows-pcs/"><u>Mastering Display Configurations: Tailoring Screen Resolution and Scaling on Windows PCs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-retrograde-your-footage-easy-vhs-effects-in-final-cut-pro/"><u>New In 2024, Retrograde Your Footage Easy VHS Effects in Final Cut Pro</u></a></li>
+<li><a href="https://fox-within.techidaily.com/new-release-try-the-updated-karaoki-software-version-08abetes-for-free/"><u>New Release! Try the Updated Karaoki Software Version 0.8.abetes for FREE!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-guide-to-instagram-video-advancement-a-planning-primer/"><u>The Guide to Instagram Video Advancement A Planning Primer</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-the-laughs-5-best-reaction-video-makers-out-there/"><u>Updated Unleash the Laughs 5 Best Reaction Video Makers Out There</u></a></li>
 </ul></div>
 
