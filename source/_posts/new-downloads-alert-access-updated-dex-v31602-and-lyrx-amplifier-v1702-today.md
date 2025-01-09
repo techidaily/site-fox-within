@@ -1,7 +1,7 @@
 ---
 title: "New Downloads Alert: Access Updated DEX v3.16.0.2 and LYRX Amplifier v1.7.0.2 Today!"
-date: 2024-12-26T17:26:31.916Z
-updated: 2024-12-29T18:53:53.238Z
+date: 2025-01-05T19:20:44.617Z
+updated: 2025-01-09T01:08:47.169Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes and Fixes Included in DEX 3.16.0.2 and LYRX 1.7.0.2
@@ -35,7 +35,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![DEX 3.16.0.2](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/08/karaoke-playing-performing.jpg?fit=300%2C167&ssl=1 "DEX 3.16.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DEX 3.16.0.2**
@@ -49,7 +49,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![LYRX 1.7.0.2](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/LYRX17screenshot.jpg?fit=300%2C169&ssl=1 "LYRX 1.7.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **LYRX v1.7.0.2**
@@ -65,7 +65,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 **MacOS | IMPORTANT NOTE:** If you receive this warning _“(product name here) can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3/LYRX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,20 +87,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/dex3-lyrx-updates.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-tailored-tips-for-maximizing-vlc-playback-potential/"><u>[New] 2024 Approved Tailored Tips for Maximizing VLC Playback Potential</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-speech-to-text-googles-pathway-for-precision/"><u>[Updated] 2024 Approved Cutting-Edge Speech-to-Text Google’s Pathway for Precision</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-real-time-streaming-on-facebook-simplified-2023/"><u>[Updated] 2024 Approved Real-Time Streaming on Facebook, Simplified 2023</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-tier-free-screen-capture-programs-2023-edition/"><u>[Updated] In 2024, Top-Tier Free Screen Capture Programs – 2023 Edition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tweak-twitter-video-clip-cover-for-2024/"><u>[Updated] Tweak Twitter Video Clip Cover for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/2-easy-steps-for-accessing-windows-documents-through-other-software-youth-leaders-digital-solutions/"><u>2. Easy Steps for Accessing Windows Documents Through Other Software - Youth Leaders' Digital Solutions</u></a></li>
-<li><a href="https://fox-within.techidaily.com/captivating-graphics-of-miraculous-tales-of-ladybug-and-cat-noir-high-quality-desktop-walls-and-posters-by-yl-software-solutions/"><u>Captivating Graphics of Miraculous: Tales of Ladybug and Cat Noir – High-Quality Desktop Walls & Posters by YL Software Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exclusive-list-affordable-efficient-high-quality-passport-photos-creators/"><u>Exclusive List Affordable, Efficient, High-Quality Passport Photos Creators</u></a></li>
-<li><a href="https://fox-within.techidaily.com/explore-stunning-glass-inspired-dark-themed-wallpaper-collections-by-yl-computing-solutions/"><u>Explore Stunning Glass-Inspired Dark Themed Wallpaper Collections by YL Computing Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nokia-c12-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nokia C12 Pro</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-troubleshoot-when-your-pc-ignores-the-network-card-expert-guide-by-yl-computing/"><u>How to Troubleshoot When Your PC Ignores the Network Card - Expert Guide by YL Computing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-get-your-hand-on-the-latest-50-youtube-promo-banners/"><u>In 2024, Get Your Hand on the Latest 50 YouTube Promo Banners!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/master-digital-clutter-control-with-expert-guidance-on-setting-up-organizational-folders-in-windows-advice-from-yl-software-experts/"><u>Master Digital Clutter Control with Expert Guidance on Setting Up Organizational Folders in Windows – Advice From YL Software Experts</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-trending-dj-mixes-and-songs-download-collection-at-the-video-pool/"><u>Top Trending DJ Mixes & Songs Download Collection at The Video Pool</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-your-flip-to-flash-with-android-for-2024/"><u>Transform Your Flip to Flash with Android for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-to-uncover-hidden-facebook-vids-updated-guide/"><u>[New] In 2024, How to Uncover Hidden Facebook Vids (Updated Guide)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-record-every-frame-of-your-android-experience-for-free-for-2024/"><u>[New] Record Every Frame of Your Android Experience for FREE for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-all-app-analysis-comprehensible-by-az-capture/"><u>[Updated] 2024 Approved All-App Analysis Comprehensible by AZ Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-dynamic-14-visual-expressions-with-text-animation/"><u>[Updated] 2024 Approved Dynamic 14 Visual Expressions with Text Animation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-integrating-voices-into-videos-effectively/"><u>[Updated] Integrating Voices Into Videos Effectively</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/audio-addition-for-snapchat-videos/"><u>Audio Addition for Snapchat Videos</u></a></li>
+<li><a href="https://fox-within.techidaily.com/creative-wallpaper-collection-immerse-yourself-in-the-world-of-ford-kuga-with-yl-software-expertise/"><u>Creative Wallpaper Collection: Immerse Yourself in the World of Ford Kuga with YL Software Expertise</u></a></li>
+<li><a href="https://fox-within.techidaily.com/elevate-your-karaoke-experience-party-tymes-latest-upgrade-brings-more-than-7000-new-songs-to-subscribers/"><u>Elevate Your Karaoke Experience: Party Tyme's Latest Upgrade Brings More than 7,000 New Songs to Subscribers!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/essential-factors-to-evaluate-before-launching-your-cryptocurrency-trading-platform-insights-from-yl-computings-expertise/"><u>Essential Factors to Evaluate Before Launching Your Cryptocurrency Trading Platform - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-within.techidaily.com/identifying-and-preventing-windows-memory-clashes-a-guide-from-professionals-at-yl-software/"><u>Identifying and Preventing Windows Memory Clashes: A Guide From Professionals at YL Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/identifying-the-best-tools-for-boosting-pc-speeds-an-expert-guide-by-yl-computing/"><u>Identifying the Best Tools for Boosting PC Speeds: An Expert Guide by YL Computing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-masterclass-picks-professional-webcam-stands/"><u>In 2024, Masterclass Picks Professional Webcam Stands</u></a></li>
+<li><a href="https://fox-within.techidaily.com/in-depth-review-red-mobiles-newest-dj-software-mixnext-with-powerful-cdj-integration/"><u>In-Depth Review: Red Mobile's Newest DJ Software - MixNext with Powerful CDJ Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pros-and-cons-is-it-time-to-switch-to-the-iphone-16-insights-from-leading-zdnet-editors/"><u>Pros & Cons: Is It Time to Switch to the iPhone 16? Insights From Leading ZDNet Editors</u></a></li>
+<li><a href="https://fox-within.techidaily.com/the-inception-of-manchus-rule-in-1644-identifying-the-founder-expert-analysis-from-yl-tech-and-development-services/"><u>The Inception of Manchus' Rule in 1644: Identifying the Founder - Expert Analysis From YL Tech & Development Services</u></a></li>
+<li><a href="https://fox-within.techidaily.com/tinariyen-desert-rock-inspirations-high-quality-backgrounds-and-wallpapers-by-yl-computing/"><u>Tinariyen Desert Rock Inspirations: High-Quality Backgrounds & Wallpapers by YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722719195650-unpacking-the-power-and-efficiency-of-the-portable-acer-predator-triton-300-se/"><u>Unpacking the Power and Efficiency of the Portable Acer Predator Triton 300 SE!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/zelenskys-firm-commitment-to-escalate-anti-corruption-efforts-amidst-conflict-exclusive-analysis-by-yl-tech-yl-solutions/"><u>Zelensky's Firm Commitment to Escalate Anti-Corruption Efforts Amidst Conflict: Exclusive Analysis by YL Tech | YL Solutions</u></a></li>
 </ul></div>
 
