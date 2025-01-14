@@ -1,7 +1,7 @@
 ---
 title: Compatible DJ Gear & Software | Numark NDX500 Now with DEX 3 & Dexion Support for Pioneer CDJs
-date: 2025-01-04T19:44:14.061Z
-updated: 2025-01-09T03:19:41.380Z
+date: 2025-01-10T21:08:04.688Z
+updated: 2025-01-14T18:48:56.163Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark NDX500 DJ CD Player and Controller Features:
@@ -56,7 +56,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 ![Numark NDX500 DJ controllers Setup](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/numarkndx500m6nologo.jpg?fit=1000%2C541&ssl=1 "Numark NDX500 DJ controllers Setup")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [View All Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
@@ -64,7 +64,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 _Have questions about the **Numark NDX500** DJ Controller/Media player and how it works with our **DJ software**? Please leave your questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,18 +86,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/ndx500-supported.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-deep-dives-closer-scans-and-enhanced-gameplay-on-roblox-for-2024/"><u>[Updated] Deep Dives Closer Scans and Enhanced Gameplay on Roblox for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-quick-guide-downloading-tiktok-for-mac-users/"><u>[Updated] Quick Guide Downloading TikTok for Mac Users</u></a></li>
-<li><a href="https://fox-within.techidaily.com/discovering-history-unveiling-the-identity-of-chinas-initial-ruler-insights-from-yl-computing/"><u>Discovering History: Unveiling the Identity of China's Initial Ruler - Insights From YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-a15-4g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy A15 4G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/masterclass-building-an-interactive-story-rich-rpg-with-chatgpt-technology/"><u>Masterclass: Building an Interactive, Story-Rich RPG with ChatGPT Technology</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-the-art-of-shared-spotlight-ingenious-techniques-for-co-dj-performances/"><u>Mastering the Art of Shared Spotlight: Ingenious Techniques for Co-DJ Performances</u></a></li>
-<li><a href="https://fox-within.techidaily.com/navigating-windows-control-panel-configuration-a-step-by-step-guide-by-yl-computing/"><u>Navigating Windows Control Panel Configuration - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/netgear-a6210-driver-free-download-and-update-for-your-windows-87/"><u>Netgear a6210 Driver Free Download & Update for Your Windows 8/7</u></a></li>
-<li><a href="https://fox-within.techidaily.com/reviving-your-cracked-internal-ssdhard-drive-tips-and-tricks-by-yl-software-experts/"><u>Reviving Your Cracked Internal SSD/Hard Drive: Tips & Tricks by YL Software Experts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-linguistic-leaders-list-of-top-33-apps-that-turn-videos-into-text/"><u>The Linguistic Leaders' List of Top 33 Apps That Turn Videos Into Text</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-action-hunting-cameras-of-the-year/"><u>Top Action Hunting Cameras of the Year</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-printing-issues-solutions-for-windows-users-by-yl-software-experts/"><u>Troubleshooting Printing Issues: Solutions for Windows Users by YL Software Experts</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-steps-how-to-fix-a-non-responsive-new-printer-expert-advice-from-yl-computings-tech-team/"><u>Troubleshooting Steps: How to Fix a Non-Responsive New Printer - Expert Advice From YL Computing's Tech Team</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-excellent-quality-hd-video-preservers/"><u>[New] 2024 Approved Excellent Quality HD Video Preservers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-creme-de-la-cream-of-online-tv-services/"><u>[New] The Crème De La Cream of Online TV Services</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-essential-insights-getting-started-with-ifunny-memes-for-2024/"><u>[Updated] Essential Insights Getting Started with iFunny Memes for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/behebe-fehlschlagende-iphonetransfers-durch-airdrop-uberwindet-die-herausforderung-kapazitat-unzureichend/"><u>Behebe Fehlschlagende iPhonetransfers Durch Airdrop: Überwindet Die Herausforderung 'Kapazität Unzureichend'</u></a></li>
+<li><a href="https://fox-within.techidaily.com/comprehensive-walkthrough-seamlessly-connecting-your-gmail-and-outlook-mailboxes/"><u>Comprehensive Walkthrough: Seamlessly Connecting Your Gmail and Outlook Mailboxes</u></a></li>
+<li><a href="https://tools.techidaily.com/confidential/products/"><u>Confidential's Products</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-windows-11s-system32-directory/"><u>Delving Into Windows 11'S System32 Directory</u></a></li>
+<li><a href="https://fox-within.techidaily.com/effizientes-kopieren-von-hdd-auf-ssd-unter-windows-ohne-vollstandige-neukonfiguration/"><u>Effizientes Kopieren Von HDD Auf SSD Unter Windows Ohne Vollständige Neukonfiguration</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-compact-and-convenient-installation-of-aomei-backupper-on-the-go/"><u>How To: Compact and Convenient Installation of AOMEI Backupper on the Go</u></a></li>
+<li><a href="https://driver-download.techidaily.com/level-up-your-gaming-with-the-latest-geforce-rtx-2080-ti-graphics-card-drivers/"><u>Level Up Your Gaming with the Latest GeForce RTX 2080 Ti Graphics Card Drivers</u></a></li>
+<li><a href="https://fox-within.techidaily.com/mastering-file-transfer-a-guide-to-using-teracopy-on-windows-11-and-top-open-source-solutions/"><u>Mastering File Transfer: A Guide to Using TeraCopy on Windows 11 and Top Open-Source Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205310059-overcome-slow-shutdown-woes-in-windows-11-effective-strategies-inside/"><u>Overcome Slow Shutdown Woes in Windows 11 – Effective Strategies Inside!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/resolve-hulu-rununk13-issue-on-chrome-browser-fast-steps-and-tips/"><u>Resolve 'Hulu RUNUNK13' Issue on Chrome Browser Fast - Steps & Tips</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-retrieving-raw-files-from-external-storage-devices/"><u>Step-by-Step Guide: Retrieving Raw Files From External Storage Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-8-steps-in-recording-and-archiving-computer-audio/"><u>Top 8 Steps in Recording and Archiving Computer Audio</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-scelte-del-programma-clonatore-per-le-schede-disco-solid-state-della-toshiba-con-compatibilita-windows-una-guida-comparata/"><u>Top Scelte Del Programma Clonatore per Le Schede Disco Solid-State Della Toshiba Con Compatibilità Windows: Una Guida Comparata</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweaking-the-viewers-journey-the-art-of-custom-thumbnail-design-in-twitter/"><u>Tweaking the Viewer's Journey The Art of Custom Thumbnail Design in Twitter</u></a></li>
 </ul></div>
 
