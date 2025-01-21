@@ -1,7 +1,7 @@
 ---
 title: Compatible DJ Gear & Software | Numark NDX500 Now with DEX 3 & Dexion Support for Pioneer CDJs
-date: 2025-01-10T21:08:04.688Z
-updated: 2025-01-14T18:48:56.163Z
+date: 2025-01-19T01:51:08.975Z
+updated: 2025-01-21T01:33:44.155Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark NDX500 DJ CD Player and Controller Features:
@@ -56,7 +56,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 ![Numark NDX500 DJ controllers Setup](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/numarkndx500m6nologo.jpg?fit=1000%2C541&ssl=1 "Numark NDX500 DJ controllers Setup")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [View All Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
@@ -64,7 +64,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 _Have questions about the **Numark NDX500** DJ Controller/Media player and how it works with our **DJ software**? Please leave your questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,22 +86,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/ndx500-supported.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-excellent-quality-hd-video-preservers/"><u>[New] 2024 Approved Excellent Quality HD Video Preservers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-creme-de-la-cream-of-online-tv-services/"><u>[New] The Crème De La Cream of Online TV Services</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-essential-insights-getting-started-with-ifunny-memes-for-2024/"><u>[Updated] Essential Insights Getting Started with iFunny Memes for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/behebe-fehlschlagende-iphonetransfers-durch-airdrop-uberwindet-die-herausforderung-kapazitat-unzureichend/"><u>Behebe Fehlschlagende iPhonetransfers Durch Airdrop: Überwindet Die Herausforderung 'Kapazität Unzureichend'</u></a></li>
-<li><a href="https://fox-within.techidaily.com/comprehensive-walkthrough-seamlessly-connecting-your-gmail-and-outlook-mailboxes/"><u>Comprehensive Walkthrough: Seamlessly Connecting Your Gmail and Outlook Mailboxes</u></a></li>
-<li><a href="https://tools.techidaily.com/confidential/products/"><u>Confidential's Products</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-windows-11s-system32-directory/"><u>Delving Into Windows 11'S System32 Directory</u></a></li>
-<li><a href="https://fox-within.techidaily.com/effizientes-kopieren-von-hdd-auf-ssd-unter-windows-ohne-vollstandige-neukonfiguration/"><u>Effizientes Kopieren Von HDD Auf SSD Unter Windows Ohne Vollständige Neukonfiguration</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-compact-and-convenient-installation-of-aomei-backupper-on-the-go/"><u>How To: Compact and Convenient Installation of AOMEI Backupper on the Go</u></a></li>
-<li><a href="https://driver-download.techidaily.com/level-up-your-gaming-with-the-latest-geforce-rtx-2080-ti-graphics-card-drivers/"><u>Level Up Your Gaming with the Latest GeForce RTX 2080 Ti Graphics Card Drivers</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-file-transfer-a-guide-to-using-teracopy-on-windows-11-and-top-open-source-solutions/"><u>Mastering File Transfer: A Guide to Using TeraCopy on Windows 11 and Top Open-Source Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205310059-overcome-slow-shutdown-woes-in-windows-11-effective-strategies-inside/"><u>Overcome Slow Shutdown Woes in Windows 11 – Effective Strategies Inside!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/resolve-hulu-rununk13-issue-on-chrome-browser-fast-steps-and-tips/"><u>Resolve 'Hulu RUNUNK13' Issue on Chrome Browser Fast - Steps & Tips</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-retrieving-raw-files-from-external-storage-devices/"><u>Step-by-Step Guide: Retrieving Raw Files From External Storage Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-8-steps-in-recording-and-archiving-computer-audio/"><u>Top 8 Steps in Recording and Archiving Computer Audio</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-scelte-del-programma-clonatore-per-le-schede-disco-solid-state-della-toshiba-con-compatibilita-windows-una-guida-comparata/"><u>Top Scelte Del Programma Clonatore per Le Schede Disco Solid-State Della Toshiba Con Compatibilità Windows: Una Guida Comparata</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweaking-the-viewers-journey-the-art-of-custom-thumbnail-design-in-twitter/"><u>Tweaking the Viewer's Journey The Art of Custom Thumbnail Design in Twitter</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-guide-to-selecting-best-video-grabber-tools/"><u>[New] Essential Guide to Selecting Best Video Grabber Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-lenses-for-animation-photography-for-2024/"><u>[Updated] Top Lenses for Animation Photography for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-tune-up-your-whatsapp-status-snapshot/"><u>[Updated] Tune Up Your WhatsApp Status Snapshot</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlining-your-youtube-music-journey/"><u>2024 Approved Streamlining Your YouTube Music Journey</u></a></li>
+<li><a href="https://fox-within.techidaily.com/diy-wallet-creation-a-step-by-step-guide-by-yl-computing/"><u>DIY Wallet Creation: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-updating-your-canon-pixma-printer-drivers-in-no-time/"><u>Easy Steps: Updating Your Canon PIXMA Printer Drivers in No Time</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-reliable-is-chatgpt-when-it-comes-to-crafting-safe-efficient-workout-plans-for-individual-needs/"><u>How Reliable Is ChatGPT When It Comes to Crafting Safe, Efficient Workout Plans for Individual Needs?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-maximizing-iphone-video-clarity-top-4-fixes-using-premiere-pros-hdr-tools/"><u>In 2024, Maximizing iPhone Video Clarity Top 4 Fixes Using Premiere Pro's HDR Tools</u></a></li>
+<li><a href="https://fox-within.techidaily.com/pc-maintenance-timetable-determining-the-right-schedule-for-purging-temporary-files-with-expert-advice-from-yl-software/"><u>PC Maintenance Timetable: Determining the Right Schedule for Purging Temporary Files with Expert Advice From YL Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/solved-why-is-your-usb-port-failing-and-what-you-can-do-about-it-guidance-by-yl-software-experts/"><u>Solved! Why Is Your USB Port Failing and What You Can Do About It – Guidance by YL Software Experts</u></a></li>
+<li><a href="https://fox-within.techidaily.com/trouble-locating-recent-hardware-releases-explore-the-causes-with-yl-computings-insights/"><u>Trouble Locating Recent Hardware Releases? Explore the Causes with YL Computing's Insights</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-the-top-reasons-behind-gpu-malfunctions-insights-from-yl-computing/"><u>Understanding the Top Reasons Behind GPU Malfunctions: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/yl-software-unveils-the-ultimate-guide-for-secure-bitcoin-address-balance-management-tools/"><u>YL Software Unveils the Ultimate Guide for Secure Bitcoin Address Balance Management Tools</u></a></li>
 </ul></div>
 
