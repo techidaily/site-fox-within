@@ -1,7 +1,7 @@
 ---
 title: "New Downloads Alert: Access Updated DEX v3.16.0.2 and LYRX Amplifier v1.7.0.2 Today!"
-date: 2025-01-19T17:06:26.040Z
-updated: 2025-01-20T21:47:36.065Z
+date: 2025-01-23T16:32:47.479Z
+updated: 2025-01-26T22:11:18.307Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes and Fixes Included in DEX 3.16.0.2 and LYRX 1.7.0.2
@@ -35,7 +35,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![DEX 3.16.0.2](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/08/karaoke-playing-performing.jpg?fit=300%2C167&ssl=1 "DEX 3.16.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DEX 3.16.0.2**
@@ -49,7 +49,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![LYRX 1.7.0.2](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/LYRX17screenshot.jpg?fit=300%2C169&ssl=1 "LYRX 1.7.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **LYRX v1.7.0.2**
@@ -65,7 +65,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 **MacOS | IMPORTANT NOTE:** If you receive this warning _“(product name here) can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3/LYRX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,19 +87,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/dex3-lyrx-updates.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-dispelling-the-curvature-how-to-fix-gopros-fish-eye-for-2024/"><u>[New] Dispelling The Curvature How to Fix GoPro's Fish Eye for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-instantly-access-all-episodes-premium-downloader-tools-reviewed/"><u>[Updated] 2024 Approved Instantly Access All Episodes Premium Downloader Tools Reviewed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pixeled-up-transform-your-shots-for-free/"><u>[Updated] Pixeled-Up Transform Your Shots for Free</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-dos-and-donts-of-youtube-videos-on-twitter/"><u>[Updated] The Dos and Don'ts of YouTube Videos on Twitter</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-roadmap-for-distance-podcasting/"><u>[Updated] The Ultimate Roadmap for Distance Podcasting</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-ultimate-guide-to-calculate-your-youtube-views-and-money/"><u>2024 Approved Ultimate Guide to Calculate Your YouTube Views and Money.</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-zero-30-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Zero 30 5G FRP</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/assessing-scanner-integrity-essential-tips-and-tools-by-yl-software-professionals/"><u>Assessing Scanner Integrity: Essential Tips & Tools by YL Software Professionals</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-activating-autoplay-feature-on-windows-11-tips-from-yl-computing/"><u>Guide: Activating AutoPlay Feature on Windows 11 - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/hd-autumn-scenery-backgrounds-and-decorative-wallpapers-high-resolution-image-collections-by-yl-computing/"><u>HD Autumn Scenery Backgrounds & Decorative Wallpapers - High-Resolution Image Collections by YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-does-language-variation-work-with-windows-clock-feature-expert-insights-from-yl-software-solutions/"><u>How Does Language Variation Work With Windows Clock Feature? Expert Insights From YL Software Solutions</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-troubleshoot-a-scanner-that-cant-recognize-your-files-tips-from-yl-computing/"><u>How to Troubleshoot a Scanner That Can't Recognize Your Files: Tips From YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/new-release-try-the-updated-karaoki-software-version-08abetes-for-free/"><u>New Release! Try the Updated Karaoki Software Version 0.8.abetes for FREE!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solving-mp4-and-mov-playback-issues-expert-tricks-for-repair-with-vlc-software/"><u>Solving MP4 & MOV Playback Issues: Expert Tricks for Repair with VLC Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-essential-techniques-for-writing-irresistible-vlog-narratives/"><u>[New] In 2024, Essential Techniques for Writing Irresistible Vlog Narratives</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-zoomers-guide-to-instagram-story-clarity/"><u>[Updated] 2024 Approved The Zoomer’s Guide to Instagram Story Clarity</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-essential-history-vids-student-edition-of-top-10-lists/"><u>[Updated] Essential History Vids Student Edition of Top 10 Lists</u></a></li>
+<li><a href="https://fox-within.techidaily.com/windows-11-7-ssd/"><u>「选择优质磁盘克隆解决方案 - Windows 11-7 SSD数据复制指南」</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/compatibility-check-connecting-airpods-to-your-nintendo-switch-gaming-system/"><u>Compatibility Check: Connecting AirPods to Your Nintendo Switch Gaming System</u></a></li>
+<li><a href="https://fox-within.techidaily.com/effortless-methods-for-saving-and-transferring-files-from-hard-drive-to-compact-discs-or-digital-versatile-disks/"><u>Effortless Methods for Saving & Transferring Files From Hard Drive to Compact Discs or Digital Versatile Disks</u></a></li>
+<li><a href="https://fox-within.techidaily.com/gratis-vollversionssicherung-fur-windows-11-zwei-einfache-methoden/"><u>Gratis-Vollversionssicherung Für Windows 11: Zwei Einfache Methoden</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-y100a-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo Y100A to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-meme-making-method-unveiling-6-crucial-gif-production-strategies/"><u>In 2024, The Meme-Making Method Unveiling 6 Crucial GIF Production Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/join-the-social-gaming-movement-xbox-and-fb-livestreams/"><u>Join the Social Gaming Movement Xbox & FB Livestreams</u></a></li>
+<li><a href="https://win-forum.techidaily.com/latest-cybersecurity-news-a-closer-look-at-atandts-security-lapse-and-the-new-wave-of-samsung-mobile-devices/"><u>Latest Cybersecurity News: A Closer Look at AT&T’s Security Lapse and the New Wave of Samsung Mobile Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-visual-quality-with-hdr-on-windows-11/"><u>Maximizing Visual Quality with HDR on Windows 11</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-guide-how-to-successfully-transfer-and-duplicate-windows-7-system-on-a-new-hard-drive/"><u>Ultimate Guide: How to Successfully Transfer and Duplicate Windows 7 System on a New Hard Drive</u></a></li>
 </ul></div>
 
