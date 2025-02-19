@@ -1,7 +1,7 @@
 ---
 title: "New Downloads Alert: Access Updated DEX v3.16.0.2 and LYRX Amplifier v1.7.0.2 Today!"
-date: 2025-02-01T22:13:58.525Z
-updated: 2025-02-08T19:06:09.652Z
+date: 2025-02-13T19:30:02.982Z
+updated: 2025-02-18T21:14:20.289Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes and Fixes Included in DEX 3.16.0.2 and LYRX 1.7.0.2
@@ -35,7 +35,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![DEX 3.16.0.2](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/08/karaoke-playing-performing.jpg?fit=300%2C167&ssl=1 "DEX 3.16.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DEX 3.16.0.2**
@@ -49,7 +49,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![LYRX 1.7.0.2](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/LYRX17screenshot.jpg?fit=300%2C169&ssl=1 "LYRX 1.7.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **LYRX v1.7.0.2**
@@ -65,7 +65,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 **MacOS | IMPORTANT NOTE:** If you receive this warning _“(product name here) can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3/LYRX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,24 +87,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/dex3-lyrx-updates.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-webcam-capture-basics-for-hp-and-chromebook-owners/"><u>[Updated] 2024 Approved Webcam Capture Basics for HP and Chromebook Owners</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-start-smart-free-video-intro-templates-for-2024/"><u>[Updated] Start Smart Free Video Intro Templates for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/3-effective-techniques-for-shifting-contacts-from-an-iphone-to-mac/"><u>3 Effective Techniques for Shifting Contacts From an iPhone to Mac</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/best-solutions-for-resolving-new-iphone-cant-restore-backup-issues-top-7-methods/"><u>Best Solutions for Resolving 'New iPhone Can't Restore Backup' Issues - Top 7 Methods!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970242815-effortless-setup-for-your-new-pioneer-dj-ddj-sx2-get-the-latest-driver-here/"><u>Effortless Setup for Your New Pioneer DJ DDJ-SX2 - Get the Latest Driver Here!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-gaming-experience-with-corsair-icue-windows-11-and-nt-free-downloads-available-now/"><u>Enhance Gaming Experience with Corsair iCUE: Windows 11 and nT - FREE Downloads Available Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/google-chrome-update-solves-shockwave-flash-compatibility-errors/"><u>Google Chrome Update Solves Shockwave Flash Compatibility Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-samsung-galaxy-xcover-7-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Samsung Galaxy XCover 7?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-14-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 14 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-iconography-gone-discover-effective-ways-to-reclaim-them/"><u>IPhone Iconography Gone? Discover Effective Ways to Reclaim Them!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/iphone-update-wie-viele-stunden-oder-tage-sollte-ich-fur-den-vorgang-warten/"><u>IPhone Update: Wie Viele Stunden Oder Tage Sollte Ich Für Den Vorgang Warten?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/is-there-a-one-month-hold-period-for-items-sent-to-the-recycle-bin-when-deleted/"><u>Is There a One-Month Hold Period for Items Sent to the Recycle Bin when Deleted?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/passen-sie-sich-an-wie-man-desktop-dateien-wieder-aktiviert-die-durch-das-windows-11-upgrade-verloren-gegangen-sind/"><u>Passen Sie Sich An: Wie Man Desktop-Dateien Wieder Aktiviert, Die Durch Das Windows 11-Upgrade Verloren Gegangen Sind</u></a></li>
-<li><a href="https://fox-within.techidaily.com/soluciones-inmediatas-para-la-perdida-de-ahorros-en-fallout-4-para-pc/"><u>Soluciones Inmediatas Para La Pérdida De Ahorros en Fallout 4 Para PC</u></a></li>
-<li><a href="https://fox-within.techidaily.com/solving-the-quick-start-disappearance-issue-on-your-iphone-proven-methods-for-immediate-access/"><u>Solving the Quick Start Disappearance Issue on Your iPhone: Proven Methods for Immediate Access</u></a></li>
-<li><a href="https://fox-within.techidaily.com/transferencia-aptoica-simplificada-como-transferir-contactos-entre-dos-identificadores-facilmente/"><u>Transferencia Aptoica Simplificada: Cómo Transferir Contactos Entre Dos Identificadores Fácilmente</u></a></li>
-<li><a href="https://win-news.techidaily.com/troubleshooting-auditory-gateways-ensuring-proper-performance-of-audio-output-ports-on-pc-sound-cards-tech-tips-by-yl-computing/"><u>Troubleshooting Auditory Gateways: Ensuring Proper Performance of Audio Output Ports on PC Sound Cards - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728489537273-windows-115/"><u>データ損失を防ぐため、Windows 11で効果的なバックアップ方法をご紹介！5つのキーポイント</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-intense-presentation-review-8x-version/"><u>[New] 2024 Approved Intense Presentation Review 8X Version</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ree-video-credits-pro-the-best-suggestions-1-6/"><u>[New] Free Video Credits Pro - The Best Suggestions #1-6</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pro-level-gopro-tricks-and-insights-for-2024/"><u>[New] Pro-Level GoPro Tricks and Insights for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-essential-routine-care-effective-upkeep-practices-for-your-computers-optimal-performance-insights-from-yl-computing/"><u>1. Essential Routine Care: Effective Upkeep Practices for Your Computer's Optimal Performance - Insights From YL Computing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bridging-the-gap-understanding-english-contraction-usage/"><u>Bridging the Gap: Understanding English Contraction Usage</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ensuring-privacy-the-ultimate-guide-to-safely-erasing-sensitive-information-techniques-from-yl-computing/"><u>Ensuring Privacy: The Ultimate Guide to Safely Erasing Sensitive Information - Techniques From YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-narzo-n53-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme Narzo N53 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-x6-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco X6 Device</u></a></li>
+<li><a href="https://fox-within.techidaily.com/rejuvenate-vintage-photos-for-no-cost-using-ai-discover-yl-softwares-revolutionary-memory-revival-solution/"><u>Rejuvenate Vintage Photos for No Cost Using AI - Discover YL Software's Revolutionary Memory Revival Solution</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-installation-and-removal-of-applications-tips-from-yl-computing/"><u>Step-by-Step Guide: Installation & Removal of Applications - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-no-audio-post-driver-installation-with-tips-from-yl-software-experts/"><u>Troubleshooting No Audio Post-Driver Installation with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-your-audio-hardware-understanding-why-it-fails-insights-from-yl-computing/"><u>Troubleshooting Your Audio Hardware: Understanding Why It Fails - Insights From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-fast-video-trimming-in-windows-11-apps-for-2024/"><u>Unlock Fast Video Trimming in Windows 11 Apps for 2024</u></a></li>
 </ul></div>
 

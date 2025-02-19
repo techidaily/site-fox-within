@@ -1,7 +1,7 @@
 ---
 title: Compatible DJ Gear & Software | Numark NDX500 Now with DEX 3 & Dexion Support for Pioneer CDJs
-date: 2025-02-03T18:20:54.853Z
-updated: 2025-02-08T21:12:47.530Z
+date: 2025-02-16T18:02:35.462Z
+updated: 2025-02-18T16:39:01.080Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark NDX500 DJ CD Player and Controller Features:
@@ -56,7 +56,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 ![Numark NDX500 DJ controllers Setup](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/numarkndx500m6nologo.jpg?fit=1000%2C541&ssl=1 "Numark NDX500 DJ controllers Setup")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [View All Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
@@ -64,7 +64,7 @@ Download the MAP below and be sure to follow the provided installation instructi
 _Have questions about the **Numark NDX500** DJ Controller/Media player and how it works with our **DJ software**? Please leave your questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,18 +86,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/ndx500-supported.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-struggle-to-cultivate-freshness-in-vr-realms/"><u>[New] The Struggle to Cultivate Freshness in VR Realms</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-how-to-avoid-and-eliminate-fog-on-gopro-lenshousing/"><u>[Updated] How to Avoid and Eliminate Fog on GoPro Lens/Housing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-video-mastery-posting-on-snapchat-from-twitter-revealed-for-2024/"><u>[Updated] Video Mastery Posting on Snapchat From Twitter Revealed for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-revive-lost-footage-top-4-methods-for-restoring-deleted-videos-from-your-usb-flash-drive/"><u>1. Revive Lost Footage: Top 4 Methods for Restoring Deleted Videos From Your USB Flash Drive</u></a></li>
-<li><a href="https://fox-within.techidaily.com/come-effettuare-il-ripristino-di-installazione-su-windows-11/"><u>Come Effettuare Il Ripristino Di Installazione Su Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-unveiling-the-capabilities-of-the-samsung-qn55q6f-a-leading-player-in-4k-hdr-smart-tvs/"><u>Expert Review: Unveiling the Capabilities of the Samsung QN55Q6F - A Leading Player in 4K HDR Smart TVs</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guia-passo-a-passo-para-clonar-ssd-para-um-disco-rigido-em-sistemas-operacionais-windows-recentes-secure-boot-e-metodos-seguros/"><u>Guia Passo-a-Passo Para Clonar SSD Para Um Disco Rígido Em Sistemas Operacionais Windows Recentes (Secure Boot) E Métodos Seguros</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-to-restoring-accidentally-erased-camera-recordings-on-your-dvrnvr-device/"><u>Guide to Restoring Accidentally Erased Camera Recordings on Your DVR/NVR Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/risks-galore-why-not-to-trust-ai-in-medicine/"><u>Risks Galore: Why Not to Trust AI in Medicine</u></a></li>
-<li><a href="https://fox-within.techidaily.com/schritt-fur-schritt-guide-zum-kopieren-von-daten-auf-ein-neues-ssd-ohne-wiederherstellung-des-betriebssystems/"><u>Schritt-Für-Schritt-Guide Zum Kopieren Von Daten Auf Ein Neues SSD Ohne Wiederherstellung Des Betriebssystems</u></a></li>
-<li><a href="https://win-special.techidaily.com/stunning-jewelry-inspired-wallpaper-collection-by-yl-computing-elevate-your-digital-workspace/"><u>Stunning Jewelry-Inspired Wallpaper Collection by YL Computing: Elevate Your Digital Workspace</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-podcasters-guide-to-high-quality-home-recordings/"><u>The Podcaster’s Guide to High-Quality Home Recordings</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-guide-to-free-flv-video-editing-tools-for-2024/"><u>Updated The Ultimate Guide to Free FLV Video Editing Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-harnessing-the-power-of-free-windows-video-tools-for-2024/"><u>[New] Harnessing the Power of Free Windows Video Tools for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eamless-screen-stretch-cycle-youtube-on-television-display/"><u>[New] Seamless Screen Stretch Cycle YouTube on Television Display</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-uncovering-if-itop-justifies-its-market-presence/"><u>[New] Uncovering If ITop Justifies Its Market Presence</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-steps-to-restrict-access-to-websites-on-your-browser-a-comprehensive-guide-from-yl-computing/"><u>1. Steps to Restrict Access to Websites on Your Browser: A Comprehensive Guide From YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/u-brothers-billion-dollar-journey-yl-computing/"><u>深入了解投资世界的秘密 - U Brother's Billion-Dollar Journey | YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-recurrent-pc-hardware-and-software-collisions-solutions-unveiled/"><u>Overcoming Recurrent PC Hardware and Software Collisions – Solutions Unveiled!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/rising-trade-barriers-and-aging-demographics-how-renewable-energys-rise-will-amplify-global-inflation-challenging-central-banks-to-curb-prices-insights-by-y17/"><u>Rising Trade Barriers & Aging Demographics: How Renewable Energy's Rise Will Amplify Global Inflation, Challenging Central Banks to Curb Prices - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-your-broken-printer-tips-and-solutions-by-yl-software/"><u>Troubleshooting Your Broken Printer: Tips & Solutions by YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-potential-customizing-the-visibility-of-mouse-cursors-in-win-11/"><u>Unleash Potential: Customizing the Visibility of Mouse Cursors in Win 11</u></a></li>
+<li><a href="https://fox-within.techidaily.com/yl-software-solutions-for-windows-registry-management-expert-tips-on-effective-backup-and-recovery-processes/"><u>YL Software Solutions for Windows Registry Management: Expert Tips on Effective Backup and Recovery Processes</u></a></li>
 </ul></div>
 
