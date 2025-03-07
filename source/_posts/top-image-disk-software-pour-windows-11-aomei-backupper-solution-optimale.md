@@ -1,7 +1,7 @@
 ---
 title: "Top Image Disk Software Pour Windows 11: AOMEI Backupper - Solution Optimale"
-date: 2025-02-13T19:25:21.776Z
-updated: 2025-02-18T21:29:26.991Z
+date: 2025-02-28T12:26:46.177Z
+updated: 2025-03-07T00:23:30.027Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc14a37bcb509db67f36be2c1.jpg
@@ -61,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -77,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -88,10 +80,6 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -117,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -136,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -178,10 +154,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,24 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>[New] In 2024, Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-streamline-your-show-entry-on-apple-media/"><u>[Updated] In 2024, Streamline Your Show Entry on Apple Media</u></a></li>
-<li><a href="https://fox-within.techidaily.com/adobe-lightroom/"><u>「Adobe Lightroomで消去された撮影画像の復元マニュアル」</u></a></li>
-<li><a href="https://fox-within.techidaily.com/4-innovative-methods-to-create-formatted-usb-drives-complete-guide/"><u>4 Innovative Methods to Create Formatted USB Drives - Complete Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728473126999-windows-11/"><u>三星Windows 11数据转移方法：全面下载与使用手册</u></a></li>
-<li><a href="https://fox-within.techidaily.com/cold-frames-and-greenhouses-can-maintain-a-microclimate-with-higher-humidity-levels-which-reduces-transpiration-stress-on-the-plant-during-cold-periods/"><u>Cold Frames and Greenhouses Can Maintain a Microclimate with Higher Humidity Levels, Which Reduces Transpiration Stress on the Plant During Cold Periods.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-for-restoring-lost-microsoft-system-files-like-msvcp72dll/"><u>Comprehensive Solutions for Restoring Lost Microsoft System Files Like msvcp72.dll</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/digital-training-footage/"><u>Digital Training Footage</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/eliminating-suggested-podcast-selections-on-spotify/"><u>Eliminating Suggested Podcast Selections on Spotify</u></a></li>
-<li><a href="https://fox-within.techidaily.com/fehlerbehebung-fehlende-system-reservepartition-erfolgreich-wiederherstellungsmoglichkeiten/"><u>Fehlerbehebung: Fehlende System-Reservepartition – Erfolgreich Wiederherstellungsmöglichkeiten</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722457377307-next-gen-power-in-a-small-package-comprehensive-review-of-xbox-series-s-hardware/"><u>Next-Gen Power in a Small Package: Comprehensive Review of Xbox Series S Hardware</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ditors-journey-mastering-the-art-of-youtube-cuts-for-2024/"><u>The Editor's Journey Mastering the Art of Youtube Cuts for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-5-microphones-compatible-with-macos-for-2024/"><u>Top 5 Microphones Compatible with MacOS for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-guide-resolving-connection-issues-between-airpods-pro-and-iphone-x-series/"><u>Troubleshooting Guide: Resolving Connection Issues Between AirPods Pro and iPhone X Series</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-redmi-k70-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Redmi K70 Device</u></a></li>
-<li><a href="https://fox-within.techidaily.com/wie-sie-datentrageruberprufungen-bei-jedem-systemstart-unter-windows-11-stoppen-und-reparieren/"><u>Wie Sie Datenträgerüberprüfungen Bei Jedem Systemstart Unter Windows 11 Stoppen Und Reparieren</u></a></li>
-<li><a href="https://fox-within.techidaily.com/windows-server-2012-r2-os-4/"><u>Windows Server 2012 R2 安全基準適用時 OS パニック状態発生に関する解決策を4点</u></a></li>
-<li><a href="https://fox-within.techidaily.com/zero-cost-methods-for-moving-your-whatsapp-messages-and-media/"><u>Zero-Cost Methods for Moving Your WhatsApp Messages and Media</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-a-comprehensive-list-top-rated-srt-translation-services/"><u>[New] 2024 Approved A Comprehensive List Top-Rated SRT Translation Services</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-guide-to-photo-to-video-conversion-via-pixiz/"><u>[New] Comprehensive Guide to Photo-to-Video Conversion via Pixiz</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sky-eyes-on-the-action-dji-phantom-pro-vs-gopro-fusion/"><u>[New] Sky Eyes on the Action DJi Phantom Pro VS GoPro Fusion</u></a></li>
+<li><a href="https://fox-within.techidaily.com/2-easy-steps-for-accessing-windows-documents-through-other-software-youth-leaders-digital-solutions/"><u>2. Easy Steps for Accessing Windows Documents Through Other Software - Youth Leaders' Digital Solutions</u></a></li>
+<li><a href="https://fox-within.techidaily.com/captivating-graphics-of-miraculous-tales-of-ladybug-and-cat-noir-high-quality-desktop-walls-and-posters-by-yl-software-solutions/"><u>Captivating Graphics of Miraculous: Tales of Ladybug and Cat Noir – High-Quality Desktop Walls & Posters by YL Software Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connect-and-enjoy-a-visual-walkthrough-of-adding-a-bluetooth-headset-to-your-ps4-gaming-system/"><u>Connect & Enjoy: A Visual Walkthrough of Adding a Bluetooth Headset to Your PS4 Gaming System</u></a></li>
+<li><a href="https://fox-within.techidaily.com/energy-efficiency-hacks-for-your-pc-to-enable-or-not-to-enable-network-card/"><u>Energy Efficiency Hacks for Your PC: To Enable or Not to Enable Network Card</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exclusive-offer-get-dex-35-at-a-steal-save-30-until-dec-31st/"><u>EXCLUSIVE OFFER: Get DEX 3.5 at a Steal - Save $30 Until Dec 31St!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/high-definition-picture-backdrops-with-vibrant-red-themes-professional-image-solutions-by-yl-computing/"><u>High-Definition Picture Backdrops with Vibrant Red Themes - Professional Image Solutions by YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-nokia-130-music-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nokia 130 Music Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/movavi-plus-unveiled-the-latest-edition/"><u>Movavi Plus Unveiled – The Latest Edition</u></a></li>
+<li><a href="https://fox-within.techidaily.com/optimizing-performance-key-hardware-improvements-to-boost-your-computers-speed-expert-advice-from-yl-computing-and-software-solutions/"><u>Optimizing Performance: Key Hardware Improvements to Boost Your Computer's Speed - Expert Advice From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-sony-xperia-10-v-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Sony Xperia 10 V Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/prevent-hacker-attacks-comprehensive-guide-by-yl-software-for-computer-safety/"><u>Prevent Hacker Attacks: Comprehensive Guide by YL Software for Computer Safety</u></a></li>
+<li><a href="https://fox-within.techidaily.com/resolving-visibility-issues-how-to-make-your-external-hdd-appear-on-windows-file-explorer-expert-tips-from-yl-computing/"><u>Resolving Visibility Issues: How to Make Your External HDD Appear on Windows File Explorer - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/igital-duel-how-jake-paul-triumphed-on-youtube-for-2024/"><u>The Digital Duel How Jake Paul Triumphed on YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-f5-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco F5 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

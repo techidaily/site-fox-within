@@ -1,7 +1,7 @@
 ---
 title: Guide to Retrieving Files From an Outdated Computer Storage Unit
-date: 2025-02-14T17:54:16.228Z
-updated: 2025-02-18T18:01:32.843Z
+date: 2025-03-02T21:18:36.792Z
+updated: 2025-03-06T16:40:44.241Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70c0aa03967d621fbfa5bc6d6.jpg
@@ -27,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -65,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -80,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -101,10 +89,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -121,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -168,10 +144,6 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -198,19 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-amplifying-your-role-play-roblox-closeup-mastery-for-2024/"><u>[New] Amplifying Your Role-Play Roblox Closeup Mastery for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-screencasting-harness-the-power-of-visual-storytelling-for-2024/"><u>[New] Cutting Edge Screencasting Harness the Power of Visual Storytelling for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-advances-in-syma-x8c-flight-autonomy/"><u>2024 Approved Advances in Syma X8C Flight Autonomy</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728481550086-onedrive/"><u>搜索失去的 OneDrive 文件: 四大解决方案用于取回删除丢失信息</u></a></li>
-<li><a href="https://fox-within.techidaily.com/come-facilmente-trasferire-i-file-tra-le-cartelle-di-windows-versioni-da-11-a-7/"><u>Come Facilmente Trasferire I File Tra Le Cartelle Di Windows - Versioni Da 11 a 7</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/enhancing-engagement-best-practices-for-b-roll-integration/"><u>Enhancing Engagement Best Practices for B Roll Integration</u></a></li>
-<li><a href="https://fox-within.techidaily.com/expert-tips-on-how-to-restore-lost-data-from-your-systemn-temp-folder/"><u>Expert Tips on How to Restore Lost Data From Your System'n Temp Folder</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo S17 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-x7b-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor X7b Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/intuitive-podcast-beginnings-charismatic-hooks/"><u>Intuitive Podcast Beginnings Charismatic Hooks</u></a></li>
-<li><a href="https://fox-within.techidaily.com/master-the-art-of-data-recovery-top-4-techniques-for-retrieving-lost-documents-from-any-version-of-windows/"><u>Master the Art of Data Recovery: Top 4 Techniques for Retrieving Lost Documents From Any Version of Windows</u></a></li>
-<li><a href="https://fox-within.techidaily.com/samsung-data-transfer-how-to-fix-source-disk-changes-that-cant-be-modified/"><u>Samsung Data Transfer: How to Fix Source Disk Changes That Can't Be Modified</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-for-migrating-data-from-previous-device-to-your-latest-iphone-13-pro-maxmini-model/"><u>Step-by-Step Tutorial for Migrating Data From Previous Device to Your Latest iPhone 13 Pro (Max)/Mini Model</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tutorial-guide-to-fade-out-music-in-premiere-pro/"><u>Tutorial Guide To Fade Out Music In Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-efficient-consumption-of-facebook-live-events-and-videos-for-2024/"><u>[New] Efficient Consumption of Facebook Live Events & Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-transitioning-from-smartphone-to-watching-fb-videos-on-appletv-for-2024/"><u>[New] Transitioning From Smartphone to Watching FB Videos on AppleTV for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unlimited-access-to-creative-mcb-resources/"><u>[Updated] In 2024, Unlimited Access to Creative MCB Resources</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-new-frontiers-a-guide-to-metaverse-promotion/"><u>[Updated] Navigating New Frontiers A Guide to Metaverse Promotion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-checklist-for-your-xbox-one-zooming-journey/"><u>2024 Approved The Ultimate Checklist for Your Xbox One Zooming Journey</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-video-editing-power-filmora-for-youtube-trailers/"><u>2024 Approved Video Editing Power Filmora for YouTube Trailers</u></a></li>
+<li><a href="https://fox-within.techidaily.com/4-innovative-methods-to-create-formatted-usb-drives-complete-guide/"><u>4 Innovative Methods to Create Formatted USB Drives - Complete Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728473126999-windows-11/"><u>三星Windows 11数据转移方法：全面下载与使用手册</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-affordable-houses-in-a-box-options-for-under-50k-a-guide-to-economical-prefab-housing-the-verge/"><u>Discover the Best Affordable 'Houses in a Box' Options for Under $50K: A Guide to Economical Prefab Housing | The Verge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-official-nvidia-geforce-rtx-3070-ti-drivers-compatible-with-windows-1087/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://fox-within.techidaily.com/securely-deleting-your-hard-drive-a-guide-to-the-gutmann-method-of-data-wiping/"><u>Securely Deleting Your Hard Drive: A Guide to the Gutmann Method of Data Wiping</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-guide-resolving-connection-issues-between-airpods-pro-and-iphone-x-series/"><u>Troubleshooting Guide: Resolving Connection Issues Between AirPods Pro and iPhone X Series</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211447815-9798330379590-una-nueva-forma-de-existir/"><u>Una Nueva Forma de Existir | Free Book</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-the-not-found-error-navigating-http-status-codes/"><u>Understanding the 'Not Found' Error: Navigating HTTP Status Codes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/wie-sie-datentrageruberprufungen-bei-jedem-systemstart-unter-windows-11-stoppen-und-reparieren/"><u>Wie Sie Datenträgerüberprüfungen Bei Jedem Systemstart Unter Windows 11 Stoppen Und Reparieren</u></a></li>
+<li><a href="https://fox-within.techidaily.com/zero-cost-methods-for-moving-your-whatsapp-messages-and-media/"><u>Zero-Cost Methods for Moving Your WhatsApp Messages and Media</u></a></li>
 </ul></div>
 

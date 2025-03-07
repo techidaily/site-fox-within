@@ -1,7 +1,7 @@
 ---
 title: "Stop Auto-Deletion of Documents in SharePoint: Essential Tips and File Recovery Strategies"
-date: 2025-02-13T22:17:22.390Z
-updated: 2025-02-18T19:18:11.605Z
+date: 2025-02-27T21:22:29.967Z
+updated: 2025-03-07T01:24:37.714Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db9f5a34232b56c8f050ef2ce.jpg
@@ -52,10 +52,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1\. Recover files from ransomware with data recovery software
 
 Usually, ransomware removes the original data after the intrusion. The encrypted files it creates are not the original files, but copies. Therefore, with the help of professional data recovery software, you can easily retrieve your original files deleted by ransomware.
@@ -75,10 +71,6 @@ Secure Download
 Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If your files are lost from an external hard drive like a USB drive, please plug it into your PC in advance.
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2\. Locate and preview your lost/deleted files**
 
@@ -106,17 +98,9 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -126,10 +110,6 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
@@ -137,14 +117,6 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -156,10 +128,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
@@ -167,10 +135,6 @@ Step 2\. Click on **System Restore** \> **Next**.
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
@@ -202,10 +166,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -256,21 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enhancing-your-scanners-efficiency-a-guide-on-updating-drivers-tech-solutions-by-yl/"><u>Enhancing Your Scanner's Efficiency: A Guide on Updating Drivers - Tech Solutions by YL</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-activating-autoplay-feature-on-windows-11-tips-from-yl-computing/"><u>Guide: Activating AutoPlay Feature on Windows 11 - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/hd-autumn-scenery-backgrounds-and-decorative-wallpapers-high-resolution-image-collections-by-yl-computing/"><u>HD Autumn Scenery Backgrounds & Decorative Wallpapers - High-Resolution Image Collections by YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-does-language-variation-work-with-windows-clock-feature-expert-insights-from-yl-software-solutions/"><u>How Does Language Variation Work With Windows Clock Feature? Expert Insights From YL Software Solutions</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-troubleshoot-a-scanner-that-cant-recognize-your-files-tips-from-yl-computing/"><u>How to Troubleshoot a Scanner That Can't Recognize Your Files: Tips From YL Computing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-audio-selection-tips-for-impactful-unboxing-clips/"><u>In 2024, Audio Selection Tips for Impactful Unboxing Clips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-moto-g23-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Moto G23 Device</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-translating-trust-the-importance-of-client-endorsements/"><u>In 2024, Translating Trust The Importance of Client Endorsements</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-display-configurations-tailoring-screen-resolution-and-scaling-on-windows-pcs/"><u>Mastering Display Configurations: Tailoring Screen Resolution and Scaling on Windows PCs</u></a></li>
-<li><a href="https://fox-within.techidaily.com/new-release-try-the-updated-karaoki-software-version-08abetes-for-free/"><u>New Release! Try the Updated Karaoki Software Version 0.8.abetes for FREE!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oppo-reno-8t-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Oppo Reno 8T 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pro-video-production-mastering-the-coordination-between-windows-photos-and-storyremix/"><u>Pro Video Production Mastering the Coordination Between Windows, Photos, and StoryRemix</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-55-unbeatable-labor-day-2024-television-specials-exclusive-offers-you-cant-miss-zdnet/"><u>Top 55 Unbeatable Labor Day 2024 Television Specials - Exclusive Offers You Can't Miss (ZDNet)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transitioning-to-fresh-tech-maximizing-value-from-your-previous-smartphone/"><u>Transitioning To Fresh Tech: Maximizing Value From Your Previous Smartphone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgraded-performance-ahead-steps-to-amplify-virtual-memory-in-windows-11/"><u>Upgraded Performance Ahead: Steps to Amplify Virtual Memory in Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-examining-the-effectiveness-of-iscreen-recording-for-2024/"><u>[Updated] Examining the Effectiveness of iScreen Recording for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ai-infused-title-engine-your-ultimate-video-marketing-tool-for-2024/"><u>AI-Infused Title Engine Your Ultimate Video Marketing Tool for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-win7-audio-experience-via-upgraded-idt-drivers/"><u>Enhance Win7 Audio Experience via Upgraded IDT Drivers</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exclusive-features-unveiled-discover-how-advanced-functions-can-transform-your-world/"><u>Exclusive Features Unveiled: Discover How Advanced Functions Can Transform Your World</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/expert-guide-implementing-time-loops-in-obs-for-2024/"><u>Expert Guide Implementing Time Loops in OBS for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-crafting-a-signature-look-starting-with-self-reflection/"><u>In 2024, Crafting a Signature Look Starting with Self-Reflection</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/innovative-dialogue-formatting-strategies-in-writing/"><u>Innovative Dialogue Formatting Strategies in Writing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/malwarefox-insights-expert-tips-and-advice-on-cybersecurity/"><u>MalwareFox Insights: Expert Tips and Advice on Cybersecurity</u></a></li>
+<li><a href="https://fox-within.techidaily.com/malwarefox-unveiled-a-comprehensive-guide-on-spyware-and-malware-distinctions-for-optimal-protection/"><u>MalwareFox Unveiled: A Comprehensive Guide on Spyware and Malware Distinctions for Optimal Protection</u></a></li>
+<li><a href="https://fox-within.techidaily.com/revise-language-conversation-interface-a-comprehensive-guide/"><u>Revise Language Conversation Interface: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-inserting-numbered-pages-into-your-pdf-documents/"><u>Step-by-Step Tutorial: Inserting Numbered Pages Into Your PDF Documents</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-ranking-artificial-intelligence-tts-software-solutions/"><u>Top-Ranking Artificial Intelligence TTS Software Solutions</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-rated-face-morphing-applications-and-websites-achieve-flawless-altered-selfies/"><u>Top-Rated Face Morphing Applications & Websites: Achieve Flawless Altered Selfies</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-google-wireless-nest-doorbell-for-home-security-a-detailed-assessment/"><u>Unboxing and Testing the Google Wireless Nest Doorbell for Home Security: A Detailed Assessment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unboxing-review-the-surprising-appeal-of-apples-latest-17-earpods-with-usb-charging-my-spontaneous-prime-day-sale-success-story/"><u>Unboxing Review: The Surprising Appeal of Apple's Latest $17 EarPods with USB Charging - My Spontaneous Prime Day Sale Success Story!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-the-essential-criteria-in-the-requirements-tab/"><u>Understanding the Essential Criteria in the Requirements Tab</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/viral-vibes-top-10-playlists-for-up-and-coming-video-shorts-for-2024/"><u>Viral Vibes Top 10 Playlists for Up-and-Coming Video Shorts for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone XR? | Dr.fone</u></a></li>
 </ul></div>
 

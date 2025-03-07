@@ -1,7 +1,7 @@
 ---
 title: "Stealthy Multifunctional Copier: Seamless File Duplication From PC to USB without Fuss"
-date: 2024-11-24T18:40:05.915Z
-updated: 2024-11-30T18:20:21.142Z
+date: 2025-03-03T08:02:23.572Z
+updated: 2025-03-07T10:18:27.953Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8154e71b42e7a2317f1338de.png
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -58,27 +50,15 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Image Your Computer with Norton Ghost
 
@@ -87,10 +67,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 2\. On the Home screen, you can create a backup task by clicking **Define Backup Wizard** or **Run or Manage Backups**. Here we choose the latter one.
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. The **Easy Setup** screen will appear.
 
@@ -152,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -170,10 +142,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
@@ -182,10 +150,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Disk & Files
 
@@ -245,10 +209,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
@@ -298,24 +258,21 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-capturing-motion-in-4k-with-nikon-d500-for-2024/"><u>[New] Capturing Motion in 4K with Nikon D500 for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/levate-creations-get-free-high-quality-templates-today/"><u>[New] Elevate Creations - Get FREE High-Quality Templates Today!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-elitepixel-recorder-winos-series-for-2024/"><u>[New] ElitePixel Recorder WinOS Series for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-exploring-slomos-full-potential-a-compre-written-context-for-2024/"><u>[New] Exploring SloMo's Full Potential A Compre Written Context for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-introduction-to-basic-animation-in-graphic-design/"><u>[New] Introduction to Basic Animation in Graphic Design</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-download-verbatim-excerpt/"><u>[Updated] Download Verbatim Excerpt</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dmm/"><u>「DMM英語レッスンの効果的な記録方法：録画と録音ガイド」</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-is-your-iphone-messaging-data-saved-on-icloud-cloud-storage/"><u>1. Is Your iPhone Messaging Data Saved on iCloud Cloud Storage?</u></a></li>
-<li><a href="https://fox-within.techidaily.com/5-efektif-teknik-menemukan-dan-mendapatkan-file-yang-hapus-setelah-resetrestart-windows-11/"><u>5 Efektif Teknik Menemukan Dan Mendapatkan File Yang Hapus Setelah Reset/Restart Windows 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/cracking-the-code-to-authenticity-in-online-profiles/"><u>Cracking the Code to Authenticity in Online Profiles</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728481594402-error-webpage-unavailable-understanding-the-404-not-found-message/"><u>Error: Webpage Unavailable – Understanding the 404 Not Found Message</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-configurare-il-backup-automatico-su-windows-10/"><u>How to Configurare Il Backup Automatico Su Windows 10</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-recover-lost-iphone-note-data-from-your-icloud-backup/"><u>How to Recover Lost iPhone Note Data From Your iCloud Backup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-it-possible-to-sideload-third-party-applications-onto-your-iphone-without-unlocking-the-device/"><u>Is It Possible to Sideload Third-Party Applications Onto Your iPhone Without Unlocking the Device?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-cyberpunk-2ers-cpu-overload-tips-and-solutions/"><u>Overcoming Cyberpunk 2Er's CPU Overload: Tips and Solutions</u></a></li>
-<li><a href="https://fox-within.techidaily.com/recupera-sus-archivos-de-escritorios-perdidos-en-windows-10-con-estas-7-tecnicas-utiles/"><u>Recupera Sus Archivos De Escritorios Perdidos en Windows 10 Con Estas 7 Técnicas Útiles</u></a></li>
-<li><a href="https://fox-within.techidaily.com/resoudre-les-problemes-de-transfert-de-fichier-sur-windows-11-guide-complet-aux-4-meilleures-methodes-dassistance-technique/"><u>Resoudre Les Problèmes De Transfert De Fichier Sur Windows 11 : Guide Complet Aux 4 Meilleures Méthodes D'assistance Technique</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-tips-resolving-no-photos-error-in-iphone-gallery/"><u>Troubleshooting Tips: Resolving 'No Photos' Error in iPhone Gallery</u></a></li>
-<li><a href="https://fox-within.techidaily.com/wie-lasst-man-daten-aus-einer-nicht-bootfahigen-festplatte-wiederherstellen/"><u>Wie Lässt Man Daten Aus Einer Nicht Bootfähigen Festplatte Wiederherstellen?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-metaviews-analyzing-6-in-depth-metaverse-scenarios/"><u>[New] 2024 Approved Metaviews Analyzing 6 In-Depth Metaverse Scenarios</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-laying-down-the-law-vegas-pro-21-edition-reviewed/"><u>[New] Laying Down the Law VEGAS Pro '21 Edition Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-novices-path-to-effective-telegram-advertising/"><u>[New] The Novice’s Path to Effective Telegram Advertising</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-stretched-screen-issues-for-windows-11/"><u>[Solved] Stretched Screen Issues for Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-comparative-review-smartphone-usage-of-the-leading-video-apps/"><u>2024 Approved Comparative Review Smartphone Usage of the Leading Video Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-elgato-software-download-process-step-by-step/"><u>Effortless Elgato Software Download Process - Step by Step</u></a></li>
+<li><a href="https://fox-within.techidaily.com/fixing-unrecognized-scanners-on-your-pc-a-step-by-step-guide-tips-from-yl-computing/"><u>Fixing Unrecognized Scanners on Your PC: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-g2-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo G2 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-expertise-in-quick-creation-professional-valorant-thumbnail-art/"><u>In 2024, Expertise in Quick Creation Professional Valorant Thumbnail Art</u></a></li>
+<li><a href="https://fox-within.techidaily.com/revamp-your-scan-experience-easy-driver-update-instructions-for-windows-users-by-yl-software/"><u>Revamp Your Scan Experience: Easy Driver Update Instructions for Windows Users by YL Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/setting-up-your-new-printer-in-windows-a-step-by-step-guide-tips-from-yl-software/"><u>Setting Up Your New Printer in Windows: A Step-by-Step Guide - Tips From YL Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/solving-scanning-problems-how-to-ensure-your-device-connects-successfully-with-your-pc-expert-advice-from-yl-software/"><u>Solving Scanning Problems: How to Ensure Your Device Connects Successfully with Your PC - Expert Advice From YL Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-setting-up-automatic-windows-11-updates-with-ease-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Automatic Windows 11 Updates with Ease - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/tailor-made-mouse-configuration-using-yl-software-the-ultimate-how-to/"><u>Tailor-Made Mouse Configuration Using YL Software - The Ultimate How-To</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/yl-software-tips-correcting-issues-with-damaged-ram-units/"><u>YL Software Tips: Correcting Issues with Damaged RAM Units</u></a></li>
 </ul></div>
 

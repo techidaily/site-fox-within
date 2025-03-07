@@ -1,7 +1,7 @@
 ---
 title: Find and Restore Deleted Items Post-Windows 11 Update - 5 Effective Techniques
-date: 2025-02-14T17:20:58.461Z
-updated: 2025-02-18T19:06:54.536Z
+date: 2025-03-03T10:59:58.753Z
+updated: 2025-03-06T17:40:16.634Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a92873ff57d3d957484d8eacf74.jpg
@@ -28,10 +28,6 @@ By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table of Contents** 
 
 1. [Is it possible to recover data from ransomware?](https://tools.techidaily.com/ubackup/products/)
@@ -41,10 +37,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    3. [Method 3\. Get back files from ransomware using File History](https://tools.techidaily.com/ubackup/products/)  
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it possible to recover data from ransomware?
 
@@ -92,10 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -110,21 +98,9 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -141,14 +117,6 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -199,10 +167,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
@@ -235,10 +199,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -256,22 +216,17 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-strategies-for-high-quality-youtube-recording/"><u>[New] 2024 Approved Essential Strategies for High-Quality YouTube Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-record-cameras-and-monitors-together-efficiently/"><u>[New] 2024 Approved How to Record Cameras & Monitors Together Efficiently</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-expanding-reach-fb-live-on-broadcast-networks/"><u>[New] In 2024, Expanding Reach FB Live on Broadcast Networks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prime-free-improvement-suite-pc-and-phone-edition/"><u>[New] Prime FREE Improvement Suite PC & Phone Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-setting-up-a-flawless-stream-on-macos-with-mixer/"><u>[New] Setting Up a Flawless Stream on macOS with Mixer</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-streamline-your-gameplay-win10-screen-record-tech-for-2024/"><u>[New] Streamline Your Gameplay Win10 Screen Record Tech for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-harnessing-imovies-potential-for-youtube-broadcasting-for-2024/"><u>[Updated] Harnessing iMovie's Potential for YouTube Broadcasting for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/4-dynamic-disk-disable-solutions-easy-fixes-unveiled/"><u>4 Dynamic Disk Disable Solutions - Easy Fixes Unveiled</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1726027669081-4/"><u>最高のディスコード録音ツール4つをご紹介</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728509922508-aomei-backupper-mac/"><u>AOMEI Backupper Mac上でのスケジュールバックアップタスク設定手順</u></a></li>
-<li><a href="https://fox-within.techidaily.com/essential-troubleshooting-steps-for-windows-11-unbooting-problems-in-safe-mode/"><u>Essential Troubleshooting Steps for Windows 11 Unbooting Problems in Safe Mode</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nubia-z50s-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nubia Z50S Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mejoras-y-funciones-avanzadas-en-la-administracion-de-unidades-usb-premium-con-sistemas-operativos-windows-tecnicas-seo/"><u>Mejoras Y Funciones Avanzadas en La Administración De Unidades USB Premium Con Sistemas Operativos Windows - Técnicas SEO</u></a></li>
-<li><a href="https://fox-within.techidaily.com/solution-guide-to-unstick-your-app-downloads-on-ios-18171615/"><u>Solution Guide to Unstick Your App Downloads on iOS 18/17/16/15</u></a></li>
-<li><a href="https://fox-within.techidaily.com/successful-steps-to-cloning-drives-with-macrium-reflect-despite-size-variations/"><u>Successful Steps to Cloning Drives with Macrium Reflect Despite Size Variations</u></a></li>
-<li><a href="https://fox-within.techidaily.com/tecnicas-efetivas-de-criacao-de-imagens-de-disco-iso-com-o-utilitario-de-backup-da-aomei/"><u>Técnicas Efetivas De Criação De Imagens De Disco ISO Com O Utilitário De Backup Da AOMEI</u></a></li>
-<li><a href="https://fox-within.techidaily.com/wie-man-eine-sichere-datenspeicherung-auf-einem-formatierten-usb-stick-gewahrleistet/"><u>Wie Man Eine Sichere Datenspeicherung Auf Einem Formatierten USB-Stick Gewährleistet</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-comprehensive-studio-study-xvideo-studio-insights/"><u>[New] Comprehensive Studio Study XVideo Studio Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-path-to-personalization-adjusting-snapchat-videos-pace/"><u>[New] The Path to Personalization Adjusting Snapchat Videos' Pace</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-precision-in-pacing-time-lapse-on-ipad/"><u>[Updated] Precision in Pacing Time-Lapse on iPad</u></a></li>
+<li><a href="https://fox-within.techidaily.com/agp-versus-pci-graphics-solutions-understanding-the-differences-with-yl-software-insights/"><u>AGP versus PCI Graphics Solutions: Understanding the Differences with YL Software Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bubbly-sign-up-and-logoff-procedures-for-2024/"><u>Bubbly Sign-Up and Logoff Procedures for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-galaxy-a05s-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Galaxy A05s</u></a></li>
+<li><a href="https://fox-within.techidaily.com/download-free-tom-holland-and-zendaya-wallpaper-packs-high-quality-hd-walls-for-your-pc-yl-graphics/"><u>Download Free Tom Holland & Zendaya Wallpaper Packs - High-Quality HD Walls for Your PC | YL Graphics</u></a></li>
+<li><a href="https://fox-within.techidaily.com/high-definition-sky-themes-stunning-hd-backgrounds-and-photo-collections-by-yl-computing/"><u>High-Definition Sky Themes: Stunning HD Backgrounds & Photo Collections by YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-influential-was-chiang-kai-shek-during-chinas-civil-conflict-an-insight-by-yl-computing/"><u>How Influential Was Chiang Kai-Shek During China's Civil Conflict: An Insight by YL Computing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionary-rpg-gaming-discovering-what-makes-yakuza-like-a-dragon-unique/"><u>Revolutionary RPG Gaming: Discovering What Makes Yakuza: Like A Dragon Unique</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screensnap-it-all-high-quality-netflix-on-mac/"><u>ScreenSnap It All High-Quality Netflix on Mac</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-scanner-issues-an-in-depth-look-by-yl-computing/"><u>Top Scanner Issues: An In-Depth Look by YL Computing</u></a></li>
 </ul></div>
 

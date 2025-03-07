@@ -1,7 +1,7 @@
 ---
 title: "Guide Pratique: Comment Installer Et Utiliser Un Point De Restauration Dans Le Serveur Windows Server 2019"
-date: 2025-02-17T23:54:08.786Z
-updated: 2025-02-18T23:03:20.612Z
+date: 2025-03-03T02:20:15.394Z
+updated: 2025-03-06T22:34:00.167Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce34f31fb21e5a5f2109ae3299.jpg
@@ -24,10 +24,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -47,10 +43,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -69,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -88,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -104,10 +84,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -144,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -198,18 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-pairing-audio-with-visuals-web-forum/"><u>[New] In 2024, Pairing Audio with Visuals Web Forum</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-unlocking-the-power-of-zoom-with-your-chrome-os-device/"><u>[Updated] In 2024, Unlocking the Power of Zoom with Your Chrome OS Device</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-skyrocketing-your-tiktok-content-speed/"><u>2024 Approved Skyrocketing Your TikTok Content Speed</u></a></li>
-<li><a href="https://fox-within.techidaily.com/bitlocker-entsperren-losungen-fur-die-windows-10-decrypting-problematik/"><u>BitLocker Entsperren - Lösungen Für Die Windows 10 Decrypting Problematik</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effective-safety-strategies-for-secure-crypto-transactions-insights-from-yl-computing/"><u>Effective Safety Strategies for Secure Crypto Transactions: Insights From YL Computing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-tips-for-efficiently-using-ez-grabber/"><u>Essential Tips for Efficiently Using EZ Grabber</u></a></li>
-<li><a href="https://fox-within.techidaily.com/explorando-las-artes-del-renovar-con-proyectos-creativos-de-restauracion/"><u>Explorando Las Artes Del Renovar Con Proyectos Creativos De Restauración</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-vsphere-backups-proven-solutions-for-secure-vmware-environment-management/"><u>Mastering vSphere Backups: Proven Solutions for Secure VMware Environment Management</u></a></li>
-<li><a href="https://fox-within.techidaily.com/professionelle-fehlerbehebung-wiederherstellung-verlorener-usb-informationen-auf-windows-11-durch-myrecover-software/"><u>Professionelle Fehlerbehebung: Wiederherstellung Verlorener USB-Informationen Auf Windows 11 Durch MyRecover Software</u></a></li>
-<li><a href="https://fox-within.techidaily.com/question/"><u>Question</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-securing-a-technology-position-with-microsoft-insights-from-zdnet/"><u>Strategies for Securing a Technology Position with Microsoft - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-within.techidaily.com/strumenti-di-riproduzione-perfetti-il-migliore-per-windows-mail-in-esilio-sul-tuo-computer-windows/"><u>Strumenti Di Riproduzione Perfetti: Il Migliore per Windows Mail in Esilio Sul Tuo Computer Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-play-7t-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor Play 7T</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ranked-alternatives-to-sporting-events-in-firstrow-views/"><u>[Updated] In 2024, Ranked Alternatives to Sporting Events in Firstrow Views</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unleash-the-power-of-online-livestreams-with-us-today/"><u>[Updated] Unleash the Power of Online Livestreams with Us Today</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-upgrading-laptop-and-mobile-conferencing-with-background-changes/"><u>[Updated] Upgrading Laptop & Mobile Conferencing With Background Changes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-watchful-eye-discovering-twitters-hd-features/"><u>[Updated] Watchful Eye Discovering Twitter’s HD Features</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/cutting-edge-methods-for-recording-presentations/"><u>Cutting Edge Methods for Recording Presentations</u></a></li>
+<li><a href="https://fox-within.techidaily.com/discovering-history-unveiling-the-identity-of-chinas-initial-ruler-insights-from-yl-computing/"><u>Discovering History: Unveiling the Identity of China's Initial Ruler - Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-the-new-era-asrocks-expanded-selection-of-motherboards-now-with-enhanced-arrow-lake-compatibility-and-a-reinvented-taichi-edition-utilizing-camm89/"><u>Discovering the New Era: ASROCK's Expanded Selection of Motherboards, Now with Enhanced Arrow Lake Compatibility and a Reinvented Taichi Edition Utilizing CAMM2 Memory Technology</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-guide-to-t5s-action-footage/"><u>In 2024, The Ultimate Guide to T5's Action Footage</u></a></li>
+<li><a href="https://fox-within.techidaily.com/is-it-necessary-to-pair-third-party-antivirus-with-windows-defender-insights-by-yl-computing/"><u>Is It Necessary to Pair Third-Party Antivirus with Windows Defender? - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-within.techidaily.com/mastering-the-art-of-shared-spotlight-ingenious-techniques-for-co-dj-performances/"><u>Mastering the Art of Shared Spotlight: Ingenious Techniques for Co-DJ Performances</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-joint-venture-with-pearson-redefines-buttons/"><u>Mondly's Joint Venture with Pearson Redefines Buttons</u></a></li>
+<li><a href="https://fox-within.techidaily.com/navigating-windows-control-panel-configuration-a-step-by-step-guide-by-yl-computing/"><u>Navigating Windows Control Panel Configuration - A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/no-jailbreak-method-for-adding-non-apple-applications-to-your-iphone-explore-sideloading-options/"><u>No-Jailbreak Method for Adding Non-Apple Applications to Your iPhone - Explore Sideloading Options</u></a></li>
+<li><a href="https://fox-within.techidaily.com/revamp-audio-experience-a-how-to-for-fresh-sound-card-driver-installation-in-windows-by-yl-software/"><u>Revamp Audio Experience: A How-To for Fresh Sound Card Driver Installation in Windows by YL Software</u></a></li>
+<li><a href="https://fox-within.techidaily.com/reviving-your-cracked-internal-ssdhard-drive-tips-and-tricks-by-yl-software-experts/"><u>Reviving Your Cracked Internal SSD/Hard Drive: Tips & Tricks by YL Software Experts</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-steps-how-to-fix-a-non-responsive-new-printer-expert-advice-from-yl-computings-tech-team/"><u>Troubleshooting Steps: How to Fix a Non-Responsive New Printer - Expert Advice From YL Computing's Tech Team</u></a></li>
+<li><a href="https://fox-within.techidaily.com/vdj-softwares-latest-update-dex-3751-maintenance-release-now-ready-for-djing-enthusiasts/"><u>VDJ Software's Latest Update: DEX 3.7.5.1 Maintenance Release Now Ready for DJing Enthusiasts!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Effiziente Methoden Zum Sicherung Von Daten Von Einer SD-Karte Auf Google Drive
-date: 2025-02-16T17:27:10.914Z
-updated: 2025-02-18T19:19:35.810Z
+date: 2025-03-05T07:24:33.954Z
+updated: 2025-03-07T10:39:05.815Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35efcd7b7e4395e6722afaacb2.jpg
@@ -38,10 +38,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ist es sicher, den Papierkorb zu löschen?
 
 Kann ich den Ordner „Papierkorb“ von meiner D-Festplatte löschen, da er 9 GB Speicherplatz belegt? Wenn ich ihn öffne, ist nichts darin enthalten. Und es gibt einen anderen Ordner mit demselben Namen auf meiner C-Festplatte, der ebenfalls Platz beansprucht. Ist es also sicher, den Papierkorb zu löschen?
@@ -70,17 +66,9 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
@@ -97,10 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -122,17 +106,9 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
@@ -169,15 +145,7 @@ Sicherer Download
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -214,10 +182,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -268,19 +232,17 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-expertise-for-selective-zooming-in-online-conferencing-google-meet/"><u>[New] Expertise for Selective Zooming in Online Conferencing (Google Meet)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-interactive-cosmos-explored-metaverse-versus-omniverse-discussed/"><u>[Updated] In 2024, Interactive Cosmos Explored Metaverse Versus Omniverse Discussed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-capture-perfection-with-canons-paired-lut-gifts/"><u>2024 Approved Capture Perfection with Canon's Paired LUT Gifts</u></a></li>
-<li><a href="https://win-news.techidaily.com/granting-file-access-8-effective-methods-when-you-dont-currently-have-permission/"><u>Granting File Access: 8 Effective Methods When 'You Don't Currently Have Permission'</u></a></li>
-<li><a href="https://fox-within.techidaily.com/live-streaming-with-a-new-blue-backdrop-guide-for-smartphones/"><u>Live Streaming with a New Blue Backdrop - Guide for Smartphones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/logiciel-officialise-pour-la-conversion-haute-definition-des-fichiers-videos-sur-mac-convertisseur-video-hd-expert/"><u>Logiciel Officialisé Pour La Conversion Haute Définition Des Fichiers Vidéos Sur Mac - Convertisseur Video HD Expert:</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/navigating-the-search-for-master-video-artists/"><u>Navigating the Search for Master Video Artists</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pairing-made-easy-a-step-by-step-tutorial-for-connecting-your-chromecast-remote/"><u>Pairing Made Easy: A Step-by-Step Tutorial for Connecting Your Chromecast Remote</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prioritizing-elements-selecting-chatgpt-as-a-mental-health-enhancer/"><u>Prioritizing Elements: Selecting ChatGPT as a Mental Health Enhancer</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/resolving-windows-driver-problems-a-comprehensive-guide-by-yl-computing/"><u>Resolving Windows Driver Problems: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/revive-your-deleted-pics-expert-image-recovery-for-memory-card-users/"><u>Revive Your Deleted Pics: Expert Image Recovery for Memory Card Users</u></a></li>
-<li><a href="https://fox-within.techidaily.com/simple-tutorial-attaching-captured-images-to-your-monitor-effortlessly/"><u>Simple Tutorial: Attaching Captured Images To Your Monitor Effortlessly</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-removing-watermarks-from-your-pdf-documents/"><u>Step-by-Step Guide: Removing Watermarks From Your PDF Documents</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-the-inner-workings-of-antivirus-programs-the-science-behind-virus-detection-and-defense-tactics/"><u>Understanding the Inner Workings of Antivirus Programs: The Science Behind Virus Detection and Defense Tactics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-sites-for-fetching-video-intro-files-for-2024/"><u>[New] Essential Sites for Fetching Video Intro Files for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-steps-to-restore-accidentally-erased-photoshop-documents/"><u>1. Steps to Restore Accidentally Erased Photoshop Documents</u></a></li>
+<li><a href="https://fox-within.techidaily.com/5pww5o2u5lplusd5a2y5oqa5ben77ya57kplus56gu5qplusu6l6d5ash5lu95zkm5ywl6zqg5lml6ze055qe5beu5byc/"><u>数据保存技巧：精确比较备份和克隆之间的差异</u></a></li>
+<li><a href="https://fox-within.techidaily.com/automatische-ordner-syncing-zu-netzlaufwerken-in-windows-nativ-dargestellt-losungen-fur-anfanger-und-fortgeschrittene/"><u>Automatische Ordner-Syncing Zu Netzlaufwerken in Windows Nativ Dargestellt - Lösungen Für Anfänger Und Fortgeschrittene</u></a></li>
+<li><a href="https://fox-within.techidaily.com/comment-recuperer-avec-succes-des-fichiers-cad-autocad-desormais-inaccessibles-ou-endommages/"><u>Comment Récupérer Avec Succès Des Fichiers CAD Autocad Désormais Inaccessibles Ou Endommagés ?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/comprehensive-tutorial-on-relocating-a-dropbox-folder-to-a-new-drive-with-ease-and-precision/"><u>Comprehensive Tutorial on Relocating a Dropbox Folder to a New Drive with Ease and Precision</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-disqus-poster-pixel-arrangement/"><u>In 2024, Disqus Poster Pixel Arrangement</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unlocking-audacitys-full-potential-for-professional-audio/"><u>In 2024, Unlocking Audacity's Full Potential for Professional Audio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862755273-samsungs-high-res-5k-ips-screen-with-integrated-cu4k-camera-hits-899-save-44-on-pixel-dense-viewfinity-s9/"><u>Samsung's High-Res 5K IPS Screen with Integrated Cu4k Camera Hits $899 – Save 44% on Pixel-Dense ViewFinity S9</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-initialization-problem-of-windows-11-configurations-step-by-step-tips/"><u>Solving the Initialization Problem of Windows 11 Configurations: Step-by-Step Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/speedy-surfing-with-netgear-nighthawk-rax120-a-comprehensive-review/"><u>Speedy Surfing with Netgear Nighthawk RAX120: A Comprehensive Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-serenity-of-silence-premier-asmr-talents-for-2024/"><u>The Serenity of Silence Premier ASMR Talents for 2024</u></a></li>
 </ul></div>
 

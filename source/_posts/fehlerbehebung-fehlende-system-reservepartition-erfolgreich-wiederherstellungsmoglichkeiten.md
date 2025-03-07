@@ -1,7 +1,7 @@
 ---
 title: "Fehlerbehebung: Fehlende System-Reservepartition – Erfolgreich Wiederherstellungsmöglichkeiten"
-date: 2025-02-16T19:58:19.775Z
-updated: 2025-02-18T19:20:35.369Z
+date: 2025-02-28T10:32:18.572Z
+updated: 2025-03-06T22:38:02.247Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571566316abe24ad6c80cbdaa7.jpeg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -72,10 +68,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -83,15 +75,7 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -105,10 +89,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. After the scanning, select the file you need and click **Recover Files...**
 
 **Recover My Computer:**
@@ -119,10 +99,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clone Disk with Norton Ghost
 
 1\. Connect your new hard drive to your computer.
@@ -130,10 +106,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -166,17 +138,9 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
@@ -269,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -298,24 +258,17 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-wirecast-techniques-for-captivating-facebook-viewers/"><u>[New] In 2024, Wirecast Techniques for Captivating Facebook Viewers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-labyrinth-luminaries-top-10-roguelike-highlights-for-2024/"><u>[New] Labyrinth Luminaries Top 10 Roguelike Highlights for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-ig-videos-building-a-powerful-focused-marketing-plan-for-2024/"><u>[Updated] Mastering IG Videos Building a Powerful, Focused Marketing Plan for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/discover-windows-11-iot-enterprise-key-capabilities-free-download-and-comprehensive-guide/"><u>Discover Windows 11 IoT Enterprise: Key Capabilities, Free Download & Comprehensive Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/erreur-de-sauvegarde-volume-specifie-introuvable-pour-la-protection-des-donnees/"><u>Erreur De Sauvegarde : Volume Spécifié Introuvable Pour La Protection Des Données</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guida-passo-passo-per-il-recupero-dellinterruptore-di-avvio-gpt-in-sistema-efi-su-vari-versioni-di-windows/"><u>Guida Passo-Passo per Il Recupero Dell'Interruptore Di Avvio GPT in Sistema EFI Su Vari Versioni Di Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-master-video-capture-using-adobe-presenter-for-2024/"><u>How to Master Video Capture Using Adobe Presenter for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-stream-on-youtube-and-twitch-with-obs/"><u>How to Stream on YouTube & Twitch with OBS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y55s-5g-2023-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y55s 5G (2023) Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/pcwindows-nw11/"><u>PCがWindows Nw11で遅くなったらどうする？</u></a></li>
-<li><a href="https://fox-within.techidaily.com/recupere-sus-archivos-de-juegos-eliminados-en-su-pc-con-estas-4-estrategias-efectivas/"><u>Recupere Sus Archivos De Juegos Eliminados en Su PC Con Estas 4 Estrategias Efectivas</u></a></li>
-<li><a href="https://fox-within.techidaily.com/resipihen-komprehensif-proses-mudah-menuju-ulangan-data-hdd-perusahaan-toshiba/"><u>Resipihen Komprehensif: Proses Mudah Menuju Ulangan Data Hdd Perusahaan Toshiba</u></a></li>
-<li><a href="https://fox-within.techidaily.com/resolving-a-dialog-box-is-open-problem-on-your-windows-computer/"><u>Resolving 'A Dialog Box Is Open' Problem on Your Windows Computer</u></a></li>
-<li><a href="https://fox-within.techidaily.com/sicherung-ihrer-wichtigsten-ordner-die-besten-methoden-mit-dropbox-erklart-auf-deutsch/"><u>Sicherung Ihrer Wichtigsten Ordner - Die Besten Methoden Mit Dropbox Erklärt Auf Deutsch</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-crafting-your-own-custom-power-off-icon-on-windows-10/"><u>Step-by-Step Guide: Crafting Your Own Custom Power Off Icon on Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-reno-11-pro-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo Reno 11 Pro 5G Location | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/windows-os11-10-8/"><u>Windows OS（11, 10, 8）における完了しないシステム復元方法</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-achieving-expert-colors-for-images/"><u>[Updated] Step-by-Step Achieving Expert Colors for Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-snap-it-all-navigating-the-world-of-free-tiktok-bgs/"><u>2024 Approved Snap It All Navigating the World of Free TikTok BGs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/6-effective-fixes-for-stability-issues-in-dreamlight-valley-pc-version/"><u>6 Effective Fixes for Stability Issues in Dreamlight Valley PC Version</u></a></li>
+<li><a href="https://fox-within.techidaily.com/come-ripristinare-i-contatti-cancellati-su-iphone-13-e-iphone-14/"><u>Come Ripristinare I Contatti Cancellati Su iPhone 13 E iPhone 14</u></a></li>
+<li><a href="https://fox-within.techidaily.com/comment-migrer-facilement-votre-disque-interne-de-laptop-vers-une-ssd-methode-etape-par-etape-pour-loptimisation-dadvent/"><u>Comment Migrer Facilement Votre Disque Interne De Laptop Vers Une SSD: Méthode Étape Par Étape Pour L'optimisation D'Advent</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easily-shift-songs-from-ipod-to-desktop-with-these-4-free-techniques/"><u>Easily Shift Songs From iPod to Desktop with These 4 Free Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-fixing-unsupported-hardware-warnings-in-idt-system-compatibility-tips-and-tricks/"><u>Guide to Fixing 'Unsupported Hardware' Warnings in IDT System – Compatibility Tips & Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-behind-the-scenes-changing-video-pace-in-social-media/"><u>In 2024, Behind the Scenes Changing Video Pace in Social Media</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-y100a-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo Y100A to Another | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-video-game-classics-on-a-budget-a-pi-story/"><u>Reviving Video Game Classics on a Budget - A Pi Story</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-livekernelevent-error-117/"><u>Troubleshooting Techniques for LiveKernelEvent Error 117</u></a></li>
+<li><a href="https://fox-within.techidaily.com/windows-10-overzetten-van-traditionele-hdd-na-ssd-eenvoudige-oplossingen-zonder-neveninstallatie/"><u>Windows 10 Overzetten Van Traditionele HDD Na SSD: Eenvoudige Oplossingen Zonder Neveninstallatie</u></a></li>
 </ul></div>
 
